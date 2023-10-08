@@ -22,10 +22,10 @@ title: Stefano Anelli
 email: stefano.anelli@gmail.com
 description: >-
   About me.
-baseurl: "/sanelli" 
+baseurl: "sanelli" 
 url: "https://sanelli.github.io"
 github_username:  sanelli
-domain: my-sanelli.github.io 
+domain: sanelli.github.io 
 
 # Build settings
 theme: minima
