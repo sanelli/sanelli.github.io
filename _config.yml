@@ -22,8 +22,8 @@ title: Stefano Anelli
 email: stefano.anelli@gmail.com
 description: >-
   About me.
-baseurl: "sanelli" 
-url: "https://sanelli.github.io"
+baseurl: /
+url: https://sanelli.github.io
 github_username:  sanelli
 domain: sanelli.github.io 
 
