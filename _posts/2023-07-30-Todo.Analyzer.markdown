@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Comment TODO analyzer"
+date:   2023-07-30 16:21:03 +0100
+categories: projects csharp nuget
+---
+[Comment TODO Analyzer](https://github.com/sanelli/Todo.Analyzer) is a .NET analyzer for C#, it makes sure that all TODO comments in your code respect the same standards.
+
+## Options
+These option can be setup inside the `.editorconfig`:
+
+- `todo_analyzer.comment.format`
+  - Description: The format of the comment containing the TODO. 
+  - Accepted values: `github`, `jira`, `custom`
+  - Default: `github`
+  - Example: `todo_analyzer.comment.format = github`
+- `todo_analyzer.comment.format.custom.token_regex`
+    - Description: The token used to identify if the comment is a TODO when `todo_analyzer.comment.format` is `custom`.
+    - Default: `\bTODO\b`
+    - Example: `todo_analyzer.comment.format.custom.token = やるべきこと`
+    - Note: This is a regular expression.
+- `todo_analyzer.comment.format.custom.regex`
+    - Description: The regular expression used to check if the comment match the expected criteria when `todo_analyzer.comment.format` is `custom`.
+    - Default: `^ TODO .*$`
+    - Example: `todo_analyzer.comment.format.custom.regex = ^ TODO \[MY-PROJECT\] [\d+] .+\.$`
+
+## Default formats
+- `github` (Default) : `^ TODO \[\#[0-9]+\] .*\.$`
+  - Example: `TODO [#33] This needs to be handled.` 
+- `jira`: `^ TODO \[[a-zA-Z0-9]+\-[0-9]+\] .*\.$`
+    - Example: `TODO [COMMON-1234] This needs to be handled.`
