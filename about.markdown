@@ -1,18 +1,34 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Curriculum Vitae
+permalink: /curriculum-vitae/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## 💼 Experience
+TODO
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## 📚 Education
+TODO
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## 👨🏻‍💻 Projects
+### Comment TODO Analyzer
+**Description**: *.NET analyzer for C# enforcing coding standard to TODOs in comments.*<br/>
+**Tags**: `C#`, `source-generator`, `c-sharp`, `dotnet`
+- [GitHub](https://github.com/sanelli/Todo.Analyzer)
+- [NuGet](https://www.nuget.org/packages/Comment.Todo.Analyzer)
 
+### Pretty code builder 
+**Description**: *String builder wrapper that helps in generating pretty strings of code.*<br/>
+**Tags**: `C#`, `c-sharp`, `dotnet`
+- [GitHub](https://github.com/sanelli/PrettyCode.StringBuilder)
+- [NuGet](https://www.nuget.org/packages/PrettyCode.StringBuilder)
 
-[jekyll-organization]: https://github.com/jekyll
+### Fifteen
+**Description**: *[15 Puzzle](https://en.wikipedia.org/wiki/15_Puzzle) implementation in C++ and SDL.*<br/>
+**Tags**: `c++`, `cpp`, `SDL`, `game`, `puzzle`
+- [GitHub](https://github.com/sanelli/fifteen)
+
+## 🔗 Links
+- [GitHub](https://github.com/sanelli)
+- [Linkedin](http://linkedin.com/in/stefanoanelli/)
+- [NuGet](https://www.nuget.org/profiles/sanelli)
