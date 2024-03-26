@@ -17,13 +17,22 @@ permalink: /curriculum-vitae/
 <span style="padding-left:40px">*[15 Puzzle](https://en.wikipedia.org/wiki/15_Puzzle) implementation in C++ and SDL.*</span><br/>
 <span style="padding-left:40px">**Tags**: `c++`, `cpp`, `SDL`, `game`, `puzzle`</span>
 
+### <span style="padding-left:40px">🧠🖕🏻 Brainfuck interpreters</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/brainfuck)</span>
+<span style="padding-left:40px">*Suite of [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreters written in various languages (C#, c++, python, go)*</span><br/>
+<span style="padding-left:40px">**Tags**: `c++`, `cpp`, `python`, `dotnet`, `brainfuck`, `go`, `csharp`</span>
+
+### <span style="padding-left:40px">🧑🏻‍💻 Turing machine emulators</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/turing)</span>
+<span style="padding-left:40px">*Suite of [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine) emulators written in various languages (C#, c++, python, go)*</span><br/>
+<span style="padding-left:40px">**Tags**: `c++`, `cpp`, `python`, `dotnet`, `turing`, `go`, `csharp`</span>
+
 ## 💼 Experience
 ### <span style="padding-left:40px">Unity</span> <span style="font-size:0.5em">[Jun 2020 - *]</span>
 <span style="padding-left:40px">*Staff software engineer*</span> <span style="font-size:0.7em">[Jul 2023 - *]</span><br/>
 <span style="padding-left:40px">**Activities**: `software architecture`, `coding`, `define standards`, `bug-fixing`</span><br/>
 <span style="padding-left:40px">**Language**: `C#`</span><br/>
+<span style="padding-left:40px">**Product**: [Unity Asset Manager](https://unity.com/products/asset-manager)</span><br/>
 <span style="padding-left:40px">**Frameworks**: `ASP.NET`, `MongoDb`, `Elasticsearch`, `Kafka`, `Redis`, `Azure`</span><br/><br/>
-<span style="padding-left:40px">*Senior software engineer*</span> <span style="font-size:0.7em">[Jul 2023 - *]</span> <br/>
+<span style="padding-left:40px">*Senior software engineer*</span> <span style="font-size:0.7em">[Jun 2020 - Jun 2023]</span> <br/>
 <span style="padding-left:40px">**Activities**: `software architecture`, `coding`, `bug-fixing`</span><br/>
 <span style="padding-left:40px">**Languages**: `C#`, `c++`</span><br/>
 <span style="padding-left:40px">**Product**: [ArtEngine](https://unity.com/products/unity-artengine)</span><br/>
