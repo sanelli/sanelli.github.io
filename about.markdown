@@ -27,7 +27,9 @@ permalink: /curriculum-vitae/
 
 ## 💼 Experience
 ### <span style="padding-left:40px">Unity</span> <span style="font-size:0.5em">[Jun 2020 - *]</span>
-<span style="padding-left:40px">*Staff software engineer*</span> <span style="font-size:0.7em">[Jul 2023 - *]</span><br/>
+<span style="padding-left:40px">*Senior Manager, Software Engineering*</span> <span style="font-size:0.7em">[Apr 2024 - *]</span><br/>
+<span style="padding-left:40px">**Product**: [Unity Asset Manager](https://unity.com/products/asset-manager)</span><br/>
+<span style="padding-left:40px">*Staff software engineer*</span> <span style="font-size:0.7em">[Jul 2023 - Mar 2024]</span><br/>
 <span style="padding-left:40px">**Activities**: `software architecture`, `coding`, `define standards`, `bug-fixing`</span><br/>
 <span style="padding-left:40px">**Language**: `C#`</span><br/>
 <span style="padding-left:40px">**Product**: [Unity Asset Manager](https://unity.com/products/asset-manager)</span><br/>
