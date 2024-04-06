@@ -7,7 +7,7 @@ permalink: /curriculum-vitae/
 ## 👨🏻‍💻 Projects
 ### <span style="padding-left:40px">📝 Comment TODO Analyzer</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/Todo.Analyzer) [[NuGet]](https://www.nuget.org/packages/Comment.Todo.Analyzer)</span>
 <span style="padding-left:40px">*.NET analyzer for C# enforcing coding standard to TODOs in comments.*</span><br/>
-<span style="padding-left:40px">**Tags**: `C#`, `source-generator`, `c-sharp`, `dotnet`</span>
+<span style="padding-left:40px">**Tags**: `C#`, `analyzer`, `c-sharp`, `dotnet`</span>
 
 ### <span style="padding-left:40px">💬👷 Pretty code string builder</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/PrettyCode.StringBuilder) [[NuGet]](https://www.nuget.org/packages/PrettyCode.StringBuilder)</span>
 <span style="padding-left:40px">*String builder wrapper that helps in generating pretty strings of code.*</span><br/>
@@ -28,7 +28,7 @@ permalink: /curriculum-vitae/
 ## 💼 Experience
 ### <span style="padding-left:40px">Unity</span> <span style="font-size:0.5em">[Jun 2020 - *]</span>
 <span style="padding-left:40px">*Senior Manager, Software Engineering*</span> <span style="font-size:0.7em">[Apr 2024 - *]</span><br/>
-<span style="padding-left:40px">**Product**: [Unity Asset Manager](https://unity.com/products/asset-manager)</span><br/>
+<span style="padding-left:40px">**Product**: [Unity Asset Manager](https://unity.com/products/asset-manager)</span><br/><br/>
 <span style="padding-left:40px">*Staff software engineer*</span> <span style="font-size:0.7em">[Jul 2023 - Mar 2024]</span><br/>
 <span style="padding-left:40px">**Activities**: `software architecture`, `coding`, `define standards`, `bug-fixing`</span><br/>
 <span style="padding-left:40px">**Language**: `C#`</span><br/>
