@@ -9,7 +9,7 @@ permalink: /curriculum-vitae/
 <span style="padding-left:40px">*.NET analyzer for C# enforcing coding standard to TODOs in comments.*</span><br/>
 <span style="padding-left:40px">**Tags**: `C#`, `source-generator`, `c-sharp`, `dotnet`</span>
 
-### <span style="padding-left:40px">💬 Pretty code builder</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/PrettyCode.StringBuilder) [[NuGet]](https://www.nuget.org/packages/PrettyCode.StringBuilder)</span>
+### <span style="padding-left:40px">💬👷 Pretty code builder</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/PrettyCode.StringBuilder) [[NuGet]](https://www.nuget.org/packages/PrettyCode.StringBuilder)</span>
 <span style="padding-left:40px">*String builder wrapper that helps in generating pretty strings of code.*</span><br/>
 <span style="padding-left:40px">**Tags**: `C#`, `c-sharp`, `dotnet`</span>
 
@@ -17,13 +17,13 @@ permalink: /curriculum-vitae/
 <span style="padding-left:40px">*[15 Puzzle](https://en.wikipedia.org/wiki/15_Puzzle) implementation in C++ and SDL.*</span><br/>
 <span style="padding-left:40px">**Tags**: `c++`, `cpp`, `SDL`, `game`, `puzzle`</span>
 
-### <span style="padding-left:40px">🧠🖕🏻 Brainfuck interpreters</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/brainfuck)</span>
-<span style="padding-left:40px">*Suite of [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreters written in various languages (C#, c++, python, go)*</span><br/>
-<span style="padding-left:40px">**Tags**: `c++`, `cpp`, `python`, `dotnet`, `brainfuck`, `go`, `csharp`</span>
-
 ### <span style="padding-left:40px">🧑🏻‍💻 Turing machine emulators</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/turing)</span>
 <span style="padding-left:40px">*Suite of [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine) emulators written in various languages (C#, c++, python, go, pascal)*</span><br/>
 <span style="padding-left:40px">**Tags**: `c++`, `cpp`, `python`, `dotnet`, `turing`, `go`, `csharp`, `pascal`</span>
+
+### <span style="padding-left:40px">🧠🖕🏻 Brainfuck interpreters</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/brainfuck)</span>
+<span style="padding-left:40px">*Suite of [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreters written in various languages (C#, c++, python, go)*</span><br/>
+<span style="padding-left:40px">**Tags**: `c++`, `cpp`, `python`, `dotnet`, `brainfuck`, `go`, `csharp`</span>
 
 ## 💼 Experience
 ### <span style="padding-left:40px">Unity</span> <span style="font-size:0.5em">[Jun 2020 - *]</span>
