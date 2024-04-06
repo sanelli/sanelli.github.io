@@ -4,7 +4,9 @@ title:  "Turing machine interpreter"
 date:   2024-03-26 21:32:03 +0100
 categories: projects turing interpreter dotnet csharp cpp python
 ---
-Made the code for the [suite of turing machine interpreters](https://github.com/sanelli/turing) public.
+Released the [suite of turing machine interpreters](https://github.com/sanelli/turing).
 
-The [turing](https://github.com/sanelli/turing) repo contain various implementation of the turing [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine).
-It is currently implemented in the following languages: `C#`, `Python` and `c++` but I plan on adding more languages such as go, `Rust`, `Ada` and `Pascal` in the near future.
+The [turing](https://github.com/sanelli/turing) repo contain various implementation of [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine) interpreters.
+It currently showcase an implementation of the interpreter in the following languages: `C#`, `Python`, `Go` and `c++`.
+
+![turing screenshot](https://github.com/sanelli/turing/assets/2866041/045c58a0-ebc1-4e46-85f9-02d858bb99ac)

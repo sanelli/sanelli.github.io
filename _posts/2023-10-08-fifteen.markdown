@@ -4,6 +4,8 @@ title:  "Fifteen puzzle"
 date:   2023-10-08 16:21:03 +0100
 categories: projects c++ sdl
 ---
-Made the code for [fifteen](https://github.com/sanelli/fifteen) public.
+Released [fifteen](https://github.com/sanelli/fifteen).
 
 [fifteen](https://github.com/sanelli/fifteen) is a `C++/SDL` implementation of the well known [15 Puzzle](https://en.wikipedia.org/wiki/15_Puzzle).
+
+![fifteen screenshot](https://github.com/sanelli/fifteen/assets/2866041/d89d5499-20fc-44ed-aa40-639601275a6e)
