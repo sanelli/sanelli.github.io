@@ -9,7 +9,7 @@ permalink: /curriculum-vitae/
 <span style="padding-left:40px">*.NET analyzer for C# enforcing coding standard to TODOs in comments.*</span><br/>
 <span style="padding-left:40px">**Tags**: `C#`, `source-generator`, `c-sharp`, `dotnet`</span>
 
-### <span style="padding-left:40px">💬👷 Pretty code builder</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/PrettyCode.StringBuilder) [[NuGet]](https://www.nuget.org/packages/PrettyCode.StringBuilder)</span>
+### <span style="padding-left:40px">💬👷 Pretty code string builder</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/PrettyCode.StringBuilder) [[NuGet]](https://www.nuget.org/packages/PrettyCode.StringBuilder)</span>
 <span style="padding-left:40px">*String builder wrapper that helps in generating pretty strings of code.*</span><br/>
 <span style="padding-left:40px">**Tags**: `C#`, `c-sharp`, `dotnet`</span>
 
