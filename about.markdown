@@ -28,16 +28,16 @@ permalink: /curriculum-vitae/
 ## 💼 Experience
 ### <span style="padding-left:40px">Unity</span> <span style="font-size:0.5em">[Jun 2020 - *]</span>
 <span style="padding-left:80px">*Senior Manager, Software Engineering*</span> <span style="font-size:0.7em">[Apr 2024 - *]</span><br/>
-<span style="padding-left:80px">**Product**: [Unity Asset Manager](https://unity.com/products/asset-manager)</span><br/><br/>
+<span style="padding-left:80px">**Product**: <img style="width:1em" src="https://cdn.cloud.unity.com/dist/udash/app/assets/d813f41f423b810b00872d05b42e1cad.png"/> [Unity Asset Manager](https://unity.com/products/asset-manager)</span><br/><br/>
 <span style="padding-left:80px">*Staff software engineer*</span> <span style="font-size:0.7em">[Jul 2023 - Mar 2024]</span><br/>
 <span style="padding-left:80px">**Activities**: `software architecture`, `coding`, `define standards`, `bug-fixing`</span><br/>
 <span style="padding-left:80px">**Language**: `C#`</span><br/>
-<span style="padding-left:80px">**Product**: [Unity Asset Manager](https://unity.com/products/asset-manager)</span><br/>
+<span style="padding-left:80px">**Product**: <img style="width:1em" src="https://cdn.cloud.unity.com/dist/udash/app/assets/d813f41f423b810b00872d05b42e1cad.png"/> [Unity Asset Manager](https://unity.com/products/asset-manager)</span><br/>
 <span style="padding-left:80px">**Frameworks**: `ASP.NET`, `MongoDb`, `Elasticsearch`, `Kafka`, `Redis`, `Azure`</span><br/><br/>
 <span style="padding-left:80px">*Senior software engineer*</span> <span style="font-size:0.7em">[Jun 2020 - Jun 2023]</span> <br/>
 <span style="padding-left:80px">**Activities**: `software architecture`, `coding`, `bug-fixing`</span><br/>
 <span style="padding-left:80px">**Languages**: `C#`, `c++`</span><br/>
-<span style="padding-left:80px">**Product**: [ArtEngine](https://unity.com/products/unity-artengine)</span><br/>
+<span style="padding-left:80px">**Product**: <img style="width:1em" src="https://yt3.googleusercontent.com/Lg6oQVNLv_zlIn4jxhl0_xXmyAtaYJSQbsxZZ27MoTnvmV59gTPLp3eA73m5OmEw9KhikhUPLhQ=s176-c-k-c0x00ffffff-no-rj"/> [ArtEngine](https://unity.com/products/unity-artengine)</span><br/>
 <span style="padding-left:80px">**Frameworks**: `ASP.NET`, `GCP`, `Unity`</span>
 
 ### <span style="padding-left:40px">Susquehanna International Group</span> <span style="font-size:0.5em">[Oct 2016 - May 2020]</span> 
