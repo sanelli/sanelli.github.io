@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Turing machine interpreter (Pascal)"
-date:   2024-04-04 19:37:00 +0100
+date:   2024-04-06 19:37:00 +0100
 categories: projects turing interpreter pascal
 ---
 Added the [pascal](https://github.com/sanelli/turing/tree/main/pascal) implementation to the [suite of turing machine interpreters](https://github.com/sanelli/turing).

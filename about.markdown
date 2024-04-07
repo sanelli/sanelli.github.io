@@ -14,16 +14,16 @@ permalink: /curriculum-vitae/
 <span style="padding-left:40px">**Tags**: `C#`, `c-sharp`, `dotnet`</span>
 
 ### <span style="padding-left:40px">1️⃣5️⃣ fifteen</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/fifteen)</span>
-<span style="padding-left:40px">*[15 Puzzle](https://en.wikipedia.org/wiki/15_Puzzle) implementation in C++ and SDL.*</span><br/>
-<span style="padding-left:40px">**Tags**: `c++`, `cpp`, `SDL`, `game`, `puzzle`</span>
+<span style="padding-left:40px">*[15 Puzzle](https://en.wikipedia.org/wiki/15_Puzzle) implementation in C++ and SDL2.*</span><br/>
+<span style="padding-left:40px">**Tags**: `c++`, `cpp`, `SDL`, `SDL2`, `game`, `puzzle`</span>
 
 ### <span style="padding-left:40px">🧑🏻‍💻 Turing machine emulators</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/turing)</span>
-<span style="padding-left:40px">*Suite of [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine) emulators written in various languages (C#, c++, python, go, pascal)*</span><br/>
+<span style="padding-left:40px">*Suite of [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine) emulators written in various languages (C#, c++, Python, go, Pascal)*</span><br/>
 <span style="padding-left:40px">**Tags**: `c++`, `cpp`, `python`, `dotnet`, `turing`, `go`, `csharp`, `pascal`</span>
 
 ### <span style="padding-left:40px">🧠🖕🏻 Brainfuck interpreters</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/brainfuck)</span>
-<span style="padding-left:40px">*Suite of [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreters written in various languages (C#, c++, python, go)*</span><br/>
-<span style="padding-left:40px">**Tags**: `c++`, `cpp`, `python`, `dotnet`, `brainfuck`, `go`, `csharp`</span>
+<span style="padding-left:40px">*Suite of [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreters written in various languages (C#, c++, Python, go, Pascal)*</span><br/>
+<span style="padding-left:40px">**Tags**: `c++`, `cpp`, `python`, `dotnet`, `brainfuck`, `go`, `csharp`, `pascal`</span>
 
 ## 💼 Experience
 ### <span style="padding-left:40px">Unity</span> <span style="font-size:0.5em">[Jun 2020 - *]</span>
