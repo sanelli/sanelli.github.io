@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bainfuck interpreter (Pascal)"
+title:  "Brainfuck interpreter (Pascal)"
 date:   2024-04-07 17:32:00 +0100
 categories: projects turing interpreter pascal
 ---
