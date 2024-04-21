@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Brainfuck interpreter (Ada)"
+title:  "New Brainfuck interpreter implemented in Ada"
 date:   2024-04-16 23:19:00 +0100
 categories: projects turing interpreter ada
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Brainfuck interpreter (Pascal)"
+title:  "New Brainfuck interpreter implemented in Pascal"
 date:   2024-04-07 17:32:00 +0100
 categories: projects turing interpreter pascal
 ---

@@ -18,12 +18,12 @@ permalink: /curriculum-vitae/
 <span style="padding-left:80px">**Tags**: `c++`, `cpp`, `SDL`, `SDL2`, `game`, `puzzle`</span>
 
 ### <span style="padding-left:40px">🧑🏻‍💻 Turing machine emulators</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/turing)</span>
-<span style="padding-left:80px">*Suite of [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine) emulators implemented in various languages (C#, c++, Python, ...)*</span><br/>
-<span style="padding-left:80px">**Tags**: `c++`, `cpp`, `python`, `dotnet`, `turing`, `go`, `csharp`, `pascal`</span>
+<span style="padding-left:80px">*Suite of [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine) emulators implemented in various languages (C#, C++, Ada, ...)*</span><br/>
+<span style="padding-left:80px">**Tags**: `c++`, `python`, `dotnet`, `turing`, `go`, `csharp`, `pascal`, `ada`</span>
 
 ### <span style="padding-left:40px">🧠 Brainfuck interpreters</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/brainfuck)</span>
-<span style="padding-left:80px">*Suite of [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreters implemented in various languages (C#, c++, Python, ...)*</span><br/>
-<span style="padding-left:80px">**Tags**: `c++`, `cpp`, `python`, `dotnet`, `brainfuck`, `go`, `csharp`, `pascal`, `ada`</span>
+<span style="padding-left:80px">*Suite of [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreters implemented in various languages (C#, C++, Ada, ...)*</span><br/>
+<span style="padding-left:80px">**Tags**: `c++`, `python`, `dotnet`, `brainfuck`, `go`, `csharp`, `pascal`, `ada`</span>
 
 ## 💼 Experience
 ### <span style="padding-left:40px"><img style="width:1em" src="https://cdn.sanity.io/images/fuvbjjlp/production/36cbc8ae92c7711afb9ab1ec9f7174863f4d7c19-22x24.svg"/> Unity Technologies</span> <span style="font-size:0.5em">[Jun 2020 - *]</span>
