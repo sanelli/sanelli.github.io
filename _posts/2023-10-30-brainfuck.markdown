@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Brainfuck interpreters implemented in C#, C++, Python and Go"
+title:  "🧠 Brainfuck interpreters implemented in C#, C++, Python and Go"
 date:   2023-10-30 21:32:03 +0100
 categories: projects brainfuck interpreter dotnet csharp cpp python go
 ---

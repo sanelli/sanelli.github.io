@@ -13,9 +13,13 @@ permalink: /curriculum-vitae/
 <span style="padding-left:80px">*.NET StringBuilder wrapper that helps in generating pretty strings of code.*</span><br/>
 <span style="padding-left:80px">**Tags**: `C#`, `c-sharp`, `dotnet`</span>
 
-### <span style="padding-left:40px">1️⃣5️⃣ fifteen</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/fifteen)</span>
+### <span style="padding-left:40px">1️⃣5️⃣ Fifteen</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/fifteen)</span>
 <span style="padding-left:80px">*[15 Puzzle](https://en.wikipedia.org/wiki/15_Puzzle) game implemented in C++ and SDL2.*</span><br/>
 <span style="padding-left:80px">**Tags**: `c++`, `cpp`, `SDL`, `SDL2`, `game`, `puzzle`</span>
+
+### <span style="padding-left:40px">❌⭕️ Tic-tac-toe</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/tic-tac-toe)</span>
+<span style="padding-left:80px">*[Tic Tac Toe](https://en.wikipedia.org/wiki/Tic-tac-toe) game implemented in Ada and SDL2.*</span><br/>
+<span style="padding-left:80px">**Tags**: `ada`, `SDL`, `SDL2`, `game`</span>
 
 ### <span style="padding-left:40px">🧑🏻‍💻 Turing machine emulators</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/turing)</span>
 <span style="padding-left:80px">*Suite of [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine) emulators implemented in various languages (C#, C++, Ada, ...)*</span><br/>

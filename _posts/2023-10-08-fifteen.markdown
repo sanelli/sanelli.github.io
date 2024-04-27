@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Fifteen puzzle"
+title:  "1️⃣5️⃣ Fifteen"
 date:   2023-10-08 16:21:03 +0100
-categories: projects c++ sdl
+categories: projects c++ sdl2 game
 ---
-Released [fifteen](https://github.com/sanelli/fifteen).
+Released [Fifteen](https://github.com/sanelli/fifteen).
 
-[fifteen](https://github.com/sanelli/fifteen) is a `C++/SDL` implementation of the well known [15 Puzzle](https://en.wikipedia.org/wiki/15_Puzzle).
+[Fifteen](https://github.com/sanelli/fifteen) is a `C++/SDL` implementation of the well known [15 Puzzle](https://en.wikipedia.org/wiki/15_Puzzle).
 
 ![fifteen screenshot](https://github.com/sanelli/fifteen/assets/2866041/d89d5499-20fc-44ed-aa40-639601275a6e)

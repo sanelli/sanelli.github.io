@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pretty Code string builder"
+title:  "👷‍♀️ Pretty Code string builder"
 date:   2023-09-30 16:21:03 +0100
 categories: projects csharp nuget
 ---
