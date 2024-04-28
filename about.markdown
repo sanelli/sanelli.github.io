@@ -18,7 +18,7 @@ permalink: /curriculum-vitae/
 <span style="padding-left:80px">**Tags**: `c++`, `cpp`, `SDL`, `SDL2`, `game`, `puzzle`</span>
 
 ### <span style="padding-left:40px">❌⭕️ Tic-tac-toe</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/tic-tac-toe)</span>
-<span style="padding-left:80px">*[Tic Tac Toe](https://en.wikipedia.org/wiki/Tic-tac-toe) game implemented in Ada and SDL2.*</span><br/>
+<span style="padding-left:80px">*[Tic-tac-toe](https://en.wikipedia.org/wiki/Tic-tac-toe) game implemented in Ada and SDL2.*</span><br/>
 <span style="padding-left:80px">**Tags**: `ada`, `SDL`, `SDL2`, `game`</span>
 
 ### <span style="padding-left:40px">🧑🏻‍💻 Turing machine emulators</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/turing)</span>
