@@ -96,4 +96,5 @@ permalink: /curriculum-vitae/
 ## 🔗 Links
 <span style="padding-left:80px"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg>[GitHub](https://github.com/sanelli)</span><br/>
 <span style="padding-left:80px"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg>[Linkedin](http://linkedin.com/in/stefanoanelli/)</span><br/>
-<span style="padding-left:80px">📦 [NuGet](https://www.nuget.org/profiles/sanelli)</span>
+<span style="padding-left:80px">📦 [NuGet](https://www.nuget.org/profiles/sanelli)</span><br/>
+<span style="padding-left:80px"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" width=20 height=20 /> [Stack Overflow](https://stackoverflow.com/users/1468832/sanelli)</span><br/>
