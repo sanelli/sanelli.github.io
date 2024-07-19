@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "👨🏻‍💻 New Turing machine interpreter implemented in C"
+date:   2024-07-19 21:28:00 +0100
+categories: projects turing interpreter c
+---
+Added the [C](https://github.com/sanelli/turing/tree/main/c) implementation to the [suite of turing machine interpreters](https://github.com/sanelli/turing).
