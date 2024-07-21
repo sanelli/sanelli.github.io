@@ -1,39 +1,9 @@
 ---
 layout: page
-title: Curriculum Vitae
-permalink: /curriculum-vitae/
+title: 💼 Curriculum
+permalink: /cv/
 ---
 
-## 👨🏻‍💻 Projects
-### <span style="padding-left:40px">📝 Comment TODO Analyzer</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/Todo.Analyzer) [[NuGet]](https://www.nuget.org/packages/Comment.Todo.Analyzer)</span>
-<span style="padding-left:80px">*.NET analyzer for C# enforcing coding standard to TODO comments.*</span><br/>
-<span style="padding-left:80px">**Tags**: `C#`, `analyzer`, `c-sharp`, `dotnet`</span>
-
-### <span style="padding-left:40px">👷 PrettyCode.StringBuilder</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/PrettyCode.StringBuilder) [[NuGet]](https://www.nuget.org/packages/PrettyCode.StringBuilder)</span>
-<span style="padding-left:80px">*.NET StringBuilder wrapper that helps in generating pretty strings of code.*</span><br/>
-<span style="padding-left:80px">**Tags**: `C#`, `c-sharp`, `dotnet`</span>
-
-### <span style="padding-left:40px">1️⃣5️⃣ Fifteen</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/fifteen)</span>
-<span style="padding-left:80px">*[15 Puzzle](https://en.wikipedia.org/wiki/15_Puzzle) game implemented in `C++` and `SDL2`.*</span><br/>
-<span style="padding-left:80px">**Tags**: `c++`, `cpp`, `SDL`, `SDL2`, `game`, `puzzle`</span>
-
-### <span style="padding-left:40px">❌⭕️ Tic-tac-toe</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/tic-tac-toe)</span>
-<span style="padding-left:80px">*[Tic-tac-toe](https://en.wikipedia.org/wiki/Tic-tac-toe) game implemented in `Ada` and `SDL2`.*</span><br/>
-<span style="padding-left:80px">**Tags**: `ada`, `SDL`, `SDL2`, `game`</span>
-
-### <span style="padding-left:40px">🔴🟡 Connect Four</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/connect-four)</span>
-<span style="padding-left:80px">*[Connect Four](https://en.wikipedia.org/wiki/Connect_Four) game implemented in `go` and `SDL2`.*</span><br/>
-<span style="padding-left:80px">**Tags**: `go`, `SDL`, `SDL2`, `game`</span>
-
-### <span style="padding-left:40px">🧑🏻‍💻 Turing machine emulators</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/turing)</span>
-<span style="padding-left:80px">*Suite of [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine) emulators implemented in various languages (C#, C++, Ada, ...)*</span><br/>
-<span style="padding-left:80px">**Tags**: `c++`, `python`, `dotnet`, `turing`, `go`, `csharp`, `pascal`, `ada`, `c`</span>
-
-### <span style="padding-left:40px">🧠 Brainfuck interpreters</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/brainfuck)</span>
-<span style="padding-left:80px">*Suite of [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreters implemented in various languages (C#, C++, Ada, ...)*</span><br/>
-<span style="padding-left:80px">**Tags**: `c++`, `python`, `brainfuck`, `go`, `csharp`, `pascal`, `ada`, `c`, `d`, `rust`</span>
-
-## 💼 Experience
 ### <span style="padding-left:40px"><img style="width:1em" src="https://cdn.sanity.io/images/fuvbjjlp/production/36cbc8ae92c7711afb9ab1ec9f7174863f4d7c19-22x24.svg"/> Unity Technologies</span> <span style="font-size:0.5em">[Jun 2020 - *]</span>
 <span style="padding-left:80px">*Senior Manager, Software Engineering*</span> <span style="font-size:0.7em">[Apr 2024 - *]</span><br/>
 <span style="padding-left:80px">**Product**: <img style="width:1em" src="https://cdn.cloud.unity.com/dist/udash/app/assets/d813f41f423b810b00872d05b42e1cad.png"/> [Unity Asset Manager](https://unity.com/products/asset-manager)</span><br/><br/>
