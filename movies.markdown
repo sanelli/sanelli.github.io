@@ -8,6 +8,7 @@ permalink: /movies/
 
 | Title | Directed/Created by | Lang | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
+| [Ghostbusters: Afterlife](https://en.wikipedia.org/wiki/Ghostbusters:_Afterlife) | [Jason Reitman](https://en.wikipedia.org/wiki/Jason_Reitman) | 🇺🇸 | 2021 | Supernatural Comedy | 2024/Aug/12 | ⭐️⭐️⭐️⭐️⭐️ |
 | [Sister Act 2: Back in the Habit](https://en.wikipedia.org/wiki/Sister_Act_2:_Back_in_the_Habit) | [Bill Duke](https://en.wikipedia.org/wiki/Bill_Duke) | 🇺🇸 | 1993 | Musical Comedy | 2024/Jul/15 | ⭐️⭐️⭐️⭐️ |
 | [Sister Act](https://en.wikipedia.org/wiki/Sister_Act) | [Emile Ardolino](https://en.wikipedia.org/wiki/Emile_Ardolino) | 🇺🇸 | 1992 | Musical Crime Comedy | 2024/Jul/07 | ⭐️⭐️⭐️⭐️⭐️ |
 | [Robin Hood: Prince of Thieves](https://en.wikipedia.org/wiki/Robin_Hood:_Prince_of_Thieves) | [Kevin Reynolds](https://en.wikipedia.org/wiki/Kevin_Reynolds_(director)) | 🇺🇸 | 1991 | Action Adventure | 2024/Jul/06 | ⭐️⭐️⭐️⭐️ |
