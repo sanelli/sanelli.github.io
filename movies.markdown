@@ -8,8 +8,9 @@ permalink: /movies/
 
 | Title | Directed/Created by | Lang | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
+| [Beetlejuice](https://en.wikipedia.org/wiki/Beetlejuice) | [Tim Burton](https://en.wikipedia.org/wiki/Tim_Burton) | 🇺🇸 | 1988 | Dark fantasy comedy horror | 2024/Sep/15 | ⭐️⭐️ |
 | [Sailor Moon Cosmos](https://en.wikipedia.org/wiki/Sailor_Moon_Cosmos) | Tomoya Takahashi | 🇮🇹 | 2024 | Anime | 2024/Aug/23 | ⭐️⭐️⭐️ |
-| [The_Favourite](https://en.wikipedia.org/wiki/The_Favourite) | [Yorgos Lanthimos](https://en.wikipedia.org/wiki/Yorgos_Lanthimos) | 🇺🇸 | 2018 | Satirical absurdist period dark comedy | 2024/Aug/21 | ⭐️⭐️ |
+| [The Favourite](https://en.wikipedia.org/wiki/The_Favourite) | [Yorgos Lanthimos](https://en.wikipedia.org/wiki/Yorgos_Lanthimos) | 🇺🇸 | 2018 | Satirical absurdist period dark comedy | 2024/Aug/21 | ⭐️⭐️ |
 | [Ghostbusters: Afterlife](https://en.wikipedia.org/wiki/Ghostbusters:_Afterlife) | [Jason Reitman](https://en.wikipedia.org/wiki/Jason_Reitman) | 🇺🇸 | 2021 | Supernatural Comedy | 2024/Aug/12 | ⭐️⭐️⭐️⭐️⭐️ |
 | [Sister Act 2: Back in the Habit](https://en.wikipedia.org/wiki/Sister_Act_2:_Back_in_the_Habit) | [Bill Duke](https://en.wikipedia.org/wiki/Bill_Duke) | 🇺🇸 | 1993 | Musical Comedy | 2024/Jul/15 | ⭐️⭐️⭐️⭐️ |
 | [Sister Act](https://en.wikipedia.org/wiki/Sister_Act) | [Emile Ardolino](https://en.wikipedia.org/wiki/Emile_Ardolino) | 🇺🇸 | 1992 | Musical Crime Comedy | 2024/Jul/07 | ⭐️⭐️⭐️⭐️⭐️ |
