@@ -8,6 +8,7 @@ permalink: /movies/
 
 | Title | Directed/Created by | Lang | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
+| [Beetlejuice Beetlejuice](https://en.wikipedia.org/wiki/Beetlejuice_Beetlejuice) | [Tim Burton](https://en.wikipedia.org/wiki/Tim_Burton) | 🇺🇸 | 1988 | Dark fantasy comedy horror | 2024/Sep/18 | ⭐️⭐️⭐️⭐️ |
 | [Beetlejuice](https://en.wikipedia.org/wiki/Beetlejuice) | [Tim Burton](https://en.wikipedia.org/wiki/Tim_Burton) | 🇺🇸 | 1988 | Dark fantasy comedy horror | 2024/Sep/15 | ⭐️⭐️ |
 | [Sailor Moon Cosmos](https://en.wikipedia.org/wiki/Sailor_Moon_Cosmos) | Tomoya Takahashi | 🇮🇹 | 2024 | Anime | 2024/Aug/23 | ⭐️⭐️⭐️ |
 | [The Favourite](https://en.wikipedia.org/wiki/The_Favourite) | [Yorgos Lanthimos](https://en.wikipedia.org/wiki/Yorgos_Lanthimos) | 🇺🇸 | 2018 | Satirical absurdist period dark comedy | 2024/Aug/21 | ⭐️⭐️ |
