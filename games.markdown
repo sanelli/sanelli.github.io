@@ -17,16 +17,16 @@ permalink: /games/
 
 | Title | Developer(s) | Publisher(s) | Console | Genre | Completed on | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
-| The Legend of Zelda: Taers of the Kingdom | Nintendo | Nintendo | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | | 2023 | ⭐️⭐️⭐️⭐️ |
+| [The Legend of Zelda: Taers of the Kingdom](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Action-adventure game](https://en.wikipedia.org/wiki/Action-adventure_game) | 2023 | ⭐️⭐️⭐️⭐️ |
 
 ## 2022
 
 | Title | Developer(s) | Publisher(s) | Console | Genre | Completed on | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
-| Pokemon Violet | | | Nintendo Switch | | 2022-12-10 | ⭐️⭐️⭐️ |
-| Mario + Rabbids Sparks of Hope | | | Nintendo Switch | | 2022-11-15 | ⭐️⭐️⭐️⭐️ |
-| Xenoblade Chronicles 3 | | | Nintendo Switch | | 2022-09-08 | ⭐️⭐️⭐️⭐️ |
-| Pokemon Legends: Arceus | | | Nintendo Switch | | 2022-03-18 | ⭐️⭐️⭐️⭐️ |
+| Pokemon Violet | | | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | | 2022-12-10 | ⭐️⭐️⭐️ |
+| Mario + Rabbids Sparks of Hope | | | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | | 2022-11-15 | ⭐️⭐️⭐️⭐️ |
+| Xenoblade Chronicles 3 | | | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | | 2022-09-08 | ⭐️⭐️⭐️⭐️ |
+| Pokemon Legends: Arceus | | | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | | 2022-03-18 | ⭐️⭐️⭐️⭐️ |
 
 ## 2021
 
