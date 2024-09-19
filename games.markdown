@@ -8,6 +8,7 @@ permalink: /games/
 
 | Title | Developer(s) | Publisher(s) | Console | Genre | Completed on | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
+| [Elden Ring: Shadow of the Erdtree](https://en.wikipedia.org/wiki/Elden_Ring#Shadow_of_the_Erdtree) | [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware) | [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) | Playstation 5 | [Action role-playing](https://en.wikipedia.org/wiki/Action_role-playing), [Soulsike](https://en.wikipedia.org/wiki/Soulslike) | 2024-09-19 | ⭐️⭐️⭐️⭐️⭐️ |
 | [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring) | [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware) | [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) | Playstation 5 | [Action role-playing](https://en.wikipedia.org/wiki/Action_role-playing), [Soulsike](https://en.wikipedia.org/wiki/Soulslike) | 2024-07-05 | ⭐️⭐️⭐️⭐️⭐️ |
 | Celeste | | | Nintendo Switch | |  |  |
 
