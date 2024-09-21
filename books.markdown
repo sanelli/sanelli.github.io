@@ -10,7 +10,7 @@ permalink: /books/
 |-----------------------------------|-----------------------------------|------|------|-----------|-------------|--------------|
 | [Hacking: The Art of Exploitation](https://en.wikipedia.org/wiki/Hacking:_The_Art_of_Exploitation) | [Jon Erickson](https://www.oreilly.com/pub/au/1648) | 🇺🇸 | 2008 | Tech | | |
 | [Dune](https://en.wikipedia.org/wiki/Dune_(novel)) | [Frank Herbert](https://en.wikipedia.org/wiki/Frank_Herbert) | 🇺🇸 | 1965 | Science fiction | | |
-| [What Is ChatGPT Doing ... and Why Does It Work?](https://www.amazon.co.uk/What-ChatGPT-Doing-Does-Work/dp/1579550819) | [Jon Erickson](https://www.oreilly.com/pub/au/1648) | 🇺🇸 | 2023 | Tech | 2024/Sep/21 | ⭐️⭐️⭐️ |
+| [What Is ChatGPT Doing ... and Why Does It Work?](https://www.amazon.co.uk/What-ChatGPT-Doing-Does-Work/dp/1579550819) | [Stephen Wolfram](https://en.wikipedia.org/wiki/Stephen_Wolfram) | 🇺🇸 | 2023 | Tech | 2024/Sep/21 | ⭐️⭐️⭐️ |
 | [Programming language concepts ](https://www.amazon.co.uk/Programming-3e-Carlo-Ghezzi-dp-0471104264/dp/0471104264/ref=dp_ob_image_bk)| [Carlo Ghezzi](https://en.wikipedia.org/wiki/Carlo_Ghezzi), [Mehdi Jazayeri](https://en.wikipedia.org/wiki/Mehdi_Jazayeri)  | 🇺🇸 | 1998 | Tech | 2024/Jul/14  | ⭐️⭐️⭐️⭐️ |
 | [Il giardino dei Finzi-Contini](https://it.wikipedia.org/wiki/Il_giardino_dei_Finzi-Contini) | [Giorgio Bassani](https://it.wikipedia.org/wiki/Giorgio_Bassani) | 🇮🇹 | 1962 | Historical novel | 2024/Jul/08  | ⭐️⭐️ |
 | [Ventimila leghe sotti i mari](https://it.wikipedia.org/wiki/Ventimila_leghe_sotto_i_mari) | [Jules Verne](https://en.wikipedia.org/wiki/Jules_Verne) | 🇮🇹 | 1872 | Science fiction | 2024/May/07  | ⭐️⭐️⭐️ |
