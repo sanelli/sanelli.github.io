@@ -8,6 +8,7 @@ permalink: /movies/
 
 | Title | Directed/Created by | Lang | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
+| [Raiders of the Lost Ark](https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark) | [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) | 🇺🇸 | 1981 | Action-adventure | 2024/Sep/25 | ⭐️⭐️⭐️⭐️⭐️ |
 | [Bros](https://en.wikipedia.org/wiki/Bros_(film)) | [Nicholas Stoller](https://en.wikipedia.org/wiki/Nicholas_Stoller) | 🇺🇸 | 2022 | Romantic Comedy | 2024/Sep/22 | ⭐️⭐️⭐️⭐️⭐️ |
 | [Beetlejuice Beetlejuice](https://en.wikipedia.org/wiki/Beetlejuice_Beetlejuice) | [Tim Burton](https://en.wikipedia.org/wiki/Tim_Burton) | 🇺🇸 | 2024 | Dark fantasy comedy horror | 2024/Sep/18 | ⭐️⭐️⭐️⭐️ |
 | [Beetlejuice](https://en.wikipedia.org/wiki/Beetlejuice) | [Tim Burton](https://en.wikipedia.org/wiki/Tim_Burton) | 🇺🇸 | 1988 | Dark fantasy comedy horror | 2024/Sep/15 | ⭐️⭐️ |
