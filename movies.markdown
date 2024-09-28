@@ -8,7 +8,8 @@ permalink: /movies/
 
 | Title | Directed/Created by | Lang | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
-| [Raiders of the Lost Ark](https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark) | [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) | 🇺🇸 | 1981 | Action-adventure | 2024/Sep/25 | ⭐️⭐️⭐️⭐️⭐️ |
+| [Indiana Jones and the Temple of Doom](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Temple_of_Doom) | [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) | 🇺🇸 | 1984 | Action-adventure | 2024/Sep/28 | ⭐️⭐️⭐️⭐️⭐️ |
+| [Raiders of the Lost Ark](https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark) | [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) | 🇺🇸 | 1981 | Action-adventure | 2024/Sep/25 | ⭐️⭐️⭐️⭐️ |
 | [Bros](https://en.wikipedia.org/wiki/Bros_(film)) | [Nicholas Stoller](https://en.wikipedia.org/wiki/Nicholas_Stoller) | 🇺🇸 | 2022 | Romantic Comedy | 2024/Sep/22 | ⭐️⭐️⭐️⭐️⭐️ |
 | [Beetlejuice Beetlejuice](https://en.wikipedia.org/wiki/Beetlejuice_Beetlejuice) | [Tim Burton](https://en.wikipedia.org/wiki/Tim_Burton) | 🇺🇸 | 2024 | Dark fantasy comedy horror | 2024/Sep/18 | ⭐️⭐️⭐️⭐️ |
 | [Beetlejuice](https://en.wikipedia.org/wiki/Beetlejuice) | [Tim Burton](https://en.wikipedia.org/wiki/Tim_Burton) | 🇺🇸 | 1988 | Dark fantasy comedy horror | 2024/Sep/15 | ⭐️⭐️ |
@@ -26,5 +27,5 @@ permalink: /movies/
 | [The Matrix Resurrections](https://en.wikipedia.org/wiki/The_Matrix_Resurrections) | [Lana Wachowski](https://en.wikipedia.org/wiki/The_Wachowskis) | 🇬🇧 | 2021 | Science Fiction | 2024/Apr/26 | ⭐️⭐️⭐️⭐️ |
 | [Dune: Part One](https://en.wikipedia.org/wiki/Dune_(2021_film)) | [Denis Villeneuve](https://en.wikipedia.org/wiki/Denis_Villeneuve) | 🇬🇧 | 2021 | Science Fiction | 2024/Apr/25 | ⭐️⭐️⭐️⭐️ |
 | [Poor things](https://en.wikipedia.org/wiki/Poor_Things_(film)) | [Yorgos Lanthimos](https://en.wikipedia.org/wiki/Yorgos_Lanthimos) | 🇬🇧 | 2024 | ? | 2024/Apr/07 | ⭐️⭐️ |
-| [All of Us Strangers](https://en.wikipedia.org/wiki/All_of_Us_Strangers) | [Andrew Haigh](https://en.wikipedia.org/wiki/Andrew_Haigh) | 🇬🇧 | 2024 | Romantic fantasy | 2024/Apr/04 | ⭐️⭐️ |
+| [All of Us Strangers](https://en.wikipedia.org/wiki/All_of_Us_Strangers) | [Andrew Haigh](https://en.wikipedia.org/wiki/Andrew_Haigh) | 🇬🇧 | 2024 | Romantic fantasy | 2024/Apr/04 | ⭐️⭐️⭐️ |
 
