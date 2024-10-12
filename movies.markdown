@@ -8,6 +8,7 @@ permalink: /movies/
 
 | Title | Directed/Created by | Lang | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
+| [La spada nella roccia](https://it.wikipedia.org/wiki/La_spada_nella_roccia_(film)) | [Wolfgang Reitherman](https://en.wikipedia.org/wiki/Wolfgang_Reitherman) & [Walt Disney](https://en.wikipedia.org/wiki/Walt_Disney) | 🇮🇹 | 1963 | Musical fantasy comedy film | 2024/Oct/12 | ⭐️⭐️⭐️⭐️⭐️ |
 | [Indiana Jones and the Temple of Doom](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Temple_of_Doom) | [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) | 🇺🇸 | 1984 | Action-adventure | 2024/Sep/28 | ⭐️⭐️⭐️⭐️⭐️ |
 | [Raiders of the Lost Ark](https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark) | [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) | 🇺🇸 | 1981 | Action-adventure | 2024/Sep/25 | ⭐️⭐️⭐️⭐️ |
 | [Bros](https://en.wikipedia.org/wiki/Bros_(film)) | [Nicholas Stoller](https://en.wikipedia.org/wiki/Nicholas_Stoller) | 🇺🇸 | 2022 | Romantic Comedy | 2024/Sep/22 | ⭐️⭐️⭐️⭐️⭐️ |
