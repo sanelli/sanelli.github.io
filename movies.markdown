@@ -8,6 +8,7 @@ permalink: /movies/
 
 | Title | Directed/Created by | Lang | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
+| [Agatha All Along](https://en.wikipedia.org/wiki/Agatha_All_Along_(miniseries)) | [Jac Schaeffer](https://en.wikipedia.org/wiki/Jac_Schaeffer) | 🇺🇸 | 2024 | Dark comedy, Fantasy, Superhero | 2024/Oct/31 | ⭐️⭐️⭐️⭐️ |
 | [The Emperor's New Groove](https://en.wikipedia.org/wiki/The_Emperor%27s_New_Groove) | [Mark Dindal](https://en.wikipedia.org/wiki/Mark_Dindal), [The Walt Disney Company](https://it.wikipedia.org/wiki/The_Walt_Disney_Company) | 🇺🇸 | 2000 | Fantasy comedy| 2024/Oct/28 | ⭐️⭐️⭐️⭐️ |
 | [Taron e la pentola magica](https://it.wikipedia.org/wiki/Taron_e_la_pentola_magica) | [Ted Berman](https://en.wikipedia.org/wiki/Ted_Berman), [Richard Rich](https://en.wikipedia.org/wiki/Richard_Rich_(filmmaker)), [The Walt Disney Company](https://it.wikipedia.org/wiki/The_Walt_Disney_Company) | 🇮🇹 | 1985 | Dark fantasy adventure film | 2024/Oct/27 | ⭐️⭐️⭐️ |
 | [La spada nella roccia](https://it.wikipedia.org/wiki/La_spada_nella_roccia_(film)) | [Wolfgang Reitherman](https://en.wikipedia.org/wiki/Wolfgang_Reitherman), [The Walt Disney Company](https://it.wikipedia.org/wiki/The_Walt_Disney_Company) | 🇮🇹 | 1963 | Musical fantasy comedy film | 2024/Oct/12 | ⭐️⭐️⭐️⭐️⭐️ |
