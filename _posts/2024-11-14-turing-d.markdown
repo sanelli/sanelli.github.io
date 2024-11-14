@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "👨🏻‍💻 New Turing machine interpreter implemented in D"
+date:   2024-11-14 23:02:00 +0100
+categories: projects turing interpreter d
+---
+Added the [D](https://github.com/sanelli/turing/tree/main/d) implementation to the [suite of turing machine interpreters](https://github.com/sanelli/turing).
+This has been implemented using the [dub](https://dub.pm) package manager and [dmd](https://dlang.org/dmd-windows.html) compiler.
