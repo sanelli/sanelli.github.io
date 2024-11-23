@@ -8,6 +8,7 @@ permalink: /books/
 
 | Title                             | Author(s)                         | Lang | Year | Genre     | Finished    | Rating       |
 |-----------------------------------|-----------------------------------|------|------|-----------|-------------|--------------|
+| [Maurice](https://en.wikipedia.org/wiki/Maurice_(novel)) | [E. M. Forster](https://en.wikipedia.org/wiki/E._M._Forster) | 🇺🇸 | 1971 | Novel | 2024/Nov/23 | ⭐️⭐️⭐️⭐️⭐️ |
 | [Il giardino segreto](https://www.criticaletteraria.org/2017/12/il-giardino-segreto-yoshimoto-feltrinelli.html) | [Banana Yoshimoto](https://en.wikipedia.org/wiki/Banana_Yoshimoto) | 🇮🇹 | 2005 | Novel | 2024/Oct/13 | ⭐️⭐️⭐️ |
 | [Dune](https://en.wikipedia.org/wiki/Dune_(novel)) | [Frank Herbert](https://en.wikipedia.org/wiki/Frank_Herbert) | 🇺🇸 | 1965 | Epic science fiction | 2024/Oct/06 | ⭐️⭐️⭐️ |
 | [What Is ChatGPT Doing ... and Why Does It Work?](https://www.amazon.co.uk/What-ChatGPT-Doing-Does-Work/dp/1579550819) | [Stephen Wolfram](https://en.wikipedia.org/wiki/Stephen_Wolfram) | 🇺🇸 | 2023 | Tech | 2024/Sep/21 | ⭐️⭐️⭐️ |
