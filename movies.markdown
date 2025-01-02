@@ -8,8 +8,8 @@ permalink: /movies/
 
 | Title | Directed/Created by | Lang | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
-| Coco |  | 🇮🇹 |  |  | 2024/Dec/25 | ⭐️⭐️⭐️⭐️ |
-| Queer | Luca Guadagnino | 🇺🇸 | 2024 |  | 2024/Dec/18 | ⭐️⭐️⭐️ |
+| [Coco](https://en.wikipedia.org/wiki/Coco_(2017_film)) | [Lee Unkrich](https://en.wikipedia.org/wiki/Lee_Unkrich), [Pixar](https://en.wikipedia.org/wiki/Pixar) | 🇮🇹 | 2017 | fantasy comedy-drama | 2024/Dec/25 | ⭐️⭐️⭐️⭐️ |
+| [Queer](https://en.wikipedia.org/wiki/Queer_(film)) | [Luca Guadagnino](https://en.wikipedia.org/wiki/Luca_Guadagnino) | 🇺🇸 | 2024 | Period romantic drama | 2024/Dec/18 | ⭐️⭐️⭐️ |
 | [Wicked](https://en.wikipedia.org/wiki/Wicked_(2024_film)) | [Jon M. Chu](https://en.wikipedia.org/wiki/Jon_M._Chu) | 🇺🇸 | 2024 | Musical, fantasy | 2024/Nov/24 | ⭐️⭐️⭐️⭐️⭐️ |
 | [Agatha All Along](https://en.wikipedia.org/wiki/Agatha_All_Along_(miniseries)) | [Jac Schaeffer](https://en.wikipedia.org/wiki/Jac_Schaeffer) | 🇺🇸 | 2024 | Dark comedy, Fantasy, Superhero | 2024/Oct/31 | ⭐️⭐️⭐️⭐️ |
 | [The Emperor's New Groove](https://en.wikipedia.org/wiki/The_Emperor%27s_New_Groove) | [Mark Dindal](https://en.wikipedia.org/wiki/Mark_Dindal), [The Walt Disney Company](https://it.wikipedia.org/wiki/The_Walt_Disney_Company) | 🇺🇸 | 2000 | Fantasy comedy| 2024/Oct/28 | ⭐️⭐️⭐️⭐️ |
