@@ -4,6 +4,12 @@ title: 📚 Books
 permalink: /books/
 ---
 
+## 2025
+
+| Title                             | Author(s)                         | Lang | Year | Genre     | Finished    | Rating       |
+|-----------------------------------|-----------------------------------|------|------|-----------|-------------|--------------|
+| [La tregua](https://it.wikipedia.org/wiki/La_tregua_(Primo_Levi)) | [Primo Levi](https://it.wikipedia.org/wiki/Primo_Levi) | 🇮🇹 | 1963 | Memoir | 2025/Jan/02 | ⭐️⭐️⭐️ |
+
 ## 2024
 
 | Title                             | Author(s)                         | Lang | Year | Genre     | Finished    | Rating       |
