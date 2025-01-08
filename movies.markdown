@@ -8,7 +8,7 @@ permalink: /movies/
 
 | Title | Directed/Created by | Lang | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
-| [Sing](https://en.wikipedia.org/wiki/Sing_(2016_American_film)) | [Garth Jennings](https://en.wikipedia.org/wiki/Garth_Jennings), [Illumination](https://en.wikipedia.org/wiki/Illumination_(company) | 🇺🇸 | 2016 | Jukebox musical comedy | 2025/Jan/07 | ⭐️⭐️⭐️ |
+| [Sing](https://en.wikipedia.org/wiki/Sing_(2016_American_film)) | [Garth Jennings](https://en.wikipedia.org/wiki/Garth_Jennings), [Illumination](https://en.wikipedia.org/wiki/Illumination_(company)) | 🇺🇸 | 2016 | Jukebox musical comedy | 2025/Jan/07 | ⭐️⭐️⭐️ |
 | [Cunk on Earth](https://en.wikipedia.org/wiki/Cunk_on_Earth) | [Charlie Brooker](https://en.wikipedia.org/wiki/Charlie_Brooker) | 🇺🇸 | 2022 | Mockumentary | 2025/Jan/04 | ⭐️⭐️⭐️⭐️ |
 | [Chicken Run: Dawn of the Nugget](https://en.wikipedia.org/wiki/Chicken_Run:_Dawn_of_the_Nugget) | [Sam Fell](https://en.wikipedia.org/wiki/Sam_Fell) | 🇺🇸 | 2023 | Comedy | 2025/Jan/03 | ⭐️⭐️ |
 
