@@ -15,7 +15,7 @@ permalink: /cv/
 <span style="padding-left:80px">*Senior software engineer*</span> <span style="font-size:0.7em">[Jun 2020 - Jun 2023]</span> <br/>
 <span style="padding-left:80px">**Activities**: `software architecture`, `coding`, `bug-fixing`</span><br/>
 <span style="padding-left:80px">**Languages**: `C#`, `c++`</span><br/>
-<span style="padding-left:80px">**Product**: <img style="width:1em" src="https://cdn.cloud.unity.com/dist/udash/app/assets/d813f41f423b810b00872d05b42e1cad.png"/> [Unity Asset Manager](https://unity.com/products/asset-manager), <img style="width:1em" src="https://yt3.googleusercontent.com/Lg6oQVNLv_zlIn4jxhl0_xXmyAtaYJSQbsxZZ27MoTnvmV59gTPLp3eA73m5OmEw9KhikhUPLhQ=s176-c-k-c0x00ffffff-no-rj"/> [ArtEngine](https://unity.com/products/unity-artengine)</span><br/>
+<span style="padding-left:80px">**Product**: <img style="width:1em" src="https://cdn.cloud.unity.com/dist/udash/app/assets/d813f41f423b810b00872d05b42e1cad.png"/> [Unity Asset Manager](https://unity.com/products/asset-manager), <img style="width:1em" src="https://yt3.googleusercontent.com/3tQWvZqYFSf3AJftpTkqkaT_mtdrcodEDUg1HZeWXfSszmt--71nozoDz9_bfiupvIlU22I-=s160-c-k-c0x00ffffff-no-rj"/> [ArtEngine](https://unity.com/products/unity-artengine)</span><br/>
 <span style="padding-left:80px">**Frameworks**: `ASP.NET`, `GCP`, `Unity`, `nuklear`</span>
 
 ### <span style="padding-left:40px"><img style="width:1em" src="https://yt3.googleusercontent.com/NAtgYwnczhZUtFopQG_ZcA70mAFVKEo-k1k34D8a3hfsuaW03hPFyuN83lcmvuYisseulaqNGQ=s900-c-k-c0x00ffffff-no-rj"/> Susquehanna International Group</span> <span style="font-size:0.5em">[Oct 2016 - May 2020]</span> 

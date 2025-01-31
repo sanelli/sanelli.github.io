@@ -4,13 +4,18 @@ title: 🎮 Games
 permalink: /games/
 ---
 
+## Playing
+
+| Title | Developer(s) | Publisher(s) | Console | Genre |
+|-------|--------------|--------------|---------|-------|
+| [Dark Soul (Remastered)](https://en.wikipedia.org/wiki/Dark_Souls_(video_game)) | [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware) | [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Action role-playing](https://en.wikipedia.org/wiki/Action_role-playing), [Soulsike](https://en.wikipedia.org/wiki/Soulslike) |
+| [Celeste](https://en.wikipedia.org/wiki/Celeste_(video_game)) | [Maddy Makes Games](https://en.wikipedia.org/wiki/Maddy_Thorson#Maddy_Makes_Games) | [Maddy Makes Games](https://en.wikipedia.org/wiki/Maddy_Thorson#Maddy_Makes_Games) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Platformer](https://en.wikipedia.org/wiki/Platformer) |
+| [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn) | [Guerrilla Games](https://en.wikipedia.org/wiki/Guerrilla_Games) | [Sony Interactive Entertainment](https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment) | [Playstation 5](https://en.wikipedia.org/wiki/PlayStation_5) | [Action role-playing](https://en.wikipedia.org/wiki/Action_role-playing) |
+
 ## 2024
 
 | Title | Developer(s) | Publisher(s) | Console | Genre | Completed on | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
-| [Dark Soul (Remastered)](https://en.wikipedia.org/wiki/Dark_Souls_(video_game)) | [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware) | [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Action role-playing](https://en.wikipedia.org/wiki/Action_role-playing), [Soulsike](https://en.wikipedia.org/wiki/Soulslike) | | |
-| [Celeste](https://en.wikipedia.org/wiki/Celeste_(video_game)) | [Maddy Makes Games](https://en.wikipedia.org/wiki/Maddy_Thorson#Maddy_Makes_Games) | [Maddy Makes Games](https://en.wikipedia.org/wiki/Maddy_Thorson#Maddy_Makes_Games) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Platformer](https://en.wikipedia.org/wiki/Platformer) |  |  |
-| [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn) | [Guerrilla Games](https://en.wikipedia.org/wiki/Guerrilla_Games) | [Sony Interactive Entertainment](https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment) | [Playstation 5](https://en.wikipedia.org/wiki/PlayStation_5) | [Action role-playing](https://en.wikipedia.org/wiki/Action_role-playing) |  |  |
 | [The Legend of Zelda: Echoes of Wisdom](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Echoes_of_Wisdom) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo), [Grezzo](https://en.wikipedia.org/wiki/Grezzo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Action-adventure game](https://en.wikipedia.org/wiki/Action-adventure_game) | 2024-11-14 | ⭐️⭐️⭐️⭐️ |
 | [Elden Ring: Shadow of the Erdtree](https://en.wikipedia.org/wiki/Elden_Ring#Shadow_of_the_Erdtree) | [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware) | [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) | [Playstation 5](https://en.wikipedia.org/wiki/PlayStation_5) | [Action role-playing](https://en.wikipedia.org/wiki/Action_role-playing), [Soulsike](https://en.wikipedia.org/wiki/Soulslike) | 2024-09-19 | ⭐️⭐️⭐️⭐️⭐️ |
 | [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring) | [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware) | [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) | [Playstation 5](https://en.wikipedia.org/wiki/PlayStation_5) | [Action role-playing](https://en.wikipedia.org/wiki/Action_role-playing), [Soulsike](https://en.wikipedia.org/wiki/Soulslike) | 2024-07-05 | ⭐️⭐️⭐️⭐️⭐️ |
