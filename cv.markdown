@@ -51,15 +51,15 @@ permalink: /cv/
 
 ## 📚 Education
 ### <span style="padding-left:40px"> <img style="width:1em" src="https://iconape.com/wp-content/png_logo_vector/politecnico-milano-logo.png"/> Politecnico di Milano</span> <span style="font-size:0.5em">[Sep 2003 - Jul 2009]</span> 
-<span style="padding-left:80px">*Master bachelor in Science, Eng. of computer sciene*</span> <span style="font-size:0.7em">[Sep 2007 - Jul 2009]</span> <br/>
+<span style="padding-left:80px">*Master bachelor in Science, Eng. of computer science*</span> <span style="font-size:0.7em">[Sep 2007 - Jul 2009]</span> <br/>
 <span style="padding-left:80px">**Subjects**: `software architecture`, `OS`, `compilers`, `AI`, `cryptography`.</span>
 <span style="padding-left:80px">**Dissertation**: Method specialization for [CIL](https://en.wikipedia.org/wiki/Common_Intermediate_Language) in a dynamic compiler.</span><br/><br/>
-<span style="padding-left:80px">*Bachelor in Science, Eng. of computer sciene*</span> <span style="font-size:0.7em">[Sep 2003 - Jun 2007]</span> <br/>
+<span style="padding-left:80px">*Bachelor in Science, Eng. of computer science*</span> <span style="font-size:0.7em">[Sep 2003 - Jun 2007]</span> <br/>
 <span style="padding-left:80px">**Subjects**: `software eng`, `networking`, `db`, `mathematics`, `physics`.</span><br/>
 <span style="padding-left:80px">**Dissertation**: A publish/subscribe system based on Gmail.</span>
 
 ### <span style="padding-left:40px"> <img style="width:1em" src="https://www.galileicrema.edu.it/sites/default/files/logogalilei.png"/> I.T.I.S. Galileo Galilei</span> <span style="font-size:0.5em">[Sep 1997 - Jun 2003]</span> 
-<span style="padding-left:80px">*High school diploma in computer sciene*</span><br/>
+<span style="padding-left:80px">*High school diploma in computer science*</span><br/>
 <span style="padding-left:80px">**Subjects**: `computer science`, `electronics`, `networking`, `db`.</span><br/>
 <span style="padding-left:80px">**Final project**: An SMTP/POP3 e-mail client written in Delphi.</span>
 
