@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "👨🏻‍💻 New Turing machine interpreter implemented in Pascal"
+title:  "🍎 New Turing machine interpreter implemented in Pascal"
 date:   2024-04-06 19:37:00 +0100
 categories: projects turing interpreter pascal
 ---

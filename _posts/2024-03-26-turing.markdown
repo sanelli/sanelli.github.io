@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "👨🏻‍💻 Turing machine interpreters implemented in C#, C++, Python and Go"
+title:  "🍎 Turing machine interpreters implemented in C#, C++, Python and Go"
 date:   2024-03-26 21:32:03 +0100
 categories: projects turing interpreter dotnet csharp cpp python
 ---
