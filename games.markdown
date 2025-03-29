@@ -8,6 +8,7 @@ permalink: /games/
 
 | Title | Developer(s) | Publisher(s) | Console | Genre |
 |-------|--------------|--------------|---------|-------|
+| [Salt and Sanctuary](https://en.wikipedia.org/wiki/Salt_and_Sanctuary) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Soulsike](https://en.wikipedia.org/wiki/Soulslike)   |
 | [Dark Soul (Remastered)](https://en.wikipedia.org/wiki/Dark_Souls_(video_game)) | [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware) | [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Action role-playing](https://en.wikipedia.org/wiki/Action_role-playing), [Soulsike](https://en.wikipedia.org/wiki/Soulslike) |
 | [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn) | [Guerrilla Games](https://en.wikipedia.org/wiki/Guerrilla_Games) | [Sony Interactive Entertainment](https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment) | [Playstation 5](https://en.wikipedia.org/wiki/PlayStation_5) | [Action role-playing](https://en.wikipedia.org/wiki/Action_role-playing) |
 
@@ -85,7 +86,6 @@ permalink: /games/
 | Title | Developer(s) | Publisher(s) | Console | Genre | Reason |
 |-------|--------------|--------------|---------|-------|--------|
 | The Legenda Of Zelda: Skyword Sword  | | | Nintendo Switch | | Boring, bad controls 😴 |
-| Salt and Sanctuary | | | Nintendo Switch | | Too hard 🙈  |
 | Return to Monkey Island | | | Nintendo Switch | | Boring |
 | Pokkén Tournament | | | Nintendo Switch | | Boring |
 | Paper Mario: The Origami King  | | | Nintendo Switch | | Boring |

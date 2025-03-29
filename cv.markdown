@@ -6,19 +6,21 @@ permalink: /cv/
 
 ### <span style="padding-left:40px"><img style="width:1em" src="https://cdn.sanity.io/images/fuvbjjlp/production/36cbc8ae92c7711afb9ab1ec9f7174863f4d7c19-22x24.svg"/> Unity Technologies</span> <span style="font-size:0.5em">[Jun 2020 - *]</span>
 <span style="padding-left:80px">*Senior Manager, Software Engineering*</span> <span style="font-size:0.7em">[Apr 2024 - *]</span><br/>
-<span style="padding-left:80px">**Product**: <img style="width:1em" src="https://cdn.cloud.unity.com/dist/udash/app/assets/d813f41f423b810b00872d05b42e1cad.png"/> [Unity Asset Manager](https://unity.com/products/asset-manager)</span><br/><br/>
+<span style="padding-left:80px">**Activities**: `team growth`, `architecture design`, `recruiting`, `mentoring`</span><br/>
+<span style="padding-left:80px">**Product**: <img style="width:1em" src="https://cdn.cloud.unity.com/dist/udash/app/assets/d813f41f423b810b00872d05b42e1cad.png"/> [Unity Asset Manager](https://unity.com/products/asset-manager)</span><br/>
+<span style="padding-left:80px">**Frameworks**: `ASP.NET`, `MongoDb`, `Elasticsearch`, `Redis`, `Azure`</span><br/><br/>
 <span style="padding-left:80px">*Staff software engineer*</span> <span style="font-size:0.7em">[Jul 2023 - Mar 2024]</span><br/>
 <span style="padding-left:80px">**Activities**: `software architecture`, `coding`, `define standards`, `bug-fixing`</span><br/>
 <span style="padding-left:80px">**Language**: `C#`</span><br/>
 <span style="padding-left:80px">**Product**: <img style="width:1em" src="https://cdn.cloud.unity.com/dist/udash/app/assets/d813f41f423b810b00872d05b42e1cad.png"/> [Unity Asset Manager](https://unity.com/products/asset-manager)</span><br/>
-<span style="padding-left:80px">**Frameworks**: `ASP.NET`, `MongoDb`, `Elasticsearch`, `Kafka`, `Redis`, `Azure`</span><br/><br/>
+<span style="padding-left:80px">**Frameworks**: `ASP.NET`, `MongoDb`, `Elasticsearch`, `Kafka`, `Redis`, `Azure`, `GPC`</span><br/><br/>
 <span style="padding-left:80px">*Senior software engineer*</span> <span style="font-size:0.7em">[Jun 2020 - Jun 2023]</span> <br/>
 <span style="padding-left:80px">**Activities**: `software architecture`, `coding`, `bug-fixing`</span><br/>
 <span style="padding-left:80px">**Languages**: `C#`, `c++`</span><br/>
 <span style="padding-left:80px">**Product**: <img style="width:1em" src="https://cdn.cloud.unity.com/dist/udash/app/assets/d813f41f423b810b00872d05b42e1cad.png"/> [Unity Asset Manager](https://unity.com/products/asset-manager), <img style="width:1em" src="https://yt3.googleusercontent.com/3tQWvZqYFSf3AJftpTkqkaT_mtdrcodEDUg1HZeWXfSszmt--71nozoDz9_bfiupvIlU22I-=s160-c-k-c0x00ffffff-no-rj"/> [ArtEngine](https://unity.com/products/unity-artengine)</span><br/>
 <span style="padding-left:80px">**Frameworks**: `ASP.NET`, `GCP`, `Unity`, `nuklear`</span>
 
-### <span style="padding-left:40px"><img style="width:1em" src="https://yt3.googleusercontent.com/NAtgYwnczhZUtFopQG_ZcA70mAFVKEo-k1k34D8a3hfsuaW03hPFyuN83lcmvuYisseulaqNGQ=s900-c-k-c0x00ffffff-no-rj"/> Susquehanna International Group</span> <span style="font-size:0.5em">[Oct 2016 - May 2020]</span> 
+### <span style="padding-left:40px"><img style="width:1em" src="https://www.ifsc.ie/images/uploads/clients-logos/Susquehanna_logo.jpg"/> Susquehanna International Group</span> <span style="font-size:0.5em">[Oct 2016 - May 2020]</span> 
 <span style="padding-left:80px">*Software engineer*</span><br/>
 <span style="padding-left:80px">**Activities**: `software architecture`, `coding`, `bug-fixing`, `2nd-level support`</span><br/>
 <span style="padding-left:80px">**Language**: `C#`</span><br/>
