@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📝 Comment TODO analyzer"
+title:  "💭 Comment TODO analyzer"
 date:   2023-07-30 16:21:03 +0100
 categories: projects csharp nuget
 ---
