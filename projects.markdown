@@ -8,7 +8,7 @@ permalink: /projects/
 <span style="padding-left:80px">*.NET source generator for mapping classes, similar to AutoMapper.*</span><br/>
 <span style="padding-left:80px">**Tags**: `C#`, `source-generator`, `c-sharp`, `dotnet`</span>
 
-### <span style="padding-left:40px">📝 Comment TODO Analyzer</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/Todo.Analyzer) [[NuGet]](https://www.nuget.org/packages/Comment.Todo.Analyzer)</span>
+### <span style="padding-left:40px">💭 Comment TODO Analyzer</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/Todo.Analyzer) [[NuGet]](https://www.nuget.org/packages/Comment.Todo.Analyzer)</span>
 <span style="padding-left:80px">*.NET analyzer for C# enforcing coding standard to TODO comments.*</span><br/>
 <span style="padding-left:80px">**Tags**: `C#`, `analyzer`, `c-sharp`, `dotnet`</span>
 
@@ -28,7 +28,7 @@ permalink: /projects/
 <span style="padding-left:80px">*[Connect Four](https://en.wikipedia.org/wiki/Connect_Four) game implemented in `go` and `SDL2`.*</span><br/>
 <span style="padding-left:80px">**Tags**: `go`, `SDL`, `SDL2`, `game`</span>
 
-### <span style="padding-left:40px">🧑🏻‍💻 Turing machine emulators</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/turing)</span>
+### <span style="padding-left:40px">🍎 Turing machine emulators</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/turing)</span>
 <span style="padding-left:80px">*Suite of [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine) emulators implemented in various languages (C#, C++, Ada, ...)*</span><br/>
 <span style="padding-left:80px">**Tags**: `c++`, `python`, `dotnet`, `go`, `csharp`, `pascal`, `ada`, `c`, `d`, `rust`</span>
 

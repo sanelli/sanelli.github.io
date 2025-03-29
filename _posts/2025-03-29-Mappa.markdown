@@ -103,6 +103,20 @@ public partial class Mapper
 }
 ```
 
+## What's next?
+More feature are going to be added in future releases:
+- Polymorphysm
+- Allow the user to prefer arrays over list when mapping towards generic interfaces
+- Improve performances by allowing users to map using `Span<T>` and friends
+- More default mappings (e.g. `byte[]` <-> `Guid`)
+- More types supported (e.g. `ValueTuple<T>`)
+- Union types (when they will be released in .NET)
+- More support for MappaContext
+- Dependency via static class provided by Mappa Settings
+- Allow users to use `Add` method instead than using the `Indexer` when mapping dictionaries
+- Add default rules to select the source property
+- Support mapping to/from fields
+
 ## NuGet packages
 Mappa provide 6 NuGet packeges:
 - [Mappa](https://www.nuget.org/packages/Mappa/): source generator that allows to automatically generate mapping between classes and value types;
