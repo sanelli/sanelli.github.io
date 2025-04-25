@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "🗺️ Mappa: v1.0.0"
+date:   2025-04-21 21:25:03 +0100
+categories: projects csharp nuget source-generator mappa
+---
+A new version of [Mappa](https://github.com/sanelli/Mappa) (v1.1.0) has been released.
+
+## What's new?
+* [#11](https://github.com/sanelli/Mappa/issues/11) Generated method can be surrounded by `#praga warning disable` when the user setup property `PragmaWarning` in `MappaSettings` attribute;
+* [#126](https://github.com/sanelli/Mappa/issues/126) Add `DebuggerNonUserCodeAttribute` to generated methods;
+* [#137](https://github.com/sanelli/Mappa/issues/137) Removed usage of `SymbolEqualityComparer.IncludeNullability` as it does not work very well with code with mixed nullability;
+* [#122](https://github.com/sanelli/Mappa/issues/122) Improved check if a property/method can be accessed in a class;
+* [#93](https://github.com/sanelli/Mappa/issues/93) Add `MappaStaticDependency` attribute;
+* [#118](https://github.com/sanelli/Mappa/issues/118) Add support for concurrent collections (`BlockingCollection<T>`, `ConcurrentBag<T>`,  `ConcurrentStack<T>`, `ConcurrentQueue<T>`, `ConcurrentDictionary<TKey, TValue>`, `IProducerConsumerCollection`);
+* [#127](https://github.com/sanelli/Mappa/issues/127) Add warning when a property cannot be mapped.
+
+## Bug fixes
+* [#128](https://github.com/sanelli/Mappa/issues/118) In some instances Mappa emits a CS8600 warning;
+* [#121](https://github.com/sanelli/Mappa/issues/121) Fail to map `System.DateTime` to protobuf `Timestamp`.
+
+## What's next for v1.2.0?
+More feature are going to be added in future releases:
+* [#129](https://github.com/sanelli/Mappa/issues/129) Add ability to assign constant values;
+* [#53](https://github.com/sanelli/Mappa/issues/53) Better detection of implemented interfaces in case multiple interfaces of the same type are implemented by the class;
+* [#24](https://github.com/sanelli/Mappa/issues/24) Add support for faster loop iteration using `Span<T>` when possible;
+* [#34](https://github.com/sanelli/Mappa/issues/34) User should be able to select if they want to use the `Add` method or the indexer when mapping to dictionaries;
+* [#54](https://github.com/sanelli/Mappa/issues/54) When mapping from string support static `Parse` methods on the target type;
+* [#70](https://github.com/sanelli/Mappa/issues/70) Allow `MappaInvokeMethodAttribute` to support methods with `MappaMethodContext`;
+* [#47](https://github.com/sanelli/Mappa/issues/47) Add default support for mapping from `Guid` to `byte[]` and vice-versa;
+* [#118](https://github.com/sanelli/Mappa/issues/110) When targeting read-only properties of type collection Mappa should support more types (e.g. `Stack<T>`, `Queue<T>`, ...);
+
+## NuGet packages
+Mappa provide 6 NuGet packeges:
+* [Mappa](https://www.nuget.org/packages/Mappa/): source generator that allows to automatically generate mapping between classes and value types;
+* [Mappa source generator](https://www.nuget.org/packages/Mappa.Generator/): source generator that allows to automatically generate mapping between classes and value types;
+* [Mappa Protobuf](https://www.nuget.org/packages/Mappa.Dependency.Protobuf/): methods to map `Google.Protobuf.WellKnownTypes` objects from [Google.Protobuf](https://www.nuget.org/packages/Google.Protobuf) package into common objects.
+* [Mappa Protobuf dependency](https://www.nuget.org/packages/Mappa.Dependency.Protobuf.DependencyInjection/): utility methods to register the Protobuf mapper.
+* [Mappa Bson](https://www.nuget.org/packages/Mappa.Dependency.Bson/): methods to map `MongoDB.Bson` objects from [MongoDB.Bson](https://www.nuget.org/packages/MongoDB.Bson) package into common objects.
+* [Mappa Bson dependency](https://www.nuget.org/packages/Mappa.Dependency.Bson.DependencyInjection/): utility methods to register the Bson mapper.
