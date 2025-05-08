@@ -8,6 +8,7 @@ permalink: /books/
 
 | Title                             | Author(s)                         | Lang | Year | Genre     | Finished    | Rating       |
 |-----------------------------------|-----------------------------------|------|------|-----------|-------------|--------------|
+| [Young Mungo](https://en.wikipedia.org/wiki/Young_Mungo) | [Douglas Stuart](https://en.wikipedia.org/wiki/Douglas_Stuart_(writer)) | 🇬🇧 | 2022 | Memoir | 2025/May/08 | ⭐️⭐️⭐️⭐️⭐️ |
 | [Programming Rust (Second edition)](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/) | Jim Blandy, Jason Orendorff, Leonora F. S. Tindall | 🇺🇸 | 2021 | Tech | 2025/Apr/25 | ⭐️⭐️⭐️⭐️⭐️ |
 | [La tregua](https://it.wikipedia.org/wiki/La_tregua_(Primo_Levi)) | [Primo Levi](https://it.wikipedia.org/wiki/Primo_Levi) | 🇮🇹 | 1963 | Memoir | 2025/Jan/02 | ⭐️⭐️⭐️ |
 
