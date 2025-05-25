@@ -8,6 +8,7 @@ permalink: /movies/
 
 | Title | Directed/Created by | Lang | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
+| [The Super Mario Bros. Movie](https://en.wikipedia.org/wiki/The_Super_Mario_Bros._Movie) | [Aaron Horvath](https://en.wikipedia.org/wiki/Aaron_Horvath), [Michael Jelenic](https://en.wikipedia.org/wiki/Michael_Jelenic) | 🇺🇸 | 2023 | Animated adventure comedy film | 2025/May/05 | ⭐️⭐️⭐️ |
 | [Deadpool & Wolverine](https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine) | [Shawn Levy](https://en.wikipedia.org/wiki/Shawn_Levy) | 🇺🇸 | 2024 | Superhero | 2025/May/02 | ⭐️⭐️⭐️ |
 | [Buffy the Vampire Slayer (Season 1)](https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer_season_1) | [Joss Whedon](https://en.wikipedia.org/wiki/Joss_Whedon) | 🇺🇸 | 1997 | Supernatural Drama | 2025/Apr/16 | ⭐️⭐️⭐️⭐️ |
 | [Sing](https://en.wikipedia.org/wiki/Sing_(2016_American_film)) | [Garth Jennings](https://en.wikipedia.org/wiki/Garth_Jennings), [Illumination](https://en.wikipedia.org/wiki/Illumination_(company)) | 🇺🇸 | 2016 | Jukebox musical comedy | 2025/Jan/07 | ⭐️⭐️⭐️ |
