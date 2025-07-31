@@ -8,6 +8,7 @@ permalink: /movies/
 
 | Title | Directed/Created by | Lang | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
+| [Spider-Man: Across the Spider-Verse](https://en.wikipedia.org/wiki/Spider-Man:_Across_the_Spider-Verse) | [Joaquim Dos Santos](https://en.wikipedia.org/wiki/Joaquim_Dos_Santos), [Kemp Powers](https://en.wikipedia.org/wiki/Kemp_Powers), [Justin K. Thompson](https://en.wikipedia.org/wiki/Justin_K._Thompson) | 🇺🇸 | 2023 | Superhero film | 2025/Jul/31 | ⭐️⭐️⭐️⭐️⭐️ |
 | [Superman (2025)](https://en.wikipedia.org/wiki/Superman_(2025_film)) | [James Gunn](https://en.wikipedia.org/wiki/James_Gunn) | 🇺🇸 | 2025 | Superhero film | 2025/Jul/21 | ⭐️⭐️⭐️⭐️⭐️ |
 | [The boy and the Heron](https://en.wikipedia.org/wiki/The_Boy_and_the_Heron) | [Hayao Miyazaki](https://en.wikipedia.org/wiki/Hayao_Miyazaki) | 🇮🇹 | 2025 | Japanese animated fantasy film | 2025/Jun/08 | ⭐️⭐️⭐️ |
 | [Captain America: Brave New World](https://en.wikipedia.org/wiki/Captain_America:_Brave_New_World) | [Julius Onah](https://en.wikipedia.org/wiki/Julius_Onah) | 🇺🇸 | 2025 | Superhero film | 2025/May/28 | ⭐️⭐️⭐️⭐️ |
