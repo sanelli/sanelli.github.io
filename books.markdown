@@ -8,6 +8,7 @@ permalink: /books/
 
 | Title                             | Author(s)                         | Lang | Year | Genre     | Finished    | Rating       |
 |-----------------------------------|-----------------------------------|------|------|-----------|-------------|--------------|
+| [Evenings and Weekends](https://it.wikipedia.org/wiki/Le_intermittenze_della_morte) | [José Saramago](https://it.wikipedia.org/wiki/José_Saramago) | 🇮🇹 | 2005 | novel | 2025/Aug/24 | ⭐️⭐️⭐️⭐️ |
 | [Evenings and Weekends](https://www.amazon.ie/Evenings-Weekends-book-summer-Dazed/dp/0008604177/ref=asc_df_0008604177) | Oisín McKenna | 🇬🇧 | 2024 | novel | 2025/Jul/02 | ⭐️⭐️⭐️⭐️ |
 | [the hours](https://en.wikipedia.org/wiki/The_Hours_(novel)) | [Michael Cunningham](https://en.wikipedia.org/wiki/Michael_Cunningham) | 🇬🇧 | 1998 | novel | 2025/May/25 | ⭐️⭐️⭐️⭐️ |
 | [Young Mungo](https://en.wikipedia.org/wiki/Young_Mungo) | [Douglas Stuart](https://en.wikipedia.org/wiki/Douglas_Stuart_(writer)) | 🇬🇧 | 2022 | Coming-of-age, gay novel | 2025/May/08 | ⭐️⭐️⭐️⭐️⭐️ |
