@@ -8,6 +8,7 @@ permalink: /movies/
 
 | Title | Directed/Created by | Lang | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
+| [Thunderbolts* ](https://en.wikipedia.org/wiki/Thunderbolts*) | [Jake Schreier](https://en.wikipedia.org/wiki/Jake_Schreier), [Richard O'Brien](https://en.wikipedia.org/wiki/Richard_O%27Brien)| 🇺🇸 | 2025 | superhero film | 2025/Aug/24 | ⭐️⭐️ |
 | [The Rocky Horror Picture Show](https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show) | [Jim Sharman](https://en.wikipedia.org/wiki/Jim_Sharman), [Richard O'Brien](https://en.wikipedia.org/wiki/Richard_O%27Brien)| 🇺🇸 | 1975 | musical comedy horror film | 2025/Aug/23 | ⭐️⭐️⭐️⭐️⭐️ |
 | [Spider-Man: Across the Spider-Verse](https://en.wikipedia.org/wiki/Spider-Man:_Across_the_Spider-Verse) | [Joaquim Dos Santos](https://en.wikipedia.org/wiki/Joaquim_Dos_Santos), [Kemp Powers](https://en.wikipedia.org/wiki/Kemp_Powers), [Justin K. Thompson](https://en.wikipedia.org/wiki/Justin_K._Thompson) | 🇺🇸 | 2023 | Superhero film | 2025/Jul/31 | ⭐️⭐️⭐️⭐️⭐️ |
 | [Superman (2025)](https://en.wikipedia.org/wiki/Superman_(2025_film)) | [James Gunn](https://en.wikipedia.org/wiki/James_Gunn) | 🇺🇸 | 2025 | Superhero film | 2025/Jul/21 | ⭐️⭐️⭐️⭐️⭐️ |
@@ -19,7 +20,6 @@ permalink: /movies/
 | [Sing](https://en.wikipedia.org/wiki/Sing_(2016_American_film)) | [Garth Jennings](https://en.wikipedia.org/wiki/Garth_Jennings), [Illumination](https://en.wikipedia.org/wiki/Illumination_(company)) | 🇺🇸 | 2016 | Jukebox musical comedy | 2025/Jan/07 | ⭐️⭐️⭐️ |
 | [Cunk on Earth](https://en.wikipedia.org/wiki/Cunk_on_Earth) | [Charlie Brooker](https://en.wikipedia.org/wiki/Charlie_Brooker) | 🇺🇸 | 2022 | Mockumentary | 2025/Jan/04 | ⭐️⭐️⭐️⭐️ |
 | [Chicken Run: Dawn of the Nugget](https://en.wikipedia.org/wiki/Chicken_Run:_Dawn_of_the_Nugget) | [Sam Fell](https://en.wikipedia.org/wiki/Sam_Fell) | 🇺🇸 | 2023 | Comedy | 2025/Jan/03 | ⭐️⭐️ |
-
 
 ## 2024
 
