@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 💼 Curriculum
+title: 💼 CV
 permalink: /cv/
 ---
 
