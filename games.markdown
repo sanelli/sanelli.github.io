@@ -8,9 +8,37 @@ permalink: /games/
 
 | Title | Developer(s) | Publisher(s) | Console | Genre |
 |-------|--------------|--------------|---------|-------|
-| [Salt and Sanctuary](https://en.wikipedia.org/wiki/Salt_and_Sanctuary) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Soulsike](https://en.wikipedia.org/wiki/Soulslike)   |
-| [Dark Soul (Remastered)](https://en.wikipedia.org/wiki/Dark_Souls_(video_game)) | [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware) | [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Action role-playing](https://en.wikipedia.org/wiki/Action_role-playing), [Soulsike](https://en.wikipedia.org/wiki/Soulslike) |
-| [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn) | [Guerrilla Games](https://en.wikipedia.org/wiki/Guerrilla_Games) | [Sony Interactive Entertainment](https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment) | [Playstation 5](https://en.wikipedia.org/wiki/PlayStation_5) | [Action role-playing](https://en.wikipedia.org/wiki/Action_role-playing) |
+| [Hollow Knight: Silksong](https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong) | Team Cherry |  Team Cherry | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | [Metroidvania](https://en.wikipedia.org/wiki/Metroidvania) |
+
+## Backlog
+
+| Status | Title | Developer(s) | Publisher(s) | Console | Genre |
+|:-------:|--------------|--------------|---------|-------|
+| ⏸️ | [Salt and Sanctuary](https://en.wikipedia.org/wiki/Salt_and_Sanctuary) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | [Soulsike](https://en.wikipedia.org/wiki/Soulslike)   |
+| ⏸️ | [Dark Soul (Remastered)](https://en.wikipedia.org/wiki/Dark_Souls_(video_game)) | [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware) | [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | [Action role-playing](https://en.wikipedia.org/wiki/Action_role-playing), [Soulsike](https://en.wikipedia.org/wiki/Soulslike) |
+| ⏸️ | [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn) | [Guerrilla Games](https://en.wikipedia.org/wiki/Guerrilla_Games) | [Sony Interactive Entertainment](https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment) | [Playstation 5](https://en.wikipedia.org/wiki/PlayStation_5) | [Action role-playing](https://en.wikipedia.org/wiki/Action_role-playing) |
+| ⏸️ | [Cyberpunk 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077) | [CD Projekt Red](https://en.wikipedia.org/wiki/CD_Projekt_Red) | [CD Projekt](https://en.wikipedia.org/wiki/CD_Projekt) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | [action role-playing game](https://en.wikipedia.org/wiki/Action_role-playing_game) |
+| 🧞 | [Hades](https://en.wikipedia.org/wiki/Hades_(video_game)) | [Supergiant Games](https://en.wikipedia.org/wiki/Supergiant_Games) | [Supergiant Games](https://en.wikipedia.org/wiki/Supergiant_Games) |  | [roguelike](https://en.wikipedia.org/wiki/Roguelike) [action role-playing game](https://en.wikipedia.org/wiki/Action_role-playing_game) |
+| 🧞 | [Hades II](https://en.wikipedia.org/wiki/Hades_II) | [Supergiant Games](https://en.wikipedia.org/wiki/Supergiant_Games) | [Supergiant Games](https://en.wikipedia.org/wiki/Supergiant_Games) |  | [roguelike](https://en.wikipedia.org/wiki/Roguelike) [action role-playing game](https://en.wikipedia.org/wiki/Action_role-playing_game) |
+| 🧞 | [Donkey Kong Bananza](https://en.wikipedia.org/wiki/Donkey_Kong_Bananza) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | [Platformer](https://en.wikipedia.org/wiki/Platformer) |
+| 🧞 | [Xenoblade Chronicles X: Definitive Edition](https://en.wikipedia.org/wiki/Xenoblade_Chronicles_X#Definitive_Edition) | [Monolith Soft](https://en.wikipedia.org/wiki/Monolith_Soft) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | [action role-playing game](https://en.wikipedia.org/wiki/Action_role-playing_game) |
+| 🧞 | [Pokémon Legends: Z-A](https://en.wikipedia.org/wiki/Pokémon_Legends:_Z-A) | [Game Freak](https://en.wikipedia.org/wiki/Game_Freak) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | [action role-playing game](https://en.wikipedia.org/wiki/Action_role-playing_game) |
+| 🧞 | [Pokémon Legends: Z-A DLC](https://en.wikipedia.org/wiki/Pokémon_Legends:_Z-A) | [Game Freak](https://en.wikipedia.org/wiki/Game_Freak) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | [action role-playing game](https://en.wikipedia.org/wiki/Action_role-playing_game) |
+| 🧞 | [Hyrule Warriors: Age of Imprisonment](https://en.wikipedia.org/wiki/Hyrule_Warriors:_Age_of_Imprisonment) | [AAA Games Studio](https://en.wikipedia.org/wiki/AAA_Games_Studio) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2)  | [Hack and slash](https://en.wikipedia.org/wiki/Hack_and_slash) |
+| 🛑 | The Legenda Of Zelda: Skyword Sword |  |  |  |  |
+| 🛑 | Return to Monkey Island |  |  |  |
+| 🛑 | Paper Mario: The Origami King   |  |  |  |
+| 🛑 | Pokkén Tournament  |  |  |  |
+| 🛑 | Grim Fandango |  |  |  |
+| 🧞 | God of War |  |  |  |
+| 🧞 | God of War Ragnarök |  |  |  |
+| 🧞 | Resident Evil: Village |  |  |  |
+| 🧞 | LIttle Nightmares II |  |  |  |
+| 🧞 | Dark Souls 2 |  |  |  |
+| 🧞 | Dark Souls 3 |  |  |  |
+| 🧞 | Lost in Random |  |  |  |
+| 🧞 | Genshin Impact |  |  |  |
+| 🧞 | Sonic Frontiers |  |  |  |
 
 ## 2025
 
@@ -80,14 +108,3 @@ permalink: /games/
 | Pokémon Shield | | | Nintendo Switch | |  | ⭐️⭐️⭐️⭐️ |
 | Xenoblade Chronicles 2 | | | Nintendo Switch | |  | ⭐️⭐️⭐️⭐️ |
 | Wonder Boy: The dragon's trap | | | Nintendo Switch | |  | ⭐️⭐️⭐️⭐️⭐️ |
-
-## Abandoned
-
-| Title | Developer(s) | Publisher(s) | Console | Genre | Reason |
-|-------|--------------|--------------|---------|-------|--------|
-| The Legenda Of Zelda: Skyword Sword  | | | Nintendo Switch | | Boring, bad controls 😴 |
-| Return to Monkey Island | | | Nintendo Switch | | Boring |
-| Pokkén Tournament | | | Nintendo Switch | | Boring |
-| Paper Mario: The Origami King  | | | Nintendo Switch | | Boring |
-| Grim Fandango  | | | Nintendo Switch | | Boring |
-| Capcom fighting collection | | | Nintendo Switch | | Too hard 🙈 |
