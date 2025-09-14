@@ -39,6 +39,8 @@ permalink: /games/
 | 🧞 | Lost in Random |  |  |  |
 | 🧞 | Genshin Impact |  |  |  |
 | 🧞 | Sonic Frontiers |  |  |  |
+| 🧞 | [Death Stranding](https://en.wikipedia.org/wiki/Death_Stranding) | [Kojima Productions](https://en.wikipedia.org/wiki/Kojima_Productions) | [Sony](https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment) | [PlayStation 5](https://en.wikipedia.org/wiki/PlayStation_5) | `action-adventure` |
+| 🧞 | [Death Stranding 2: On the Beach](https://en.wikipedia.org/wiki/Death_Stranding_2:_On_the_Beach) | [Kojima Productions](https://en.wikipedia.org/wiki/Kojima_Productions) | [Sony](https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment) | [PlayStation 5](https://en.wikipedia.org/wiki/PlayStation_5) | `action-adventure` |
 
 ## 2025
 
