@@ -14,6 +14,8 @@ permalink: /games/
 
 | Status | Title | Developer(s) | Publisher(s) | Console | Genre |
 |:-------:|--------------|--------------|---------|-------|
+| 💸 (2025/oct/16) | [Pokémon Legends: Z-A](https://en.wikipedia.org/wiki/Pokémon_Legends:_Z-A) | [Game Freak](https://en.wikipedia.org/wiki/Game_Freak) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | [action role-playing game](https://en.wikipedia.org/wiki/Action_role-playing_game) |
+| 💸 (2025/nov/6)| [Hyrule Warriors: Age of Imprisonment](https://en.wikipedia.org/wiki/Hyrule_Warriors:_Age_of_Imprisonment) | [AAA Games Studio](https://en.wikipedia.org/wiki/AAA_Games_Studio) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2)  | [Hack and slash](https://en.wikipedia.org/wiki/Hack_and_slash) |
 | ⏸️ | [Salt and Sanctuary](https://en.wikipedia.org/wiki/Salt_and_Sanctuary) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | [Soulsike](https://en.wikipedia.org/wiki/Soulslike)   |
 | ⏸️ | [Dark Soul (Remastered)](https://en.wikipedia.org/wiki/Dark_Souls_(video_game)) | [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware) | [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | [Action role-playing](https://en.wikipedia.org/wiki/Action_role-playing), [Soulsike](https://en.wikipedia.org/wiki/Soulslike) |
 | ⏸️ | [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn) | [Guerrilla Games](https://en.wikipedia.org/wiki/Guerrilla_Games) | [Sony Interactive Entertainment](https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment) | [Playstation 5](https://en.wikipedia.org/wiki/PlayStation_5) | [Action role-playing](https://en.wikipedia.org/wiki/Action_role-playing) |
@@ -22,9 +24,7 @@ permalink: /games/
 | 🧞 | [Hades II](https://en.wikipedia.org/wiki/Hades_II) | [Supergiant Games](https://en.wikipedia.org/wiki/Supergiant_Games) | [Supergiant Games](https://en.wikipedia.org/wiki/Supergiant_Games) |  | [roguelike](https://en.wikipedia.org/wiki/Roguelike) [action role-playing game](https://en.wikipedia.org/wiki/Action_role-playing_game) |
 | 🧞 | [Donkey Kong Bananza](https://en.wikipedia.org/wiki/Donkey_Kong_Bananza) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | [Platformer](https://en.wikipedia.org/wiki/Platformer) |
 | 🧞 | [Xenoblade Chronicles X: Definitive Edition](https://en.wikipedia.org/wiki/Xenoblade_Chronicles_X#Definitive_Edition) | [Monolith Soft](https://en.wikipedia.org/wiki/Monolith_Soft) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | [action role-playing game](https://en.wikipedia.org/wiki/Action_role-playing_game) |
-| 🧞 | [Pokémon Legends: Z-A](https://en.wikipedia.org/wiki/Pokémon_Legends:_Z-A) | [Game Freak](https://en.wikipedia.org/wiki/Game_Freak) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | [action role-playing game](https://en.wikipedia.org/wiki/Action_role-playing_game) |
 | 🧞 | [Pokémon Legends: Z-A DLC](https://en.wikipedia.org/wiki/Pokémon_Legends:_Z-A) | [Game Freak](https://en.wikipedia.org/wiki/Game_Freak) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | [action role-playing game](https://en.wikipedia.org/wiki/Action_role-playing_game) |
-| 🧞 | [Hyrule Warriors: Age of Imprisonment](https://en.wikipedia.org/wiki/Hyrule_Warriors:_Age_of_Imprisonment) | [AAA Games Studio](https://en.wikipedia.org/wiki/AAA_Games_Studio) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2)  | [Hack and slash](https://en.wikipedia.org/wiki/Hack_and_slash) |
 | 🛑 | The Legenda Of Zelda: Skyword Sword |  |  |  |  |
 | 🛑 | Return to Monkey Island |  |  |  |
 | 🛑 | Paper Mario: The Origami King   |  |  |  |
@@ -66,21 +66,21 @@ permalink: /games/
 
 | Title | Developer(s) | Publisher(s) | Console | Genre | Completed on | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
-| Pokemon Violet | | | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | | 10/Dec/2022 | ⭐️⭐️⭐️ |
-| Mario + Rabbids Sparks of Hope | | | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | | 15/Nov/2022 | ⭐️⭐️⭐️⭐️ |
-| Xenoblade Chronicles 3 | | | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | | 08/Sep/2022 | ⭐️⭐️⭐️⭐️ |
-| Pokemon Legends: Arceus | | | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | | 18/Mar/2022 | ⭐️⭐️⭐️⭐️ |
+| [Pokemon Violet](https://en.wikipedia.org/wiki/Pokémon_Scarlet_and_Violet) | [game Freak](https://en.wikipedia.org/wiki/Game_Freak)| [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | | 10/Dec/2022 | ⭐️⭐️⭐️ |
+| [Mario + Rabbids Sparks of Hope](https://en.wikipedia.org/wiki/Mario_%2B_Rabbids_Sparks_of_Hope) | [Ubisoft Milan](https://en.wikipedia.org/wiki/Ubisoft_Milan), [Ubisoft Paris](https://en.wikipedia.org/wiki/Ubisoft_Paris) | [Ubisoft](https://en.wikipedia.org/wiki/Ubisoft) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Action adventure](https://en.wikipedia.org/wiki/Action-adventure_game), [Tactical role-playing](https://en.wikipedia.org/wiki/Tactical_role-playing_game) | 15/Nov/2022 | ⭐️⭐️⭐️⭐️ |
+| [Xenoblade Chronicles 3](https://en.wikipedia.org/wiki/Xenoblade_Chronicles_3) | [Monolith Soft](https://en.wikipedia.org/wiki/Monolith_Soft) | | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Action role-playing](https://en.wikipedia.org/wiki/Action_role-playing_game) | 08/Sep/2022 | ⭐️⭐️⭐️⭐️ |
+| [Pokemon Legends: Arceus](https://en.wikipedia.org/wiki/Pokémon_Legends:_Arceus) | | | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Action role-playing](https://en.wikipedia.org/wiki/Action_role-playing_game) | 18/Mar/2022 | ⭐️⭐️⭐️⭐️ |
 
 ## 2021
 
 | Title | Developer(s) | Publisher(s) | Console | Genre | Completed on | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
-| Pokémon Brillant Diamond | | | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | | 10/Dec/2021 | ⭐️⭐️ |
-| Metroid Dread | | | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | | 09/Nov/2021 | ⭐️⭐️⭐️⭐️ |
-| Little Nightmares Complete Edition | | | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | | 16/Oct/2021 | ⭐️⭐️⭐️ |
+| Pokémon Brillant Diamond | [ILCA](https://en.wikipedia.org/wiki/ILCA_(company)) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Role-playing](https://en.wikipedia.org/wiki/Role-playing_video_game) | 10/Dec/2021 | ⭐️⭐️ |
+| [Metroid Dread](https://en.wikipedia.org/wiki/Metroid_Dread) | [MercurySteam](https://en.wikipedia.org/wiki/MercurySteam), [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo)  | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Bandai Namco Entertainment](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) | 09/Nov/2021 | ⭐️⭐️⭐️⭐️ |
+| [Little Nightmares](https://en.wikipedia.org/wiki/Little_Nightmares) | [Tarsier Studios](https://en.wikipedia.org/wiki/Tarsier_Studios) | | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | | 16/Oct/2021 | ⭐️⭐️⭐️ |
 | [Xenoblade Chronicles Definitive Edition](https://en.wikipedia.org/wiki/Xenoblade_Chronicles_(video_game)#Xenoblade_Chronicles:_Definitive_Edition) | [Monolith Soft](https://en.wikipedia.org/wiki/Monolith_Soft) |  [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Adventure role-playing](https://en.wikipedia.org/wiki/Action_role-playing) | 07/Oct/2021 | ⭐️⭐️⭐️⭐️⭐️ |
 | [The first tree](https://en.wikipedia.org/wiki/The_First_Tree) | David Wehle | David Wehle | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Adventure](https://en.wikipedia.org/wiki/Adventure_game) | 11/Jul/2021 | ⭐️ |
-| Ori and the will of the wisp | [Moon Studios](https://en.wikipedia.org/wiki/Moon_Studios) | [Microsoft Studios](https://en.wikipedia.org/wiki/Microsoft_Studios) | Nintendo Switch | [Platform-adventure](https://en.wikipedia.org/wiki/Platform_game#Platform-adventure_games), [Metroidvania](https://en.wikipedia.org/wiki/Metroidvania) | 11/Jul/2021| ⭐️⭐️⭐️ |
+| [Ori and the Will of the Wisps](https://en.wikipedia.org/wiki/Ori_and_the_Will_of_the_Wisps) | [Moon Studios](https://en.wikipedia.org/wiki/Moon_Studios) | [Microsoft Studios](https://en.wikipedia.org/wiki/Microsoft_Studios) | Nintendo Switch | [Platform-adventure](https://en.wikipedia.org/wiki/Platform_game#Platform-adventure_games), [Metroidvania](https://en.wikipedia.org/wiki/Metroidvania) | 11/Jul/2021| ⭐️⭐️⭐️ |
 | [Hollow Knight](https://en.wikipedia.org/wiki/Hollow_Knight) | Team Cherry | Team Cherry | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Metroidvania](https://en.wikipedia.org/wiki/Metroidvania) | 15/Apr/2021 | ⭐️⭐️⭐️⭐️⭐️ |
 | [Super Mario 3D World + Bowser's fury](https://en.wikipedia.org/wiki/Super_Mario_3D_World#Super_Mario_3D_World_+_Bowser's_Fury) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Platform](https://en.wikipedia.org/wiki/Platform_game) | 02/Mar/2021 | ⭐️⭐️⭐️ |
 | [Super Mario 3D World](https://en.wikipedia.org/wiki/Super_Mario_3D_World#) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | Nintendo Switch | [Platform](https://en.wikipedia.org/wiki/Platform_game) | 27/Feb/2021 | ⭐️⭐️⭐️ |
@@ -91,8 +91,24 @@ permalink: /games/
 
 | Title | Developer(s) | Publisher(s) | Console | Genre | Completed on | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
-| [Hyrule Warrios: Age Of Calamity](https://en.wikipedia.org/wiki/Hyrule_Warriors:_Age_of_Calamity) | [Omega Force](https://en.wikipedia.org/wiki/Omega_Force) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | Nintendo Switch | [Hack and slash](https://en.wikipedia.org/wiki/Hack_and_slash) | 03/Dec/2020 | ⭐️⭐️⭐️ |
-| [Ori and the blind forest](https://en.wikipedia.org/wiki/Ori_and_the_Blind_Forest) | [Moon Studios](https://en.wikipedia.org/wiki/Moon_Studios) | [Microsoft Studios](https://en.wikipedia.org/wiki/Microsoft_Studios) | Nintendo SWitch | [Platform-adventure](https://en.wikipedia.org/wiki/Platform_game#Platform-adventure_games), [Metroidvania](https://en.wikipedia.org/wiki/Metroidvania) | 30/Sep/2020 | ⭐️⭐️⭐️⭐️ |
+| [Hyrule Warrios: Age Of Calamity](https://en.wikipedia.org/wiki/Hyrule_Warriors:_Age_of_Calamity) | [Omega Force](https://en.wikipedia.org/wiki/Omega_Force) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) |[Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Platform](https://en.wikipedia.org/wiki/Platform_game) | [Hack and slash](https://en.wikipedia.org/wiki/Hack_and_slash) | 03/Dec/2020 | ⭐️⭐️⭐️ |
+| [Ori and the blind forest](https://en.wikipedia.org/wiki/Ori_and_the_Blind_Forest) | [Moon Studios](https://en.wikipedia.org/wiki/Moon_Studios) | [Microsoft Studios](https://en.wikipedia.org/wiki/Microsoft_Studios) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Platform](https://en.wikipedia.org/wiki/Platform_game) | [Platform-adventure](https://en.wikipedia.org/wiki/Platform_game#Platform-adventure_games), [Metroidvania](https://en.wikipedia.org/wiki/Metroidvania) | 30/Sep/2020 | ⭐️⭐️⭐️⭐️ |
+
+## 2019
+
+| Title | Developer(s) | Publisher(s) | Console | Genre | Completed on | Score |
+|-------|--------------|--------------|---------|-------|--------------|-------|
+| [Pokémon Shield](https://en.wikipedia.org/wiki/Pokémon_Sword_and_Shield) | [Game Freak](https://en.wikipedia.org/wiki/Game_Freak) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Role playing](https://en.wikipedia.org/wiki/Role-playing_video_game) | | ⭐️⭐️⭐️⭐️ |
+| [Luigi's Mansion 3](https://en.wikipedia.org/wiki/Luigi%27s_Mansion_3) | [Next Level Games](https://en.wikipedia.org/wiki/Next_Level_Games)| [Nintendo](https://en.wikipedia.org/wiki/Nintendo)  | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Action adventure](https://en.wikipedia.org/wiki/Action-adventure_game) |  | ⭐️⭐️⭐️⭐️ |
+| [Xenoblade Chronicles 2](https://en.wikipedia.org/wiki/Xenoblade_Chronicles_2) | [Monolith Soft](https://en.wikipedia.org/wiki/Monolith_Soft) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Action role-playing](https://en.wikipedia.org/wiki/Action_role-playing_game) |  | ⭐️⭐️⭐️⭐️ |
+
+## 2018
+
+| Title | Developer(s) | Publisher(s) | Console | Genre | Completed on | Score |
+|-------|--------------|--------------|---------|-------|--------------|-------|
+| [Pokémon: Let's Go Pikachu](https://en.wikipedia.org/wiki/Pokémon:_Let%27s_Go,_Pikachu!_and_Let%27s_Go,_Eevee!) | [Game Freak](https://en.wikipedia.org/wiki/Game_Freak) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Role playing](https://en.wikipedia.org/wiki/Role-playing_video_game) |  | ⭐️⭐️ |
+| [Super Mario Odissey](https://en.wikipedia.org/wiki/Super_Mario_Odyssey) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Platformer](https://en.wikipedia.org/wiki/Platform_game) |  | ⭐️⭐️⭐️⭐️⭐️ |
+| [The Legend of Zelda: Breath of the Wild ](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild)| [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Action adventure](https://en.wikipedia.org/wiki/Action-adventure_game) |  | ⭐️⭐️⭐️⭐️⭐️ |
 
 
 ## Past
@@ -100,13 +116,7 @@ permalink: /games/
 | Title | Developer(s) | Publisher(s) | Console | Genre | Completed on | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
 | Super Mario Deluxe | | | Nintendo Switch | |  | ⭐️⭐️⭐️⭐️ |
-| Luigi's Mansion 3 | | | Nintendo Switch | |  | ⭐️⭐️⭐️⭐️ |
-| The Legend of Zelda: Breath of the Wild | | | Nintendo Switch | |  | ⭐️⭐️⭐️⭐️⭐️ |
 | The Legend of Zelda: Links awakening | | | Nintendo Switch | |  | ⭐️⭐️⭐️⭐️ |
-| Super Mario Odissey | | | Nintendo Switch | |  | ⭐️⭐️⭐️⭐️⭐️ |
 | Mario + Rabbids: Kingdom Battle | | | Nintendo Switch | |  | ⭐️⭐️⭐️⭐️ |
-| Pokémon: Let's Go Pikachu | | | Nintendo Switch | |  | ⭐️⭐️ |
 | Mario Kart Deluxe 8 | | | Nintendo Switch | |  | ⭐️⭐️⭐️ |
-| Pokémon Shield | | | Nintendo Switch | |  | ⭐️⭐️⭐️⭐️ |
-| Xenoblade Chronicles 2 | | | Nintendo Switch | |  | ⭐️⭐️⭐️⭐️ |
 | Wonder Boy: The dragon's trap | | | Nintendo Switch | |  | ⭐️⭐️⭐️⭐️⭐️ |
