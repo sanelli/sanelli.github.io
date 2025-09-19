@@ -79,20 +79,20 @@ permalink: /games/
 | [Pokémon: Let's Go Pikachu](https://en.wikipedia.org/wiki/Pokémon:_Let%27s_Go,_Pikachu!_and_Let%27s_Go,_Eevee!) | [Game Freak](https://en.wikipedia.org/wiki/Game_Freak) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Role playing](https://en.wikipedia.org/wiki/Role-playing_video_game) |  | ⭐️⭐️ |
 | [Super Mario Odissey](https://en.wikipedia.org/wiki/Super_Mario_Odyssey) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Platformer](https://en.wikipedia.org/wiki/Platform_game) |  | ⭐️⭐️⭐️⭐️⭐️ |
 | [The Legend of Zelda: Breath of the Wild ](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild)| [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Action adventure](https://en.wikipedia.org/wiki/Action-adventure_game) |  | ⭐️⭐️⭐️⭐️⭐️ |
-| [Wonder Boy: The dragon's trap](https://en.wikipedia.org/wiki/Wonder_Boy:_The_Dragon%27s_Trap) | Lizardcube | [Headup Games](https://en.wikipedia.org/wiki/Headup_Games) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Platformer](https://en.wikipedia.org/wiki/Platform_game)| |  | ⭐️⭐️⭐️⭐️⭐️ |
+| [Wonder Boy: The dragon's trap](https://en.wikipedia.org/wiki/Wonder_Boy:_The_Dragon%27s_Trap) | Lizardcube | [Headup Games](https://en.wikipedia.org/wiki/Headup_Games) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Platformer](https://en.wikipedia.org/wiki/Platform_game)| | ⭐️⭐️⭐️⭐️⭐️ |
 
 ## Past
 
 | Title | Developer(s) | Publisher(s) | Console | Genre | Completed on | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
-| Super Mario Deluxe | | | Nintendo Switch | |  | ⭐️⭐️⭐️⭐️ |
-| Mario + Rabbids: Kingdom Battle | | | Nintendo Switch | |  | ⭐️⭐️⭐️⭐️ |
-| Mario Kart Deluxe 8 | | | Nintendo Switch | |  | ⭐️⭐️⭐️ |
+| [New Super Mario Bros. U Deluxe](https://en.wikipedia.org/wiki/New_Super_Mario_Bros._U ) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Platformer](https://en.wikipedia.org/wiki/Platformer) |  | ⭐️⭐️⭐️⭐️ |
+| [Mario + Rabbids Kingdom Battle](https://en.wikipedia.org/wiki/Mario_%2B_Rabbids_Kingdom_Battle) | [Ubisoft Milan](https://en.wikipedia.org/wiki/Ubisoft_Milan), [Ubisoft Paris](https://en.wikipedia.org/wiki/Ubisoft_Paris)  | [Ubisoft](https://en.wikipedia.org/wiki/Ubisoft) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [action-adventure](https://en.wikipedia.org/wiki/Action-adventure_game), [tactical role-playing](https://en.wikipedia.org/wiki/Tactical_role-playing_game) |  | ⭐️⭐️⭐️⭐️ |
+| [Mario Kart 8 Deluxe](https://en.wikipedia.org/wiki/Mario_Kart_8) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [kart racing](https://en.wikipedia.org/wiki/Kart_racing_game) |  | ⭐️⭐️⭐️ |
 
 ## Backlog
 
 | Status | Title | Developer(s) | Publisher(s) | Console | Genre |
-|:-------:|--------------|--------------|---------|-------|
+|:------:|-------|--------------|--------------|---------|-------|
 | 💸 (2025/oct/16) | [Pokémon Legends: Z-A](https://en.wikipedia.org/wiki/Pokémon_Legends:_Z-A) | [Game Freak](https://en.wikipedia.org/wiki/Game_Freak) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | [action role-playing game](https://en.wikipedia.org/wiki/Action_role-playing_game) |
 | 💸 (2025/nov/6)| [Hyrule Warriors: Age of Imprisonment](https://en.wikipedia.org/wiki/Hyrule_Warriors:_Age_of_Imprisonment) | [AAA Games Studio](https://en.wikipedia.org/wiki/AAA_Games_Studio) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2)  | [Hack and slash](https://en.wikipedia.org/wiki/Hack_and_slash) |
 | ⏸️ | [Salt and Sanctuary](https://en.wikipedia.org/wiki/Salt_and_Sanctuary) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | [Soulsike](https://en.wikipedia.org/wiki/Soulslike)   |
@@ -109,14 +109,14 @@ permalink: /games/
 | 🛑 | Paper Mario: The Origami King   |  |  |  |
 | 🛑 | Pokkén Tournament  |  |  |  |
 | 🛑 | Grim Fandango |  |  |  |
-| 🧞 | God of War |  |  |  |
-| 🧞 | God of War Ragnarök |  |  |  |
+| 🧞 | [God of War](https://en.wikipedia.org/wiki/God_of_War_(2005_video_game)#Novel) |  |  |  |
+| 🧞 | [God of War Ragnarök](https://en.wikipedia.org/wiki/God_of_War_Ragnarök) |  |  |  |
 | 🧞 | Resident Evil: Village |  |  |  |
 | 🧞 | [Little Nightmares II](https://en.wikipedia.org/wiki/Little_Nightmares_II) |  |  |  |
 | 🧞  (2025/Oct/10) | [Little Nightmares III](https://en.wikipedia.org/wiki/Little_Nightmares_III) |  |  |  |
 | 🧞 | Dark Souls 2 |  |  |  |
 | 🧞 | Dark Souls 3 |  |  |  |
-| 🧞 | Lost in Random |  |  |  |
+| 🧞 | [Lost in Random](https://en.wikipedia.org/wiki/Lost_in_Random) |  |  |  |
 | 🧞 | Genshin Impact |  |  |  |
 | 🧞 | Sonic Frontiers |  |  |  |
 | 🧞 | [Death Stranding](https://en.wikipedia.org/wiki/Death_Stranding) | [Kojima Productions](https://en.wikipedia.org/wiki/Kojima_Productions) | [Sony](https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment) | [PlayStation 5](https://en.wikipedia.org/wiki/PlayStation_5) | `action-adventure` |
