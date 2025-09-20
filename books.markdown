@@ -8,6 +8,7 @@ permalink: /books/
 
 | Title                             | Author(s)                         | Lang | Year | Genre     | Finished    | Rating       |
 |-----------------------------------|-----------------------------------|------|------|-----------|-------------|--------------|
+| [Il postino di Neruda](https://it.wikipedia.org/wiki/Il_postino_di_Neruda) | [Antonio Skármeta](https://it.wikipedia.org/wiki/Antonio_Skármeta) | 🇮🇹 | 1986 | `novel` | 2025/Sep/20 | ⭐️⭐️⭐️ |
 | [The Picture of Dorian Gray](https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray) | [Oscar Wilde](https://en.wikipedia.org/wiki/Oscar_Wilde) | 🇬🇧 | 1890 | `philosophical fiction`, `gothic horror` | 2025/Sep/13 | ⭐️⭐️⭐️ |
 | [Le intermittenze della morte](https://it.wikipedia.org/wiki/Le_intermittenze_della_morte) | [José Saramago](https://it.wikipedia.org/wiki/José_Saramago) | 🇮🇹 | 2005 | `novel` | 2025/Aug/24 | ⭐️⭐️⭐️⭐️ |
 | [Evenings and Weekends](https://www.amazon.ie/Evenings-Weekends-book-summer-Dazed/dp/0008604177/ref=asc_df_0008604177) | Oisín McKenna | 🇬🇧 | 2024 | `novel` | 2025/Jul/02 | ⭐️⭐️⭐️⭐️ |
