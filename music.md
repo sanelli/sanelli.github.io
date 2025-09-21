@@ -8,6 +8,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|
+| [That's Showbiz Baby](https://en.wikipedia.org/wiki/That%27s_Showbiz_Baby) | [Jade](https://en.wikipedia.org/wiki/Jade_Thirlwall) | 2025 | `pop` | 21st Sep | ⭐️⭐️⭐️ |
 | [Spice](https://en.wikipedia.org/wiki/Spice_(album)) | [Spice Girls](https://en.wikipedia.org/wiki/Spice_Girls) | 1996 | `pop`, `dance-pop`, `teen pop`, `R&B` | 20th Sep | ⭐️⭐️⭐️⭐️ |
 | [Takatalvi](https://en.wikipedia.org/wiki/Sonata_Arctica_discography#Extended_plays) | [Sonata Artica](https://en.wikipedia.org/wiki/Sonata_Arctica) | 2003 | `power metal` | 14th Sep | ⭐️⭐️⭐️ |
 | [A Night at the Opera](https://en.wikipedia.org/wiki/A_Night_at_the_Opera_(Queen_album)) | [Queen](https://en.wikipedia.org/wiki/Queen_(band)) | 1975 | `progressive rock`, `pop`, `heavy metal`, `hard rock`, `avant-pop` | 13th Sep | ⭐️⭐️⭐️ |
