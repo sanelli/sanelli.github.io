@@ -8,6 +8,7 @@ permalink: /movies/
 
 | Title | Directed/Created by | Lang | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
+| [The Miracle Club](https://en.wikipedia.org/wiki/The_Miracle_Clubs) | [Thaddeus O'Sullivan](https://en.wikipedia.org/wiki/Thaddeus_O%27Sullivan) | 🇺🇸 | 2025 | drama | 2025/Sep/26 | ⭐️⭐️⭐️⭐️ |
 | [KPop Demon Hunters](https://en.wikipedia.org/wiki/KPop_Demon_Hunters) | [Maggie Kang](https://en.wikipedia.org/wiki/Maggie_Kang), [Chris Appelhans](https://en.wikipedia.org/wiki/Chris_Appelhans) | 🇺🇸 | 2025 | animated musical, urban fantasy | 2025/Sep/16 | ⭐️⭐️⭐️⭐️⭐️ |
 | [Thunderbolts* ](https://en.wikipedia.org/wiki/Thunderbolts*) | [Jake Schreier](https://en.wikipedia.org/wiki/Jake_Schreier), [Richard O'Brien](https://en.wikipedia.org/wiki/Richard_O%27Brien)| 🇺🇸 | 2025 | superhero | 2025/Aug/24 | ⭐️⭐️ |
 | [The Rocky Horror Picture Show](https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show) | [Jim Sharman](https://en.wikipedia.org/wiki/Jim_Sharman), [Richard O'Brien](https://en.wikipedia.org/wiki/Richard_O%27Brien)| 🇺🇸 | 1975 | musical comedy horror | 2025/Aug/23 | ⭐️⭐️⭐️⭐️⭐️ |
