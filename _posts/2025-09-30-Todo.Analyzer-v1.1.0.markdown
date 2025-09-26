@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "💭 Comment TODO analyzer v1.1.0"
+date:   2025-09-26 18:55:00 +0100
+categories: projects csharp nuget todo analyzer comments
+---
+
+[Comment TODO Analyzer](https://github.com/sanelli/Todo.Analyzer) is a .NET analyzer for C#, it enforce coding standards to comments defining TODOs.
+
+A new version (v1.1.0) of this .NET analyzer has been released today.
+
+This version addresses the following:
+- Upgrade projects to test aginsts .NET 9
+- Added new `plain` format matching `TODO: .*(\.|\!|\?)`
+- `jira` and `github` now support comment lines ending with `!` and `?` and not just with the full stop (`.`).
+
+GitHub release can be found [here](https://github.com/sanelli/Todo.Analyzer/releases/tag/v1.1.0) and Nuget package can be found [here](https://www.nuget.org/packages/Comment.Todo.Analyzer/1.1.0).

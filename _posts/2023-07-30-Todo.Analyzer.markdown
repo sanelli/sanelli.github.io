@@ -4,7 +4,7 @@ title:  "💭 Comment TODO analyzer"
 date:   2023-07-30 16:21:03 +0100
 categories: projects csharp nuget
 ---
-[Comment TODO Analyzer](https://github.com/sanelli/Todo.Analyzer) is a .NET analyzer for C#, it ensires that all TODO comments in your code respect the same standards.
+[Comment TODO Analyzer](https://github.com/sanelli/Todo.Analyzer) is a .NET analyzer for C#, it ensures that all TODO comments in your code respect the same standards.
 
 ## Options
 These option can be setup inside the `.editorconfig`:
