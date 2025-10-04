@@ -22,6 +22,9 @@ permalink: /music/
 | Album | Artist | Year | Genre |
 |-------|--------|------|-------|
 | [E poi siamo finiti nel vortice](https://en.wikipedia.org/wiki/E_poi_siamo_finiti_nel_vortice) | [Annalisa](https://en.wikipedia.org/wiki/Annalisa) | 2023 | `electropop`, `dance-pop`, `pop` |
+| [Escapology](https://en.wikipedia.org/wiki/Escapology_(album)) | [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams) | 2002 | `pop rock` |
+| [I've Been Expecting You](https://en.wikipedia.org/wiki/I%27ve_Been_Expecting_You) | [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams) | 1998 | `pop` |
+| [Life thru a Lens](https://en.wikipedia.org/wiki/Life_thru_a_Lens) | [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams) | 1997 | `pop`, `rock`, `britpop`, `glam rock`, `pop rock`, `power pop` |
 | [Schizophonic](https://en.wikipedia.org/wiki/Schizophonic_(Geri_Halliwell_album)) | [Geri Halliwell](https://en.wikipedia.org/wiki/Geri_Halliwell) | 1999 | `dance-pop`, `pop` |
 | [...Baby One More Time](https://en.wikipedia.org/wiki/...Baby_One_More_Time_(album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 1999 | `pop`, `bubblegum pop`, `dance-pop`, `teen pop` |
 | [Oops!... I Did It Again](https://en.wikipedia.org/wiki/Oops!..._I_Did_It_Again_(album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2000 | `dance-pop`, `pop`, `teen-pop` |
