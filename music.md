@@ -35,5 +35,5 @@ permalink: /music/
 | [Ray of Light](https://en.wikipedia.org/wiki/Ray_of_Light) | [Madonna](https://en.wikipedia.org/wiki/Madonna) | 1998 | `electronica`, `trip hop`, `techno-pop`, `new-age` |
 | [Aquarium](https://en.wikipedia.org/wiki/Aquarium_(Aqua_album)) | [Aqua](https://en.wikipedia.org/wiki/Aqua_(band)) | 1997 | `eurodance`, `eurodisco` |
 | [Bury the Hatchet](https://en.wikipedia.org/wiki/Bury_the_Hatchet_(album)) | [The Cranberries](https://en.wikipedia.org/wiki/The_Cranberries) | 1999 | `alternative rock`, `folk rock`, `indie pop`, `jangle pop` |
-| [Everybody Else Is Doing It, So Why Can%'t_We?](https://en.wikipedia.org/wiki/Everybody_Else_Is_Doing_It,_So_Why_Can%27t_We%3F) | [The Cranberries](https://en.wikipedia.org/wiki/The_Cranberries) | 1993 | `Alternative rock`, `indie pop`, `Irish folk`, `jangle pop`, `post-punk`, `dream pop` |
+| [Everybody Else Is Doing It, So Why Can't We?](https://en.wikipedia.org/wiki/Everybody_Else_Is_Doing_It,_So_Why_Can%27t_We%3F) | [The Cranberries](https://en.wikipedia.org/wiki/The_Cranberries) | 1993 | `alternative rock`, `indie pop`, `Irish folk`, `jangle pop`, `post-punk`, `dream pop` |
 | [No Need to Argue](https://en.wikipedia.org/wiki/No_Need_to_Argue) | [The Cranberries](https://en.wikipedia.org/wiki/The_Cranberries) | 1994 | `alternative rock`, `jangle pop`, `Irish folk`, `post-punk` |
