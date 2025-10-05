@@ -8,6 +8,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre | When | Rating |
 |-------|--------|------|-------|------|--------|
+| [KPop_Demon_Hunters_(soundtrack)](https://en.wikipedia.org/wiki/KPop_Demon_Hunters_(soundtrack)) | [KPop Demon Hunters](https://en.wikipedia.org/wiki/KPop_Demon_Hunters) cast | 2025 | `k-pop`, `electropop`, `film soundtrack` | 5th Oct | ⭐️⭐️⭐️⭐️⭐️ |
 | [Intensive Care](https://en.wikipedia.org/wiki/Intensive_Care_(album)) | [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams) | 2005 | `pop-rock` | 4th Oct | ⭐️⭐️⭐️⭐️ |
 | [That's Showbiz Baby](https://en.wikipedia.org/wiki/That%27s_Showbiz_Baby) | [Jade](https://en.wikipedia.org/wiki/Jade_Thirlwall) | 2025 | `pop` | 21st Sep | ⭐️⭐️ |
 | [Spice](https://en.wikipedia.org/wiki/Spice_(album)) | [Spice Girls](https://en.wikipedia.org/wiki/Spice_Girls) | 1996 | `pop`, `dance-pop`, `teen pop`, `R&B` | 20th Sep | ⭐️⭐️⭐️⭐️ |
