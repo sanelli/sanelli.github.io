@@ -14,6 +14,7 @@ permalink: /games/
 
 | Title | Developer(s) | Publisher(s) | Console | Genre | Completed on | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
+| [Hollow Knight: Silksong](https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong) `{Sister of the Void}` + `{Passing of the Age}` | Team Cherry |  Team Cherry | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | [Metroidvania](https://en.wikipedia.org/wiki/Metroidvania) | 15th Oct | ⭐️⭐️⭐️⭐️⭐️ |
 | [Hollow Knight: Silksong](https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong) `{Snared Silk}` | Team Cherry |  Team Cherry | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | [Metroidvania](https://en.wikipedia.org/wiki/Metroidvania) | 25th Sep | ⭐️⭐️⭐️⭐️⭐️ |
 | [Hollow Knight: Silksong](https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong) `{Weaver Queen}` | Team Cherry |  Team Cherry | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | [Metroidvania](https://en.wikipedia.org/wiki/Metroidvania) | 20th Sep | ⭐️⭐️⭐️⭐️⭐️ |
 | [Celeste](https://en.wikipedia.org/wiki/Celeste_(video_game)) | [Maddy Makes Games](https://en.wikipedia.org/wiki/Maddy_Thorson#Maddy_Makes_Games) | [Maddy Makes Games](https://en.wikipedia.org/wiki/Maddy_Thorson#Maddy_Makes_Games) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Platformer](https://en.wikipedia.org/wiki/Platformer) | 31st Jan | ⭐️⭐️⭐️⭐️⭐️ |
