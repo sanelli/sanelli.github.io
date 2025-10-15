@@ -4,8 +4,17 @@ title: 💼 CV
 permalink: /cv/
 ---
 
+<style>
+        .wrapper { margin-left: 5em;}
+</style>
+
 ### <span style="padding-left:40px"><img style="width:1em" src="https://cdn.sanity.io/images/fuvbjjlp/production/36cbc8ae92c7711afb9ab1ec9f7174863f4d7c19-22x24.svg"/> Unity Technologies</span> <span style="font-size:0.5em">[Jun 2020 - *]</span>
-<span style="padding-left:80px">*Senior Manager, Software Engineering*</span> <span style="font-size:0.7em">[Apr 2024 - *]</span><br/>
+<span style="padding-left:80px">*Staff Software Engineer, Cloud Application Architect*</span> <span style="font-size:0.7em">[Oct 2025 - *]</span><br/>
+<span style="padding-left:80px">**Activities**: `architecture design`, `architecture implementation`</span><br/>
+<span style="padding-left:80px">**Language**: `C#`</span><br/>
+<span style="padding-left:80px">**Product**: [Unity Asset Manager](https://unity.com/products/asset-manager)</span><br/>
+<span style="padding-left:80px">**Frameworks**: `ASP.NET`, `MongoDb`, `Elasticsearch`, `Redis`, `Azure`, `gRPC`</span><br/><br/>
+<span style="padding-left:80px">*Senior Manager, Software Engineering*</span> <span style="font-size:0.7em">[Apr 2024 - Sep 2025]</span><br/>
 <span style="padding-left:80px">**Activities**: `team growth`, `architecture design`, `recruiting`, `mentoring`</span><br/>
 <span style="padding-left:80px">**Product**: [Unity Asset Manager](https://unity.com/products/asset-manager)</span><br/>
 <span style="padding-left:80px">**Frameworks**: `ASP.NET`, `MongoDb`, `Elasticsearch`, `Redis`, `Azure`</span><br/><br/>
@@ -13,7 +22,7 @@ permalink: /cv/
 <span style="padding-left:80px">**Activities**: `software architecture`, `coding`, `define standards`, `bug-fixing`</span><br/>
 <span style="padding-left:80px">**Language**: `C#`</span><br/>
 <span style="padding-left:80px">**Product**: [Unity Asset Manager](https://unity.com/products/asset-manager)</span><br/>
-<span style="padding-left:80px">**Frameworks**: `ASP.NET`, `MongoDb`, `Elasticsearch`, `Kafka`, `Redis`, `Azure`, `GPC`</span><br/><br/>
+<span style="padding-left:80px">**Frameworks**: `ASP.NET`, `MongoDb`, `Elasticsearch`, `Kafka`, `Redis`, `Azure`, `GCP`</span><br/><br/>
 <span style="padding-left:80px">*Senior software engineer*</span> <span style="font-size:0.7em">[Jun 2020 - Jun 2023]</span> <br/>
 <span style="padding-left:80px">**Activities**: `software architecture`, `coding`, `bug-fixing`</span><br/>
 <span style="padding-left:80px">**Languages**: `C#`, `c++`</span><br/>
@@ -60,7 +69,7 @@ permalink: /cv/
 <span style="padding-left:80px">**Subjects**: `software eng`, `networking`, `db`, `mathematics`, `physics`.</span><br/>
 <span style="padding-left:80px">**Dissertation**: A publish/subscribe system based on Gmail.</span>
 
-### <span style="padding-left:40px"> <img style="width:1em" src="https://www.galileicrema.edu.it/sites/default/files/logogalilei.png"/> I.T.I.S. Galileo Galilei</span> <span style="font-size:0.5em">[Sep 1997 - Jun 2003]</span> 
+### <span style="padding-left:40px"> <img style="width:1em" src="https://galileicrema.edu.it/sites/default/files/GalileiLogo.png"/> I.T.I.S. Galileo Galilei</span> <span style="font-size:0.5em">[Sep 1997 - Jun 2003]</span> 
 <span style="padding-left:80px">*High school diploma in computer science*</span><br/>
 <span style="padding-left:80px">**Subjects**: `computer science`, `electronics`, `networking`, `db`.</span><br/>
 <span style="padding-left:80px">**Final project**: An SMTP/POP3 e-mail client written in Delphi.</span>

@@ -4,6 +4,10 @@ title: 👨🏻‍💻 Projects
 permalink: /projects/
 ---
 
+<style>
+        .wrapper { margin-left: 5em;}
+</style>
+
 ### <span style="padding-left:40px">🗺️ Mappa</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/Mappa) [[NuGet]](https://www.nuget.org/packages/Mappa) [[NuGet]](https://www.nuget.org/packages/Mappa.Generator)</span>
 <span style="padding-left:80px">*.NET source generator for mapping classes, similar to AutoMapper.*</span><br/>
 <span style="padding-left:80px">**Tags**: `C#`, `source-generator`, `c-sharp`, `dotnet`</span>

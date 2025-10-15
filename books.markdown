@@ -4,6 +4,12 @@ title: 📚 Books
 permalink: /books/
 ---
 
+<style>
+        a { white-space:nowrap; }
+        .wrapper { margin-left: 5em;}
+        .post-content { margin-left: 3em;}
+</style>
+
 ## 2025
 
 | Title                             | Author(s)                         | Lang | Year | Genre     | Finished    | Rating       |

@@ -4,20 +4,26 @@ title: 🥁 Music
 permalink: /music/
 ---
 
+<style>
+        a { white-space:nowrap; }
+        .wrapper { margin-left: 5em;}
+        .post-content { margin-left: 3em;}
+</style>
+
 ## 2025
 
 | Album | Artist | Year | Genre | When | Rating |
 |-------|--------|------|-------|------|--------|
-| [Schizophonic](https://en.wikipedia.org/wiki/Schizophonic_(Geri_Halliwell_album)) | [Geri Halliwell](https://en.wikipedia.org/wiki/Geri_Halliwell) | 1999 | `dance-pop`, `pop` | 12th Oct | ⭐️⭐️⭐️ |
-| [KPop Demon Hunters (soundtrack)](https://en.wikipedia.org/wiki/KPop_Demon_Hunters_(soundtrack)) | [KPop Demon Hunters](https://en.wikipedia.org/wiki/KPop_Demon_Hunters) cast | 2025 | `k-pop`, `electropop`, `film soundtrack` | 5th Oct | ⭐️⭐️⭐️⭐️⭐️ |
+| [Schizophonic](https://en.wikipedia.org/wiki/Schizophonic_(Geri_Halliwell_album)) | [Geri Halliwell](https://en.wikipedia.org/wiki/Geri_Halliwell) | 1999 | `dance-pop`, `pop` | <nobr>12th Oct</nobr> | ⭐️⭐️⭐️ |
+| [KPop Demon Hunters (soundtrack)](https://en.wikipedia.org/wiki/KPop_Demon_Hunters_(soundtrack)) | [KPop Demon Hunters](https://en.wikipedia.org/wiki/KPop_Demon_Hunters) cast | 2025 | `k-pop`, `electropop`, `film soundtrack` | <nobr>5th Oct</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Intensive Care](https://en.wikipedia.org/wiki/Intensive_Care_(album)) | [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams) | 2005 | `pop-rock` | 4th Oct | ⭐️⭐️⭐️⭐️ |
-| [That's Showbiz Baby](https://en.wikipedia.org/wiki/That%27s_Showbiz_Baby) | [Jade](https://en.wikipedia.org/wiki/Jade_Thirlwall) | 2025 | `pop` | 21st Sep | ⭐️⭐️ |
-| [Spice](https://en.wikipedia.org/wiki/Spice_(album)) | [Spice Girls](https://en.wikipedia.org/wiki/Spice_Girls) | 1996 | `pop`, `dance-pop`, `teen pop`, `R&B` | 20th Sep | ⭐️⭐️⭐️⭐️ |
-| [Takatalvi](https://en.wikipedia.org/wiki/Sonata_Arctica_discography#Extended_plays) | [Sonata Artica](https://en.wikipedia.org/wiki/Sonata_Arctica) | 2003 | `power metal` | 14th Sep | ⭐️⭐️ |
+| [That's Showbiz Baby](https://en.wikipedia.org/wiki/That%27s_Showbiz_Baby) | [Jade](https://en.wikipedia.org/wiki/Jade_Thirlwall) | 2025 | `pop` | <nobr>21st Sep</nobr> | ⭐️⭐️ |
+| [Spice](https://en.wikipedia.org/wiki/Spice_(album)) | [Spice Girls](https://en.wikipedia.org/wiki/Spice_Girls) | 1996 | `pop`, `dance-pop`, `teen pop`, `R&B` | <nobr>20th Sep</nobr> | ⭐️⭐️⭐️⭐️ |
+| [Takatalvi](https://en.wikipedia.org/wiki/Sonata_Arctica_discography#Extended_plays) | [Sonata Artica](https://en.wikipedia.org/wiki/Sonata_Arctica) | 2003 | `power metal` | <nobr>14th Sep</nobr> | ⭐️⭐️ |
 | [A Night at the Opera](https://en.wikipedia.org/wiki/A_Night_at_the_Opera_(Queen_album)) | [Queen](https://en.wikipedia.org/wiki/Queen_(band)) | 1975 | `progressive rock`, `pop`, `heavy metal`, `hard rock`, `avant-pop` | 13th Sep | ⭐️⭐️⭐️ |
-| [Sing When You're Winning](https://en.wikipedia.org/wiki/Sing_When_You're_Winning) | [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams) | 2000 | `dance`, `pop` | 12th Sep | ⭐️⭐️⭐️⭐️ |
-| [Euro-Country](https://en.wikipedia.org/wiki/Euro-Country) | [CMAT](https://en.wikipedia.org/wiki/CMAT_(musician)) | 2025 | `indie pop`, `country` | 31st Aug | ⭐️⭐️ |
-| [Rumours](https://en.wikipedia.org/wiki/Rumours_(album)) | [Fleetwood Mac](https://en.wikipedia.org/wiki/Fleetwood_Mac) | 1977 | `pop rock`, `soft rock` | 31st Aug | ⭐️⭐️⭐️⭐️⭐️ |
+| [Sing When You're Winning](https://en.wikipedia.org/wiki/Sing_When_You're_Winning) | [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams) | 2000 | `dance`, `pop` | <nobr>12th Sep</nobr> | ⭐️⭐️⭐️⭐️ |
+| [Euro-Country](https://en.wikipedia.org/wiki/Euro-Country) | [CMAT](https://en.wikipedia.org/wiki/CMAT_(musician)) | 2025 | `indie pop`, `country` | <nobr>31st Aug</nobr> | ⭐️⭐️ |
+| [Rumours](https://en.wikipedia.org/wiki/Rumours_(album)) | [Fleetwood Mac](https://en.wikipedia.org/wiki/Fleetwood_Mac) | 1977 | `pop rock`, `soft rock` | <nobr>31st Aug</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 
 ## Backlog
 

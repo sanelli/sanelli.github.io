@@ -4,6 +4,12 @@ title: 🎮 Games
 permalink: /games/
 ---
 
+<style>
+        a { white-space:nowrap; }
+        .wrapper { margin-left: 5em;}
+        .post-content { margin-left: 3em;}
+</style>
+
 ## Playing
 
 | Title | Developer(s) | Publisher(s) | Console | Genre |
@@ -14,9 +20,9 @@ permalink: /games/
 
 | Title | Developer(s) | Publisher(s) | Console | Genre | Completed on | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
-| [Hollow Knight: Silksong](https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong) `{Sister of the Void}` + `{Passing of the Age}` | Team Cherry |  Team Cherry | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | [Metroidvania](https://en.wikipedia.org/wiki/Metroidvania) | 15th Oct | ⭐️⭐️⭐️⭐️⭐️ |
-| [Hollow Knight: Silksong](https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong) `{Snared Silk}` | Team Cherry |  Team Cherry | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | [Metroidvania](https://en.wikipedia.org/wiki/Metroidvania) | 25th Sep | ⭐️⭐️⭐️⭐️⭐️ |
-| [Hollow Knight: Silksong](https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong) `{Weaver Queen}` | Team Cherry |  Team Cherry | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | [Metroidvania](https://en.wikipedia.org/wiki/Metroidvania) | 20th Sep | ⭐️⭐️⭐️⭐️⭐️ |
+| [Hollow Knight: Silksong](https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong)<br/><nobr style="font-size:.75em"><strong>Sister of the Void</strong> + <strong>Passing of the Age</strong></nobr> | Team Cherry |  Team Cherry | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | [Metroidvania](https://en.wikipedia.org/wiki/Metroidvania) | 15th Oct | ⭐️⭐️⭐️⭐️⭐️ |
+| [Hollow Knight: Silksong](https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong)<br/><nobr style="font-size:.75em"><strong>Snared Silk</strong></nobr> | Team Cherry |  Team Cherry | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | [Metroidvania](https://en.wikipedia.org/wiki/Metroidvania) | 25th Sep | ⭐️⭐️⭐️⭐️⭐️ |
+| [Hollow Knight: Silksong](https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong)<br/><nobr style="font-size:.75em"><strong>Weaver Queen</strong></nobr> | Team Cherry |  Team Cherry | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | [Metroidvania](https://en.wikipedia.org/wiki/Metroidvania) | 20th Sep | ⭐️⭐️⭐️⭐️⭐️ |
 | [Celeste](https://en.wikipedia.org/wiki/Celeste_(video_game)) | [Maddy Makes Games](https://en.wikipedia.org/wiki/Maddy_Thorson#Maddy_Makes_Games) | [Maddy Makes Games](https://en.wikipedia.org/wiki/Maddy_Thorson#Maddy_Makes_Games) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Platformer](https://en.wikipedia.org/wiki/Platformer) | 31st Jan | ⭐️⭐️⭐️⭐️⭐️ |
 
 ## 2024
@@ -25,8 +31,8 @@ permalink: /games/
 |-------|--------------|--------------|---------|-------|--------------|-------|
 | [The Legend of Zelda: Echoes of Wisdom](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Echoes_of_Wisdom) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo), [Grezzo](https://en.wikipedia.org/wiki/Grezzo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Action-adventure game](https://en.wikipedia.org/wiki/Action-adventure_game) | 14th Nov | ⭐️⭐️⭐️⭐️ |
 | [Elden Ring: Shadow of the Erdtree](https://en.wikipedia.org/wiki/Elden_Ring#Shadow_of_the_Erdtree) | [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware) | [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) | [Playstation 5](https://en.wikipedia.org/wiki/PlayStation_5) | [Action role-playing](https://en.wikipedia.org/wiki/Action_role-playing), [Soulsike](https://en.wikipedia.org/wiki/Soulslike) | 19th Sep | ⭐️⭐️⭐️⭐️⭐️ |
-| [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring) `{Age of Stars}` | [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware) | [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) | [Playstation 5](https://en.wikipedia.org/wiki/PlayStation_5) | [Action role-playing](https://en.wikipedia.org/wiki/Action_role-playing), [Soulsike](https://en.wikipedia.org/wiki/Soulslike) | Aug | ⭐️⭐️⭐️⭐️⭐️ |
-| [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring) `{Lord of the Frenzied Flame}` | [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware) | [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) | [Playstation 5](https://en.wikipedia.org/wiki/PlayStation_5) | [Action role-playing](https://en.wikipedia.org/wiki/Action_role-playing), [Soulsike](https://en.wikipedia.org/wiki/Soulslike) | 5th July | ⭐️⭐️⭐️⭐️⭐️ |
+| [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring)<br/><nobr style="font-size:.75em"><strong>Age Of Stars</strong></nobr> | [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware) | [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) | [Playstation 5](https://en.wikipedia.org/wiki/PlayStation_5) | [Action role-playing](https://en.wikipedia.org/wiki/Action_role-playing), [Soulsike](https://en.wikipedia.org/wiki/Soulslike) | Aug | ⭐️⭐️⭐️⭐️⭐️ |
+| [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring)<br/><nobr style="font-size:.75em"><strong>Lord of the Frenzied Flame</strong></nobr> | [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware) | [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) | [Playstation 5](https://en.wikipedia.org/wiki/PlayStation_5) | [Action role-playing](https://en.wikipedia.org/wiki/Action_role-playing), [Soulsike](https://en.wikipedia.org/wiki/Soulslike) | 5th July | ⭐️⭐️⭐️⭐️⭐️ |
 
 ## 2023
 
