@@ -6,7 +6,9 @@ layout: home
 ---
 
 <style>
-        .wrapper { margin-left: 5em;}
-        .post-list { margin-left: 3em;}
+        @media screen and (min-width: 600px) {
+                .wrapper { margin-left: 5em;}
+                .post-list { margin-left: 3em;}
+        }
 </style>
 

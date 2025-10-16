@@ -5,7 +5,9 @@ permalink: /cv/
 ---
 
 <style>
-        .wrapper { margin-left: 5em;}
+        @media screen and (min-width: 600px) {
+                .wrapper { margin-left: 5em;}
+        }
 </style>
 
 ### <span style="padding-left:40px"><img style="width:1em" src="https://cdn.sanity.io/images/fuvbjjlp/production/36cbc8ae92c7711afb9ab1ec9f7174863f4d7c19-22x24.svg"/> Unity Technologies</span> <span style="font-size:0.5em">[Jun 2020 - *]</span>

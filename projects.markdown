@@ -5,7 +5,9 @@ permalink: /projects/
 ---
 
 <style>
-        .wrapper { margin-left: 5em;}
+        @media screen and (min-width: 600px) {
+                .wrapper { margin-left: 5em;}
+        }
 </style>
 
 ### <span style="padding-left:40px">🗺️ Mappa</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/Mappa) [[NuGet]](https://www.nuget.org/packages/Mappa) [[NuGet]](https://www.nuget.org/packages/Mappa.Generator)</span>

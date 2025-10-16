@@ -6,8 +6,10 @@ permalink: /music/
 
 <style>
         a { white-space:nowrap; }
-        .wrapper { margin-left: 5em;}
-        .post-content { margin-left: 3em;}
+        @media screen and (min-width: 600px) {
+                .wrapper { margin-left: 5em;}
+                .post-content { margin-left: 3em;}
+        }
 </style>
 
 ## 2025

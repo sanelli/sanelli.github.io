@@ -26,7 +26,7 @@ baseurl: /
 url: https://sanelli.github.io
 github_username:  sanelli
 linkedin_username: stefanoanelli
-domain: sanelli.github.io 
+domain: sanelli.github.io
 
 # Build settings
 theme: minima
