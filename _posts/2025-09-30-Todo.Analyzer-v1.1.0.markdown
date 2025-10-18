@@ -5,7 +5,7 @@ date:   2025-09-26 18:55:00 +0100
 categories: projects csharp nuget todo analyzer comments
 ---
 
-[Comment TODO Analyzer](https://github.com/sanelli/Todo.Analyzer) is a .NET analyzer for C#, it enforce coding standards to comments defining TODOs.
+[Comment TODO Analyzer](https://github.com/sanelli/Todo.Analyzer) is a .NET analyzer for C#, it enforces coding standards to comments defining TODOs.
 
 A new version (v1.1.0) of this .NET analyzer has been released today.
 
