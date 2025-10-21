@@ -43,6 +43,7 @@ permalink: /music/
 | [...Baby One More Time](https://en.wikipedia.org/wiki/...Baby_One_More_Time_(album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 1999 |  <nobr><code>pop</code>, <code>bubblegum pop</code>, <code>dance-pop</code>, <code>teen pop</code></nobr> |
 | [Millenium](https://en.wikipedia.org/wiki/Millennium_(Backstreet_Boys_album)) | [Backstreet Boys](https://en.wikipedia.org/wiki/Backstreet_Boys) | 1999 | <nobr><code>pop</code></nobr> |
 | [Aquarium](https://en.wikipedia.org/wiki/Aquarium_(Aqua_album)) | [Aqua](https://en.wikipedia.org/wiki/Aqua_(band)) | 1997 |  <nobr><code>eurodance</code>, <code>eurodisco</code></nobr> |
+| [Discovery](https://en.wikipedia.org/wiki/Discovery_(Daft_Punk_album)) | [Daft Punk](https://en.wikipedia.org/wiki/Daft_Punk) | 2001 |  <nobr><code>french house</code>, <code>disco</code>, <code>nu-disco</code>, <code>house</code>, <code>electro-funk</code></nobr> |
 | [Waterloo](https://en.wikipedia.org/wiki/Waterloo_(album) ) | [ABBA](https://en.wikipedia.org/wiki/ABBA) | 1974 |  <nobr><code>europop</code>, <code>rock</code></nobr> |
 | [Arrival](https://en.wikipedia.org/wiki/Arrival_(ABBA_album)) | [ABBA](https://en.wikipedia.org/wiki/ABBA) | 1976 |  <nobr><code>pop</code>, <code>eurodisco</code></nobr> |
 | [ABBA: The Album](https://en.wikipedia.org/wiki/ABBA:_The_Album) | [ABBA](https://en.wikipedia.org/wiki/ABBA) | 1977 |  <nobr><code>art rock</code>, <code>dance-rock</code>, <code>pop</code></nobr> |
