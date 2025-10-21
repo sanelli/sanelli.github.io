@@ -35,6 +35,7 @@ permalink: /music/
 |-------|--------|------|-------|
 | The Shape of a Broken Heart | [Imany](https://en.wikipedia.org/wiki/Imany) | 2011 |  <nobr><code>folk</code>, <code>soul</code>, <code>pop rock</code></nobr> |
 | [Bury the Hatchet](https://en.wikipedia.org/wiki/Bury_the_Hatchet_(album)) | [The Cranberries](https://en.wikipedia.org/wiki/The_Cranberries) | 1999 |  <nobr><code>alternative rock</code>, <code>folk rock</code>, <code>indie pop</code>, <code>jangle pop</code></nobr> |
+| [Fallen](https://en.wikipedia.org/wiki/Fallen_(Evanescence_album))  | [Evanescence](https://en.wikipedia.org/wiki/Evanescence) | 2003 |  <nobr><code>nu metal</code>, <code>alternative metal</code>, <code>gothic metal</code></nobr> |
 | [Post Orgasmic Chill](https://en.wikipedia.org/wiki/Post_Orgasmic_Chill) | [Skunk Anansie](https://en.wikipedia.org/wiki/Skunk_Anansie) | 1999 |  <nobr><code>alternative rock</code>, <code>hard rock</code>, <code>alternative metal</code></nobr> |
 | [The Velvet Rope](https://en.wikipedia.org/wiki/The_Velvet_Rope) | [Janet Jackson](https://en.wikipedia.org/wiki/Janet_Jackson) | 1997 | <nobr><code>R&B</code>, <code>pop</code></nobr> |
 | [Use Your Illusion I](https://en.wikipedia.org/wiki/Use_Your_Illusion_I) | [Guns N' Roses](https://en.wikipedia.org/wiki/Guns_N%27_Roses) | 1991 |  <nobr><code>hard rock</code></nobr> |
