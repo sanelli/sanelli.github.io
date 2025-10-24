@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Enema of the State](https://en.wikipedia.org/wiki/Enema_of_the_State) | [blink-182](https://en.wikipedia.org/wiki/Blink-182) | 1999 | <nobr><code>pop-punk</code>, <code>skate punk</code></nobr> | October 24th | ⭐️⭐️⭐️⭐️⭐️ |
 | [Jagged Little Pill](https://en.wikipedia.org/wiki/Jagged_Little_Pill) | [Alanis Morissette](https://en.wikipedia.org/wiki/Alanis_Morissette) | 1995 | <nobr><code>alternative rock</code>, <code>post-grunge</code></nobr> | <nobr>October 18th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Ray of Light](https://en.wikipedia.org/wiki/Ray_of_Light) | [Madonna](https://en.wikipedia.org/wiki/Madonna) | 1998 |  <nobr><code>electronica</code>, <code>trip hop</code>, <code>techno-pop</code>,<br/><code>new-age</code></nobr> | <nobr>October 18th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Schizophonic](https://en.wikipedia.org/wiki/Schizophonic_(Geri_Halliwell_album)) | [Geri Halliwell](https://en.wikipedia.org/wiki/Geri_Halliwell) | 1999 |  <nobr><code>dance-pop</code>, <code>pop</code></nobr> | <nobr>October 12th</nobr> | ⭐️⭐️⭐️ |
@@ -35,7 +36,6 @@ permalink: /music/
 |-------|--------|------|-------|
 | The Shape of a Broken Heart | [Imany](https://en.wikipedia.org/wiki/Imany) | 2011 |  <nobr><code>folk</code>, <code>soul</code>, <code>pop rock</code></nobr> |
 | [Bury the Hatchet](https://en.wikipedia.org/wiki/Bury_the_Hatchet_(album)) | [The Cranberries](https://en.wikipedia.org/wiki/The_Cranberries) | 1999 |  <nobr><code>alternative rock</code>, <code>folk rock</code>, <code>indie pop</code>, <code>jangle pop</code></nobr> |
-| [Enema of the State](https://en.wikipedia.org/wiki/Enema_of_the_State) | [Blink-182](https://en.wikipedia.org/wiki/Blink-182) | 1999 | <nobr><code>pop-punk</code>, <code>skate punk</code></nobr> |
 | [Due Parole](https://en.wikipedia.org/wiki/Due_parole) | [Carmen Consoli](https://en.wikipedia.org/wiki/Carmen_Consoli) | 1996 |  <nobr><code>pop rock</code></nobr> |
 | [Fallen](https://en.wikipedia.org/wiki/Fallen_(Evanescence_album))  | [Evanescence](https://en.wikipedia.org/wiki/Evanescence) | 2003 |  <nobr><code>nu metal</code>, <code>alternative metal</code>, <code>gothic metal</code></nobr> |
 | [Post Orgasmic Chill](https://en.wikipedia.org/wiki/Post_Orgasmic_Chill) | [Skunk Anansie](https://en.wikipedia.org/wiki/Skunk_Anansie) | 1999 |  <nobr><code>alternative rock</code>, <code>hard rock</code>, <code>alternative metal</code></nobr> |
@@ -68,8 +68,8 @@ permalink: /music/
 | [Glory](https://en.wikipedia.org/wiki/Glory_(Britney_Spears_album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2016 |  <nobr><code>pop</code>, <code>dance-pop</code>, <code>R&B</code></nobr> |
 | [Everybody Else Is Doing It, So Why Can't We?](https://en.wikipedia.org/wiki/Everybody_Else_Is_Doing_It,_So_Why_Can%27t_We%3F) | [The Cranberries](https://en.wikipedia.org/wiki/The_Cranberries) | 1993 |  <nobr><code>alternative rock</code>, <code>indie pop</code>, <code>Irish folk</code>, <code>jangle pop</code>, <code>post-punk</code>, <code>dream pop</code></nobr> |
 | [No Need to Argue](https://en.wikipedia.org/wiki/No_Need_to_Argue) | [The Cranberries](https://en.wikipedia.org/wiki/The_Cranberries) | 1994 |  <nobr><code>alternative rock</code>, <code>jangle pop</code>, <code>Irish folk</code>, <code>post-punk</code></nobr> |
-| [Take Off Your Pants and Jacket](https://en.wikipedia.org/wiki/Take_Off_Your_Pants_and_Jacket) | [Blink-182](https://en.wikipedia.org/wiki/Blink-182) | 2001 | <nobr><code>pop-punk</code>, <code>punk-rock</code></nobr> |
-| [Blink-182](https://en.wikipedia.org/wiki/Blink-182_(album)) | [Blink-182](https://en.wikipedia.org/wiki/Blink-182) | 2003 | <nobr><code>pop-punk</code>, <code>alternative</code>, <code>rock emo</code>, <code>new wave</code>, <code>post-hardcore</code></nobr> |
+| [Take Off Your Pants and Jacket](https://en.wikipedia.org/wiki/Take_Off_Your_Pants_and_Jacket) | [blink-182](https://en.wikipedia.org/wiki/Blink-182) | 2001 | <nobr><code>pop-punk</code>, <code>punk-rock</code></nobr> |
+| [Blink-182](https://en.wikipedia.org/wiki/Blink-182_(album)) | [blink-182](https://en.wikipedia.org/wiki/Blink-182) | 2003 | <nobr><code>pop-punk</code>, <code>alternative</code>, <code>rock emo</code>, <code>new wave</code>, <code>post-hardcore</code></nobr> |
 | [Dookie](https://en.wikipedia.org/wiki/Dookie) | [Green Day](https://en.wikipedia.org/wiki/Green_Day) | 1994 | <nobr><code>punk rock</code>, <code>pop-punk</code>, <code>skate punk</code></nobr> |
 | [American Idiot](https://en.wikipedia.org/wiki/American_Idiot) | [Green Day](https://en.wikipedia.org/wiki/Green_Day) | 2003 | <nobr><code>punk rock</code>, <code>pop-punk</code>, <code>alternative rock</code>, <code>skate punk</code>, <code>power pop</code></nobr> |
 | [21st Century Breakdown](https://en.wikipedia.org/wiki/21st_Century_Breakdown) | [Green Day](https://en.wikipedia.org/wiki/Green_Day) | 2009 | <nobr><code>Punk rock</code>, <code>pop-punk</code>, <code>arena rock</code>, <code>power pop</code>, <code>alternative rock</code></nobr> |
