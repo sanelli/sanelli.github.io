@@ -16,14 +16,15 @@ permalink: /games/
 
 | Title | Developer(s) | Publisher(s) | Console | Genre |
 |-------|--------------|--------------|---------|-------|
-| [Pokémon Legends: Z-A](https://en.wikipedia.org/wiki/Pokémon_Legends:_Z-A) | [Game Freak](https://en.wikipedia.org/wiki/Game_Freak) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing game</code></nobr> |
+| [Pokémon Legends: Z-A](https://en.wikipedia.org/wiki/Pokémon_Legends:_Z-A)<br/><nobr style="font-size:.75em"><strong>POST-GAME</strong></nobr> | [Game Freak](https://en.wikipedia.org/wiki/Game_Freak) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing game</code></nobr> |
 | [Hollow Knight: Silksong](https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong) <nobr style="font-size:.75em"><strong>100%</strong></nobr> | Team Cherry |  Team Cherry | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <code>metroidvania</code> |
 
 ## 2025
 
 | Title | Developer(s) | Publisher(s) | Console | Genre | Completed on | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
-| [Hollow Knight: Silksong](https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong)<br/><nobr style="font-size:.75em"><strong>Sister of the Void</strong> + <strong>Passing of the Age</strong></nobr> | Team Cherry |  Team Cherry | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>metroidvania</code></nobr> | <nobr>October 15th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
+| [Pokémon Legends: Z-A](https://en.wikipedia.org/wiki/Pokémon_Legends:_Z-A) | [Game Freak](https://en.wikipedia.org/wiki/Game_Freak) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing game</code></nobr> | <nobr>October 27th</nobr> | ⭐️⭐️⭐️ |
+| [Hollow Knight: Silksong](https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong)<br/><nobr style="font-size:.75em"><strong>Sister of the Void</strong><br/><strong>Passing of the Age</strong></nobr> | Team Cherry |  Team Cherry | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>metroidvania</code></nobr> | <nobr>October 15th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Hollow Knight: Silksong](https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong)<br/><nobr style="font-size:.75em"><strong>Snared Silk</strong></nobr> | Team Cherry |  Team Cherry | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>metroidvania</code></nobr> | <nobr>September 25th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Hollow Knight: Silksong](https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong)<br/><nobr style="font-size:.75em"><strong>Weaver Queen</strong></nobr> | Team Cherry |  Team Cherry | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>metroidvania</code></nobr> | <nobr>September 20th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Celeste](https://en.wikipedia.org/wiki/Celeste_(video_game)) | [Maddy Makes Games](https://en.wikipedia.org/wiki/Maddy_Thorson#Maddy_Makes_Games) | [Maddy Makes Games](https://en.wikipedia.org/wiki/Maddy_Thorson#Maddy_Makes_Games) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | <nobr><code>platformer</code></nobr>  | <nobr>January 31st</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
