@@ -16,6 +16,7 @@ permalink: /movies/
 
 | Title | Directed <span style="font-size:.7em">- or -</span> <br/> Created by | Language | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
+| [Interview with the Vampire](https://en.wikipedia.org/wiki/Interview_with_the_Vampire_(film)) | [Neil Jordan](https://en.wikipedia.org/wiki/Neil_Jordan) | <code>English</code> | 1994 | <nobr><code>gothic</code>, <code>horror</code></nobr> | <nobr>November 2nd</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Frankenstein](https://en.wikipedia.org/wiki/Frankenstein_(2025_film)) | [Guillermo del Toro](https://en.wikipedia.org/wiki/Guillermo_del_Toro) | <code>English</code> | 2025 | <nobr><code>epic</code>, <code>gothic</code>, <code>science fiction</code></nobr> | <nobr>October 25th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [The Miracle Club](https://en.wikipedia.org/wiki/The_Miracle_Club) | [Thaddeus O'Sullivan](https://en.wikipedia.org/wiki/Thaddeus_O%27Sullivan) | <code>English</code> | 2023 | <code>drama</code> | <nobr>September 26th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [KPop Demon Hunters](https://en.wikipedia.org/wiki/KPop_Demon_Hunters) | [Maggie Kang](https://en.wikipedia.org/wiki/Maggie_Kang), [Chris Appelhans](https://en.wikipedia.org/wiki/Chris_Appelhans) | <code>English</code> | 2025 | <nobr><code>animated musical</code>, <code>urban fantasy</code></nobr> | <nobr>September 16th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
