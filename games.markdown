@@ -51,7 +51,7 @@ permalink: /games/
 | [Pokemon Violet](https://en.wikipedia.org/wiki/Pokémon_Scarlet_and_Violet) | [Game Freak](https://en.wikipedia.org/wiki/Game_Freak)| [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | <nobr><code>role-playing</code></nobr>| <nobr>December 10th</nobr> | ⭐️⭐️ |
 | [Mario + Rabbids Sparks of Hope](https://en.wikipedia.org/wiki/Mario_%2B_Rabbids_Sparks_of_Hope) | [Ubisoft Milan](https://en.wikipedia.org/wiki/Ubisoft_Milan), [Ubisoft Paris](https://en.wikipedia.org/wiki/Ubisoft_Paris) | [Ubisoft](https://en.wikipedia.org/wiki/Ubisoft) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | <nobr><code>action adevnture</code>,<br/> <code>tactical role-playing</code></nobr> | <nobr>November 10th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Xenoblade Chronicles 3](https://en.wikipedia.org/wiki/Xenoblade_Chronicles_3) | [Monolith Soft](https://en.wikipedia.org/wiki/Monolith_Soft) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | <nobr><code>action role-playing</code></nobr> | <nobr>September 8th</nobr> | ⭐️⭐️⭐️⭐️ |
-| [Pokemon Legends: Arceus](https://en.wikipedia.org/wiki/Pokémon_Legends:_Arceus) | | | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | <nobr><code>action role-playing</code></nobr> | <nobr>March 18th</nobr> | ⭐️⭐️⭐️⭐️ |
+| [Pokemon Legends: Arceus](https://en.wikipedia.org/wiki/Pokémon_Legends:_Arceus) | [Game Freak](https://en.wikipedia.org/wiki/Game_Freak) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | <nobr><code>action role-playing</code></nobr> | <nobr>March 18th</nobr> | ⭐️⭐️⭐️⭐️ |
 
 ## 2021
 
