@@ -78,7 +78,7 @@ permalink: /music/
 | [Stato di necessità](https://en.wikipedia.org/wiki/Stato_di_necessità) | [Carmen Consoli](https://en.wikipedia.org/wiki/Carmen_Consoli) | 2000 |  <nobr><code>pop rock</code></nobr> |
 | [L'eccezione](https://en.wikipedia.org/wiki/L%27eccezione_(album)) | [Carmen Consoli](https://en.wikipedia.org/wiki/Carmen_Consoli) | 2002 |  <nobr><code>bossa nova</code>, <code>pop rock</code>, <code>alternative rock</code></nobr> |
 | [Eva contro Eva](https://en.wikipedia.org/wiki/Eva_contro_Eva) | [Carmen Consoli](https://en.wikipedia.org/wiki/Carmen_Consoli) | 2006 |  <nobr><code>rock</code></nobr> |
-| [Elettra](https://en.wikipedia.org/wiki/Elettra_(album)) | [Carmen Consoli](https://en.wikipedia.org/wiki/Carmen_Consoli) | 2009 |  <nobr><<code>acustic</code></nobr> |
+| [Elettra](https://en.wikipedia.org/wiki/Elettra_(album)) | [Carmen Consoli](https://en.wikipedia.org/wiki/Carmen_Consoli) | 2009 |  <nobr><code>acustic</code></nobr> |
 | [L'abitudine di tornare](https://en.wikipedia.org/wiki/L%27abitudine_di_tornare) | [Carmen Consoli](https://en.wikipedia.org/wiki/Carmen_Consoli) | 2015 | <nobr><code>pop folk</code>, <code>rock</code>, <code>electronica</code></nobr> |
 | [Volevo fare la rockstar](https://en.wikipedia.org/wiki/Volevo_fare_la_rockstar) | [Carmen Consoli](https://en.wikipedia.org/wiki/Carmen_Consoli) | 2015 | <nobr><code>soft rock</code>, <code>electroacustic</code></nobr> |
 | Amuri luci | [Carmen Consoli](https://en.wikipedia.org/wiki/Carmen_Consoli) | 2025 | <nobr></nobr> |
