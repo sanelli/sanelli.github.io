@@ -16,7 +16,8 @@ permalink: /movies/
 
 | Title | Directed <span style="font-size:.7em">- or -</span> <br/> Created by | Language | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
-| [The Fantastic Four: First Steps](https://en.wikipedia.org/wiki/The_Fantastic_Four:_First_Steps) | [Matt Shakman](https://en.wikipedia.org/wiki/Matt_Shakman) | <code>English</code> | 2025 | <nobr><code>superhero</code> | <nobr>November 25th</nobr> | ⭐️⭐️⭐️ |
+| [Wicked: For Good](https://en.wikipedia.org/wiki/Wicked:_For_Good) | [Jon M. Chu](https://en.wikipedia.org/wiki/Jon_M._Chu) | <code>English</code> | 2025 | <nobr><code>musical</code>, <code>fantasy</code></nobr> | <nobr>November 26th</nobr> | ⭐️⭐️⭐️ |
+| [The Fantastic Four: First Steps](https://en.wikipedia.org/wiki/The_Fantastic_Four:_First_Steps) | [Matt Shakman](https://en.wikipedia.org/wiki/Matt_Shakman) | <code>English</code> | 2025 | <nobr><code>superhero</code></nobr>  | <nobr>November 25th</nobr> | ⭐️⭐️⭐️ |
 | [Interview with the Vampire](https://en.wikipedia.org/wiki/Interview_with_the_Vampire_(film)) | [Neil Jordan](https://en.wikipedia.org/wiki/Neil_Jordan) | <code>English</code> | 1994 | <nobr><code>gothic</code>, <code>horror</code></nobr> | <nobr>November 2nd</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Frankenstein](https://en.wikipedia.org/wiki/Frankenstein_(2025_film)) | [Guillermo del Toro](https://en.wikipedia.org/wiki/Guillermo_del_Toro) | <code>English</code> | 2025 | <nobr><code>science fiction</code>, <code>epic</code>,<br/></nobr><code>gothic</code> | <nobr>October 25th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [The Miracle Club](https://en.wikipedia.org/wiki/The_Miracle_Club) | [Thaddeus O'Sullivan](https://en.wikipedia.org/wiki/Thaddeus_O%27Sullivan) | <code>English</code> | 2023 | <code>drama</code> | <nobr>September 26th</nobr> | ⭐️⭐️⭐️⭐️ |
