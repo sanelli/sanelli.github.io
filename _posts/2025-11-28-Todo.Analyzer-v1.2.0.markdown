@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "💭 Comment TODO analyzer v1.2.0"
+date:   2025-11-28 18:00:00 +0100
+categories: projects csharp nuget todo analyzer comments
+---
+
+[Comment TODO Analyzer](https://github.com/sanelli/Todo.Analyzer) is a .NET analyzer for C#, it enforces coding standards to comments defining TODOs.
+
+A new version (v1.2.0) of this .NET analyzer has been released today.
+
+This version addresses the following:
+- Upgrade projects to test aginsts .NET 10;
+- Add suport to force a diagnostic error (`TA0002`) when any TODO is found when `todo_analyzer.always_report` is enabled;
+- Add suport to force a diagnostic error (`TA0003`) for specific task ID listed in `todo_analyzer.report_tasks`.
+
+GitHub release can be found [here](https://github.com/sanelli/Todo.Analyzer/releases/tag/v1.2.0) and Nuget package can be found [here](https://www.nuget.org/packages/Comment.Todo.Analyzer/1.2.0).
