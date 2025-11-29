@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [I've Been Expecting You](https://en.wikipedia.org/wiki/I%27ve_Been_Expecting_You) | [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams) | 1998 |  <nobr><code>pop</code></nobr> | November 29th | ⭐️⭐️⭐️⭐️ |
 | [Post Orgasmic Chill](https://en.wikipedia.org/wiki/Post_Orgasmic_Chill) | [Skunk Anansie](https://en.wikipedia.org/wiki/Skunk_Anansie) | 1999 |  <nobr><code>alternative rock</code>, <code>hard rock</code>,<br/><code>alternative metal</code></nobr> | November 27th | ⭐️⭐️⭐️⭐️ |
 | [Escapology](https://en.wikipedia.org/wiki/Escapology_(album)) | [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams) | 2002 |  <nobr><code>pop rock</code></nobr> | November 26th | ⭐️⭐️⭐️⭐️ |
 | [Enema of the State](https://en.wikipedia.org/wiki/Enema_of_the_State) | [blink-182](https://en.wikipedia.org/wiki/Blink-182) | 1999 | <nobr><code>pop-punk</code>, <code>skate punk</code></nobr> | October 24th | ⭐️⭐️⭐️⭐️⭐️ |
@@ -36,6 +37,8 @@ permalink: /music/
 
 | Album | Artist | Year | Genre |
 |-------|--------|------|-------|
+| [Stages](https://en.wikipedia.org/wiki/Stages_(Melanie_C_album)) | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 2012 | <nobr><code>theatrical pop</code></nobr> |
+| [Per Sempre](https://it.wikipedia.org/wiki/Per_sempre_(Paola_%26_Chiara)) | [Paola &amp; Chiara](https://it.wikipedia.org/wiki/Paola_%26_Chiara) | 2023 | <nobr><code>dance</code>, <code>dance pop</code></nobr> |
 | The Shape of a Broken Heart | [Imany](https://en.wikipedia.org/wiki/Imany) | 2011 |  <nobr><code>folk</code>, <code>soul</code>, <code>pop rock</code></nobr> |
 | [Bury the Hatchet](https://en.wikipedia.org/wiki/Bury_the_Hatchet_(album)) | [The Cranberries](https://en.wikipedia.org/wiki/The_Cranberries) | 1999 |  <nobr><code>alternative rock</code>, <code>folk rock</code>, <code>indie pop</code>, <code>jangle pop</code></nobr> |
 | [Due Parole](https://en.wikipedia.org/wiki/Due_parole) | [Carmen Consoli](https://en.wikipedia.org/wiki/Carmen_Consoli) | 1996 |  <nobr><code>pop rock</code></nobr> |
@@ -54,7 +57,6 @@ permalink: /music/
 | [Voulez-Vous](https://en.wikipedia.org/wiki/Voulez-Vous) | [ABBA](https://en.wikipedia.org/wiki/ABBA) | 1979 |  <nobr><code>europop</code>, <code>eurodisco</code></nobr> |
 | [Super Trouper](https://en.wikipedia.org/wiki/Super_Trouper_(album)) | [ABBA](https://en.wikipedia.org/wiki/ABBA) | 1980 |  <nobr><code>pop</code>, <code>pop rock</code></nobr> |
 | [E poi siamo finiti nel vortice](https://en.wikipedia.org/wiki/E_poi_siamo_finiti_nel_vortice) | [Annalisa](https://en.wikipedia.org/wiki/Annalisa) | 2023 |  <nobr><code>electropop</code>, <code>dance-pop</code>, <code>pop</code></nobr> |
-| [I've Been Expecting You](https://en.wikipedia.org/wiki/I%27ve_Been_Expecting_You) | [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams) | 1998 |  <nobr><code>pop</code></nobr> |
 | [Life thru a Lens](https://en.wikipedia.org/wiki/Life_thru_a_Lens) | [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams) | 1997 |  <nobr><code>pop</code>, <code>rock</code>, <code>britpop</code>, <code>glam rock</code>, <code>pop rock</code>, <code>power pop</code></nobr> |
 | [Backstreet Boys](https://en.wikipedia.org/wiki/Backstreet_Boys_(1996_album)) | [Backstreet Boys](https://en.wikipedia.org/wiki/Backstreet_Boys) | 1996 | <nobr><code>R&amp;B</code>, <code>pop</code>, <code>dance-pop</code>, <code>teen pop</code></nobr> |
 | [Backstreet's Back](https://en.wikipedia.org/wiki/Backstreet%27s_Back) | [Backstreet Boys](https://en.wikipedia.org/wiki/Backstreet_Boys) | 1996 | <nobr><code>dance-pop</code>, <code>teen pop</code></nobr> |
@@ -82,3 +84,23 @@ permalink: /music/
 | [L'abitudine di tornare](https://en.wikipedia.org/wiki/L%27abitudine_di_tornare) | [Carmen Consoli](https://en.wikipedia.org/wiki/Carmen_Consoli) | 2015 | <nobr><code>pop folk</code>, <code>rock</code>, <code>electronica</code></nobr> |
 | [Volevo fare la rockstar](https://en.wikipedia.org/wiki/Volevo_fare_la_rockstar) | [Carmen Consoli](https://en.wikipedia.org/wiki/Carmen_Consoli) | 2015 | <nobr><code>soft rock</code>, <code>electroacustic</code></nobr> |
 | Amuri luci | [Carmen Consoli](https://en.wikipedia.org/wiki/Carmen_Consoli) | 2025 | <nobr></nobr> |
+| [A Girl Like Me](https://en.wikipedia.org/wiki/A_Girl_Like_Me_(Emma_Bunton_album)) | [Emma Bunton](https://en.wikipedia.org/wiki/Emma_Bunton) | 2001 | <nobr><code>pop</code></nobr> |
+| [Free Me](https://en.wikipedia.org/wiki/Free_Me_(album)) | [Emma Bunton](https://en.wikipedia.org/wiki/Emma_Bunton) | 2004 | <nobr><code>pop</code>, <code>rock</code></nobr> |
+| [Northern Star](https://en.wikipedia.org/wiki/Northern_Star_(Melanie_C_album)) | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 1999 | <nobr><code>pop</code></nobr> |
+| [Reason](https://en.wikipedia.org/wiki/Reason_(Melanie_C_album)) | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 2003 | <nobr><code>pop</code></nobr> |
+| [Beautiful Intentions](https://en.wikipedia.org/wiki/Beautiful_Intentions) | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 2005 | <nobr><code>pop</code>, <code>rock</code></nobr> |
+| [This Time](https://en.wikipedia.org/wiki/This_Time_(Melanie_C_album)) | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 2007 | <nobr><code>pop</code>, <code>pop-rock</code></nobr> |
+| [The Sea](https://en.wikipedia.org/wiki/The_Sea_(Melanie_C_album)) | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 2011 | <nobr><code>pop</code></nobr> |
+| [Version of Me](https://en.wikipedia.org/wiki/Version_of_Me) | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 2016 | <nobr><code>pop</code></nobr> |
+| [Melanie C](https://en.wikipedia.org/wiki/Melanie_C_(album)) | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 2020 | <nobr><code>electronic</code>, <code>pop</code></nobr> |
+| Swaeat | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 2026 | <nobr></nobr> |
+| [Ci chiamano bambine](https://it.wikipedia.org/wiki/Ci_chiamano_bambine) | [Paola &amp; Chiara](https://it.wikipedia.org/wiki/Paola_%26_Chiara) | 1997 | <nobr><code>pop</code></nobr> |
+| [Giornata storica](https://it.wikipedia.org/wiki/Giornata_storica) | [Paola &amp; Chiara](https://it.wikipedia.org/wiki/Paola_%26_Chiara) | 1998 | <nobr><code>pop rock</code></nobr> |
+| [Television](https://it.wikipedia.org/wiki/Television_(Paola_%26_Chiara)) | [Paola &amp; Chiara](https://it.wikipedia.org/wiki/Paola_%26_Chiara) | 2002 | <nobr><code>pop</code></nobr> |
+| [Festival](https://it.wikipedia.org/wiki/Festival_(album_Paola_%26_Chiara)) | [Paola &amp; Chiara](https://it.wikipedia.org/wiki/Paola_%26_Chiara) | 1997 | <nobr><code>pop</code></nobr> |
+| [Blu](https://it.wikipedia.org/wiki/Blu_(album_Paola_%26_Chiara)) | [Paola &amp; Chiara](https://it.wikipedia.org/wiki/Paola_%26_Chiara) | 2004 | <nobr><code>pop</code></nobr> |
+| [Win the game](https://it.wikipedia.org/wiki/Win_the_Gamee) | [Paola &amp; Chiara](https://it.wikipedia.org/wiki/Paola_%26_Chiara) | 2007 | <nobr><code>dance</code>, <code>dance pop</code>, <code>europop</code></nobr> |
+| [Milleluci](https://it.wikipedia.org/wiki/Milleluci_(album_Paola_%26_Chiara)) | [Paola &amp; Chiara](https://it.wikipedia.org/wiki/Paola_%26_Chiara) | 2010 | <nobr><code>pop</code>, <code>dance pop</code>, <code>elettropop</code></nobr> |
+| [Giungla](https://it.wikipedia.org/wiki/Giungla_(Paola_%26_Chiara)) | [Paola &amp; Chiara](https://it.wikipedia.org/wiki/Paola_%26_Chiara) | 2013 | <nobr><code>dance pop</code></nobr> |
+| [The story](https://it.wikipedia.org/wiki/The_Story_(Paola_%26_Chiara)) | [Paola &amp; Chiara](https://it.wikipedia.org/wiki/Paola_%26_Chiara) | 2015 | <nobr><code>pop</code></nobr> |
+
