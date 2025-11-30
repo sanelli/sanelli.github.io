@@ -16,8 +16,7 @@ permalink: /games/
 
 | Title | Developer(s) | Publisher(s) | Console | Genre |
 |-------|--------------|--------------|---------|-------|
-| [Hyrule Warriors: Age of Imprisonment](https://en.wikipedia.org/wiki/Hyrule_Warriors:_Age_of_Imprisonment)<br/><nobr style="font-size:.75em"><strong>POST-GAME</strong></nobr> | [AAA Games Studio](https://en.wikipedia.org/wiki/AAA_Games_Studio) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2)  | <nobr><code>hack and slash</code></nobr> |
-| [Hollow Knight: Silksong](https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong)<br/><nobr style="font-size:.75em"><strong>100%</strong></nobr> | Team Cherry |  Team Cherry | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <code>metroidvania</code> |
+[Clair Obscur: Expedition 33](https://en.wikipedia.org/wiki/Clair_Obscur:_Expedition_33) | [Sandfall Interactive](https://en.wikipedia.org/wiki/Sandfall_Interactive) | [Kepler Interactive](https://en.wikipedia.org/wiki/Kepler_Interactive) |[PlayStation 5](https://en.wikipedia.org/wiki/PlayStation_5) | <nobr><code>role-playing</code></nobr> |
 
 ## 2025
 
@@ -120,7 +119,6 @@ permalink: /games/
 | `WISHLIST` | [Donkey Kong Bananza](https://en.wikipedia.org/wiki/Donkey_Kong_Bananza) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>platformer</code></nobr>  |
 | `WISHLIST` | [Xenoblade Chronicles X: Definitive Edition](https://en.wikipedia.org/wiki/Xenoblade_Chronicles_X#Definitive_Edition) | [Monolith Soft](https://en.wikipedia.org/wiki/Monolith_Soft) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing</code></nobr> |
 | `WISHLIST` | [Pokémon Legends: Z-A DLC](https://en.wikipedia.org/wiki/Pokémon_Legends:_Z-A) | [Game Freak](https://en.wikipedia.org/wiki/Game_Freak) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing</code></nobr> |
-| `WISHLIST` | [Clair Obscur: Expedition 33](https://en.wikipedia.org/wiki/Clair_Obscur:_Expedition_33) | [Sandfall Interactive](https://en.wikipedia.org/wiki/Sandfall_Interactive) | [Kepler Interactive](https://en.wikipedia.org/wiki/Kepler_Interactive) |[PlayStation 5](https://en.wikipedia.org/wiki/PlayStation_5) | <nobr><code>role-playing</code></nobr> |
 | `STOPPED` | The Legenda Of Zelda: Skyword Sword |  |  |  |  |
 | `STOPPED` | Return to Monkey Island |  |  |  |
 | `STOPPED` | Paper Mario: The Origami King   |  |  |  |

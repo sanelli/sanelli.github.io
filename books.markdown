@@ -12,6 +12,12 @@ permalink: /books/
         }
 </style>
 
+## Reading
+
+| Title                             | Author(s)                         | Lang | Year | Genre     |
+|-----------------------------------|-----------------------------------|------|------|-----------|
+| [L'ombra dello scorpione](https://it.wikipedia.org/wiki/L%27ombra_dello_scorpione)<br/><nobr style="font-size:.75em"><strong>Edizione Integrale</strong></nobr> | [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) | <code>Italian</code> | 1990 | <nobr><code>post-apocalyptic</code>, <code>dark fantasy</code></nobr> |
+
 ## 2025
 
 | Title                             | Author(s)                         | Lang | Year | Genre     | Finished    | Rating       |
