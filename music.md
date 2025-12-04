@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Millenium](https://en.wikipedia.org/wiki/Millennium_(Backstreet_Boys_album)) | [Backstreet Boys](https://en.wikipedia.org/wiki/Backstreet_Boys) | 1999 | <nobr><code>pop</code></nobr> | December 4th | ⭐️⭐️⭐️⭐️⭐️ |
 | [I've Been Expecting You](https://en.wikipedia.org/wiki/I%27ve_Been_Expecting_You) | [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams) | 1998 |  <nobr><code>pop</code></nobr> | November 29th | ⭐️⭐️⭐️⭐️ |
 | [Post Orgasmic Chill](https://en.wikipedia.org/wiki/Post_Orgasmic_Chill) | [Skunk Anansie](https://en.wikipedia.org/wiki/Skunk_Anansie) | 1999 |  <nobr><code>alternative rock</code>, <code>hard rock</code>,<br/><code>alternative metal</code></nobr> | November 27th | ⭐️⭐️⭐️⭐️ |
 | [Escapology](https://en.wikipedia.org/wiki/Escapology_(album)) | [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams) | 2002 |  <nobr><code>pop rock</code></nobr> | November 26th | ⭐️⭐️⭐️⭐️ |
@@ -44,11 +45,11 @@ permalink: /music/
 | [Due Parole](https://en.wikipedia.org/wiki/Due_parole) | [Carmen Consoli](https://en.wikipedia.org/wiki/Carmen_Consoli) | 1996 |  <nobr><code>pop rock</code></nobr> |
 | [Fallen](https://en.wikipedia.org/wiki/Fallen_(Evanescence_album))  | [Evanescence](https://en.wikipedia.org/wiki/Evanescence) | 2003 |  <nobr><code>nu metal</code>, <code>alternative metal</code>, <code>gothic metal</code></nobr> |
 | [The Velvet Rope](https://en.wikipedia.org/wiki/The_Velvet_Rope) | [Janet Jackson](https://en.wikipedia.org/wiki/Janet_Jackson) | 1997 | <nobr><code>R&amp;B</code>, <code>pop</code></nobr> |
+| [Scream If You Wanna Go Faster](https://en.wikipedia.org/wiki/Scream_If_You_Wanna_Go_Faster) | [Geri Halliwell](https://en.wikipedia.org/wiki/Geri_Halliwell) | 2001 |  <nobr><code>dance-pop</code>, <code>pop</code>, <code>pop rock</code></nobr> |
 | [Use Your Illusion I](https://en.wikipedia.org/wiki/Use_Your_Illusion_I) | [Guns N' Roses](https://en.wikipedia.org/wiki/Guns_N%27_Roses) | 1991 |  <nobr><code>hard rock</code></nobr> |
 | [Metallica](https://en.wikipedia.org/wiki/Metallica_(album)) | [Metallica](https://en.wikipedia.org/wiki/Metallica) | 1991 |  <nobr><code>heavy metal</code>, <code>groove metal</code></nobr> |
 | [Nevermind](https://en.wikipedia.org/wiki/Nevermind) | [Nirvana](https://en.wikipedia.org/wiki/Nirvana_(band)) | 1991 |  <nobr><code>grunge</code>, <code>alternative rock</code></nobr> |
 | [...Baby One More Time](https://en.wikipedia.org/wiki/...Baby_One_More_Time_(album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 1999 |  <nobr><code>pop</code>, <code>bubblegum pop</code>, <code>dance-pop</code>, <code>teen pop</code></nobr> |
-| [Millenium](https://en.wikipedia.org/wiki/Millennium_(Backstreet_Boys_album)) | [Backstreet Boys](https://en.wikipedia.org/wiki/Backstreet_Boys) | 1999 | <nobr><code>pop</code></nobr> |
 | [Aquarium](https://en.wikipedia.org/wiki/Aquarium_(Aqua_album)) | [Aqua](https://en.wikipedia.org/wiki/Aqua_(band)) | 1997 |  <nobr><code>eurodance</code>, <code>eurodisco</code></nobr> |
 | [Discovery](https://en.wikipedia.org/wiki/Discovery_(Daft_Punk_album)) | [Daft Punk](https://en.wikipedia.org/wiki/Daft_Punk) | 2001 |  <nobr><code>french house</code>, <code>disco</code>, <code>nu-disco</code>, <code>house</code>, <code>electro-funk</code></nobr> |
 | [Waterloo](https://en.wikipedia.org/wiki/Waterloo_(album) ) | [ABBA](https://en.wikipedia.org/wiki/ABBA) | 1974 |  <nobr><code>europop</code>, <code>rock</code></nobr> |
