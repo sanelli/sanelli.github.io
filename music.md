@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Per Sempre](https://it.wikipedia.org/wiki/Per_sempre_(Paola_%26_Chiara)) | [Paola &amp; Chiara](https://it.wikipedia.org/wiki/Paola_%26_Chiara) | 2023 | <nobr><code>dance</code>, <code>dance pop</code></nobr> | December 5th | ⭐️⭐️⭐️ |
 | [Millenium](https://en.wikipedia.org/wiki/Millennium_(Backstreet_Boys_album)) | [Backstreet Boys](https://en.wikipedia.org/wiki/Backstreet_Boys) | 1999 | <nobr><code>pop</code></nobr> | December 4th | ⭐️⭐️⭐️⭐️⭐️ |
 | [I've Been Expecting You](https://en.wikipedia.org/wiki/I%27ve_Been_Expecting_You) | [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams) | 1998 |  <nobr><code>pop</code></nobr> | November 29th | ⭐️⭐️⭐️⭐️ |
 | [Post Orgasmic Chill](https://en.wikipedia.org/wiki/Post_Orgasmic_Chill) | [Skunk Anansie](https://en.wikipedia.org/wiki/Skunk_Anansie) | 1999 |  <nobr><code>alternative rock</code>, <code>hard rock</code>,<br/><code>alternative metal</code></nobr> | November 27th | ⭐️⭐️⭐️⭐️ |
@@ -38,14 +39,22 @@ permalink: /music/
 
 | Album | Artist | Year | Genre |
 |-------|--------|------|-------|
+| [Hanno ucciso l'Uomo Ragno](https://it.wikipedia.org/wiki/Hanno_ucciso_l%27Uomo_Ragno_(album)) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1992 | <nobr><code>pop</code>, <code>pop rock</code>, <code>pop rap</code></nobr> |
 | [Stages](https://en.wikipedia.org/wiki/Stages_(Melanie_C_album)) | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 2012 | <nobr><code>theatrical pop</code></nobr> |
-| [Per Sempre](https://it.wikipedia.org/wiki/Per_sempre_(Paola_%26_Chiara)) | [Paola &amp; Chiara](https://it.wikipedia.org/wiki/Paola_%26_Chiara) | 2023 | <nobr><code>dance</code>, <code>dance pop</code></nobr> |
 | The Shape of a Broken Heart | [Imany](https://en.wikipedia.org/wiki/Imany) | 2011 |  <nobr><code>folk</code>, <code>soul</code>, <code>pop rock</code></nobr> |
 | [Bury the Hatchet](https://en.wikipedia.org/wiki/Bury_the_Hatchet_(album)) | [The Cranberries](https://en.wikipedia.org/wiki/The_Cranberries) | 1999 |  <nobr><code>alternative rock</code>, <code>folk rock</code>, <code>indie pop</code>, <code>jangle pop</code></nobr> |
 | [Due Parole](https://en.wikipedia.org/wiki/Due_parole) | [Carmen Consoli](https://en.wikipedia.org/wiki/Carmen_Consoli) | 1996 |  <nobr><code>pop rock</code></nobr> |
 | [Fallen](https://en.wikipedia.org/wiki/Fallen_(Evanescence_album))  | [Evanescence](https://en.wikipedia.org/wiki/Evanescence) | 2003 |  <nobr><code>nu metal</code>, <code>alternative metal</code>, <code>gothic metal</code></nobr> |
 | [The Velvet Rope](https://en.wikipedia.org/wiki/The_Velvet_Rope) | [Janet Jackson](https://en.wikipedia.org/wiki/Janet_Jackson) | 1997 | <nobr><code>R&amp;B</code>, <code>pop</code></nobr> |
 | [Scream If You Wanna Go Faster](https://en.wikipedia.org/wiki/Scream_If_You_Wanna_Go_Faster) | [Geri Halliwell](https://en.wikipedia.org/wiki/Geri_Halliwell) | 2001 |  <nobr><code>dance-pop</code>, <code>pop</code>, <code>pop rock</code></nobr> |
+| [Nord sud ovest est](https://it.wikipedia.org/wiki/Nord_sud_ovest_est) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1993 | <nobr><code>pop</code>, <code>pop rock</code>, <code>pop rap</code></nobr> |
+| [La donna il sogno &amp; il grande incubo](https://it.wikipedia.org/wiki/La_donna_il_sogno_%26_il_grande_incubo) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1995 | <nobr><code>pop</code></nobr> |
+| [La dura legge del gol!](https://it.wikipedia.org/wiki/La_dura_legge_del_gol!) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1997 | <nobr><code>pop</code>, <code>pop rock</code></nobr> |
+| [Gli anni](https://it.wikipedia.org/wiki/Gli_anni_(album)) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1998 | <nobr><code>pop</code>, <code>pop rock</code></nobr> |
+| [Grazie mille](https://it.wikipedia.org/wiki/Grazie_mille) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1998 | <nobr><code>pop</code>, <code>pop rock</code></nobr> |
+| [Uno in più](https://it.wikipedia.org/wiki/Uno_in_più) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 2001 | <nobr><code>pop</code></nobr> |
+| [Il mondo insieme a te](https://it.wikipedia.org/wiki/Il_mondo_insieme_a_te) | [Max Pezzali](https://it.wikipedia.org/wiki/Max_Pezzali) | 2004 | <nobr><code>pop</code></nobr> |
+| [Max 20](https://it.wikipedia.org/wiki/Max_20) | [Max Pezzali](https://it.wikipedia.org/wiki/Max_Pezzali) | 2013 | <nobr><code>pop</code>, <code>pop rock</code></nobr> |
 | [Use Your Illusion I](https://en.wikipedia.org/wiki/Use_Your_Illusion_I) | [Guns N' Roses](https://en.wikipedia.org/wiki/Guns_N%27_Roses) | 1991 |  <nobr><code>hard rock</code></nobr> |
 | [Metallica](https://en.wikipedia.org/wiki/Metallica_(album)) | [Metallica](https://en.wikipedia.org/wiki/Metallica) | 1991 |  <nobr><code>heavy metal</code>, <code>groove metal</code></nobr> |
 | [Nevermind](https://en.wikipedia.org/wiki/Nevermind) | [Nirvana](https://en.wikipedia.org/wiki/Nirvana_(band)) | 1991 |  <nobr><code>grunge</code>, <code>alternative rock</code></nobr> |
