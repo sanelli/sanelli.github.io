@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Nord sud ovest est](https://it.wikipedia.org/wiki/Nord_sud_ovest_est) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1993 | <nobr><code>pop</code>, <code>pop rock</code>, <code>pop rap</code></nobr> | December 6th | ⭐️⭐️⭐️⭐️⭐️ |
 | [Hanno ucciso l'Uomo Ragno](https://it.wikipedia.org/wiki/Hanno_ucciso_l%27Uomo_Ragno_(album)) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1992 | <nobr><code>pop</code>, <code>pop rock</code>, <code>pop rap</code></nobr> | December 6th | ⭐️⭐️⭐️⭐️⭐️ |
 | [Per Sempre](https://it.wikipedia.org/wiki/Per_sempre_(Paola_%26_Chiara)) | [Paola &amp; Chiara](https://it.wikipedia.org/wiki/Paola_%26_Chiara) | 2023 | <nobr><code>dance</code>, <code>dance pop</code></nobr> | December 5th | ⭐️⭐️⭐️ |
 | [Millenium](https://en.wikipedia.org/wiki/Millennium_(Backstreet_Boys_album)) | [Backstreet Boys](https://en.wikipedia.org/wiki/Backstreet_Boys) | 1999 | <nobr><code>pop</code></nobr> | December 4th | ⭐️⭐️⭐️⭐️⭐️ |
@@ -47,7 +48,6 @@ permalink: /music/
 | [Fallen](https://en.wikipedia.org/wiki/Fallen_(Evanescence_album))  | [Evanescence](https://en.wikipedia.org/wiki/Evanescence) | 2003 |  <nobr><code>nu metal</code>, <code>alternative metal</code>, <code>gothic metal</code></nobr> |
 | [The Velvet Rope](https://en.wikipedia.org/wiki/The_Velvet_Rope) | [Janet Jackson](https://en.wikipedia.org/wiki/Janet_Jackson) | 1997 | <nobr><code>R&amp;B</code>, <code>pop</code></nobr> |
 | [Scream If You Wanna Go Faster](https://en.wikipedia.org/wiki/Scream_If_You_Wanna_Go_Faster) | [Geri Halliwell](https://en.wikipedia.org/wiki/Geri_Halliwell) | 2001 |  <nobr><code>dance-pop</code>, <code>pop</code>, <code>pop rock</code></nobr> |
-| [Nord sud ovest est](https://it.wikipedia.org/wiki/Nord_sud_ovest_est) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1993 | <nobr><code>pop</code>, <code>pop rock</code>, <code>pop rap</code></nobr> |
 | [La donna il sogno &amp; il grande incubo](https://it.wikipedia.org/wiki/La_donna_il_sogno_%26_il_grande_incubo) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1995 | <nobr><code>pop</code></nobr> |
 | [La dura legge del gol!](https://it.wikipedia.org/wiki/La_dura_legge_del_gol!) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1997 | <nobr><code>pop</code>, <code>pop rock</code></nobr> |
 | [Gli anni](https://it.wikipedia.org/wiki/Gli_anni_(album)) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1998 | <nobr><code>pop</code>, <code>pop rock</code></nobr> |
