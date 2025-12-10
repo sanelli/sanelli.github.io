@@ -16,7 +16,8 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
-| [Nord sud ovest est](https://it.wikipedia.org/wiki/Nord_sud_ovest_est) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1993 | <nobr><code>pop</code>, <code>pop rock</code>, <code>pop rap</code></nobr> | December 6th | ⭐️⭐️⭐️⭐️⭐️ |
+| [Stages](https://en.wikipedia.org/wiki/Stages_(Melanie_C_album)) | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 2012 | <nobr><code>theatrical pop</code></nobr> | December 10th | ⭐️⭐️⭐️ |
+| [Nord sud ovest est](https://it.wikipedia.org/wiki/Nord_sud_ovest_est) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1993 | <nobr><code>pop</code>, <code>pop rock</code>, <code>pop rap</code></nobr> | December 6th | ⭐️⭐️⭐️⭐️ |
 | [Hanno ucciso l'Uomo Ragno](https://it.wikipedia.org/wiki/Hanno_ucciso_l%27Uomo_Ragno_(album)) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1992 | <nobr><code>pop</code>, <code>pop rock</code>, <code>pop rap</code></nobr> | December 6th | ⭐️⭐️⭐️⭐️⭐️ |
 | [Per Sempre](https://it.wikipedia.org/wiki/Per_sempre_(Paola_%26_Chiara)) | [Paola &amp; Chiara](https://it.wikipedia.org/wiki/Paola_%26_Chiara) | 2023 | <nobr><code>dance</code>, <code>dance pop</code></nobr> | December 5th | ⭐️⭐️⭐️ |
 | [Millenium](https://en.wikipedia.org/wiki/Millennium_(Backstreet_Boys_album)) | [Backstreet Boys](https://en.wikipedia.org/wiki/Backstreet_Boys) | 1999 | <nobr><code>pop</code></nobr> | December 4th | ⭐️⭐️⭐️⭐️⭐️ |
@@ -41,7 +42,6 @@ permalink: /music/
 
 | Album | Artist | Year | Genre |
 |-------|--------|------|-------|
-| [Stages](https://en.wikipedia.org/wiki/Stages_(Melanie_C_album)) | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 2012 | <nobr><code>theatrical pop</code></nobr> |
 | The Shape of a Broken Heart | [Imany](https://en.wikipedia.org/wiki/Imany) | 2011 |  <nobr><code>folk</code>, <code>soul</code>, <code>pop rock</code></nobr> |
 | [Bury the Hatchet](https://en.wikipedia.org/wiki/Bury_the_Hatchet_(album)) | [The Cranberries](https://en.wikipedia.org/wiki/The_Cranberries) | 1999 |  <nobr><code>alternative rock</code>, <code>folk rock</code>, <code>indie pop</code>, <code>jangle pop</code></nobr> |
 | [Due Parole](https://en.wikipedia.org/wiki/Due_parole) | [Carmen Consoli](https://en.wikipedia.org/wiki/Carmen_Consoli) | 1996 |  <nobr><code>pop rock</code></nobr> |
