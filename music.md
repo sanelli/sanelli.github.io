@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [...Baby One More Time](https://en.wikipedia.org/wiki/...Baby_One_More_Time_(album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 1999 |  <nobr><code>pop</code>, <code>bubblegum pop</code>, <code>dance-pop</code>,<br/><code>teen pop</code></nobr> | December 11th | ⭐️⭐️⭐️⭐️ |
 | [Stages](https://en.wikipedia.org/wiki/Stages_(Melanie_C_album)) | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 2012 | <nobr><code>theatrical pop</code></nobr> | December 10th | ⭐️⭐️⭐️ |
 | [Nord sud ovest est](https://it.wikipedia.org/wiki/Nord_sud_ovest_est) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1993 | <nobr><code>pop</code>, <code>pop rock</code>, <code>pop rap</code></nobr> | December 6th | ⭐️⭐️⭐️⭐️ |
 | [Hanno ucciso l'Uomo Ragno](https://it.wikipedia.org/wiki/Hanno_ucciso_l%27Uomo_Ragno_(album)) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1992 | <nobr><code>pop</code>, <code>pop rock</code>, <code>pop rap</code></nobr> | December 6th | ⭐️⭐️⭐️⭐️⭐️ |
@@ -58,7 +59,6 @@ permalink: /music/
 | [Use Your Illusion I](https://en.wikipedia.org/wiki/Use_Your_Illusion_I) | [Guns N' Roses](https://en.wikipedia.org/wiki/Guns_N%27_Roses) | 1991 |  <nobr><code>hard rock</code></nobr> |
 | [Metallica](https://en.wikipedia.org/wiki/Metallica_(album)) | [Metallica](https://en.wikipedia.org/wiki/Metallica) | 1991 |  <nobr><code>heavy metal</code>, <code>groove metal</code></nobr> |
 | [Nevermind](https://en.wikipedia.org/wiki/Nevermind) | [Nirvana](https://en.wikipedia.org/wiki/Nirvana_(band)) | 1991 |  <nobr><code>grunge</code>, <code>alternative rock</code></nobr> |
-| [...Baby One More Time](https://en.wikipedia.org/wiki/...Baby_One_More_Time_(album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 1999 |  <nobr><code>pop</code>, <code>bubblegum pop</code>, <code>dance-pop</code>, <code>teen pop</code></nobr> |
 | [Aquarium](https://en.wikipedia.org/wiki/Aquarium_(Aqua_album)) | [Aqua](https://en.wikipedia.org/wiki/Aqua_(band)) | 1997 |  <nobr><code>eurodance</code>, <code>eurodisco</code></nobr> |
 | [Discovery](https://en.wikipedia.org/wiki/Discovery_(Daft_Punk_album)) | [Daft Punk](https://en.wikipedia.org/wiki/Daft_Punk) | 2001 |  <nobr><code>french house</code>, <code>disco</code>, <code>nu-disco</code>, <code>house</code>, <code>electro-funk</code></nobr> |
 | [Waterloo](https://en.wikipedia.org/wiki/Waterloo_(album) ) | [ABBA](https://en.wikipedia.org/wiki/ABBA) | 1974 |  <nobr><code>europop</code>, <code>rock</code></nobr> |
