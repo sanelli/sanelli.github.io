@@ -16,6 +16,8 @@ permalink: /movies/
 
 | Title | Directed <span style="font-size:.7em">- or -</span> <br/> Created by | Language | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
+| [Fantaghirò](https://it.wikipedia.org/wiki/Fantaghirò_(miniserie_televisiva))<br/><nobr style="font-size:.75em"><strong>Parte 2</strong></nobr> | [Lamberto Bava](https://it.wikipedia.org/wiki/Lamberto_Bava) | <code>Italian</code> | 1991 | <nobr><code>fantasy</code>, <code>romance</code>,<br/><code>adventure</code></nobr> | <nobr>December 16th</nobr> | ⭐️⭐️⭐️ |
+| [Fantaghirò](https://it.wikipedia.org/wiki/Fantaghirò_(miniserie_televisiva))<br/><nobr style="font-size:.75em"><strong>Parte 1</strong></nobr> | [Lamberto Bava](https://it.wikipedia.org/wiki/Lamberto_Bava) | <code>Italian</code> | 1991 | <nobr><code>fantasy</code>, <code>romance</code>,<br/><code>adventure</code></nobr> | <nobr>December 15th</nobr> | ⭐️⭐️⭐️ |
 | [Wicked: For Good](https://en.wikipedia.org/wiki/Wicked:_For_Good) | [Jon M. Chu](https://en.wikipedia.org/wiki/Jon_M._Chu) | <code>English</code> | 2025 | <nobr><code>musical</code>, <code>fantasy</code></nobr> | <nobr>November 26th</nobr> | ⭐️⭐️⭐️ |
 | [The Fantastic Four: First Steps](https://en.wikipedia.org/wiki/The_Fantastic_Four:_First_Steps) | [Matt Shakman](https://en.wikipedia.org/wiki/Matt_Shakman) | <code>English</code> | 2025 | <nobr><code>superhero</code></nobr>  | <nobr>November 25th</nobr> | ⭐️⭐️⭐️ |
 | [Interview with the Vampire](https://en.wikipedia.org/wiki/Interview_with_the_Vampire_(film)) | [Neil Jordan](https://en.wikipedia.org/wiki/Neil_Jordan) | <code>English</code> | 1994 | <nobr><code>gothic</code>, <code>horror</code></nobr> | <nobr>November 2nd</nobr> | ⭐️⭐️⭐️⭐️ |
