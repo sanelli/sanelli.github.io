@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [No Angel](https://en.wikipedia.org/wiki/No_Angel) | [Dido](https://en.wikipedia.org/wiki/Dido_(singer)) | 1999 |  <nobr><code>folk-pop</code>, <code>folktronica</code></nobr> | December 19th | ⭐️⭐️⭐️⭐️ |
 | [...Baby One More Time](https://en.wikipedia.org/wiki/...Baby_One_More_Time_(album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 1999 |  <nobr><code>pop</code>, <code>bubblegum pop</code>, <code>dance-pop</code>,<br/><code>teen pop</code></nobr> | December 11th | ⭐️⭐️⭐️⭐️ |
 | [Stages](https://en.wikipedia.org/wiki/Stages_(Melanie_C_album)) | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 2012 | <nobr><code>theatrical pop</code></nobr> | December 10th | ⭐️⭐️⭐️ |
 | [Nord sud ovest est](https://it.wikipedia.org/wiki/Nord_sud_ovest_est) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1993 | <nobr><code>pop</code>, <code>pop rock</code>, <code>pop rap</code></nobr> | December 6th | ⭐️⭐️⭐️⭐️ |
@@ -56,6 +57,7 @@ permalink: /music/
 | [Uno in più](https://it.wikipedia.org/wiki/Uno_in_più) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 2001 | <nobr><code>pop</code></nobr> |
 | [Il mondo insieme a te](https://it.wikipedia.org/wiki/Il_mondo_insieme_a_te) | [Max Pezzali](https://it.wikipedia.org/wiki/Max_Pezzali) | 2004 | <nobr><code>pop</code></nobr> |
 | [Max 20](https://it.wikipedia.org/wiki/Max_20) | [Max Pezzali](https://it.wikipedia.org/wiki/Max_Pezzali) | 2013 | <nobr><code>pop</code>, <code>pop rock</code></nobr> |
+| [Life for Rent](https://en.wikipedia.org/wiki/Life_for_Rent) | [Dido](https://en.wikipedia.org/wiki/Dido_(singer)) | 2003 |  <nobr><code>folk-pop</code></nobr> | 
 | [Use Your Illusion I](https://en.wikipedia.org/wiki/Use_Your_Illusion_I) | [Guns N' Roses](https://en.wikipedia.org/wiki/Guns_N%27_Roses) | 1991 |  <nobr><code>hard rock</code></nobr> |
 | [Metallica](https://en.wikipedia.org/wiki/Metallica_(album)) | [Metallica](https://en.wikipedia.org/wiki/Metallica) | 1991 |  <nobr><code>heavy metal</code>, <code>groove metal</code></nobr> |
 | [Nevermind](https://en.wikipedia.org/wiki/Nevermind) | [Nirvana](https://en.wikipedia.org/wiki/Nirvana_(band)) | 1991 |  <nobr><code>grunge</code>, <code>alternative rock</code></nobr> |
