@@ -16,6 +16,7 @@ permalink: /movies/
 
 | Title | Directed <span style="font-size:.7em">- or -</span> <br/> Created by | Language | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
+| [Mamma ho perso l'aereo 2](https://en.wikipedia.org/wiki/Home_Alone_2:_Lost_in_New_York)<br/><nobr style="font-size:.75em"><strong>Mi Sono Smarrito a New York</strong></nobr>| [Chris Columbus](https://en.wikipedia.org/wiki/Chris_Columbus_(filmmaker)) | <code>Italian</code> | 1992 | <nobr><code>comedy</code></nobr> | <nobr>December 25th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Fantaghirò 2](https://it.wikipedia.org/wiki/Fantaghirò_2)<br/><nobr style="font-size:.75em"><strong>Parte 2</strong></nobr> | [Lamberto Bava](https://it.wikipedia.org/wiki/Lamberto_Bava) | <code>Italian</code> | 1992 | <nobr><code>fantasy</code>, <code>romance</code>,<br/><code>adventure</code></nobr> | <nobr>December 21th</nobr> | ⭐️⭐️⭐️ |
 | [Fantaghirò 2](https://it.wikipedia.org/wiki/Fantaghirò_2)<br/><nobr style="font-size:.75em"><strong>Parte 1</strong></nobr> | [Lamberto Bava](https://it.wikipedia.org/wiki/Lamberto_Bava) | <code>Italian</code> | 1992 | <nobr><code>fantasy</code>, <code>romance</code>,<br/><code>adventure</code></nobr> | <nobr>December 19th</nobr> | ⭐️⭐️⭐️ |
 | [Pillion](https://en.wikipedia.org/wiki/Pillion_(film)) | [Harry Lighton](https://en.wikipedia.org/wiki/Harry_Lighton) | <code>English</code> | 2025 | <nobr><code>romantic</code>, <code>comedy drama</code></nobr> | <nobr>December 18th</nobr> | ⭐️⭐️⭐️⭐️ |
