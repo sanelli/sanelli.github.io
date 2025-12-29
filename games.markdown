@@ -16,7 +16,7 @@ permalink: /games/
 
 | Title | Developer(s) | Publisher(s) | Console | Genre |
 |-------|--------------|--------------|---------|-------|
-[Salt and Sanctuary](https://en.wikipedia.org/wiki/Salt_and_Sanctuary) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>metroidvania</code></nobr> |
+[Salt and Sanctuary](https://en.wikipedia.org/wiki/Salt_and_Sanctuary) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing</code>, <code>soulslike</code></nobr> |
 [Clair Obscur: Expedition 33](https://en.wikipedia.org/wiki/Clair_Obscur:_Expedition_33) | [Sandfall Interactive](https://en.wikipedia.org/wiki/Sandfall_Interactive) | [Kepler Interactive](https://en.wikipedia.org/wiki/Kepler_Interactive) |[PlayStation 5](https://en.wikipedia.org/wiki/PlayStation_5) | <nobr><code>role-playing</code></nobr> |
 
 ## 2025
@@ -137,3 +137,6 @@ permalink: /games/
 | `WISHLIST` | Sonic Frontiers |  |  |  |
 | `WISHLIST` | [Death Stranding](https://en.wikipedia.org/wiki/Death_Stranding) | [Kojima Productions](https://en.wikipedia.org/wiki/Kojima_Productions) | [Sony](https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment) | [PlayStation 5](https://en.wikipedia.org/wiki/PlayStation_5) | <nobr><code>action-adventure</code></nobr> |
 | `WISHLIST` | [Death Stranding 2: On the Beach](https://en.wikipedia.org/wiki/Death_Stranding_2:_On_the_Beach) | [Kojima Productions](https://en.wikipedia.org/wiki/Kojima_Productions) | [Sony](https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment) | [PlayStation 5](https://en.wikipedia.org/wiki/PlayStation_5) | <nobr><code>action-adventure</code></nobr> |
+| `WISHLIST` | [Salt and Sacrifice](https://en.wikipedia.org/wiki/Salt_and_Sacrifice) [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing</code>, <code>soulslike</code></nobr> |
+
+
