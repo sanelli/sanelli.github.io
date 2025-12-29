@@ -49,6 +49,8 @@ permalink: /music/
 
 | Album | Artist | Year | Genre |
 |-------|--------|------|-------|
+| [The Better Life](https://en.wikipedia.org/wiki/The_Better_Life) | [3 Doors Down](https://en.wikipedia.org/wiki/3_Doors_Down) | 2000 |  <nobr><code>post-grunge</code>, <code>alternative metal</code></nobr> |
+| [Away from the Sun](https://en.wikipedia.org/wiki/Away_from_the_Sun) | [3 Doors Down](https://en.wikipedia.org/wiki/3_Doors_Down) | 2002 |  <nobr><code>post-grunge</code>, <code>alternative rock</code></nobr> |
 | The Shape of a Broken Heart | [Imany](https://en.wikipedia.org/wiki/Imany) | 2011 |  <nobr><code>folk</code>, <code>soul</code>, <code>pop rock</code></nobr> |
 | [Bury the Hatchet](https://en.wikipedia.org/wiki/Bury_the_Hatchet_(album)) | [The Cranberries](https://en.wikipedia.org/wiki/The_Cranberries) | 1999 |  <nobr><code>alternative rock</code>, <code>folk rock</code>, <code>indie pop</code>, <code>jangle pop</code></nobr> |
 | [Due Parole](https://en.wikipedia.org/wiki/Due_parole) | [Carmen Consoli](https://en.wikipedia.org/wiki/Carmen_Consoli) | 1996 |  <nobr><code>pop rock</code></nobr> |
