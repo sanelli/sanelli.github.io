@@ -16,6 +16,7 @@ permalink: /games/
 
 | Title | Developer(s) | Publisher(s) | Console | Genre |
 |-------|--------------|--------------|---------|-------|
+[Salt and Sanctuary](https://en.wikipedia.org/wiki/Salt_and_Sanctuary) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>metroidvania</code></nobr> |
 [Clair Obscur: Expedition 33](https://en.wikipedia.org/wiki/Clair_Obscur:_Expedition_33) | [Sandfall Interactive](https://en.wikipedia.org/wiki/Sandfall_Interactive) | [Kepler Interactive](https://en.wikipedia.org/wiki/Kepler_Interactive) |[PlayStation 5](https://en.wikipedia.org/wiki/PlayStation_5) | <nobr><code>role-playing</code></nobr> |
 
 ## 2025
@@ -109,7 +110,6 @@ permalink: /games/
 
 | Status | Title | Developer(s) | Publisher(s) | Console | Genre |
 |:------:|-------|--------------|--------------|---------|-------|
-| `PAUSED` | [Salt and Sanctuary](https://en.wikipedia.org/wiki/Salt_and_Sanctuary) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>metroidvania</code></nobr> |
 | `PAUSED` | [Dark Soul (Remastered)](https://en.wikipedia.org/wiki/Dark_Souls_(video_game)) | [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware) | [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing</code>, <code>soulslike</code></nobr> |
 | `PAUSED` | [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn) | [Guerrilla Games](https://en.wikipedia.org/wiki/Guerrilla_Games) | [Sony Interactive Entertainment](https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment) | [Playstation 5](https://en.wikipedia.org/wiki/PlayStation_5) | <nobr><code>action role-playing</code></nobr> |
 | `PAUSED` | [Cyberpunk 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077) | [CD Projekt Red](https://en.wikipedia.org/wiki/CD_Projekt_Red) | [CD Projekt](https://en.wikipedia.org/wiki/CD_Projekt) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing</code></nobr> |
