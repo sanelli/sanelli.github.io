@@ -12,11 +12,17 @@ permalink: /music/
         }
 </style>
 
+## 2026
+
+| Album | Artist | Year | Genre  | When | Rating |
+|-------|--------|------|:-------|------|--------|
+| [Bury the Hatchet](https://en.wikipedia.org/wiki/Bury_the_Hatchet_(album)) | [The Cranberries](https://en.wikipedia.org/wiki/The_Cranberries) | 1999 |  <nobr><code>alternative rock</code>, <code>folk rock</code>,<br/><code>indie pop</code>, <code>jangle pop</code></nobr> | <nobr>January 1st</nobr> | ⭐️⭐️⭐️⭐️ |
+
 ## 2025
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
-| The Shape of a Broken Heart | [Imany](https://en.wikipedia.org/wiki/Imany) | 2011 |  <nobr><code>folk</code>, <code>soul</code>, <code>pop rock</code></nobr> | December 31st | ⭐️⭐️⭐️⭐️ |
+| The Shape of a Broken Heart | [Imany](https://en.wikipedia.org/wiki/Imany) | 2011 |  <nobr><code>folk</code>, <code>soul</code>, <code>pop rock</code></nobr> | <nobr>December 31st</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Fallen](https://en.wikipedia.org/wiki/Fallen_(Evanescence_album))  | [Evanescence](https://en.wikipedia.org/wiki/Evanescence) | 2003 |  <nobr><code>nu metal</code>, <code>alternative metal</code>,<br/><code>gothic metal</code></nobr> | December 27th | ⭐️⭐️⭐️⭐️ |
 | [Backstreet Boys](https://en.wikipedia.org/wiki/Backstreet_Boys_(1996_album)) | [Backstreet Boys](https://en.wikipedia.org/wiki/Backstreet_Boys) | 1996 | <nobr><code>R&amp;B</code>, <code>pop</code>, <code>dance-pop</code>, <code>teen pop</code></nobr> | December 27th | ⭐️⭐️ |
 | [Scream If You Wanna Go Faster](https://en.wikipedia.org/wiki/Scream_If_You_Wanna_Go_Faster) | [Geri Halliwell](https://en.wikipedia.org/wiki/Geri_Halliwell) | 2001 |  <nobr><code>dance-pop</code>, <code>pop</code>, <code>pop rock</code></nobr> | December 25th | ⭐️⭐️⭐️ |
@@ -52,7 +58,6 @@ permalink: /music/
 |-------|--------|------|-------|
 | [The Better Life](https://en.wikipedia.org/wiki/The_Better_Life) | [3 Doors Down](https://en.wikipedia.org/wiki/3_Doors_Down) | 2000 |  <nobr><code>post-grunge</code>, <code>alternative metal</code></nobr> |
 | [Away from the Sun](https://en.wikipedia.org/wiki/Away_from_the_Sun) | [3 Doors Down](https://en.wikipedia.org/wiki/3_Doors_Down) | 2002 |  <nobr><code>post-grunge</code>, <code>alternative rock</code></nobr> |
-| [Bury the Hatchet](https://en.wikipedia.org/wiki/Bury_the_Hatchet_(album)) | [The Cranberries](https://en.wikipedia.org/wiki/The_Cranberries) | 1999 |  <nobr><code>alternative rock</code>, <code>folk rock</code>, <code>indie pop</code>, <code>jangle pop</code></nobr> |
 | [Due Parole](https://en.wikipedia.org/wiki/Due_parole) | [Carmen Consoli](https://en.wikipedia.org/wiki/Carmen_Consoli) | 1996 |  <nobr><code>pop rock</code></nobr> |
 | [The Velvet Rope](https://en.wikipedia.org/wiki/The_Velvet_Rope) | [Janet Jackson](https://en.wikipedia.org/wiki/Janet_Jackson) | 1997 | <nobr><code>R&amp;B</code>, <code>pop</code></nobr> |
 | [La donna il sogno &amp; il grande incubo](https://it.wikipedia.org/wiki/La_donna_il_sogno_%26_il_grande_incubo) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1995 | <nobr><code>pop</code></nobr> |
