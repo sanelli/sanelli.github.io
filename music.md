@@ -56,10 +56,15 @@ permalink: /music/
 
 | Album | Artist | Year | Genre |
 |-------|--------|------|-------|
-| [The Better Life](https://en.wikipedia.org/wiki/The_Better_Life) | [3 Doors Down](https://en.wikipedia.org/wiki/3_Doors_Down) | 2000 |  <nobr><code>post-grunge</code>, <code>alternative metal</code></nobr> |
-| [Away from the Sun](https://en.wikipedia.org/wiki/Away_from_the_Sun) | [3 Doors Down](https://en.wikipedia.org/wiki/3_Doors_Down) | 2002 |  <nobr><code>post-grunge</code>, <code>alternative rock</code></nobr> |
+| [Glory](https://en.wikipedia.org/wiki/Glory_(Britney_Spears_album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2016 |  <nobr><code>pop</code>, <code>dance-pop</code>, <code>R&amp;B</code></nobr> |
+| [Get Weird](https://en.wikipedia.org/wiki/Get_Weird) | [Little Mix](https://en.wikipedia.org/wiki/Little_Mix) | 2015 | <nobr><code>synth-pop</code>, <code>dance-pop</code>, <code>R&amp;B</code></nobr> |
+| [Glory Days](https://en.wikipedia.org/wiki/Glory_Days_(Little_Mix_album)) | [Little Mix](https://en.wikipedia.org/wiki/Little_Mix) | 2016 | <nobr><code>pop</code>, <code>dance-pop</code>, <code>R&amp;B</code></nobr> |
+| [The Better Life](https://en.wikipedia.org/wiki/The_Better_Life) | [3 Doors Down](https://en.wikipedia.org/wiki/3_Doors_Down) | 2000 | <nobr><code>post-grunge</code>, <code>alternative metal</code></nobr> |
 | [Due Parole](https://en.wikipedia.org/wiki/Due_parole) | [Carmen Consoli](https://en.wikipedia.org/wiki/Carmen_Consoli) | 1996 |  <nobr><code>pop rock</code></nobr> |
 | [The Velvet Rope](https://en.wikipedia.org/wiki/The_Velvet_Rope) | [Janet Jackson](https://en.wikipedia.org/wiki/Janet_Jackson) | 1997 | <nobr><code>R&amp;B</code>, <code>pop</code></nobr> |
+| [Confetti](https://en.wikipedia.org/wiki/Confetti_(Little_Mix_album)) | [Little Mix](https://en.wikipedia.org/wiki/Little_Mix) | 2020 | <nobr><code>pop</code>, <code>R&amp;B</code></nobr> |
+| [Between Us](https://en.wikipedia.org/wiki/Between_Us_(Little_Mix_album)) | [Little Mix](https://en.wikipedia.org/wiki/Little_Mix) | 2016 | <nobr><code>dance-pop</code>, <code>R&amp;B</code></nobr> |
+| [Away from the Sun](https://en.wikipedia.org/wiki/Away_from_the_Sun) | [3 Doors Down](https://en.wikipedia.org/wiki/3_Doors_Down) | 2002 |  <nobr><code>post-grunge</code>, <code>alternative rock</code></nobr> |
 | [La donna il sogno &amp; il grande incubo](https://it.wikipedia.org/wiki/La_donna_il_sogno_%26_il_grande_incubo) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1995 | <nobr><code>pop</code></nobr> |
 | [La dura legge del gol!](https://it.wikipedia.org/wiki/La_dura_legge_del_gol!) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1997 | <nobr><code>pop</code>, <code>pop rock</code></nobr> |
 | [Grazie mille](https://it.wikipedia.org/wiki/Grazie_mille) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1998 | <nobr><code>pop</code>, <code>pop rock</code></nobr> |
@@ -86,7 +91,6 @@ permalink: /music/
 | [Circus](https://en.wikipedia.org/wiki/Circus_(Britney_Spears_album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2008 |  <nobr><code>dance-pop</code>, <code>pop</code></nobr> |
 | [Femme Fatale](https://en.wikipedia.org/wiki/Femme_Fatale_(Britney_Spears_album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2011 |  <nobr><code>dance-pop</code>, <code>electropop</code>, <code>synth-pop</code>, <code>EDM</code></nobr> |
 | [Britney Jean](https://en.wikipedia.org/wiki/Britney_Jean) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2013 |  <nobr><code>pop</code>, <code>EDM</code></nobr> |
-| [Glory](https://en.wikipedia.org/wiki/Glory_(Britney_Spears_album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2016 |  <nobr><code>pop</code>, <code>dance-pop</code>, <code>R&amp;B</code></nobr> |
 | [Everybody Else Is Doing It, So Why Can't We?](https://en.wikipedia.org/wiki/Everybody_Else_Is_Doing_It,_So_Why_Can%27t_We%3F) | [The Cranberries](https://en.wikipedia.org/wiki/The_Cranberries) | 1993 |  <nobr><code>alternative rock</code>, <code>indie pop</code>, <code>Irish folk</code>, <code>jangle pop</code>, <code>post-punk</code>, <code>dream pop</code></nobr> |
 | [No Need to Argue](https://en.wikipedia.org/wiki/No_Need_to_Argue) | [The Cranberries](https://en.wikipedia.org/wiki/The_Cranberries) | 1994 |  <nobr><code>alternative rock</code>, <code>jangle pop</code>, <code>Irish folk</code>, <code>post-punk</code></nobr> |
 | [Take Off Your Pants and Jacket](https://en.wikipedia.org/wiki/Take_Off_Your_Pants_and_Jacket) | [blink-182](https://en.wikipedia.org/wiki/Blink-182) | 2001 | <nobr><code>pop-punk</code>, <code>punk-rock</code></nobr> |
