@@ -16,7 +16,7 @@ permalink: /movies/
 
 | Title | Directed <span style="font-size:.7em">- or -</span> <br/> Created by | Language | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
-| [Jurassic Park](https://en.wikipedia.org/wiki/Jurassic_Park) | [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) | <code>English</code> | 1993 | <nobr><code>science fiction</code>, <code>adventure</code></nobr> | <nobr>December 3rd</nobr> | ⭐️⭐️⭐️⭐️ | 
+| [Jurassic Park](https://en.wikipedia.org/wiki/Jurassic_Park) | [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) | <code>English</code> | 1993 | <nobr><code>science fiction</code>, <code>adventure</code></nobr> | <nobr>December 3rd</nobr> | ⭐️⭐️⭐️⭐️⭐️ | 
 
 ## 2025
 
