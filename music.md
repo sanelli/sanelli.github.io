@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Glory](https://en.wikipedia.org/wiki/Glory_(Britney_Spears_album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2016 |  <nobr><code>pop</code>, <code>dance-pop</code>, <code>R&amp;B</code></nobr> | <nobr>January 3rd</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Bury the Hatchet](https://en.wikipedia.org/wiki/Bury_the_Hatchet_(album)) | [The Cranberries](https://en.wikipedia.org/wiki/The_Cranberries) | 1999 |  <nobr><code>alternative rock</code>, <code>folk rock</code>,<br/><code>indie pop</code>, <code>jangle pop</code></nobr> | <nobr>January 1st</nobr> | ⭐️⭐️⭐️⭐️ |
 
 ## 2025
@@ -56,7 +57,6 @@ permalink: /music/
 
 | Album | Artist | Year | Genre |
 |-------|--------|------|-------|
-| [Glory](https://en.wikipedia.org/wiki/Glory_(Britney_Spears_album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2016 |  <nobr><code>pop</code>, <code>dance-pop</code>, <code>R&amp;B</code></nobr> |
 | [Get Weird](https://en.wikipedia.org/wiki/Get_Weird) | [Little Mix](https://en.wikipedia.org/wiki/Little_Mix) | 2015 | <nobr><code>synth-pop</code>, <code>dance-pop</code>, <code>R&amp;B</code></nobr> |
 | [Glory Days](https://en.wikipedia.org/wiki/Glory_Days_(Little_Mix_album)) | [Little Mix](https://en.wikipedia.org/wiki/Little_Mix) | 2016 | <nobr><code>pop</code>, <code>dance-pop</code>, <code>R&amp;B</code></nobr> |
 | [The Better Life](https://en.wikipedia.org/wiki/The_Better_Life) | [3 Doors Down](https://en.wikipedia.org/wiki/3_Doors_Down) | 2000 | <nobr><code>post-grunge</code>, <code>alternative metal</code></nobr> |
