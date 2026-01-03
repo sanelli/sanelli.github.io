@@ -12,6 +12,12 @@ permalink: /movies/
         }
 </style>
 
+## 2026
+
+| Title | Directed <span style="font-size:.7em">- or -</span> <br/> Created by | Language | Year | Genre | When | Rating |
+|-----|----|----|-----|------|----|----|
+| [Jurassic Park](https://en.wikipedia.org/wiki/Jurassic_Park) | [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) | <code>English</code> | 1993 | <nobr><code>science fiction</code>, <code>adventure</code></nobr> | <nobr>December 3rd</nobr> | ⭐️⭐️⭐️⭐️ | 
+
 ## 2025
 
 | Title | Directed <span style="font-size:.7em">- or -</span> <br/> Created by | Language | Year | Genre | When | Rating |
@@ -73,3 +79,12 @@ permalink: /movies/
 | [Poor things](https://en.wikipedia.org/wiki/Poor_Things_(film)) | [Yorgos Lanthimos](https://en.wikipedia.org/wiki/Yorgos_Lanthimos) | <code>English</code> | 2024 |  | <nobr>April 7th</nobr> | ⭐️⭐️ |
 | [All of Us Strangers](https://en.wikipedia.org/wiki/All_of_Us_Strangers) | [Andrew Haigh](https://en.wikipedia.org/wiki/Andrew_Haigh) | <code>English</code> | 2024 | <nobr><code>romantic fantasy</code></nobr> | <nobr>April 4th</nobr> | ⭐️⭐️⭐️ |
 
+## Backlog
+
+| Title | Directed/Created by | Language | Year | Genre |
+|-----|----|----|-----|------|----|----|
+| [The Shawshank Redemption](https://en.wikipedia.org/wiki/The_Shawshank_Redemption) | [Frank Darabont](https://en.wikipedia.org/wiki/Frank_Darabont) | <code>English</code> | 1994 | <nobr><code>drama</code></nobr> |
+| [The Godfather](https://en.wikipedia.org/wiki/The_Godfather) | [Francis Ford Coppola](https://en.wikipedia.org/wiki/Francis_Ford_Coppola) | <code>English</code> | 1972 | <nobr><code>epic</code>, <code>gangster</code></nobr> |
+| [The Adventures of Priscilla, Queen of the Desert](https://en.wikipedia.org/wiki/The_Adventures_of_Priscilla,_Queen_of_the_Desert) | [Stephan Elliott](https://en.wikipedia.org/wiki/Stephan_Elliott) | <code>English</code> | 1994 | <nobr><code>road</code>, <code>comedy</code></nobr> |
+| [La Cage aux Folles](https://en.wikipedia.org/wiki/La_Cage_aux_Folles_(film)) | [Édouard Molinaro](https://en.wikipedia.org/wiki/Édouard_Molinaro) | <code>English</code> | 1978 | <nobr><code>comedy</code></nobr> |
+| [The Sixth Sense](https://en.wikipedia.org/wiki/The_Sixth_Sense) | [M. Night Shyamalan](https://en.wikipedia.org/wiki/M._Night_Shyamalan) | <code>English</code> | 1999 | <nobr><code>psychological thriller</code></nobr> |
