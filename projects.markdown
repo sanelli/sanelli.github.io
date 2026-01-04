@@ -45,4 +45,5 @@ permalink: /projects/
 
 ### <span style="padding-left:40px">🧠 Brainfuck interpreters</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/brainfuck)</span>
 <span style="padding-left:80px">*Suite of [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreters implemented in various languages (C#, C++, Ada, ...)*</span><br/>
-<span style="padding-left:80px">**Tags**: `c++`, `python`, `dotnet`, `go`, `csharp`, `pascal`, `ada`, `c`, `d`, `rust`</span>
+<span style="padding-left:80px">**Tags**: `c++`, `python`, `dotnet`, `go`, `csharp`, `pascal`, `ada`, `c`, `d`,</span>
+<span style="padding-left:125px">`rust`, `erlang`</span>
