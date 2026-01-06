@@ -60,9 +60,15 @@ permalink: /music/
 |-------|--------|------|-------|
 | [David Archuleta](https://en.wikipedia.org/wiki/David_Archuleta_(album)) | [David Archuleta](https://en.wikipedia.org/wiki/David_Archuleta) | 2008 | <nobr><code>pop</code>, <code>R&amp;B</code></nobr> |
 | [Something to Give Each Other](https://en.wikipedia.org/wiki/Something_to_Give_Each_Other) | [Troye Sivan](https://en.wikipedia.org/wiki/Troye_Sivan) | 2023 | <nobr><code>pop</code>, <code>synth-pop</code>, <code>house</code></nobr> |
+| [Most Wanted](https://en.wikipedia.org/wiki/Most_Wanted_(Hilary_Duff_album)) | [Hilary Duff](https://en.wikipedia.org/wiki/Hilary_Duff) | 2005 | <nobr><code>pop</code>, <code>dance pop</code>,  <code>rock</code></nobr> |
+| [The Writing's on the Wall](https://en.wikipedia.org/wiki/The_Writing%27s_on_the_Wall) | [Destiny's Child](https://en.wikipedia.org/wiki/Destiny%27s_Child) | 1999 |  <nobr><code>R&amp;B</code>, <code>pop</code>, <code>hip pop</code>, <code>soul</code></nobr> |
+| [Survivor](https://en.wikipedia.org/wiki/Survivor_(Destiny%27s_Child_album)) | [Destiny's Child](https://en.wikipedia.org/wiki/Destiny%27s_Child) | 2001 |  <nobr><code>R&amp;B</code>, <code>pop</code></nobr> |
 | [Glory Days](https://en.wikipedia.org/wiki/Glory_Days_(Little_Mix_album)) | [Little Mix](https://en.wikipedia.org/wiki/Little_Mix) | 2016 | <nobr><code>pop</code>, <code>dance-pop</code>, <code>R&amp;B</code></nobr> |
 | [The Better Life](https://en.wikipedia.org/wiki/The_Better_Life) | [3 Doors Down](https://en.wikipedia.org/wiki/3_Doors_Down) | 2000 | <nobr><code>post-grunge</code>, <code>alternative metal</code></nobr> |
 | [Due Parole](https://en.wikipedia.org/wiki/Due_parole) | [Carmen Consoli](https://en.wikipedia.org/wiki/Carmen_Consoli) | 1996 |  <nobr><code>pop rock</code></nobr> |
+| [Destiny's Child](https://en.wikipedia.org/wiki/Destiny%27s_Child_(album)) | [Destiny's Child](https://en.wikipedia.org/wiki/Destiny%27s_Child) | 1998 |  <nobr><code>neo soul</code>, <code>R&amp;B</code></nobr> |
+| [Destiny Fulfilled](https://en.wikipedia.org/wiki/Destiny_Fulfilled) | [Destiny's Child](https://en.wikipedia.org/wiki/Destiny%27s_Child) | 2004 |  <nobr><code>R&amp;B</code></nobr> |
+| [Metamorphosis](https://en.wikipedia.org/wiki/Metamorphosis_(Hilary_Duff_album)) | [Hilary Duff](https://en.wikipedia.org/wiki/Hilary_Duff) | 2003 | <nobr><code>pop rock</code>, <code>teen pop</code>,  <code>bubblegum pop</code></nobr> |
 | [The Velvet Rope](https://en.wikipedia.org/wiki/The_Velvet_Rope) | [Janet Jackson](https://en.wikipedia.org/wiki/Janet_Jackson) | 1997 | <nobr><code>R&amp;B</code>, <code>pop</code></nobr> |
 | [Confetti](https://en.wikipedia.org/wiki/Confetti_(Little_Mix_album)) | [Little Mix](https://en.wikipedia.org/wiki/Little_Mix) | 2020 | <nobr><code>pop</code>, <code>R&amp;B</code></nobr> |
 | [Between Us](https://en.wikipedia.org/wiki/Between_Us_(Little_Mix_album)) | [Little Mix](https://en.wikipedia.org/wiki/Little_Mix) | 2016 | <nobr><code>dance-pop</code>, <code>R&amp;B</code></nobr> |
