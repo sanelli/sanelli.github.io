@@ -12,15 +12,15 @@ permalink: /projects/
 
 ### <span style="padding-left:40px">🗺️ Mappa</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/Mappa) [[NuGet]](https://www.nuget.org/packages/Mappa) [[NuGet]](https://www.nuget.org/packages/Mappa.Generator)</span>
 <span style="padding-left:80px">*.NET source generator for mapping classes, similar to AutoMapper.*</span><br/>
-<span style="padding-left:80px">**Tags**: `C#`, `source-generator`, `c-sharp`, `dotnet`</span>
+<span style="padding-left:80px">**Tags**: `C#`, `source-generator`, `csharp`, `dotnet`</span>
 
 ### <span style="padding-left:40px">💭 Comment TODO Analyzer</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/Todo.Analyzer) [[NuGet]](https://www.nuget.org/packages/Comment.Todo.Analyzer)</span>
 <span style="padding-left:80px">*.NET analyzer for C# enforcing coding standard to TODO comments.*</span><br/>
-<span style="padding-left:80px">**Tags**: `C#`, `analyzer`, `c-sharp`, `dotnet`</span>
+<span style="padding-left:80px">**Tags**: `C#`, `analyzer`, `csharp`, `dotnet`</span>
 
 ### <span style="padding-left:40px">👷 PrettyCode.StringBuilder</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/PrettyCode.StringBuilder) [[NuGet]](https://www.nuget.org/packages/PrettyCode.StringBuilder)</span>
 <span style="padding-left:80px">*.NET StringBuilder wrapper that helps in generating pretty strings of code.*</span><br/>
-<span style="padding-left:80px">**Tags**: `C#`, `c-sharp`, `dotnet`</span>
+<span style="padding-left:80px">**Tags**: `C#`, `csharp`, `dotnet`</span>
 
 ### <span style="padding-left:40px">🟦🟩 Blocchi</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/blocchi)</span>
 <span style="padding-left:80px">*[Tetris](https://en.wikipedia.org/wiki/Tetris) game implemented in [`Rust`](https://www.rust-lang.org) and [`Bevy`](https://bevy.org).*</span><br/>
@@ -40,10 +40,11 @@ permalink: /projects/
 <span style="padding-left:80px">**Tags**: `go`, `SDL`, `SDL2`, `game`</span>
 
 ### <span style="padding-left:40px">🍎 Turing machine emulators</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/turing)</span>
-<span style="padding-left:80px">*Suite of [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine) emulators implemented in various languages (C#, C++, Ada, ...)*</span><br/>
-<span style="padding-left:80px">**Tags**: `c++`, `python`, `dotnet`, `go`, `csharp`, `pascal`, `ada`, `c`, `d`, `rust`</span>
+<span style="padding-left:80px">*Suite of [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine) emulators implemented in various languages*.</span><br/>
+<span style="padding-left:80px">**Tags**: `c++`, `python`, `dotnet`, `go`, `csharp`, `pascal`, `ada`,</span><br/>
+<span style="padding-left:125px">`c`, `d`, `rust`</span>
 
 ### <span style="padding-left:40px">🧠 Brainfuck interpreters</span> <span style="font-size:.5em">[[GitHub]](https://github.com/sanelli/brainfuck)</span>
-<span style="padding-left:80px">*Suite of [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreters implemented in various languages (C#, C++, Ada, ...)*</span><br/>
-<span style="padding-left:80px">**Tags**: `c++`, `python`, `dotnet`, `go`, `csharp`, `pascal`, `ada`, `c`, `d`,</span>
-<span style="padding-left:125px">`rust`, `erlang`</span>
+<span style="padding-left:80px">*Suite of [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreters implemented in various languages*.</span><br/>
+<span style="padding-left:80px">**Tags**: `c++`, `python`, `dotnet`, `go`, `csharp`, `pascal`, `ada`,</span><br/>
+<span style="padding-left:125px">`c`, `d`, `rust`, `erlang`</span>
