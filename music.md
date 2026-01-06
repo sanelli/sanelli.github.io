@@ -68,8 +68,8 @@ permalink: /music/
 | [Due Parole](https://en.wikipedia.org/wiki/Due_parole) | [Carmen Consoli](https://en.wikipedia.org/wiki/Carmen_Consoli) | 1996 |  <nobr><code>pop rock</code></nobr> |
 | [Destiny's Child](https://en.wikipedia.org/wiki/Destiny%27s_Child_(album)) | [Destiny's Child](https://en.wikipedia.org/wiki/Destiny%27s_Child) | 1998 | <nobr><code>neo soul</code>, <code>R&amp;B</code></nobr> |
 | [Destiny Fulfilled](https://en.wikipedia.org/wiki/Destiny_Fulfilled) | [Destiny's Child](https://en.wikipedia.org/wiki/Destiny%27s_Child) | 2004 | <nobr><code>R&amp;B</code></nobr> |
-| [No Strings Attached](https://en.wikipedia.org/wiki/No_Strings_Attached_(NSYNC_album)) | [NSYNC](https://en.wikipedia.org/wiki/NSYNC) | 2000 | <nobr><code>pop</code>, <code>R&amp;B</code>, code>dance-pop</code>, code>teen pop</code></nobr> |
-| [Metamorphosis](https://en.wikipedia.org/wiki/Metamorphosis_(Hilary_Duff_album)) | [Hilary Duff](https://en.wikipedia.org/wiki/Hilary_Duff) | 2003 | <nobr><code>pop rock</code>, <code>teen pop</code>,  <code>bubblegum pop</code></nobr> |
+| [No Strings Attached](https://en.wikipedia.org/wiki/No_Strings_Attached_(NSYNC_album)) | [NSYNC](https://en.wikipedia.org/wiki/NSYNC) | 2000 | <nobr><code>pop</code>, <code>R&amp;B</code>, <code>dance-pop</code>, <code>teen pop</code></nobr> |
+| [Metamorphosis](https://en.wikipedia.org/wiki/Metamorphosis_(Hilary_Duff_album)) | [Hilary Duff](https://en.wikipedia.org/wiki/Hilary_Duff) | 2003 | <nobr><code>pop rock</code>, <code>teen pop</code>, <code>bubblegum pop</code></nobr> |
 | [The Velvet Rope](https://en.wikipedia.org/wiki/The_Velvet_Rope) | [Janet Jackson](https://en.wikipedia.org/wiki/Janet_Jackson) | 1997 | <nobr><code>R&amp;B</code>, <code>pop</code></nobr> |
 | [Confetti](https://en.wikipedia.org/wiki/Confetti_(Little_Mix_album)) | [Little Mix](https://en.wikipedia.org/wiki/Little_Mix) | 2020 | <nobr><code>pop</code>, <code>R&amp;B</code></nobr> |
 | [Between Us](https://en.wikipedia.org/wiki/Between_Us_(Little_Mix_album)) | [Little Mix](https://en.wikipedia.org/wiki/Little_Mix) | 2016 | <nobr><code>dance-pop</code>, <code>R&amp;B</code></nobr> |
