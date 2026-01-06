@@ -16,6 +16,7 @@ permalink: /movies/
 
 | Title | Directed <span style="font-size:.7em">- or -</span> <br/> Created by | Language | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
+| [Weekend](https://en.wikipedia.org/wiki/Weekend_(2011_film)) | [Andrew Haigh](https://en.wikipedia.org/wiki/Andrew_Haigh) | <code>English</code> | 2011 | <nobr><code>romantic</code>, <code>drama</code></nobr> | <nobr>December 6th</nobr> | ⭐️⭐️⭐️⭐️⭐️ | 
 | [Jurassic Park](https://en.wikipedia.org/wiki/Jurassic_Park) | [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) | <code>English</code> | 1993 | <nobr><code>science fiction</code>, <code>adventure</code></nobr> | <nobr>December 3rd</nobr> | ⭐️⭐️⭐️⭐️⭐️ | 
 
 ## 2025
@@ -38,7 +39,7 @@ permalink: /movies/
 | [The Rocky Horror Picture Show](https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show) | [Jim Sharman](https://en.wikipedia.org/wiki/Jim_Sharman), [Richard O'Brien](https://en.wikipedia.org/wiki/Richard_O%27Brien)| <code>English</code> | 1975 | <nobr><code>musical comedy</code>, <code>horror</code></nobr> | <nobr>August 23rd</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Spider-Man: Across the Spider-Verse](https://en.wikipedia.org/wiki/Spider-Man:_Across_the_Spider-Verse) | [Joaquim Dos Santos](https://en.wikipedia.org/wiki/Joaquim_Dos_Santos), [Kemp Powers](https://en.wikipedia.org/wiki/Kemp_Powers), [Justin K. Thompson](https://en.wikipedia.org/wiki/Justin_K._Thompson) | <code>English</code> | 2023 | <code>superhero</code> | <nobr>July 31st</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Superman (2025)](https://en.wikipedia.org/wiki/Superman_(2025_film)) | [James Gunn](https://en.wikipedia.org/wiki/James_Gunn) | <code>English</code> | 2025 | <code>superhero</code> | <nobr>July 21st</nobr> | ⭐️⭐️⭐️⭐️ |
-| [The boy and the Heron](https://en.wikipedia.org/wiki/The_Boy_and_the_Heron) | [Hayao Miyazaki](https://en.wikipedia.org/wiki/Hayao_Miyazaki) | <code>Italian</code> | 2025 | <nobr><code>japanese animated fantasy</code></nobr> | <nobr>June 8st</nobr> | ⭐️⭐️⭐️ |
+| [The boy and the Heron](https://en.wikipedia.org/wiki/The_Boy_and_the_Heron) | [Hayao Miyazaki](https://en.wikipedia.org/wiki/Hayao_Miyazaki) | <code>Italian</code> | 2025 | <nobr><code>japanese animated fantasy</code></nobr> | <nobr>June 8th</nobr> | ⭐️⭐️⭐️ |
 | [Captain America: Brave New World](https://en.wikipedia.org/wiki/Captain_America:_Brave_New_World) | [Julius Onah](https://en.wikipedia.org/wiki/Julius_Onah) | <code>English</code> | 2025 | <code>superhero</code> | <nobr>May 28th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [The Super Mario Bros. Movie](https://en.wikipedia.org/wiki/The_Super_Mario_Bros._Movie) | [Aaron Horvath](https://en.wikipedia.org/wiki/Aaron_Horvath), [Michael Jelenic](https://en.wikipedia.org/wiki/Michael_Jelenic) | <code>English</code> | 2023 | <nobr><code>animated adventure comedy</code></nobr> | <nobr>May 5th</nobr> | ⭐️⭐️⭐️ |
 | [Deadpool & Wolverine](https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine) | [Shawn Levy](https://en.wikipedia.org/wiki/Shawn_Levy) | <code>English</code> | 2024 | <code>superhero</code> | <nobr>May 2nd</nobr> | ⭐️⭐️⭐️ |
