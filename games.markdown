@@ -16,8 +16,14 @@ permalink: /games/
 
 | Title | Developer(s) | Publisher(s) | Console | Genre |
 |-------|--------------|--------------|---------|-------|
-[Salt and Sanctuary](https://en.wikipedia.org/wiki/Salt_and_Sanctuary) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing</code>, <code>soulslike</code></nobr> |
-[Clair Obscur: Expedition 33](https://en.wikipedia.org/wiki/Clair_Obscur:_Expedition_33) | [Sandfall Interactive](https://en.wikipedia.org/wiki/Sandfall_Interactive) | [Kepler Interactive](https://en.wikipedia.org/wiki/Kepler_Interactive) |[PlayStation 5](https://en.wikipedia.org/wiki/PlayStation_5) | <nobr><code>role-playing</code></nobr> |
+| [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn) | [Guerrilla Games](https://en.wikipedia.org/wiki/Guerrilla_Games) | [Sony Interactive Entertainment](https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment) | [Playstation 5](https://en.wikipedia.org/wiki/PlayStation_5) | <nobr><code>action role-playing</code></nobr> |
+
+## 2026
+
+| Title | Developer(s) | Publisher(s) | Console | Genre | Completed on | Score |
+|-------|--------------|--------------|---------|-------|--------------|-------|
+[Salt and Sanctuary](https://en.wikipedia.org/wiki/Salt_and_Sanctuary) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing</code>, <code>soulslike</code></nobr> | <nobr>January 8th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
+
 
 ## 2025
 
@@ -53,7 +59,7 @@ permalink: /games/
 |-------|--------------|--------------|---------|-------|--------------|-------|
 | [Pokemon Violet](https://en.wikipedia.org/wiki/Pokémon_Scarlet_and_Violet) | [Game Freak](https://en.wikipedia.org/wiki/Game_Freak)| [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | <nobr><code>role-playing</code></nobr>| <nobr>December 10th</nobr> | ⭐️⭐️ |
 | [Mario + Rabbids Sparks of Hope](https://en.wikipedia.org/wiki/Mario_%2B_Rabbids_Sparks_of_Hope) | [Ubisoft Milan](https://en.wikipedia.org/wiki/Ubisoft_Milan), [Ubisoft Paris](https://en.wikipedia.org/wiki/Ubisoft_Paris) | [Ubisoft](https://en.wikipedia.org/wiki/Ubisoft) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | <nobr><code>action adevnture</code>,<br/> <code>tactical role-playing</code></nobr> | <nobr>November 10th</nobr> | ⭐️⭐️⭐️⭐️ |
-| [Xenoblade Chronicles 3](https://en.wikipedia.org/wiki/Xenoblade_Chronicles_3) | [Monolith Soft](https://en.wikipedia.org/wiki/Monolith_Soft) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | <nobr><code>action role-playing</code></nobr> | <nobr>September 8th</nobr> | ⭐️⭐️⭐️⭐️ |
+| [Xenoblade Chronicles 3](https://en.wikipedia.org/wiki/Xenoblade_Chronicles_3) | [Monolith Soft](https://en.wikipedia.org/wiki/Monolith_Soft) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | <nobr><code>action role-playing</code></nobr> | <nobr>September 8th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Pokemon Legends: Arceus](https://en.wikipedia.org/wiki/Pokémon_Legends:_Arceus) | [Game Freak](https://en.wikipedia.org/wiki/Game_Freak) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | <nobr><code>action role-playing</code></nobr> | <nobr>March 18th</nobr> | ⭐️⭐️⭐️⭐️ |
 
 ## 2021
@@ -111,18 +117,17 @@ permalink: /games/
 | Status | Title | Developer(s) | Publisher(s) | Console | Genre |
 |:------:|-------|--------------|--------------|---------|-------|
 | `PAUSED` | [Dark Soul (Remastered)](https://en.wikipedia.org/wiki/Dark_Souls_(video_game)) | [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware) | [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing</code>, <code>soulslike</code></nobr> |
-| `PAUSED` | [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn) | [Guerrilla Games](https://en.wikipedia.org/wiki/Guerrilla_Games) | [Sony Interactive Entertainment](https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment) | [Playstation 5](https://en.wikipedia.org/wiki/PlayStation_5) | <nobr><code>action role-playing</code></nobr> |
 | `PAUSED` | [Cyberpunk 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077) | [CD Projekt Red](https://en.wikipedia.org/wiki/CD_Projekt_Red) | [CD Projekt](https://en.wikipedia.org/wiki/CD_Projekt) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing</code></nobr> |
-| `WISHLIST` | [Blasphemous 2](hhttps://en.wikipedia.org/wiki/Blasphemous_2) | The Game Kitchen |  [Team17](https://en.wikipedia.org/wiki/Team17) |  | <nobr><code>action role-playing</code></nobr> |
+| `STOPPED` | [The Legend of Zelda: Skyward Sword](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Skyward_Sword) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action-adventure</code></nobr> |
+| `STOPPED` | [Return to Monkey Island](https://en.wikipedia.org/wiki/Return_to_Monkey_Island) | Terrible Toybox | [Devolver Digital](https://en.wikipedia.org/wiki/Devolver_Digital) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>point-and-click</code>, <code>adventure</code></nobr> |
+| `STOPPED` | [Paper Mario: The Origami King](https://en.wikipedia.org/wiki/Paper_Mario:_The_Origami_King) | [Intelligent Systems](https://en.wikipedia.org/wiki/Intelligent_Systems) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>role-playing</code></nobr> |
+| `WISHLIST` | [Blasphemous 2](hhttps://en.wikipedia.org/wiki/Blasphemous_2) | The Game Kitchen | [Team17](https://en.wikipedia.org/wiki/Team17) |  | <nobr><code>action role-playing</code></nobr> |
 | `WISHLIST` | [Digimon Story: Time Stranger](https://en.wikipedia.org/wiki/Digimon_Story:_Time_Stranger) | [Media.Vision](https://en.wikipedia.org/wiki/Media.Vision) |  [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) |  | <nobr><code>action role-playing</code></nobr> |
 | `WISHLIST` | [Hades](https://en.wikipedia.org/wiki/Hades_(video_game)) | [Supergiant Games](https://en.wikipedia.org/wiki/Supergiant_Games) | [Supergiant Games](https://en.wikipedia.org/wiki/Supergiant_Games) |  | <nobr><code>roguelike</code>,<code>action role-playing</code></nobr> |
 | `WISHLIST` | [Hades II](https://en.wikipedia.org/wiki/Hades_II) | [Supergiant Games](https://en.wikipedia.org/wiki/Supergiant_Games) | [Supergiant Games](https://en.wikipedia.org/wiki/Supergiant_Games) |  | <nobr><code>roguelike</code>,<code>action role-playing</code></nobr>  |
 | `WISHLIST` | [Donkey Kong Bananza](https://en.wikipedia.org/wiki/Donkey_Kong_Bananza) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>platformer</code></nobr>  |
 | `WISHLIST` | [Xenoblade Chronicles X: Definitive Edition](https://en.wikipedia.org/wiki/Xenoblade_Chronicles_X#Definitive_Edition) | [Monolith Soft](https://en.wikipedia.org/wiki/Monolith_Soft) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing</code></nobr> |
 | `WISHLIST` | [Pokémon Legends: Z-A DLC](https://en.wikipedia.org/wiki/Pokémon_Legends:_Z-A) | [Game Freak](https://en.wikipedia.org/wiki/Game_Freak) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing</code></nobr> |
-| `STOPPED` | The Legenda Of Zelda: Skyword Sword |  |  |  |  |
-| `STOPPED` | Return to Monkey Island |  |  |  |
-| `STOPPED` | Paper Mario: The Origami King   |  |  |  |
 | `STOPPED` | Pokkén Tournament  |  |  |  |
 | `STOPPED` | Grim Fandango |  |  |  |
 | `WISHLIST` | [God of War](https://en.wikipedia.org/wiki/God_of_War_(2005_video_game)) |  |  |  |
@@ -137,6 +142,6 @@ permalink: /games/
 | `WISHLIST` | Sonic Frontiers |  |  |  |
 | `WISHLIST` | [Death Stranding](https://en.wikipedia.org/wiki/Death_Stranding) | [Kojima Productions](https://en.wikipedia.org/wiki/Kojima_Productions) | [Sony](https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment) | [PlayStation 5](https://en.wikipedia.org/wiki/PlayStation_5) | <nobr><code>action-adventure</code></nobr> |
 | `WISHLIST` | [Death Stranding 2: On the Beach](https://en.wikipedia.org/wiki/Death_Stranding_2:_On_the_Beach) | [Kojima Productions](https://en.wikipedia.org/wiki/Kojima_Productions) | [Sony](https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment) | [PlayStation 5](https://en.wikipedia.org/wiki/PlayStation_5) | <nobr><code>action-adventure</code></nobr> |
-| `WISHLIST` | [Salt and Sacrifice](https://en.wikipedia.org/wiki/Salt_and_Sacrifice) [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing</code>, <code>soulslike</code></nobr> |
+| `WISHLIST` | [Salt and Sacrifice](https://en.wikipedia.org/wiki/Salt_and_Sacrifice) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing</code>, <code>soulslike</code></nobr> |
 
 
