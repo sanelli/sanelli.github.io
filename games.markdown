@@ -20,14 +20,14 @@ permalink: /games/
 
 ## 2026
 
-| Title | Developer(s) | Publisher(s) | Console | Genre | Completed on | Score |
+| Title | Developer(s) | Publisher(s) | Console | Genre | <nobr>Completed on<nobr> | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
 [Salt and Sanctuary](https://en.wikipedia.org/wiki/Salt_and_Sanctuary) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing</code>, <code>soulslike</code></nobr> | <nobr>January 8th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 
 
 ## 2025
 
-| Title | Developer(s) | Publisher(s) | Console | Genre | Completed on | Score |
+| Title | Developer(s) | Publisher(s) | Console | Genre | <nobr>Completed on<nobr> | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
 [Clair Obscur: Expedition 33](https://en.wikipedia.org/wiki/Clair_Obscur:_Expedition_33) | [Sandfall Interactive](https://en.wikipedia.org/wiki/Sandfall_Interactive) | [Kepler Interactive](https://en.wikipedia.org/wiki/Kepler_Interactive) |[PlayStation 5](https://en.wikipedia.org/wiki/PlayStation_5) | <nobr><code>role-playing</code></nobr> | December 12th | ⭐️⭐️⭐️⭐️⭐️ |
 | [Hyrule Warriors: Age of Imprisonment](https://en.wikipedia.org/wiki/Hyrule_Warriors:_Age_of_Imprisonment) | [AAA Games Studio](https://en.wikipedia.org/wiki/AAA_Games_Studio) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2)  | <nobr><code>hack and slash</code></nobr> | November 23rd | ⭐️⭐️⭐️⭐️ |
@@ -87,7 +87,7 @@ permalink: /games/
 
 ## 2019
 
-| Title | Developer(s) | Publisher(s) | Console | Genre | Completed on | Score |
+| Title | Developer(s) | Publisher(s) | Console | Genre | <nobr>Completed on<nobr> | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
 | [Pokémon Shield](https://en.wikipedia.org/wiki/Pokémon_Sword_and_Shield) | [Game Freak](https://en.wikipedia.org/wiki/Game_Freak) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | <nobr><code>role playing</code></nobr> | | ⭐️⭐️⭐️ |
 | [Luigi's Mansion 3](https://en.wikipedia.org/wiki/Luigi%27s_Mansion_3) | [Next Level Games](https://en.wikipedia.org/wiki/Next_Level_Games)| [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | <nobr><code>action adventure</code></nobr> |  | ⭐️⭐️⭐️⭐️ |
@@ -97,7 +97,7 @@ permalink: /games/
 
 ## 2018
 
-| Title | Developer(s) | Publisher(s) | Console | Genre | Completed on | Score |
+| Title | Developer(s) | Publisher(s) | Console | Genre | <nobr>Completed on<nobr> | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
 | [Pokémon: Let's Go Pikachu](https://en.wikipedia.org/wiki/Pokémon:_Let%27s_Go,_Pikachu!_and_Let%27s_Go,_Eevee!) | [Game Freak](https://en.wikipedia.org/wiki/Game_Freak) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | <nobr><code>role playing</code></nobr> |  | ⭐️⭐️ |
 | [Super Mario Odissey](https://en.wikipedia.org/wiki/Super_Mario_Odyssey) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | <nobr><code>platformer</code></nobr> |  | ⭐️⭐️⭐️⭐️⭐️ |
@@ -106,7 +106,7 @@ permalink: /games/
 
 ## Past
 
-| Title | Developer(s) | Publisher(s) | Console | Genre | Completed on | Score |
+| Title | Developer(s) | Publisher(s) | Console | Genre | <nobr>Completed on<nobr> | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
 | [New Super Mario Bros. U Deluxe](https://en.wikipedia.org/wiki/New_Super_Mario_Bros._U ) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | <nobr><code>platformer</code></nobr> |  | ⭐️⭐️⭐️⭐️ |
 | [Mario + Rabbids Kingdom Battle](https://en.wikipedia.org/wiki/Mario_%2B_Rabbids_Kingdom_Battle) | [Ubisoft Milan](https://en.wikipedia.org/wiki/Ubisoft_Milan), [Ubisoft Paris](https://en.wikipedia.org/wiki/Ubisoft_Paris)  | [Ubisoft](https://en.wikipedia.org/wiki/Ubisoft) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | <nobr><code>action-adventure</code>,<br/><code>atactical role-playing</code></nobr> |  | ⭐️⭐️⭐️⭐️ |

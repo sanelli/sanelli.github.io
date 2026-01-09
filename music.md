@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Survivor](https://en.wikipedia.org/wiki/Survivor_(Destiny%27s_Child_album)) | [Destiny's Child](https://en.wikipedia.org/wiki/Destiny%27s_Child) | 2001 |  <nobr><code>R&amp;B</code>, <code>pop</code></nobr> | <nobr>January 9th</nobr> | ⭐️⭐️⭐️ |
 | [David Archuleta](https://en.wikipedia.org/wiki/David_Archuleta_(album)) | [David Archuleta](https://en.wikipedia.org/wiki/David_Archuleta) | 2008 | <nobr><code>pop</code>, <code>R&amp;B</code></nobr> | <nobr>January 6th</nobr> | ⭐️⭐️⭐️ |
 | [Get Weird](https://en.wikipedia.org/wiki/Get_Weird) | [Little Mix](https://en.wikipedia.org/wiki/Little_Mix) | 2015 | <nobr><code>synth-pop</code>, <code>dance-pop</code>, <code>R&amp;B</code></nobr> | <nobr>January 6th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Glory](https://en.wikipedia.org/wiki/Glory_(Britney_Spears_album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2016 |  <nobr><code>pop</code>, <code>dance-pop</code>, <code>R&amp;B</code></nobr> | <nobr>January 3rd</nobr> | ⭐️⭐️⭐️⭐️ |
@@ -45,7 +46,7 @@ permalink: /music/
 | [Jagged Little Pill](https://en.wikipedia.org/wiki/Jagged_Little_Pill) | [Alanis Morissette](https://en.wikipedia.org/wiki/Alanis_Morissette) | 1995 | <nobr><code>alternative rock</code>, <code>post-grunge</code></nobr> | <nobr>October 18th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Ray of Light](https://en.wikipedia.org/wiki/Ray_of_Light) | [Madonna](https://en.wikipedia.org/wiki/Madonna) | 1998 |  <nobr><code>electronica</code>, <code>trip hop</code>,<br/><code>techno-pop</code>, <code>new-age</code></nobr> | <nobr>October 18th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Schizophonic](https://en.wikipedia.org/wiki/Schizophonic_(Geri_Halliwell_album)) | [Geri Halliwell](https://en.wikipedia.org/wiki/Geri_Halliwell) | 1999 |  <nobr><code>dance-pop</code>, <code>pop</code></nobr> | <nobr>October 12th</nobr> | ⭐️⭐️⭐️ |
-| [KPop Demon Hunters (soundtrack)](https://en.wikipedia.org/wiki/KPop_Demon_Hunters_(soundtrack)) | [KPop Demon Hunters](https://en.wikipedia.org/wiki/KPop_Demon_Hunters) cast | 2025 |  <nobr><code>k-pop</code>, <code>electropop</code>,<br/><code>film soundtrack</code></nobr> | <nobr>October 5th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
+| [KPop Demon Hunters](https://en.wikipedia.org/wiki/KPop_Demon_Hunters_(soundtrack))<br/><nobr style="font-size:.75em"><strong>Soundtrack</strong></nobr> | [KPop Demon Hunters](https://en.wikipedia.org/wiki/KPop_Demon_Hunters) | 2025 |  <nobr><code>k-pop</code>, <code>electropop</code>,<br/><code>film soundtrack</code></nobr> | <nobr>October 5th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Intensive Care](https://en.wikipedia.org/wiki/Intensive_Care_(album)) | [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams) | 2005 |  <nobr><code>pop-rock</code></nobr> | <nobr>October 4th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [That's Showbiz Baby](https://en.wikipedia.org/wiki/That%27s_Showbiz_Baby) | [Jade](https://en.wikipedia.org/wiki/Jade_Thirlwall) | 2025 |  <nobr><code>pop</code></nobr> | <nobr>September 21st</nobr> | ⭐️⭐️ |
 | [Spice](https://en.wikipedia.org/wiki/Spice_(album)) | [Spice Girls](https://en.wikipedia.org/wiki/Spice_Girls) | 1996 |  <nobr><code>pop</code>, <code>dance-pop</code>, <code>teen pop</code>, <code>R&amp;B</code></nobr> | <nobr>September 20th</nobr>  | ⭐️⭐️⭐️⭐️ |
@@ -62,7 +63,6 @@ permalink: /music/
 | [Something to Give Each Other](https://en.wikipedia.org/wiki/Something_to_Give_Each_Other) | [Troye Sivan](https://en.wikipedia.org/wiki/Troye_Sivan) | 2023 | <nobr><code>pop</code>, <code>synth-pop</code>, <code>house</code></nobr> |
 | [Most Wanted](https://en.wikipedia.org/wiki/Most_Wanted_(Hilary_Duff_album)) | [Hilary Duff](https://en.wikipedia.org/wiki/Hilary_Duff) | 2005 | <nobr><code>pop</code>, <code>dance pop</code>,  <code>rock</code></nobr> |
 | [The Writing's on the Wall](https://en.wikipedia.org/wiki/The_Writing%27s_on_the_Wall) | [Destiny's Child](https://en.wikipedia.org/wiki/Destiny%27s_Child) | 1999 |  <nobr><code>R&amp;B</code>, <code>pop</code>, <code>hip pop</code>, <code>soul</code></nobr> |
-| [Survivor](https://en.wikipedia.org/wiki/Survivor_(Destiny%27s_Child_album)) | [Destiny's Child](https://en.wikipedia.org/wiki/Destiny%27s_Child) | 2001 |  <nobr><code>R&amp;B</code>, <code>pop</code></nobr> |
 | [Glory Days](https://en.wikipedia.org/wiki/Glory_Days_(Little_Mix_album)) | [Little Mix](https://en.wikipedia.org/wiki/Little_Mix) | 2016 | <nobr><code>pop</code>, <code>dance-pop</code>, <code>R&amp;B</code></nobr> |
 | [The Better Life](https://en.wikipedia.org/wiki/The_Better_Life) | [3 Doors Down](https://en.wikipedia.org/wiki/3_Doors_Down) | 2000 | <nobr><code>post-grunge</code>, <code>alternative metal</code></nobr> |
 | [Due Parole](https://en.wikipedia.org/wiki/Due_parole) | [Carmen Consoli](https://en.wikipedia.org/wiki/Carmen_Consoli) | 1996 |  <nobr><code>pop rock</code></nobr> |
