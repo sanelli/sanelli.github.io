@@ -66,8 +66,9 @@ permalink: /music/
 | The Fame Monster | Lady Gaga | 2009 | |
 | The Fame  | Lady Gaga | 2008 | |
 | Born This Way  | Lady Gaga | 2011 | |
-| Stripped | Christina Aguilera | 2002 | |
-| Christina Aguilera | Christina Aguilera | 1999 | |
+| Stripped | <nobr>Christina Aguilera</nobr> | 2002 | |
+| <nobr>Christina Aguilera</nobr> | <nobr>Christina Aguilera</nobr> | 1999 | |
+| Hot Fuss | The Killers | 2004 | |
 | [Most Wanted](https://en.wikipedia.org/wiki/Most_Wanted_(Hilary_Duff_album)) | [Hilary Duff](https://en.wikipedia.org/wiki/Hilary_Duff) | 2005 | <nobr><code>pop</code>, <code>dance pop</code>,  <code>rock</code></nobr> |
 | [Most Wanted](https://en.wikipedia.org/wiki/Most_Wanted_(Hilary_Duff_album)) | [Hilary Duff](https://en.wikipedia.org/wiki/Hilary_Duff) | 2005 | <nobr><code>pop</code>, <code>dance pop</code>,  <code>rock</code></nobr> |
 | [The Writing's on the Wall](https://en.wikipedia.org/wiki/The_Writing%27s_on_the_Wall) | [Destiny's Child](https://en.wikipedia.org/wiki/Destiny%27s_Child) | 1999 |  <nobr><code>R&amp;B</code>, <code>pop</code>, <code>hip pop</code>, <code>soul</code></nobr> |
