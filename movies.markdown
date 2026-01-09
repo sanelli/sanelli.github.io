@@ -50,7 +50,7 @@ permalink: /movies/
 
 ## 2024
 
-| Title | Directed/Created by | Language | Year | Genre | When | Rating |
+| Title | Directed <span style="font-size:.7em">- or -</span> <br/> Created by | Language | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
 | [Coco](https://en.wikipedia.org/wiki/Coco_(2017_film)) | [Lee Unkrich](https://en.wikipedia.org/wiki/Lee_Unkrich), [Pixar](https://en.wikipedia.org/wiki/Pixar) | <code>Italian</code> | 2017 | <nobr><code>fantasy comedy-drama</code></nobr> | <nobr>December 25th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Queer](https://en.wikipedia.org/wiki/Queer_(film)) | [Luca Guadagnino](https://en.wikipedia.org/wiki/Luca_Guadagnino) | <code>English</code> | 2024 | <nobr><code>period romantic drama</code></nobr> | <nobr>December 18th</nobr> | ⭐️⭐️⭐️ |
@@ -82,8 +82,13 @@ permalink: /movies/
 
 ## Backlog
 
-| Title | Directed/Created by | Language | Year | Genre |
+| Title | Directed <span style="font-size:.7em">- or -</span> <br/> Created by | Language | Year | Genre |
 |-----|----|----|-----|------|----|----|
+| [Stargate](https://en.wikipedia.org/wiki/Stargate_(film)) | [Roland Emmerich](https://en.wikipedia.org/wiki/Roland_Emmerich) | <code>English</code> | 1994 | <nobr><code>sciene fiction</code>, <code>action</code>, <code>adventure</code></nobr> |
+| [The Crow](https://en.wikipedia.org/wiki/The_Crow_(1994_film)) | [Alex Proyas](https://en.wikipedia.org/wiki/Alex_Proyas) | <code>English</code> | 1994 | <nobr><code>gothic</code>, <code>supernatural</code>, <code>superhero</code></nobr> |
+| [Four Weddings and a Funeral](https://en.wikipedia.org/wiki/Four_Weddings_and_a_Funeral) | [Mike Newell](https://en.wikipedia.org/wiki/Mike_Newell_(director)) | <code>English</code> | 1994 | <nobr><code>romantic comedy</code></nobr> |
+| [Pulp Fiction](https://en.wikipedia.org/wiki/Pulp_Fiction) | [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) | <code>English</code> | 1994 | <nobr><code>independent</code>, <code>crime</code>, <code>black comedy</code></nobr> |
+| [From Dusk till Dawn](https://en.wikipedia.org/wiki/From_Dusk_till_Dawn) | [Robert_Rodriguez](https://en.wikipedia.org/wiki/Robert_Rodriguez) | <code>English</code> | 1996 | <nobr><code>crime</code>, <code>action</code>, <code>horror</code></nobr> |
 | [The Shawshank Redemption](https://en.wikipedia.org/wiki/The_Shawshank_Redemption) | [Frank Darabont](https://en.wikipedia.org/wiki/Frank_Darabont) | <code>English</code> | 1994 | <nobr><code>drama</code></nobr> |
 | [The Godfather](https://en.wikipedia.org/wiki/The_Godfather) | [Francis Ford Coppola](https://en.wikipedia.org/wiki/Francis_Ford_Coppola) | <code>English</code> | 1972 | <nobr><code>epic</code>, <code>gangster</code></nobr> |
 | [The Adventures of Priscilla, Queen of the Desert](https://en.wikipedia.org/wiki/The_Adventures_of_Priscilla,_Queen_of_the_Desert) | [Stephan Elliott](https://en.wikipedia.org/wiki/Stephan_Elliott) | <code>English</code> | 1994 | <nobr><code>road</code>, <code>comedy</code></nobr> |
