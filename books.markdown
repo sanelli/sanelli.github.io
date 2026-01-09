@@ -22,7 +22,7 @@ permalink: /books/
 
 | Title                             | Author(s)                         | Lang | Year | Genre     | Finished    | Rating       |
 |-----------------------------------|-----------------------------------|------|------|-----------|-------------|--------------|
-| [Pretty Guardian Sailor Moon](https://en.wikipedia.org/wiki/Sailor_Moon)<br/><nobr style="font-size:.75em"><strong>Volume 1 (Act - Act 6)</strong></nobr> | [Naoko Takeuchi](https://en.wikipedia.org/wiki/Naoko_Takeuchi) | <code>Italian</code> | 1991 | <nobr><code>manga</code>, <code>magical girl</code></nobr> | <nobr>January 6th</nobr>| ⭐️⭐️⭐️⭐️⭐️ |
+| [Pretty Guardian Sailor Moon](https://en.wikipedia.org/wiki/Sailor_Moon)<br/><nobr style="font-size:.75em"><strong>Volume 1 (Act 1 - Act 6)</strong></nobr> | [Naoko Takeuchi](https://en.wikipedia.org/wiki/Naoko_Takeuchi) | <code>Italian</code> | 1991 | <nobr><code>manga</code>, <code>magical girl</code></nobr> | <nobr>January 6th</nobr>| ⭐️⭐️⭐️⭐️⭐️ |
 
 ## 2025
 
