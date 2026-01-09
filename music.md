@@ -16,7 +16,9 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
-| [Survivor](https://en.wikipedia.org/wiki/Survivor_(Destiny%27s_Child_album)) | [Destiny's Child](https://en.wikipedia.org/wiki/Destiny%27s_Child) | 2001 |  <nobr><code>R&amp;B</code>, <code>pop</code></nobr> | <nobr>January 9th</nobr> | ⭐️⭐️⭐️ |
+| [Femme Fatale](https://en.wikipedia.org/wiki/Femme_Fatale_(Britney_Spears_album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2011 |  <nobr><code>dance-pop</code>, <code>electropop</code>,<br/><code>synth-pop</code>, <code>EDM</code></nobr> | <nobr>January 9th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
+| [Something to Give Each Other](https://en.wikipedia.org/wiki/Something_to_Give_Each_Other) | [Troye Sivan](https://en.wikipedia.org/wiki/Troye_Sivan) | 2023 | <nobr><code>pop</code>, <code>synth-pop</code>, <code>house</code></nobr> | <nobr>January 9th</nobr> | ⭐️⭐️⭐️ |
+| [Survivor](https://en.wikipedia.org/wiki/Survivor_(Destiny%27s_Child_album)) | [Destiny's Child](https://en.wikipedia.org/wiki/Destiny%27s_Child) | 2001 |  <nobr><code>R&amp;B</code>, <code>pop</code></nobr> | <nobr>January 9th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [David Archuleta](https://en.wikipedia.org/wiki/David_Archuleta_(album)) | [David Archuleta](https://en.wikipedia.org/wiki/David_Archuleta) | 2008 | <nobr><code>pop</code>, <code>R&amp;B</code></nobr> | <nobr>January 6th</nobr> | ⭐️⭐️⭐️ |
 | [Get Weird](https://en.wikipedia.org/wiki/Get_Weird) | [Little Mix](https://en.wikipedia.org/wiki/Little_Mix) | 2015 | <nobr><code>synth-pop</code>, <code>dance-pop</code>, <code>R&amp;B</code></nobr> | <nobr>January 6th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Glory](https://en.wikipedia.org/wiki/Glory_(Britney_Spears_album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2016 |  <nobr><code>pop</code>, <code>dance-pop</code>, <code>R&amp;B</code></nobr> | <nobr>January 3rd</nobr> | ⭐️⭐️⭐️⭐️ |
@@ -60,7 +62,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre |
 |-------|--------|------|-------|
-| [Something to Give Each Other](https://en.wikipedia.org/wiki/Something_to_Give_Each_Other) | [Troye Sivan](https://en.wikipedia.org/wiki/Troye_Sivan) | 2023 | <nobr><code>pop</code>, <code>synth-pop</code>, <code>house</code></nobr> |
+| [Most Wanted](https://en.wikipedia.org/wiki/Most_Wanted_(Hilary_Duff_album)) | [Hilary Duff](https://en.wikipedia.org/wiki/Hilary_Duff) | 2005 | <nobr><code>pop</code>, <code>dance pop</code>,  <code>rock</code></nobr> |
 | [Most Wanted](https://en.wikipedia.org/wiki/Most_Wanted_(Hilary_Duff_album)) | [Hilary Duff](https://en.wikipedia.org/wiki/Hilary_Duff) | 2005 | <nobr><code>pop</code>, <code>dance pop</code>,  <code>rock</code></nobr> |
 | [The Writing's on the Wall](https://en.wikipedia.org/wiki/The_Writing%27s_on_the_Wall) | [Destiny's Child](https://en.wikipedia.org/wiki/Destiny%27s_Child) | 1999 |  <nobr><code>R&amp;B</code>, <code>pop</code>, <code>hip pop</code>, <code>soul</code></nobr> |
 | [Glory Days](https://en.wikipedia.org/wiki/Glory_Days_(Little_Mix_album)) | [Little Mix](https://en.wikipedia.org/wiki/Little_Mix) | 2016 | <nobr><code>pop</code>, <code>dance-pop</code>, <code>R&amp;B</code></nobr> |
@@ -98,7 +100,6 @@ permalink: /music/
 | [In The Zone](https://en.wikipedia.org/wiki/In_the_Zone) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2003 |  <nobr><code>dance-pop</code>, <code>pop</code>, <code>hip-pop</code></nobr> |
 | [Blackout](https://en.wikipedia.org/wiki/Blackout_(Britney_Spears_album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2007 |  <nobr><code>dance-pop</code>, <code>electropop</code>, <code>techno</code>, <code>avant-disco</code></nobr> |
 | [Circus](https://en.wikipedia.org/wiki/Circus_(Britney_Spears_album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2008 |  <nobr><code>dance-pop</code>, <code>pop</code></nobr> |
-| [Femme Fatale](https://en.wikipedia.org/wiki/Femme_Fatale_(Britney_Spears_album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2011 |  <nobr><code>dance-pop</code>, <code>electropop</code>, <code>synth-pop</code>, <code>EDM</code></nobr> |
 | [Britney Jean](https://en.wikipedia.org/wiki/Britney_Jean) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2013 |  <nobr><code>pop</code>, <code>EDM</code></nobr> |
 | [Everybody Else Is Doing It, So Why Can't We?](https://en.wikipedia.org/wiki/Everybody_Else_Is_Doing_It,_So_Why_Can%27t_We%3F) | [The Cranberries](https://en.wikipedia.org/wiki/The_Cranberries) | 1993 |  <nobr><code>alternative rock</code>, <code>indie pop</code>, <code>Irish folk</code>, <code>jangle pop</code>, <code>post-punk</code>, <code>dream pop</code></nobr> |
 | [No Need to Argue](https://en.wikipedia.org/wiki/No_Need_to_Argue) | [The Cranberries](https://en.wikipedia.org/wiki/The_Cranberries) | 1994 |  <nobr><code>alternative rock</code>, <code>jangle pop</code>, <code>Irish folk</code>, <code>post-punk</code></nobr> |
