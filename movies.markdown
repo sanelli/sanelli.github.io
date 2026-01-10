@@ -16,6 +16,7 @@ permalink: /movies/
 
 | Title | Directed <span style="font-size:.7em">- or -</span> <br/> Created by | Language | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
+| [Stargate](https://en.wikipedia.org/wiki/Stargate_(film)) | [Roland Emmerich](https://en.wikipedia.org/wiki/Roland_Emmerich) | <code>English</code> | 1994 | <nobr><code>sciene fiction</code>, <code>action</code>, <code>adventure</code></nobr> | <nobr>December 9th</nobr> | ⭐️⭐️⭐️⭐️⭐️ | 
 | [Weekend](https://en.wikipedia.org/wiki/Weekend_(2011_film)) | [Andrew Haigh](https://en.wikipedia.org/wiki/Andrew_Haigh) | <code>English</code> | 2011 | <nobr><code>romantic</code>, <code>drama</code></nobr> | <nobr>December 6th</nobr> | ⭐️⭐️⭐️⭐️⭐️ | 
 | [Jurassic Park](https://en.wikipedia.org/wiki/Jurassic_Park) | [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) | <code>English</code> | 1993 | <nobr><code>science fiction</code>, <code>adventure</code></nobr> | <nobr>December 3rd</nobr> | ⭐️⭐️⭐️⭐️⭐️ | 
 
@@ -84,7 +85,6 @@ permalink: /movies/
 
 | Title | Directed <span style="font-size:.7em">- or -</span> <br/> Created by | Language | Year | Genre |
 |-----|----|----|-----|------|----|----|
-| [Stargate](https://en.wikipedia.org/wiki/Stargate_(film)) | [Roland Emmerich](https://en.wikipedia.org/wiki/Roland_Emmerich) | <code>English</code> | 1994 | <nobr><code>sciene fiction</code>, <code>action</code>, <code>adventure</code></nobr> |
 | [The Crow](https://en.wikipedia.org/wiki/The_Crow_(1994_film)) | [Alex Proyas](https://en.wikipedia.org/wiki/Alex_Proyas) | <code>English</code> | 1994 | <nobr><code>gothic</code>, <code>supernatural</code>, <code>superhero</code></nobr> |
 | [Four Weddings and a Funeral](https://en.wikipedia.org/wiki/Four_Weddings_and_a_Funeral) | [Mike Newell](https://en.wikipedia.org/wiki/Mike_Newell_(director)) | <code>English</code> | 1994 | <nobr><code>romantic comedy</code></nobr> |
 | [Pulp Fiction](https://en.wikipedia.org/wiki/Pulp_Fiction) | [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) | <code>English</code> | 1994 | <nobr><code>independent</code>, <code>crime</code>, <code>black comedy</code></nobr> |
