@@ -16,7 +16,8 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
-| [Femme Fatale](https://en.wikipedia.org/wiki/Femme_Fatale_(Britney_Spears_album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2011 |  <nobr><code>dance-pop</code>, <code>electropop</code>,<br/><code>synth-pop</code>, <code>EDM</code></nobr> | <nobr>January 9th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
+| [Born This Way](https://en.wikipedia.org/wiki/Born_This_Way_(album)) | [Lady Gaga](https://en.wikipedia.org/wiki/Lady_Gaga) | 2011 | <nobr><code>electropop</code>, <code>synth-pop</code>, <code>dance-pop</code></nobr> | <nobr>January 13th</nobr> | ⭐️⭐️⭐️⭐️ |
+| [Femme Fatale](https://en.wikipedia.org/wiki/Femme_Fatale_(Britney_Spears_album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2011 |  <nobr><code>dance-pop</code>, <code>electropop</code>, <code>EDM</code>,<br/><code>synth-pop</code></nobr> | <nobr>January 9th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Something to Give Each Other](https://en.wikipedia.org/wiki/Something_to_Give_Each_Other) | [Troye Sivan](https://en.wikipedia.org/wiki/Troye_Sivan) | 2023 | <nobr><code>pop</code>, <code>synth-pop</code>, <code>house</code></nobr> | <nobr>January 9th</nobr> | ⭐️⭐️⭐️ |
 | [Survivor](https://en.wikipedia.org/wiki/Survivor_(Destiny%27s_Child_album)) | [Destiny's Child](https://en.wikipedia.org/wiki/Destiny%27s_Child) | 2001 |  <nobr><code>R&amp;B</code>, <code>pop</code></nobr> | <nobr>January 9th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [David Archuleta](https://en.wikipedia.org/wiki/David_Archuleta_(album)) | [David Archuleta](https://en.wikipedia.org/wiki/David_Archuleta) | 2008 | <nobr><code>pop</code>, <code>R&amp;B</code></nobr> | <nobr>January 6th</nobr> | ⭐️⭐️⭐️ |
@@ -62,13 +63,14 @@ permalink: /music/
 
 | Album | Artist | Year | Genre |
 |-------|--------|------|-------|
-| Whatever | Hot Chelle Rae | 2011 | |
-| The Fame Monster | Lady Gaga | 2009 | |
-| The Fame  | Lady Gaga | 2008 | |
-| Born This Way  | Lady Gaga | 2011 | |
-| Stripped | <nobr>Christina Aguilera</nobr> | 2002 | |
-| <nobr>Christina Aguilera</nobr> | <nobr>Christina Aguilera</nobr> | 1999 | |
-| Hot Fuss | The Killers | 2004 | |
+| [Whatever](https://en.wikipedia.org/wiki/Whatever_(Hot_Chelle_Rae_album)) | [Hot Chelle Rae](https://en.wikipedia.org/wiki/Hot_Chelle_Rae) | 2011 | <nobr><code>pop rock</code></nobr> |
+| [The Fame Monster](https://en.wikipedia.org/wiki/The_Fame_Monster) | [Lady Gaga](https://en.wikipedia.org/wiki/Lady_Gaga) | 2009 | <nobr><code>electropop</code></nobr> |
+| [The Fame](https://en.wikipedia.org/wiki/The_Fame) | [Lady Gaga](https://en.wikipedia.org/wiki/Lady_Gaga) | 2008 | <nobr><code>synth-pop</code>, <code>electropop</code>, <code>dance-pop</code>, <code>electronic rock</code></nobr> |
+| [Artpop](https://en.wikipedia.org/wiki/Artpop) | [Lady Gaga](https://en.wikipedia.org/wiki/Lady_Gaga) | 2013 | <nobr><code>EDM</code>, <code>synth-pop</code></nobr> |
+| [Stripped](https://en.wikipedia.org/wiki/Stripped_(Christina_Aguilera_album)) | [Christina Aguilera](https://en.wikipedia.org/wiki/Christina_Aguilera) | 2002 | <nobr><code>pop</code>, <code>R&amp;B</code></nobr> |
+| [Christina Aguilera](https://en.wikipedia.org/wiki/Christina_Aguilera_(album)) | [Christina Aguilera](https://en.wikipedia.org/wiki/Christina_Aguilera) | 1999 | <nobr><code>dance-pop</code>, <code>teen pop</code></nobr> |
+| [Back to Basics](https://en.wikipedia.org/wiki/Back_to_Basics_(Christina_Aguilera_album)) | [Christina Aguilera](https://en.wikipedia.org/wiki/Christina_Aguilera) | 2006 | <nobr><code>pop</code>, <code>R&amp;B</code></nobr> |
+| [Hot Fuss](https://en.wikipedia.org/wiki/Hot_Fuss) | [The Killers](https://en.wikipedia.org/wiki/The_Killers) | 2004 | <nobr><code>alternative rock</code>, <code>post-punk revival</code>,<br/><code>new wave</code>, <code>art rock</code>, <code>synth-pop</code>, <code>dance-rock</code></nobr>|
 | [Most Wanted](https://en.wikipedia.org/wiki/Most_Wanted_(Hilary_Duff_album)) | [Hilary Duff](https://en.wikipedia.org/wiki/Hilary_Duff) | 2005 | <nobr><code>pop</code>, <code>dance pop</code>,  <code>rock</code></nobr> |
 | [Most Wanted](https://en.wikipedia.org/wiki/Most_Wanted_(Hilary_Duff_album)) | [Hilary Duff](https://en.wikipedia.org/wiki/Hilary_Duff) | 2005 | <nobr><code>pop</code>, <code>dance pop</code>,  <code>rock</code></nobr> |
 | [The Writing's on the Wall](https://en.wikipedia.org/wiki/The_Writing%27s_on_the_Wall) | [Destiny's Child](https://en.wikipedia.org/wiki/Destiny%27s_Child) | 1999 |  <nobr><code>R&amp;B</code>, <code>pop</code>, <code>hip pop</code>, <code>soul</code></nobr> |
