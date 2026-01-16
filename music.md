@@ -63,10 +63,18 @@ permalink: /music/
 
 | Album | Artist | Year | Genre |
 |-------|--------|------|-------|
+| [...Squérez?](https://it.wikipedia.org/wiki/...Squérez%3F) | [Lùnapop](https://it.wikipedia.org/wiki/Lùnapop) | 1999 | <nobr><code>pop</code>, <code>pop rock</code></nobr> |
+| [Bagus](https://it.wikipedia.org/wiki/Bagus) | [Cesare Cremonini](https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)) | 2002 | <nobr><code>pop</code></nobr> |
 | [Whatever](https://en.wikipedia.org/wiki/Whatever_(Hot_Chelle_Rae_album)) | [Hot Chelle Rae](https://en.wikipedia.org/wiki/Hot_Chelle_Rae) | 2011 | <nobr><code>pop rock</code></nobr> |
 | [The Fame Monster](https://en.wikipedia.org/wiki/The_Fame_Monster) | [Lady Gaga](https://en.wikipedia.org/wiki/Lady_Gaga) | 2009 | <nobr><code>electropop</code></nobr> |
 | [The Fame](https://en.wikipedia.org/wiki/The_Fame) | [Lady Gaga](https://en.wikipedia.org/wiki/Lady_Gaga) | 2008 | <nobr><code>synth-pop</code>, <code>electropop</code>, <code>dance-pop</code>, <code>electronic rock</code></nobr> |
 | [Artpop](https://en.wikipedia.org/wiki/Artpop) | [Lady Gaga](https://en.wikipedia.org/wiki/Lady_Gaga) | 2013 | <nobr><code>EDM</code>, <code>synth-pop</code></nobr> |
+| [Maggese](https://it.wikipedia.org/wiki/Maggese_(album)) | [Cesare Cremonini](https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)) | 2005 | <nobr><code>pop</code></nobr> |
+| [Il primo bacio sulla Luna](https://it.wikipedia.org/wiki/Il_primo_bacio_sulla_Luna) | [Cesare Cremonini](https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)) | 2008 | <nobr><code>pop rock</code></nobr> |
+| [1999-2010 The Greatest Hits](https://it.wikipedia.org/wiki/1999-2010_The_Greatest_Hits) | [Cesare Cremonini](https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)) | 2010 | <nobr><code>pop</code></nobr> |
+| [La teoria dei colori](https://it.wikipedia.org/wiki/La_teoria_dei_colori_(album)) | [Cesare Cremonini](https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)) | 2012 | <nobr><code>pop</code></nobr> |
+| [Logico](https://it.wikipedia.org/wiki/Logico_(album)) | [Cesare Cremonini](https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)) | 2014 | <nobr><code>pop</code></nobr> |
+| [Possibili scenari](https://it.wikipedia.org/wiki/Possibili_scenari) | [Cesare Cremonini](https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)) | 2017 | <nobr><code>pop</code></nobr> |
 | [Stripped](https://en.wikipedia.org/wiki/Stripped_(Christina_Aguilera_album)) | [Christina Aguilera](https://en.wikipedia.org/wiki/Christina_Aguilera) | 2002 | <nobr><code>pop</code>, <code>R&amp;B</code></nobr> |
 | [Christina Aguilera](https://en.wikipedia.org/wiki/Christina_Aguilera_(album)) | [Christina Aguilera](https://en.wikipedia.org/wiki/Christina_Aguilera) | 1999 | <nobr><code>dance-pop</code>, <code>teen pop</code></nobr> |
 | [Back to Basics](https://en.wikipedia.org/wiki/Back_to_Basics_(Christina_Aguilera_album)) | [Christina Aguilera](https://en.wikipedia.org/wiki/Christina_Aguilera) | 2006 | <nobr><code>pop</code>, <code>R&amp;B</code></nobr> |
