@@ -16,6 +16,8 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [La donna il sogno &amp; il grande incubo](https://it.wikipedia.org/wiki/La_donna_il_sogno_%26_il_grande_incubo) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1995 | <nobr><code>pop</code></nobr> | <nobr>January 17th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
+| [...Squérez?](https://it.wikipedia.org/wiki/...Squérez%3F) | [Lùnapop](https://it.wikipedia.org/wiki/Lùnapop) | 1999 | <nobr><code>pop</code>, <code>pop rock</code></nobr> | <nobr>January 17th</nobr> | ⭐️⭐️⭐️ |
 | [Born This Way](https://en.wikipedia.org/wiki/Born_This_Way_(album)) | [Lady Gaga](https://en.wikipedia.org/wiki/Lady_Gaga) | 2011 | <nobr><code>electropop</code>, <code>synth-pop</code>, <code>dance-pop</code></nobr> | <nobr>January 13th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Femme Fatale](https://en.wikipedia.org/wiki/Femme_Fatale_(Britney_Spears_album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2011 |  <nobr><code>dance-pop</code>, <code>electropop</code>, <code>EDM</code>,<br/><code>synth-pop</code></nobr> | <nobr>January 9th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Something to Give Each Other](https://en.wikipedia.org/wiki/Something_to_Give_Each_Other) | [Troye Sivan](https://en.wikipedia.org/wiki/Troye_Sivan) | 2023 | <nobr><code>pop</code>, <code>synth-pop</code>, <code>house</code></nobr> | <nobr>January 9th</nobr> | ⭐️⭐️⭐️ |
@@ -63,7 +65,6 @@ permalink: /music/
 
 | Album | Artist | Year | Genre |
 |-------|--------|------|-------|
-| [...Squérez?](https://it.wikipedia.org/wiki/...Squérez%3F) | [Lùnapop](https://it.wikipedia.org/wiki/Lùnapop) | 1999 | <nobr><code>pop</code>, <code>pop rock</code></nobr> |
 | [Bagus](https://it.wikipedia.org/wiki/Bagus) | [Cesare Cremonini](https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)) | 2002 | <nobr><code>pop</code></nobr> |
 | [Whatever](https://en.wikipedia.org/wiki/Whatever_(Hot_Chelle_Rae_album)) | [Hot Chelle Rae](https://en.wikipedia.org/wiki/Hot_Chelle_Rae) | 2011 | <nobr><code>pop rock</code></nobr> |
 | [The Fame Monster](https://en.wikipedia.org/wiki/The_Fame_Monster) | [Lady Gaga](https://en.wikipedia.org/wiki/Lady_Gaga) | 2009 | <nobr><code>electropop</code></nobr> |
@@ -93,7 +94,6 @@ permalink: /music/
 | [Confetti](https://en.wikipedia.org/wiki/Confetti_(Little_Mix_album)) | [Little Mix](https://en.wikipedia.org/wiki/Little_Mix) | 2020 | <nobr><code>pop</code>, <code>R&amp;B</code></nobr> |
 | [Between Us](https://en.wikipedia.org/wiki/Between_Us_(Little_Mix_album)) | [Little Mix](https://en.wikipedia.org/wiki/Little_Mix) | 2016 | <nobr><code>dance-pop</code>, <code>R&amp;B</code></nobr> |
 | [Away from the Sun](https://en.wikipedia.org/wiki/Away_from_the_Sun) | [3 Doors Down](https://en.wikipedia.org/wiki/3_Doors_Down) | 2002 |  <nobr><code>post-grunge</code>, <code>alternative rock</code></nobr> |
-| [La donna il sogno &amp; il grande incubo](https://it.wikipedia.org/wiki/La_donna_il_sogno_%26_il_grande_incubo) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1995 | <nobr><code>pop</code></nobr> |
 | [La dura legge del gol!](https://it.wikipedia.org/wiki/La_dura_legge_del_gol!) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1997 | <nobr><code>pop</code>, <code>pop rock</code></nobr> |
 | [Grazie mille](https://it.wikipedia.org/wiki/Grazie_mille) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1998 | <nobr><code>pop</code>, <code>pop rock</code></nobr> |
 | [Uno in più](https://it.wikipedia.org/wiki/Uno_in_più) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 2001 | <nobr><code>pop</code></nobr> |
