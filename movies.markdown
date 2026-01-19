@@ -97,3 +97,7 @@ permalink: /movies/
 | [The Adventures of Priscilla, Queen of the Desert](https://en.wikipedia.org/wiki/The_Adventures_of_Priscilla,_Queen_of_the_Desert) | [Stephan Elliott](https://en.wikipedia.org/wiki/Stephan_Elliott) | <code>English</code> | 1994 | <nobr><code>road</code>, <code>comedy</code></nobr> |
 | [La Cage aux Folles](https://en.wikipedia.org/wiki/La_Cage_aux_Folles_(film)) | [Édouard Molinaro](https://en.wikipedia.org/wiki/Édouard_Molinaro) | <code>English</code> | 1978 | <nobr><code>comedy</code></nobr> |
 | [The Sixth Sense](https://en.wikipedia.org/wiki/The_Sixth_Sense) | [M. Night Shyamalan](https://en.wikipedia.org/wiki/M._Night_Shyamalan) | <code>English</code> | 1999 | <nobr><code>psychological thriller</code></nobr> |
+| [Batman](https://en.wikipedia.org/wiki/Batman_(1989_film)) | [Tim Burton](https://en.wikipedia.org/wiki/Tim_Burton) | <code>English</code> | 1989 | <nobr><code>superhero</code></nobr> |
+| [Batman Returns](https://en.wikipedia.org/wiki/Batman_Returns) | [Tim Burton](https://en.wikipedia.org/wiki/Tim_Burton) | <code>English</code> | 1992 | <nobr><code>superhero</code></nobr> |
+| [Batman Forever](https://en.wikipedia.org/wiki/Batman_Forever) | [Joel Schumacher](https://en.wikipedia.org/wiki/Joel_Schumacher) | <code>English</code> | 1995 | <nobr><code>superhero</code></nobr> |
+| [Batman &amp; Robin](https://en.wikipedia.org/wiki/Batman_%26_Robin_(film)) | [Joel Schumacher](https://en.wikipedia.org/wiki/Joel_Schumacher) | <code>English</code> | 1997 | <nobr><code>superhero</code></nobr> |
