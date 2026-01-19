@@ -87,6 +87,7 @@ permalink: /movies/
 
 | Title | Directed <span style="font-size:.7em">- or -</span> <br/> Created by | Language | Year | Genre |
 |-----|----|----|-----|------|----|----|
+| [Donnie Darko](https://en.wikipedia.org/wiki/Donnie_Darko) | [Richard Kelly](https://en.wikipedia.org/wiki/Richard_Kelly_(filmmaker)) | <code>English</code> | 2001 | <nobr><code>sciece fiction</code>, <code>psychological thriller</code></nobr> |
 | [South Pacific](https://en.wikipedia.org/wiki/South_Pacific_(1958_film)) | [Joshua Logan](https://en.wikipedia.org/wiki/Joshua_Logan) | <code>English</code> | 1958 | <nobr><code>musical</code>, <code>romantic</code></nobr> |
 | [The Crow](https://en.wikipedia.org/wiki/The_Crow_(1994_film)) | [Alex Proyas](https://en.wikipedia.org/wiki/Alex_Proyas) | <code>English</code> | 1994 | <nobr><code>gothic</code>, <code>supernatural</code>, <code>superhero</code></nobr> |
 | [Four Weddings and a Funeral](https://en.wikipedia.org/wiki/Four_Weddings_and_a_Funeral) | [Mike Newell](https://en.wikipedia.org/wiki/Mike_Newell_(director)) | <code>English</code> | 1994 | <nobr><code>romantic comedy</code></nobr> |
