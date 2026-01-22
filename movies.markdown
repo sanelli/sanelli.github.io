@@ -16,8 +16,9 @@ permalink: /movies/
 
 | Title | Directed <span style="font-size:.7em">- or -</span> <br/> Created by | Language | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
-| [Mine Vaganti](https://en.wikipedia.org/wiki/Loose_Cannons_(2010_film)) | [Ferzan Özpetek](hhttps://en.wikipedia.org/wiki/Ferzan_Özpetek) | <code>Italian</code> | 2010 | <nobr><code>comedy</code></nobr> | <nobr>January 18th</nobr> | ⭐️⭐️⭐️⭐️⭐️ | 
-| [From Dusk till Dawn](https://en.wikipedia.org/wiki/From_Dusk_till_Dawn) | [Robert Rodriguez](https://en.wikipedia.org/wiki/Robert_Rodriguez) | <code>English</code> | 1996 | <nobr><code>crime</code>, <code>action</code>, <code>horror</code></nobr> | <nobr>January 15th</nobr> | ⭐️⭐️⭐️ | 
+| [Hamnet](https://en.wikipedia.org/wiki/Hamnet_(film)) | [Chloé Zhao](https://en.wikipedia.org/wiki/Chloé_Zhao) | <code>English</code> | 2025 | <nobr><code>historical</code>, <code>tragedy</code></nobr> | <nobr>January 21th</nobr> | ⭐️⭐️⭐️ | 
+| [Mine Vaganti](https://en.wikipedia.org/wiki/Loose_Cannons_(2010_film)) | [Ferzan Özpetek](https://en.wikipedia.org/wiki/Ferzan_Özpetek) | <code>Italian</code> | 2010 | <nobr><code>comedy</code></nobr> | <nobr>January 18th</nobr> | ⭐️⭐️⭐️⭐️⭐️ | 
+| [From Dusk till Dawn](https://en.wikipedia.org/wiki/From_Dusk_till_Dawn) | [Robert Rodriguez](https://en.wikipedia.org/wiki/Robert_Rodriguez) | <code>English</code> | 1996 | <nobr><code>crime</code>, <code>action</code>, <code>horror</code></nobr> | <nobr>January 15th</nobr> | ⭐️⭐️ | 
 | [Stargate](https://en.wikipedia.org/wiki/Stargate_(film)) | [Roland Emmerich](https://en.wikipedia.org/wiki/Roland_Emmerich) | <code>English</code> | 1994 | <nobr><code>sciene fiction</code>, <code>action</code>, <code>adventure</code></nobr> | <nobr>January 9th</nobr> | ⭐️⭐️⭐️⭐️⭐️ | 
 | [Weekend](https://en.wikipedia.org/wiki/Weekend_(2011_film)) | [Andrew Haigh](https://en.wikipedia.org/wiki/Andrew_Haigh) | <code>English</code> | 2011 | <nobr><code>romantic</code>, <code>drama</code></nobr> | <nobr>January 6th</nobr> | ⭐️⭐️⭐️⭐️⭐️ | 
 | [Jurassic Park](https://en.wikipedia.org/wiki/Jurassic_Park) | [Steven Spielberg](https://en.wikipedia.org/wiki/Steven_Spielberg) | <code>English</code> | 1993 | <nobr><code>science fiction</code>, <code>adventure</code></nobr> | <nobr>January 3rd</nobr> | ⭐️⭐️⭐️⭐️⭐️ | 
