@@ -81,7 +81,7 @@ permalink: /movies/
 | [L'ultima notte di Amore](https://it.wikipedia.org/wiki/L%27ultima_notte_di_Amore) | [Andrea Di Stefano](https://it.wikipedia.org/wiki/Andrea_Di_Stefano) | <code>Italian</code> | 2023 | <nobr><code>crime drama</code></nobr> | <nobr>April 28th</nobr> | ⭐️⭐️⭐️ |
 | [The Matrix Resurrections](https://en.wikipedia.org/wiki/The_Matrix_Resurrections) | [Lana Wachowski](https://en.wikipedia.org/wiki/The_Wachowskis) | <code>English</code> | 2021 | <nobr><code>science fiction</code></nobr> | <nobr>April 26th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Dune: Part One](https://en.wikipedia.org/wiki/Dune_(2021_film)) | [Denis Villeneuve](https://en.wikipedia.org/wiki/Denis_Villeneuve) | <code>English</code> | 2021 | <nobr><code>science fiction</code></nobr> | <nobr>April 58th</nobr> | ⭐️⭐️⭐️⭐️ |
-| [Poor things](https://en.wikipedia.org/wiki/Poor_Things_(film)) | [Yorgos Lanthimos](https://en.wikipedia.org/wiki/Yorgos_Lanthimos) | <code>English</code> | 2024 |  | <nobr>April 7th</nobr> | ⭐️⭐️ |
+| [Poor things](https://en.wikipedia.org/wiki/Poor_Things_(film)) | [Yorgos Lanthimos](https://en.wikipedia.org/wiki/Yorgos_Lanthimos) | <code>English</code> | 2024 | `genre-defying`  | <nobr>April 7th</nobr> | ⭐️⭐️ |
 | [All of Us Strangers](https://en.wikipedia.org/wiki/All_of_Us_Strangers) | [Andrew Haigh](https://en.wikipedia.org/wiki/Andrew_Haigh) | <code>English</code> | 2024 | <nobr><code>romantic fantasy</code></nobr> | <nobr>April 4th</nobr> | ⭐️⭐️⭐️ |
 
 ## Backlog
