@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Artpop](https://en.wikipedia.org/wiki/Artpop) | [Lady Gaga](https://en.wikipedia.org/wiki/Lady_Gaga) | 2013 | <nobr><code>EDM</code>, <code>synth-pop</code></nobr> | <nobr>January 25th</nobr> | ⭐️⭐️⭐️ |
 | [La donna il sogno &amp; il grande incubo](https://it.wikipedia.org/wiki/La_donna_il_sogno_%26_il_grande_incubo) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1995 | <nobr><code>pop</code></nobr> | <nobr>January 17th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [...Squérez?](https://it.wikipedia.org/wiki/...Squérez%3F) | [Lùnapop](https://it.wikipedia.org/wiki/Lùnapop) | 1999 | <nobr><code>pop</code>, <code>pop rock</code></nobr> | <nobr>January 17th</nobr> | ⭐️⭐️⭐️ |
 | [Born This Way](https://en.wikipedia.org/wiki/Born_This_Way_(album)) | [Lady Gaga](https://en.wikipedia.org/wiki/Lady_Gaga) | 2011 | <nobr><code>electropop</code>, <code>synth-pop</code>, <code>dance-pop</code></nobr> | <nobr>January 13th</nobr> | ⭐️⭐️⭐️⭐️ |
@@ -69,7 +70,6 @@ permalink: /music/
 | [Whatever](https://en.wikipedia.org/wiki/Whatever_(Hot_Chelle_Rae_album)) | [Hot Chelle Rae](https://en.wikipedia.org/wiki/Hot_Chelle_Rae) | 2011 | <nobr><code>pop rock</code></nobr> |
 | [The Fame Monster](https://en.wikipedia.org/wiki/The_Fame_Monster) | [Lady Gaga](https://en.wikipedia.org/wiki/Lady_Gaga) | 2009 | <nobr><code>electropop</code></nobr> |
 | [The Fame](https://en.wikipedia.org/wiki/The_Fame) | [Lady Gaga](https://en.wikipedia.org/wiki/Lady_Gaga) | 2008 | <nobr><code>synth-pop</code>, <code>electropop</code>, <code>dance-pop</code>, <code>electronic rock</code></nobr> |
-| [Artpop](https://en.wikipedia.org/wiki/Artpop) | [Lady Gaga](https://en.wikipedia.org/wiki/Lady_Gaga) | 2013 | <nobr><code>EDM</code>, <code>synth-pop</code></nobr> |
 | [Maggese](https://it.wikipedia.org/wiki/Maggese_(album)) | [Cesare Cremonini](https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)) | 2005 | <nobr><code>pop</code></nobr> |
 | [Il primo bacio sulla Luna](https://it.wikipedia.org/wiki/Il_primo_bacio_sulla_Luna) | [Cesare Cremonini](https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)) | 2008 | <nobr><code>pop rock</code></nobr> |
 | [1999-2010 The Greatest Hits](https://it.wikipedia.org/wiki/1999-2010_The_Greatest_Hits) | [Cesare Cremonini](https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)) | 2010 | <nobr><code>pop</code></nobr> |
@@ -80,7 +80,6 @@ permalink: /music/
 | [Christina Aguilera](https://en.wikipedia.org/wiki/Christina_Aguilera_(album)) | [Christina Aguilera](https://en.wikipedia.org/wiki/Christina_Aguilera) | 1999 | <nobr><code>dance-pop</code>, <code>teen pop</code></nobr> |
 | [Back to Basics](https://en.wikipedia.org/wiki/Back_to_Basics_(Christina_Aguilera_album)) | [Christina Aguilera](https://en.wikipedia.org/wiki/Christina_Aguilera) | 2006 | <nobr><code>pop</code>, <code>R&amp;B</code></nobr> |
 | [Hot Fuss](https://en.wikipedia.org/wiki/Hot_Fuss) | [The Killers](https://en.wikipedia.org/wiki/The_Killers) | 2004 | <nobr><code>alternative rock</code>, <code>post-punk revival</code>,<br/><code>new wave</code>, <code>art rock</code>, <code>synth-pop</code>, <code>dance-rock</code></nobr>|
-| [Most Wanted](https://en.wikipedia.org/wiki/Most_Wanted_(Hilary_Duff_album)) | [Hilary Duff](https://en.wikipedia.org/wiki/Hilary_Duff) | 2005 | <nobr><code>pop</code>, <code>dance pop</code>,  <code>rock</code></nobr> |
 | [Most Wanted](https://en.wikipedia.org/wiki/Most_Wanted_(Hilary_Duff_album)) | [Hilary Duff](https://en.wikipedia.org/wiki/Hilary_Duff) | 2005 | <nobr><code>pop</code>, <code>dance pop</code>,  <code>rock</code></nobr> |
 | [The Writing's on the Wall](https://en.wikipedia.org/wiki/The_Writing%27s_on_the_Wall) | [Destiny's Child](https://en.wikipedia.org/wiki/Destiny%27s_Child) | 1999 |  <nobr><code>R&amp;B</code>, <code>pop</code>, <code>hip pop</code>, <code>soul</code></nobr> |
 | [Glory Days](https://en.wikipedia.org/wiki/Glory_Days_(Little_Mix_album)) | [Little Mix](https://en.wikipedia.org/wiki/Little_Mix) | 2016 | <nobr><code>pop</code>, <code>dance-pop</code>, <code>R&amp;B</code></nobr> |
