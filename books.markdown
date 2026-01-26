@@ -16,12 +16,13 @@ permalink: /books/
 
 | Title                             | Author(s)                         | Lang | Year | Genre     |
 |-----------------------------------|-----------------------------------|------|------|-----------|
-| [L'ombra dello scorpione](https://it.wikipedia.org/wiki/L%27ombra_dello_scorpione)<br/><nobr style="font-size:.75em"><strong>Edizione Integrale</strong></nobr> | [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) | <code>Italian</code> | 1990 | <nobr><code>post-apocalyptic</code>, <code>dark fantasy</code></nobr> |
+| [The Princess Bride](https://en.wikipedia.org/wiki/The_Princess_Bride_(novel))| [William Goldman](https://en.wikipedia.org/wiki/William_Goldman) | <code>Italian</code> | 1973 | <nobr><code>fantasyc</code>, <code>romance</code>, <code>adventure</code>, <code>metafiction</code></nobr> |
 
 ## 2026
 
 | Title                             | Author(s)                         | Lang | Year | Genre     | Finished    | Rating       |
 |-----------------------------------|-----------------------------------|------|------|-----------|-------------|--------------|
+| [L'ombra dello scorpione](https://it.wikipedia.org/wiki/L%27ombra_dello_scorpione)<br/><nobr style="font-size:.75em"><strong>Edizione Integrale</strong></nobr> | [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) | <code>Italian</code> | 1990 | <nobr><code>post-apocalyptic</code>, <code>dark fantasy</code></nobr> | <nobr>January 26th</nobr>| ⭐️⭐️⭐️⭐️ |
 | [Pretty Guardian Sailor Moon](https://en.wikipedia.org/wiki/Sailor_Moon)<br/><nobr style="font-size:.75em"><strong>Volume 1 (Act 1 - Act 6)</strong></nobr> | [Naoko Takeuchi](https://en.wikipedia.org/wiki/Naoko_Takeuchi) | <code>Italian</code> | 1991 | <nobr><code>manga</code>, <code>magical girl</code></nobr> | <nobr>January 6th</nobr>| ⭐️⭐️⭐️⭐️⭐️ |
 
 ## 2025
