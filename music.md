@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [It.Pop](https://it.wikipedia.org/wiki/It.Pop) | [Alex Britti](https://en.wikipedia.org/wiki/Alex_Britti) | 1998 | <nobr><code>pop</code></nobr> | <nobr>January 28th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Artpop](https://en.wikipedia.org/wiki/Artpop) | [Lady Gaga](https://en.wikipedia.org/wiki/Lady_Gaga) | 2013 | <nobr><code>EDM</code>, <code>synth-pop</code></nobr> | <nobr>January 25th</nobr> | ⭐️⭐️⭐️ |
 | [La donna il sogno &amp; il grande incubo](https://it.wikipedia.org/wiki/La_donna_il_sogno_%26_il_grande_incubo) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1995 | <nobr><code>pop</code></nobr> | <nobr>January 17th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [...Squérez?](https://it.wikipedia.org/wiki/...Squérez%3F) | [Lùnapop](https://it.wikipedia.org/wiki/Lùnapop) | 1999 | <nobr><code>pop</code>, <code>pop rock</code></nobr> | <nobr>January 17th</nobr> | ⭐️⭐️⭐️ |
