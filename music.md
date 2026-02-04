@@ -16,6 +16,8 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Backstreet's Back](https://en.wikipedia.org/wiki/Backstreet%27s_Back) | [Backstreet Boys](https://en.wikipedia.org/wiki/Backstreet_Boys) | 1996 | <nobr><code>dance-pop</code>, <code>teen pop</code></nobr> | <nobr>February 4th</nobr> | ⭐️⭐️⭐️⭐️ |
+| [Britney Jean](https://en.wikipedia.org/wiki/Britney_Jean) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2013 |  <nobr><code>pop</code>, <code>EDM</code></nobr> | <nobr>February 4th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [La dura legge del gol!](https://it.wikipedia.org/wiki/La_dura_legge_del_gol!) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1997 | <nobr><code>pop</code>, <code>pop rock</code></nobr> | <nobr>January 29th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [It.Pop](https://it.wikipedia.org/wiki/It.Pop) | [Alex Britti](https://en.wikipedia.org/wiki/Alex_Britti) | 1998 | <nobr><code>pop</code></nobr> | <nobr>January 28th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Artpop](https://en.wikipedia.org/wiki/Artpop) | [Lady Gaga](https://en.wikipedia.org/wiki/Lady_Gaga) | 2013 | <nobr><code>EDM</code>, <code>synth-pop</code></nobr> | <nobr>January 25th</nobr> | ⭐️⭐️⭐️ |
@@ -111,13 +113,11 @@ permalink: /music/
 | [Super Trouper](https://en.wikipedia.org/wiki/Super_Trouper_(album)) | [ABBA](https://en.wikipedia.org/wiki/ABBA) | 1980 |  <nobr><code>pop</code>, <code>pop rock</code></nobr> |
 | [E poi siamo finiti nel vortice](https://en.wikipedia.org/wiki/E_poi_siamo_finiti_nel_vortice) | [Annalisa](https://en.wikipedia.org/wiki/Annalisa) | 2023 |  <nobr><code>electropop</code>, <code>dance-pop</code>, <code>pop</code></nobr> |
 | [Life thru a Lens](https://en.wikipedia.org/wiki/Life_thru_a_Lens) | [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams) | 1997 |  <nobr><code>pop</code>, <code>rock</code>, <code>britpop</code>, <code>glam rock</code>, <code>pop rock</code>, <code>power pop</code></nobr> |
-| [Backstreet's Back](https://en.wikipedia.org/wiki/Backstreet%27s_Back) | [Backstreet Boys](https://en.wikipedia.org/wiki/Backstreet_Boys) | 1996 | <nobr><code>dance-pop</code>, <code>teen pop</code></nobr> |
 | [Oops!... I Did It Again](https://en.wikipedia.org/wiki/Oops!..._I_Did_It_Again_(album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2000 |  <nobr><code>dance-pop</code>, <code>pop</code>, <code>teen-pop</code></nobr> |
 | [Britney](https://en.wikipedia.org/wiki/Britney_(album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2001 |  <nobr><code>dance-pop</code>, <code>pop</code>, <code>teen-pop</code></nobr> |
 | [In The Zone](https://en.wikipedia.org/wiki/In_the_Zone) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2003 |  <nobr><code>dance-pop</code>, <code>pop</code>, <code>hip-pop</code></nobr> |
 | [Blackout](https://en.wikipedia.org/wiki/Blackout_(Britney_Spears_album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2007 |  <nobr><code>dance-pop</code>, <code>electropop</code>, <code>techno</code>, <code>avant-disco</code></nobr> |
 | [Circus](https://en.wikipedia.org/wiki/Circus_(Britney_Spears_album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2008 |  <nobr><code>dance-pop</code>, <code>pop</code></nobr> |
-| [Britney Jean](https://en.wikipedia.org/wiki/Britney_Jean) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2013 |  <nobr><code>pop</code>, <code>EDM</code></nobr> |
 | [Everybody Else Is Doing It, So Why Can't We?](https://en.wikipedia.org/wiki/Everybody_Else_Is_Doing_It,_So_Why_Can%27t_We%3F) | [The Cranberries](https://en.wikipedia.org/wiki/The_Cranberries) | 1993 |  <nobr><code>alternative rock</code>, <code>indie pop</code>, <code>Irish folk</code>, <code>jangle pop</code>, <code>post-punk</code>, <code>dream pop</code></nobr> |
 | [No Need to Argue](https://en.wikipedia.org/wiki/No_Need_to_Argue) | [The Cranberries](https://en.wikipedia.org/wiki/The_Cranberries) | 1994 |  <nobr><code>alternative rock</code>, <code>jangle pop</code>, <code>Irish folk</code>, <code>post-punk</code></nobr> |
 | [Take Off Your Pants and Jacket](https://en.wikipedia.org/wiki/Take_Off_Your_Pants_and_Jacket) | [blink-182](https://en.wikipedia.org/wiki/Blink-182) | 2001 | <nobr><code>pop-punk</code>, <code>punk-rock</code></nobr> |
