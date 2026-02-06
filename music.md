@@ -17,8 +17,8 @@ permalink: /music/
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
 | [Io canto 2](https://it.wikipedia.org/wiki/Io_canto_2) | [Laura Pausini](https://en.wikipedia.org/wiki/Laura_Pausini) | 2026 | <nobr><code>pop</code></nobr> | <nobr>February 6th</nobr> | ⭐️⭐️⭐️ |
-| [Backstreet's Back](https://en.wikipedia.org/wiki/Backstreet%27s_Back) | [Backstreet Boys](https://en.wikipedia.org/wiki/Backstreet_Boys) | 1996 | <nobr><code>dance-pop</code>, <code>teen pop</code></nobr> | <nobr>February 4th</nobr> | ⭐️⭐️⭐️⭐️ |
-| [Britney Jean](https://en.wikipedia.org/wiki/Britney_Jean) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2013 |  <nobr><code>pop</code>, <code>EDM</code></nobr> | <nobr>February 4th</nobr> | ⭐️⭐️⭐️⭐️ |
+| [Backstreet's Back](https://en.wikipedia.org/wiki/Backstreet%27s_Back) | [Backstreet Boys](https://en.wikipedia.org/wiki/Backstreet_Boys) | 1996 | <nobr><code>dance-pop</code>, <code>teen pop</code></nobr> | <nobr>February 3th</nobr> | ⭐️⭐️⭐️⭐️ |
+| [Britney Jean](https://en.wikipedia.org/wiki/Britney_Jean) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2013 |  <nobr><code>pop</code>, <code>EDM</code></nobr> | <nobr>February 3th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [La dura legge del gol!](https://it.wikipedia.org/wiki/La_dura_legge_del_gol!) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1997 | <nobr><code>pop</code>, <code>pop rock</code></nobr> | <nobr>January 29th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [It.Pop](https://it.wikipedia.org/wiki/It.Pop) | [Alex Britti](https://en.wikipedia.org/wiki/Alex_Britti) | 1998 | <nobr><code>pop</code></nobr> | <nobr>January 28th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Artpop](https://en.wikipedia.org/wiki/Artpop) | [Lady Gaga](https://en.wikipedia.org/wiki/Lady_Gaga) | 2013 | <nobr><code>EDM</code>, <code>synth-pop</code></nobr> | <nobr>January 25th</nobr> | ⭐️⭐️⭐️ |
