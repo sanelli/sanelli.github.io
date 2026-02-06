@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 💼 CV
-permalink: /cv/
+title: 💼 Work
+permalink: /work/
 ---
 
 <style>
@@ -10,8 +10,8 @@ permalink: /cv/
         }
 </style>
 
-### <span style="padding-left:40px"><img style="width:1em" src="https://cdn.sanity.io/images/fuvbjjlp/production/36cbc8ae92c7711afb9ab1ec9f7174863f4d7c19-22x24.svg"/> Unity Technologies</span> <span style="font-size:0.5em">[Jun 2020 - *]</span>
-<span style="padding-left:80px">*Staff Software Engineer, Cloud Application Architect*</span> <span style="font-size:0.7em">[Oct 2025 - *]</span><br/>
+### <span style="padding-left:40px"><img style="width:1em" src="https://cdn.sanity.io/images/fuvbjjlp/production/36cbc8ae92c7711afb9ab1ec9f7174863f4d7c19-22x24.svg"/> Unity Technologies</span> <span style="font-size:0.5em">[Jun 2020 - Jan 2026]</span>
+<span style="padding-left:80px">*Staff Software Engineer, Cloud Application Architect*</span> <span style="font-size:0.7em">[Oct 2025 - Jan 2026]</span><br/>
 <span style="padding-left:80px">**Activities**: `architecture design`, `architecture implementation`</span><br/>
 <span style="padding-left:80px">**Language**: `C#`</span><br/>
 <span style="padding-left:80px">**Product**: [Unity Asset Manager](https://unity.com/products/asset-manager)</span><br/>
