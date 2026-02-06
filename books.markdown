@@ -16,7 +16,7 @@ permalink: /books/
 
 | Title                             | Author(s)                         | Lang | Year | Genre     |
 |-----------------------------------|-----------------------------------|------|------|-----------|
-| [The Princess Bride](https://en.wikipedia.org/wiki/The_Princess_Bride_(novel))| [William Goldman](https://en.wikipedia.org/wiki/William_Goldman) | <code>Italian</code> | 1973 | <nobr><code>fantasyc</code>, <code>romance</code>, <code>adventure</code>, <code>metafiction</code></nobr> |
+| [The Princess Bride](https://en.wikipedia.org/wiki/The_Princess_Bride_(novel))| [William Goldman](https://en.wikipedia.org/wiki/William_Goldman) | <code>Italian</code> | 1973 | <nobr><code>fantasy</code>, <code>romance</code>,<br/><code>adventure</code>, <code>metafiction</code></nobr> |
 
 ## 2026
 
