@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Le cose che vivi](https://en.wikipedia.org/wiki/Le_cose_che_vivi) | [Laura Pausini](https://en.wikipedia.org/wiki/Laura_Pausini) | 1996 | <nobr><code>pop</code></nobr> | <nobr>February 6th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Io canto 2](https://it.wikipedia.org/wiki/Io_canto_2) | [Laura Pausini](https://en.wikipedia.org/wiki/Laura_Pausini) | 2026 | <nobr><code>pop</code></nobr> | <nobr>February 6th</nobr> | ⭐️⭐️⭐️ |
 | [Backstreet's Back](https://en.wikipedia.org/wiki/Backstreet%27s_Back) | [Backstreet Boys](https://en.wikipedia.org/wiki/Backstreet_Boys) | 1996 | <nobr><code>dance-pop</code>, <code>teen pop</code></nobr> | <nobr>February 3th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Britney Jean](https://en.wikipedia.org/wiki/Britney_Jean) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2013 |  <nobr><code>pop</code>, <code>EDM</code></nobr> | <nobr>February 3th</nobr> | ⭐️⭐️⭐️⭐️ |
