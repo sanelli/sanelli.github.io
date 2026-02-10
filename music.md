@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [The Book of Mormon](https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical))<br/><nobr style="font-size:.75em"><strong>Soundtrack</strong></nobr> | [The Book of Mormon](https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)) | 2011 | <nobr><code>musical</code></nobr> | <nobr>February 10th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Le cose che vivi](https://en.wikipedia.org/wiki/Le_cose_che_vivi) | [Laura Pausini](https://en.wikipedia.org/wiki/Laura_Pausini) | 1996 | <nobr><code>pop</code></nobr> | <nobr>February 6th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Io canto 2](https://it.wikipedia.org/wiki/Io_canto_2) | [Laura Pausini](https://en.wikipedia.org/wiki/Laura_Pausini) | 2026 | <nobr><code>pop</code></nobr> | <nobr>February 6th</nobr> | ⭐️⭐️⭐️ |
 | [Backstreet's Back](https://en.wikipedia.org/wiki/Backstreet%27s_Back) | [Backstreet Boys](https://en.wikipedia.org/wiki/Backstreet_Boys) | 1996 | <nobr><code>dance-pop</code>, <code>teen pop</code></nobr> | <nobr>February 3th</nobr> | ⭐️⭐️⭐️⭐️ |
