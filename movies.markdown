@@ -16,6 +16,7 @@ permalink: /movies/
 
 | Title | Directed <span style="font-size:.7em">- or -</span> <br/> Created by | Language | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
+| [Donnie Darko](https://en.wikipedia.org/wiki/Donnie_Darko) | [Richard Kelly](https://en.wikipedia.org/wiki/Richard_Kelly_(filmmaker)) | <code>English</code> | 2001 | <nobr><code>sciece fiction</code>, <code>psychological thriller</code></nobr> | <nobr>February 10th</nobr> | ⭐️⭐️⭐️ |
 | [Batman](https://en.wikipedia.org/wiki/Batman_(1989_film)) | [Tim Burton](https://en.wikipedia.org/wiki/Tim_Burton) | <code>English</code> | 1989 | <nobr><code>superhero</code></nobr> | <nobr>February 5th</nobr> | ⭐️⭐️⭐️ |
 | [Ghost](https://en.wikipedia.org/wiki/Ghost_(1990_film)) | [Jerry Zucker](https://en.wikipedia.org/wiki/Jerry_Zucker) | <code>English</code> | 1990 | <nobr><code>supernatural</code>, <code>romance</code></nobr> | <nobr>January 27th</nobr> | ⭐️⭐️⭐️⭐️ | 
 | [Hamnet](https://en.wikipedia.org/wiki/Hamnet_(film)) | [Chloé Zhao](https://en.wikipedia.org/wiki/Chloé_Zhao) | <code>English</code> | 2025 | <nobr><code>historical</code>, <code>tragedy</code></nobr> | <nobr>January 21th</nobr> | ⭐️⭐️⭐️ | 
@@ -90,7 +91,6 @@ permalink: /movies/
 
 | Title | Directed <span style="font-size:.7em">- or -</span> <br/> Created by | Language | Year | Genre |
 |-----|----|----|-----|------|----|----|
-| [Donnie Darko](https://en.wikipedia.org/wiki/Donnie_Darko) | [Richard Kelly](https://en.wikipedia.org/wiki/Richard_Kelly_(filmmaker)) | <code>English</code> | 2001 | <nobr><code>sciece fiction</code>, <code>psychological thriller</code></nobr> |
 | [South Pacific](https://en.wikipedia.org/wiki/South_Pacific_(1958_film)) | [Joshua Logan](https://en.wikipedia.org/wiki/Joshua_Logan) | <code>English</code> | 1958 | <nobr><code>musical</code>, <code>romantic</code></nobr> |
 | [The Crow](https://en.wikipedia.org/wiki/The_Crow_(1994_film)) | [Alex Proyas](https://en.wikipedia.org/wiki/Alex_Proyas) | <code>English</code> | 1994 | <nobr><code>gothic</code>, <code>supernatural</code>, <code>superhero</code></nobr> |
 | [Four Weddings and a Funeral](https://en.wikipedia.org/wiki/Four_Weddings_and_a_Funeral) | [Mike Newell](https://en.wikipedia.org/wiki/Mike_Newell_(director)) | <code>English</code> | 1994 | <nobr><code>romantic comedy</code></nobr> |
@@ -105,3 +105,4 @@ permalink: /movies/
 | [Batman &amp; Robin](https://en.wikipedia.org/wiki/Batman_%26_Robin_(film)) | [Joel Schumacher](https://en.wikipedia.org/wiki/Joel_Schumacher) | <code>English</code> | 1997 | <nobr><code>superhero</code></nobr> |
 | [Sliding Doors](https://en.wikipedia.org/wiki/Sliding_Doors) | [Peter Howittr](https://en.wikipedia.org/wiki/Peter_Howitt_(actor)) | <code>English</code> | 1998 | <nobr><code>romantic</code>, <code>comedy-drama</code></nobr> |
 | [Pitch Perfect](https://en.wikipedia.org/wiki/Pitch_Perfect) | [Jason Moore](https://en.wikipedia.org/wiki/Jason_Moore_(director)) | <code>English</code> | 2012 | <nobr><code>comedy</code></nobr> |
+| [Jumanji](https://en.wikipedia.org/wiki/Jumanji_(film)) | [Joe Johnston](https://en.wikipedia.org/wiki/Joe_Johnston) | <code>English</code> | 1995 | <nobr><code>fantasy</code>, <code>adventure</code></nobr> |
