@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [La teoria dei colori](https://it.wikipedia.org/wiki/La_teoria_dei_colori_(album)) | [Cesare Cremonini](https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)) | 2012 | <nobr><code>pop</code></nobr> | <nobr>February 17th</nobr> | ⭐️⭐️⭐️ |
 | [The Book of Mormon](https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical))<br/><nobr style="font-size:.75em"><strong>Soundtrack</strong></nobr> | [The Book of Mormon](https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)) | 2011 | <nobr><code>musical</code></nobr> | <nobr>February 10th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Le cose che vivi](https://en.wikipedia.org/wiki/Le_cose_che_vivi) | [Laura Pausini](https://en.wikipedia.org/wiki/Laura_Pausini) | 1996 | <nobr><code>pop</code></nobr> | <nobr>February 6th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Io canto 2](https://it.wikipedia.org/wiki/Io_canto_2) | [Laura Pausini](https://en.wikipedia.org/wiki/Laura_Pausini) | 2026 | <nobr><code>pop</code></nobr> | <nobr>February 6th</nobr> | ⭐️⭐️⭐️ |
@@ -80,7 +81,6 @@ permalink: /music/
 | [Maggese](https://it.wikipedia.org/wiki/Maggese_(album)) | [Cesare Cremonini](https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)) | 2005 | <nobr><code>pop</code></nobr> |
 | [Il primo bacio sulla Luna](https://it.wikipedia.org/wiki/Il_primo_bacio_sulla_Luna) | [Cesare Cremonini](https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)) | 2008 | <nobr><code>pop rock</code></nobr> |
 | [1999-2010 The Greatest Hits](https://it.wikipedia.org/wiki/1999-2010_The_Greatest_Hits) | [Cesare Cremonini](https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)) | 2010 | <nobr><code>pop</code></nobr> |
-| [La teoria dei colori](https://it.wikipedia.org/wiki/La_teoria_dei_colori_(album)) | [Cesare Cremonini](https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)) | 2012 | <nobr><code>pop</code></nobr> |
 | [Logico](https://it.wikipedia.org/wiki/Logico_(album)) | [Cesare Cremonini](https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)) | 2014 | <nobr><code>pop</code></nobr> |
 | [Possibili scenari](https://it.wikipedia.org/wiki/Possibili_scenari) | [Cesare Cremonini](https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)) | 2017 | <nobr><code>pop</code></nobr> |
 | [Stripped](https://en.wikipedia.org/wiki/Stripped_(Christina_Aguilera_album)) | [Christina Aguilera](https://en.wikipedia.org/wiki/Christina_Aguilera) | 2002 | <nobr><code>pop</code>, <code>R&amp;B</code></nobr> |
