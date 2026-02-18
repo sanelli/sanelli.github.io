@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Life for Rent](https://en.wikipedia.org/wiki/Life_for_Rent) | [Dido](https://en.wikipedia.org/wiki/Dido_(singer)) | 2003 |  <nobr><code>folk-pop</code></nobr> | <nobr>February 18th</nobr> | ⭐️⭐️⭐️ |
 | [Life thru a Lens](https://en.wikipedia.org/wiki/Life_thru_a_Lens) | [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams) | 1997 |  <nobr><code>pop</code>, <code>rock</code>, <code>britpop</code>, <code>glam rock</code>,<br/><code>pop rock</code>, <code>power pop</code></nobr> | <nobr>February 18th</nobr> | ⭐️⭐️⭐️ |
 | [La teoria dei colori](https://it.wikipedia.org/wiki/La_teoria_dei_colori_(album)) | [Cesare Cremonini](https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)) | 2012 | <nobr><code>pop</code></nobr> | <nobr>February 17th</nobr> | ⭐️⭐️⭐️ |
 | [The Book of Mormon](https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical))<br/><nobr style="font-size:.75em"><strong>Soundtrack</strong></nobr> | [The Book of Mormon](https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)) | 2011 | <nobr><code>musical</code></nobr> | <nobr>February 10th</nobr> | ⭐️⭐️⭐️⭐️ |
@@ -105,7 +106,6 @@ permalink: /music/
 | [Uno in più](https://it.wikipedia.org/wiki/Uno_in_più) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 2001 | <nobr><code>pop</code></nobr> |
 | [Il mondo insieme a te](https://it.wikipedia.org/wiki/Il_mondo_insieme_a_te) | [Max Pezzali](https://it.wikipedia.org/wiki/Max_Pezzali) | 2004 | <nobr><code>pop</code></nobr> |
 | [Max 20](https://it.wikipedia.org/wiki/Max_20) | [Max Pezzali](https://it.wikipedia.org/wiki/Max_Pezzali) | 2013 | <nobr><code>pop</code>, <code>pop rock</code></nobr> |
-| [Life for Rent](https://en.wikipedia.org/wiki/Life_for_Rent) | [Dido](https://en.wikipedia.org/wiki/Dido_(singer)) | 2003 |  <nobr><code>folk-pop</code></nobr> | 
 | [Use Your Illusion I](https://en.wikipedia.org/wiki/Use_Your_Illusion_I) | [Guns N' Roses](https://en.wikipedia.org/wiki/Guns_N%27_Roses) | 1991 |  <nobr><code>hard rock</code></nobr> |
 | [Metallica](https://en.wikipedia.org/wiki/Metallica_(album)) | [Metallica](https://en.wikipedia.org/wiki/Metallica) | 1991 |  <nobr><code>heavy metal</code>, <code>groove metal</code></nobr> |
 | [Nevermind](https://en.wikipedia.org/wiki/Nevermind) | [Nirvana](https://en.wikipedia.org/wiki/Nirvana_(band)) | 1991 |  <nobr><code>grunge</code>, <code>alternative rock</code></nobr> |
