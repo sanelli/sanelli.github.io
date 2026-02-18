@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Life thru a Lens](https://en.wikipedia.org/wiki/Life_thru_a_Lens) | [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams) | 1997 |  <nobr><code>pop</code>, <code>rock</code>, <code>britpop</code>, <code>glam rock</code>,<br/><code>pop rock</code>, <code>power pop</code></nobr> | <nobr>February 18th</nobr> | ⭐️⭐️⭐️ |
 | [La teoria dei colori](https://it.wikipedia.org/wiki/La_teoria_dei_colori_(album)) | [Cesare Cremonini](https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)) | 2012 | <nobr><code>pop</code></nobr> | <nobr>February 17th</nobr> | ⭐️⭐️⭐️ |
 | [The Book of Mormon](https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical))<br/><nobr style="font-size:.75em"><strong>Soundtrack</strong></nobr> | [The Book of Mormon](https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)) | 2011 | <nobr><code>musical</code></nobr> | <nobr>February 10th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Le cose che vivi](https://en.wikipedia.org/wiki/Le_cose_che_vivi) | [Laura Pausini](https://en.wikipedia.org/wiki/Laura_Pausini) | 1996 | <nobr><code>pop</code></nobr> | <nobr>February 6th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
@@ -115,7 +116,6 @@ permalink: /music/
 | [Voulez-Vous](https://en.wikipedia.org/wiki/Voulez-Vous) | [ABBA](https://en.wikipedia.org/wiki/ABBA) | 1979 |  <nobr><code>europop</code>, <code>eurodisco</code></nobr> |
 | [Super Trouper](https://en.wikipedia.org/wiki/Super_Trouper_(album)) | [ABBA](https://en.wikipedia.org/wiki/ABBA) | 1980 |  <nobr><code>pop</code>, <code>pop rock</code></nobr> |
 | [E poi siamo finiti nel vortice](https://en.wikipedia.org/wiki/E_poi_siamo_finiti_nel_vortice) | [Annalisa](https://en.wikipedia.org/wiki/Annalisa) | 2023 |  <nobr><code>electropop</code>, <code>dance-pop</code>, <code>pop</code></nobr> |
-| [Life thru a Lens](https://en.wikipedia.org/wiki/Life_thru_a_Lens) | [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams) | 1997 |  <nobr><code>pop</code>, <code>rock</code>, <code>britpop</code>, <code>glam rock</code>, <code>pop rock</code>, <code>power pop</code></nobr> |
 | [Oops!... I Did It Again](https://en.wikipedia.org/wiki/Oops!..._I_Did_It_Again_(album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2000 |  <nobr><code>dance-pop</code>, <code>pop</code>, <code>teen-pop</code></nobr> |
 | [Britney](https://en.wikipedia.org/wiki/Britney_(album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2001 |  <nobr><code>dance-pop</code>, <code>pop</code>, <code>teen-pop</code></nobr> |
 | [In The Zone](https://en.wikipedia.org/wiki/In_the_Zone) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2003 |  <nobr><code>dance-pop</code>, <code>pop</code>, <code>hip-pop</code></nobr> |
