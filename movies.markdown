@@ -16,6 +16,7 @@ permalink: /movies/
 
 | Title | Directed <span style="font-size:.7em">- or -</span> <br/> Created by | Language | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
+| [Batman Forever](https://en.wikipedia.org/wiki/Batman_Forever) | [Joel Schumacher](https://en.wikipedia.org/wiki/Joel_Schumacher) | <code>English</code> | 1995 | <nobr><code>superhero</code></nobr> | <nobr>February 18th</nobr> | ⭐️⭐️ |
 | [Il Vizietto](https://en.wikipedia.org/wiki/La_Cage_aux_Folles_(film))<br/><nobr style="font-size:.75em"><strong>La Cage aux Folles</strong></nobr> | [Édouard Molinaro](https://en.wikipedia.org/wiki/Édouard_Molinaro) | <code>English</code> | 1978 | <nobr><code>comedy</code></nobr> | <nobr>February 17th</nobr> | ⭐️⭐️ |
 | [Batman Returns](https://en.wikipedia.org/wiki/Batman_Returns) | [Tim Burton](https://en.wikipedia.org/wiki/Tim_Burton) | <code>English</code> | 1992 | <nobr><code>superhero</code></nobr> | <nobr>February 13th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Donnie Darko](https://en.wikipedia.org/wiki/Donnie_Darko) | [Richard Kelly](https://en.wikipedia.org/wiki/Richard_Kelly_(filmmaker)) | <code>English</code> | 2001 | <nobr><code>science fiction</code>, <code>psychological thriller</code></nobr> | <nobr>February 10th</nobr> | ⭐️⭐️⭐️ |
@@ -101,7 +102,6 @@ permalink: /movies/
 | [The Godfather](https://en.wikipedia.org/wiki/The_Godfather) | [Francis Ford Coppola](https://en.wikipedia.org/wiki/Francis_Ford_Coppola) | <code>English</code> | 1972 | <nobr><code>epic</code>, <code>gangster</code></nobr> |
 | [The Adventures of Priscilla, Queen of the Desert](https://en.wikipedia.org/wiki/The_Adventures_of_Priscilla,_Queen_of_the_Desert) | [Stephan Elliott](https://en.wikipedia.org/wiki/Stephan_Elliott) | <code>English</code> | 1994 | <nobr><code>road</code>, <code>comedy</code></nobr> |
 | [The Sixth Sense](https://en.wikipedia.org/wiki/The_Sixth_Sense) | [M. Night Shyamalan](https://en.wikipedia.org/wiki/M._Night_Shyamalan) | <code>English</code> | 1999 | <nobr><code>psychological thriller</code></nobr> |
-| [Batman Forever](https://en.wikipedia.org/wiki/Batman_Forever) | [Joel Schumacher](https://en.wikipedia.org/wiki/Joel_Schumacher) | <code>English</code> | 1995 | <nobr><code>superhero</code></nobr> |
 | [Batman &amp; Robin](https://en.wikipedia.org/wiki/Batman_%26_Robin_(film)) | [Joel Schumacher](https://en.wikipedia.org/wiki/Joel_Schumacher) | <code>English</code> | 1997 | <nobr><code>superhero</code></nobr> |
 | [Sliding Doors](https://en.wikipedia.org/wiki/Sliding_Doors) | [Peter Howittr](https://en.wikipedia.org/wiki/Peter_Howitt_(actor)) | <code>English</code> | 1998 | <nobr><code>romantic</code>, <code>comedy-drama</code></nobr> |
 | [Pitch Perfect](https://en.wikipedia.org/wiki/Pitch_Perfect) | [Jason Moore](https://en.wikipedia.org/wiki/Jason_Moore_(director)) | <code>English</code> | 2012 | <nobr><code>comedy</code></nobr> |
