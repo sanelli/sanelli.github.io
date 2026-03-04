@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [111 Centoundici](https://en.wikipedia.org/wiki/111_Centoundici) | [Tiziano Ferro](https://en.wikipedia.org/wiki/Tiziano_Ferro) | 2003 |  <nobr><code>R&amp;B</code></nobr> | <nobr>March 4th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Life for Rent](https://en.wikipedia.org/wiki/Life_for_Rent) | [Dido](https://en.wikipedia.org/wiki/Dido_(singer)) | 2003 |  <nobr><code>folk-pop</code></nobr> | <nobr>February 18th</nobr> | ⭐️⭐️⭐️ |
 | [Life thru a Lens](https://en.wikipedia.org/wiki/Life_thru_a_Lens) | [Robbie Williams](https://en.wikipedia.org/wiki/Robbie_Williams) | 1997 |  <nobr><code>pop</code>, <code>rock</code>, <code>britpop</code>, <code>glam rock</code>,<br/><code>pop rock</code>, <code>power pop</code></nobr> | <nobr>February 18th</nobr> | ⭐️⭐️⭐️ |
 | [La teoria dei colori](https://it.wikipedia.org/wiki/La_teoria_dei_colori_(album)) | [Cesare Cremonini](https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)) | 2012 | <nobr><code>pop</code></nobr> | <nobr>February 17th</nobr> | ⭐️⭐️⭐️ |
