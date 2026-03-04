@@ -16,6 +16,7 @@ permalink: /movies/
 
 | Title | Directed <span style="font-size:.7em">- or -</span> <br/> Created by | Language | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
+| [Batman &amp; Robin](https://en.wikipedia.org/wiki/Batman_%26_Robin_(film)) | [Joel Schumacher](https://en.wikipedia.org/wiki/Joel_Schumacher) | <code>English</code> | 1997 | <nobr><code>superhero</code></nobr> | <nobr>March 3rd</nobr> | ⭐️⭐️ |
 | [Cattiverie a domicilio](https://it.wikipedia.org/wiki/Cattiverie_a_domicilio) <br/><nobr style="font-size:.75em"><strong>Wicked Little Letters</strong></nobr> | [Thea Sharrock](https://en.wikipedia.org/wiki/Thea_Sharrock) | <code>Italian</code> | 2023 | <nobr><code>period</code>, <code>black comedy</code>, <code>mystery</code></nobr> | <nobr>February 20th</nobr> | ⭐️⭐️⭐️ |
 | [Batman Forever](https://en.wikipedia.org/wiki/Batman_Forever) | [Joel Schumacher](https://en.wikipedia.org/wiki/Joel_Schumacher) | <code>English</code> | 1995 | <nobr><code>superhero</code></nobr> | <nobr>February 18th</nobr> | ⭐️⭐️ |
 | [Il Vizietto](https://en.wikipedia.org/wiki/La_Cage_aux_Folles_(film))<br/><nobr style="font-size:.75em"><strong>La Cage aux Folles</strong></nobr> | [Édouard Molinaro](https://en.wikipedia.org/wiki/Édouard_Molinaro) | <code>Italian</code> | 1978 | <nobr><code>comedy</code></nobr> | <nobr>February 17th</nobr> | ⭐️⭐️ |
@@ -103,7 +104,6 @@ permalink: /movies/
 | [The Godfather](https://en.wikipedia.org/wiki/The_Godfather) | [Francis Ford Coppola](https://en.wikipedia.org/wiki/Francis_Ford_Coppola) | <code>English</code> | 1972 | <nobr><code>epic</code>, <code>gangster</code></nobr> |
 | [The Adventures of Priscilla, Queen of the Desert](https://en.wikipedia.org/wiki/The_Adventures_of_Priscilla,_Queen_of_the_Desert) | [Stephan Elliott](https://en.wikipedia.org/wiki/Stephan_Elliott) | <code>English</code> | 1994 | <nobr><code>road</code>, <code>comedy</code></nobr> |
 | [The Sixth Sense](https://en.wikipedia.org/wiki/The_Sixth_Sense) | [M. Night Shyamalan](https://en.wikipedia.org/wiki/M._Night_Shyamalan) | <code>English</code> | 1999 | <nobr><code>psychological thriller</code></nobr> |
-| [Batman &amp; Robin](https://en.wikipedia.org/wiki/Batman_%26_Robin_(film)) | [Joel Schumacher](https://en.wikipedia.org/wiki/Joel_Schumacher) | <code>English</code> | 1997 | <nobr><code>superhero</code></nobr> |
 | [Sliding Doors](https://en.wikipedia.org/wiki/Sliding_Doors) | [Peter Howittr](https://en.wikipedia.org/wiki/Peter_Howitt_(actor)) | <code>English</code> | 1998 | <nobr><code>romantic</code>, <code>comedy-drama</code></nobr> |
 | [Pitch Perfect](https://en.wikipedia.org/wiki/Pitch_Perfect) | [Jason Moore](https://en.wikipedia.org/wiki/Jason_Moore_(director)) | <code>English</code> | 2012 | <nobr><code>comedy</code></nobr> |
 | [Jumanji](https://en.wikipedia.org/wiki/Jumanji_(film)) | [Joe Johnston](https://en.wikipedia.org/wiki/Joe_Johnston) | <code>English</code> | 1995 | <nobr><code>fantasy</code>, <code>adventure</code></nobr> |
