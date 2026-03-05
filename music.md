@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Schiena](https://en.wikipedia.org/wiki/Schiena) | [Emma](https://en.wikipedia.org/wiki/Emma_Marrone) | 2013 |  <nobr><code>pop</code>, <code>rock</code></nobr> | <nobr>March 5th</nobr> | ⭐️⭐️⭐️ |
 | [Rosso relativo](https://en.wikipedia.org/wiki/Rosso_relativo) | [Tiziano Ferro](https://en.wikipedia.org/wiki/Tiziano_Ferro) | 2001 |  <nobr><code>R&amp;B</code></nobr> | <nobr>March 4th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [111 Centoundici](https://en.wikipedia.org/wiki/111_Centoundici) | [Tiziano Ferro](https://en.wikipedia.org/wiki/Tiziano_Ferro) | 2003 |  <nobr><code>R&amp;B</code></nobr> | <nobr>March 4th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Life for Rent](https://en.wikipedia.org/wiki/Life_for_Rent) | [Dido](https://en.wikipedia.org/wiki/Dido_(singer)) | 2003 |  <nobr><code>folk-pop</code></nobr> | <nobr>February 18th</nobr> | ⭐️⭐️⭐️ |
