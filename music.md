@@ -16,6 +16,9 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Alla mia età](https://en.wikipedia.org/wiki/Alla_mia_età_(album)) | [Tiziano Ferro](https://en.wikipedia.org/wiki/Tiziano_Ferro) | 2008 |  <nobr><code>pop</code>, <code>R&amp;B</code>, <code>soul</code></nobr> | <nobr>March 6th</nobr> | ⭐️⭐️⭐️ |
+| [L'amore è una cosa semplice](https://en.wikipedia.org/wiki/L%27amore_è_una_cosa_semplice) | [Tiziano Ferro](https://en.wikipedia.org/wiki/Tiziano_Ferro) | 2011 |  <nobr><code>pop</code>, <code>neo soul</code></nobr> | <nobr>March 6th</nobr> | ⭐️⭐️⭐️ |
+| [Nessuno è solo](https://en.wikipedia.org/wiki/Nessuno_è_solo) | [Tiziano Ferro](https://en.wikipedia.org/wiki/Tiziano_Ferro) | 2006 |  <nobr><code>pop</code>, <code>R&amp;B</code></nobr> | <nobr>March 6th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Schiena](https://en.wikipedia.org/wiki/Schiena) | [Emma](https://en.wikipedia.org/wiki/Emma_Marrone) | 2013 |  <nobr><code>pop</code>, <code>rock</code></nobr> | <nobr>March 5th</nobr> | ⭐️⭐️⭐️ |
 | [Rosso relativo](https://en.wikipedia.org/wiki/Rosso_relativo) | [Tiziano Ferro](https://en.wikipedia.org/wiki/Tiziano_Ferro) | 2001 |  <nobr><code>R&amp;B</code></nobr> | <nobr>March 4th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [111 Centoundici](https://en.wikipedia.org/wiki/111_Centoundici) | [Tiziano Ferro](https://en.wikipedia.org/wiki/Tiziano_Ferro) | 2003 |  <nobr><code>R&amp;B</code></nobr> | <nobr>March 4th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
