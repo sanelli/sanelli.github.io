@@ -16,6 +16,7 @@ permalink: /movies/
 
 | Title | Directed <span style="font-size:.7em">- or -</span> <br/> Created by | Language | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
+| [The Crow](https://en.wikipedia.org/wiki/The_Crow_(1994_film)) | [Alex Proyas](https://en.wikipedia.org/wiki/Alex_Proyas) | <code>English</code> | 1994 | <nobr><code>gothic</code>, <code>supernatural</code>, <code>superhero</code></nobr> | March 8th | ⭐️⭐️⭐️⭐️⭐️ |
 | [Batman &amp; Robin](https://en.wikipedia.org/wiki/Batman_%26_Robin_(film)) | [Joel Schumacher](https://en.wikipedia.org/wiki/Joel_Schumacher) | <code>English</code> | 1997 | <nobr><code>superhero</code></nobr> | <nobr>March 3rd</nobr> | ⭐️⭐️ |
 | [Cattiverie a domicilio](https://it.wikipedia.org/wiki/Cattiverie_a_domicilio) <br/><nobr style="font-size:.75em"><strong>Wicked Little Letters</strong></nobr> | [Thea Sharrock](https://en.wikipedia.org/wiki/Thea_Sharrock) | <code>Italian</code> | 2023 | <nobr><code>period</code>, <code>black comedy</code>, <code>mystery</code></nobr> | <nobr>February 20th</nobr> | ⭐️⭐️⭐️ |
 | [Batman Forever](https://en.wikipedia.org/wiki/Batman_Forever) | [Joel Schumacher](https://en.wikipedia.org/wiki/Joel_Schumacher) | <code>English</code> | 1995 | <nobr><code>superhero</code></nobr> | <nobr>February 18th</nobr> | ⭐️⭐️ |
@@ -97,7 +98,6 @@ permalink: /movies/
 | Title | Directed <span style="font-size:.7em">- or -</span> <br/> Created by | Language | Year | Genre |
 |-----|----|----|-----|------|----|----|
 | [South Pacific](https://en.wikipedia.org/wiki/South_Pacific_(1958_film)) | [Joshua Logan](https://en.wikipedia.org/wiki/Joshua_Logan) | <code>English</code> | 1958 | <nobr><code>musical</code>, <code>romantic</code></nobr> |
-| [The Crow](https://en.wikipedia.org/wiki/The_Crow_(1994_film)) | [Alex Proyas](https://en.wikipedia.org/wiki/Alex_Proyas) | <code>English</code> | 1994 | <nobr><code>gothic</code>, <code>supernatural</code>, <code>superhero</code></nobr> |
 | [Four Weddings and a Funeral](https://en.wikipedia.org/wiki/Four_Weddings_and_a_Funeral) | [Mike Newell](https://en.wikipedia.org/wiki/Mike_Newell_(director)) | <code>English</code> | 1994 | <nobr><code>romantic comedy</code></nobr> |
 | [Pulp Fiction](https://en.wikipedia.org/wiki/Pulp_Fiction) | [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) | <code>English</code> | 1994 | <nobr><code>independent</code>, <code>crime</code>, <code>black comedy</code></nobr> |
 | [The Shawshank Redemption](https://en.wikipedia.org/wiki/The_Shawshank_Redemption) | [Frank Darabont](https://en.wikipedia.org/wiki/Frank_Darabont) | <code>English</code> | 1994 | <nobr><code>drama</code></nobr> |
