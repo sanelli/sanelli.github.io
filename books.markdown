@@ -16,7 +16,7 @@ permalink: /books/
 
 | Title                             | Author(s)                         | Lang | Year | Genre     |
 |-----------------------------------|-----------------------------------|------|------|-----------|
-| L'ultimo cavaliere | Stephen King | <code>Italian</code> |  |  |
+| [L'ultimo cavaliere](https://en.wikipedia.org/wiki/The_Dark_Tower:_The_Gunslinger)<br/><nobr style="font-size:.75em"><strong>The Dark Tower: The Gunslinger</strong></nobr> | [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) | <code>Italian</code> | 1982 | <nobr><code>dark fantasy</code>, <code>western</code></nobr> |
 
 ## 2026
 
