@@ -16,7 +16,7 @@ permalink: /books/
 
 | Title                             | Author(s)                         | Lang | Year | Genre     |
 |-----------------------------------|-----------------------------------|------|------|-----------|
-| [L'isola di Arturo](https://en.wikipedia.org/wiki/L%27isola_di_Arturo) | [Elsa Morante](https://en.wikipedia.org/wiki/Elsa_Morante) | <code>Italian</code> | 1957 | <nobr><code>bildungsroman</code></nobr> | 
+| [L'isola di Arturo](https://en.wikipedia.org/wiki/L%27isola_di_Arturo) | [Elsa Morante](https://en.wikipedia.org/wiki/Elsa_Morante) | <code>Italian</code> | 1957 | <nobr><code>novel</code>, <code>bildungsroman</code></nobr> | 
 
 ## 2026
 
