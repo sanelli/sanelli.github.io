@@ -108,3 +108,7 @@ permalink: /movies/
 | [Pitch Perfect](https://en.wikipedia.org/wiki/Pitch_Perfect) | [Jason Moore](https://en.wikipedia.org/wiki/Jason_Moore_(director)) | <code>English</code> | 2012 | <nobr><code>comedy</code></nobr> |
 | [Jumanji](https://en.wikipedia.org/wiki/Jumanji_(film)) | [Joe Johnston](https://en.wikipedia.org/wiki/Joe_Johnston) | <code>English</code> | 1995 | <nobr><code>fantasy</code>, <code>adventure</code></nobr> |
 | [The Fifth Element](https://en.wikipedia.org/wiki/The_Fifth_Element) | [Luc Besson](https://en.wikipedia.org/wiki/Luc_Besson) | <code>English</code> | 1997 | <nobr><code>science fiction</code>, <code>action</code></nobr> |
+| [Inception](https://en.wikipedia.org/wiki/Inception) | [Christopher Nolan](https://en.wikipedia.org/wiki/Christopher_Nolan) | <code>English</code> | 2010 | <nobr><code>science fiction</code>, <code>action</code></nobr> |
+| [Unbreakable](https://en.wikipedia.org/wiki/Unbreakable_(film)) | [M. Night Shyamalan](https://en.wikipedia.org/wiki/M._Night_Shyamalan) | <code>English</code> | 2000 | <nobr><code>superhero</code>, <code>thriller</code></nobr> |
+| [Split](https://en.wikipedia.org/wiki/Split_(2016_American_film)) | [M. Night Shyamalan](https://en.wikipedia.org/wiki/M._Night_Shyamalan) | <code>English</code> | 2016 | <nobr><code> psychological thriller</code></nobr> |
+| [Glass](https://en.wikipedia.org/wiki/Glass_(2019_film)) | [M. Night Shyamalan](https://en.wikipedia.org/wiki/M._Night_Shyamalan) | <code>English</code> | 2019 | <nobr><code>superhero</code>, <code>thriller</code></nobr> |

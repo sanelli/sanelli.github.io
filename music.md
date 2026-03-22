@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [E poi siamo finiti nel vortice](https://en.wikipedia.org/wiki/E_poi_siamo_finiti_nel_vortice) | [Annalisa](https://en.wikipedia.org/wiki/Annalisa) | 2023 |  <nobr><code>electropop</code>, <code>dance-pop</code>, <code>pop</code></nobr> | <nobr>March 22nd</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Alla mia età](https://en.wikipedia.org/wiki/Alla_mia_età_(album)) | [Tiziano Ferro](https://en.wikipedia.org/wiki/Tiziano_Ferro) | 2008 |  <nobr><code>pop</code>, <code>R&amp;B</code>, <code>soul</code></nobr> | <nobr>March 6th</nobr> | ⭐️⭐️⭐️ |
 | [L'amore è una cosa semplice](https://en.wikipedia.org/wiki/L%27amore_è_una_cosa_semplice) | [Tiziano Ferro](https://en.wikipedia.org/wiki/Tiziano_Ferro) | 2011 |  <nobr><code>pop</code>, <code>neo soul</code></nobr> | <nobr>March 6th</nobr> | ⭐️⭐️⭐️ |
 | [Nessuno è solo](https://en.wikipedia.org/wiki/Nessuno_è_solo) | [Tiziano Ferro](https://en.wikipedia.org/wiki/Tiziano_Ferro) | 2006 |  <nobr><code>pop</code>, <code>R&amp;B</code></nobr> | <nobr>March 6th</nobr> | ⭐️⭐️⭐️⭐️ |
@@ -121,7 +122,6 @@ permalink: /music/
 | [ABBA: The Album](https://en.wikipedia.org/wiki/ABBA:_The_Album) | [ABBA](https://en.wikipedia.org/wiki/ABBA) | 1977 |  <nobr><code>art rock</code>, <code>dance-rock</code>, <code>pop</code></nobr> |
 | [Voulez-Vous](https://en.wikipedia.org/wiki/Voulez-Vous) | [ABBA](https://en.wikipedia.org/wiki/ABBA) | 1979 |  <nobr><code>europop</code>, <code>eurodisco</code></nobr> |
 | [Super Trouper](https://en.wikipedia.org/wiki/Super_Trouper_(album)) | [ABBA](https://en.wikipedia.org/wiki/ABBA) | 1980 |  <nobr><code>pop</code>, <code>pop rock</code></nobr> |
-| [E poi siamo finiti nel vortice](https://en.wikipedia.org/wiki/E_poi_siamo_finiti_nel_vortice) | [Annalisa](https://en.wikipedia.org/wiki/Annalisa) | 2023 |  <nobr><code>electropop</code>, <code>dance-pop</code>, <code>pop</code></nobr> |
 | [Oops!... I Did It Again](https://en.wikipedia.org/wiki/Oops!..._I_Did_It_Again_(album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2000 |  <nobr><code>dance-pop</code>, <code>pop</code>, <code>teen-pop</code></nobr> |
 | [Britney](https://en.wikipedia.org/wiki/Britney_(album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2001 |  <nobr><code>dance-pop</code>, <code>pop</code>, <code>teen-pop</code></nobr> |
 | [In The Zone](https://en.wikipedia.org/wiki/In_the_Zone) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2003 |  <nobr><code>dance-pop</code>, <code>pop</code>, <code>hip-pop</code></nobr> |
