@@ -16,12 +16,13 @@ permalink: /books/
 
 | Title                             | Author(s)                         | Lang | Year | Genre     |
 |-----------------------------------|-----------------------------------|------|------|-----------|
-| [L'isola di Arturo](https://en.wikipedia.org/wiki/L%27isola_di_Arturo) | [Elsa Morante](https://en.wikipedia.org/wiki/Elsa_Morante) | <code>Italian</code> | 1957 | <nobr><code>novel</code>, <code>bildungsroman</code></nobr> | 
+| [The Red Pony](https://en.wikipedia.org/wiki/The_Red_Pony) | [John Steinbeck](https://en.wikipedia.org/wiki/John_Steinbeck) | <code>English</code> | 1937 | <nobr><code>episodic novella</code></nobr> | 
 
 ## 2026
 
 | Title                             | Author(s)                         | Lang | Year | Genre     | Finished    | Rating       |
 |-----------------------------------|-----------------------------------|------|------|-----------|-------------|--------------|
+| [L'isola di Arturo](https://en.wikipedia.org/wiki/L%27isola_di_Arturo) | [Elsa Morante](https://en.wikipedia.org/wiki/Elsa_Morante) | <code>Italian</code> | 1957 | <nobr><code>novel</code>, <code>bildungsroman</code></nobr> | <nobr>March 23rd</nobr>| ⭐️⭐️⭐️⭐️⭐️ |
 | [Pretty Guardian Sailor Moon](https://en.wikipedia.org/wiki/Sailor_Moon)<br/><nobr style="font-size:.75em"><strong>Volume 3 (Act 12 - Act 16)</strong></nobr> | [Naoko Takeuchi](https://en.wikipedia.org/wiki/Naoko_Takeuchi) | <code>Italian</code> | 1991 | <nobr><code>manga</code>, <code>magical girl</code></nobr> | <nobr>March 16th</nobr>| ⭐️⭐️⭐️⭐️⭐️ |
 | [L'ultimo cavaliere](https://en.wikipedia.org/wiki/The_Dark_Tower:_The_Gunslinger)<br/><nobr style="font-size:.75em"><strong>The Dark Tower: The Gunslinger</strong></nobr> | [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) | <code>Italian</code> | 1982 | <nobr><code>dark fantasy</code>, <code>western</code></nobr> | <nobr>March 15th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [The Princess Bride](https://en.wikipedia.org/wiki/The_Princess_Bride_(novel))| [William Goldman](https://en.wikipedia.org/wiki/William_Goldman) | <code>English</code> | 1973 | <nobr><code>fantasy</code>, <code>romance</code>,<br/><code>adventure</code>, <code>metafiction</code></nobr> | <nobr>March 13th</nobr> | ⭐️⭐️⭐️ |
