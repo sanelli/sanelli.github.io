@@ -16,6 +16,7 @@ permalink: /movies/
 
 | Title | Directed <span style="font-size:.7em">- or -</span> <br/> Created by | Language | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
+| [Pitch Perfect](https://en.wikipedia.org/wiki/Pitch_Perfect) | [Jason Moore](https://en.wikipedia.org/wiki/Jason_Moore_(director)) | <code>English</code> | 2012 | <nobr><code>comedy</code></nobr> | March 24th | ⭐️⭐️⭐️⭐️ |
 | [Sliding Doors](https://en.wikipedia.org/wiki/Sliding_Doors) | [Peter Howittr](https://en.wikipedia.org/wiki/Peter_Howitt_(actor)) | <code>English</code> | 1998 | <nobr><code>romantic</code>, <code>comedy-drama</code></nobr> | March 21st | ⭐️⭐️ |
 | [The Crow](https://en.wikipedia.org/wiki/The_Crow_(1994_film)) | [Alex Proyas](https://en.wikipedia.org/wiki/Alex_Proyas) | <code>English</code> | 1994 | <nobr><code>gothic</code>, <code>supernatural</code>, <code>superhero</code></nobr> | March 8th | ⭐️⭐️⭐️⭐️⭐️ |
 | [Batman &amp; Robin](https://en.wikipedia.org/wiki/Batman_%26_Robin_(film)) | [Joel Schumacher](https://en.wikipedia.org/wiki/Joel_Schumacher) | <code>English</code> | 1997 | <nobr><code>superhero</code></nobr> | <nobr>March 3rd</nobr> | ⭐️⭐️ |
@@ -105,7 +106,6 @@ permalink: /movies/
 | [The Godfather](https://en.wikipedia.org/wiki/The_Godfather) | [Francis Ford Coppola](https://en.wikipedia.org/wiki/Francis_Ford_Coppola) | <code>English</code> | 1972 | <nobr><code>epic</code>, <code>gangster</code></nobr> |
 | [The Adventures of Priscilla, Queen of the Desert](https://en.wikipedia.org/wiki/The_Adventures_of_Priscilla,_Queen_of_the_Desert) | [Stephan Elliott](https://en.wikipedia.org/wiki/Stephan_Elliott) | <code>English</code> | 1994 | <nobr><code>road</code>, <code>comedy</code></nobr> |
 | [The Sixth Sense](https://en.wikipedia.org/wiki/The_Sixth_Sense) | [M. Night Shyamalan](https://en.wikipedia.org/wiki/M._Night_Shyamalan) | <code>English</code> | 1999 | <nobr><code>psychological thriller</code></nobr> |
-| [Pitch Perfect](https://en.wikipedia.org/wiki/Pitch_Perfect) | [Jason Moore](https://en.wikipedia.org/wiki/Jason_Moore_(director)) | <code>English</code> | 2012 | <nobr><code>comedy</code></nobr> |
 | [Jumanji](https://en.wikipedia.org/wiki/Jumanji_(film)) | [Joe Johnston](https://en.wikipedia.org/wiki/Joe_Johnston) | <code>English</code> | 1995 | <nobr><code>fantasy</code>, <code>adventure</code></nobr> |
 | [The Fifth Element](https://en.wikipedia.org/wiki/The_Fifth_Element) | [Luc Besson](https://en.wikipedia.org/wiki/Luc_Besson) | <code>English</code> | 1997 | <nobr><code>science fiction</code>, <code>action</code></nobr> |
 | [Inception](https://en.wikipedia.org/wiki/Inception) | [Christopher Nolan](https://en.wikipedia.org/wiki/Christopher_Nolan) | <code>English</code> | 2010 | <nobr><code>science fiction</code>, <code>action</code></nobr> |
