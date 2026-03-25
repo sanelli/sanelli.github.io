@@ -22,14 +22,14 @@ permalink: /games/
 
 | Title | Developer(s) | Publisher(s) | Console | Genre | <nobr>Completed on<nobr> | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
-[Salt and Sanctuary](https://en.wikipedia.org/wiki/Salt_and_Sanctuary) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing</code>, <code>soulslike</code></nobr> | <nobr>January 8th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
+| [Salt and Sanctuary](https://en.wikipedia.org/wiki/Salt_and_Sanctuary) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing</code>, <code>soulslike</code></nobr> | <nobr>January 8th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 
 
 ## 2025
 
 | Title | Developer(s) | Publisher(s) | Console | Genre | <nobr>Completed on<nobr> | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
-[Clair Obscur: Expedition 33](https://en.wikipedia.org/wiki/Clair_Obscur:_Expedition_33) | [Sandfall Interactive](https://en.wikipedia.org/wiki/Sandfall_Interactive) | [Kepler Interactive](https://en.wikipedia.org/wiki/Kepler_Interactive) | [PlayStation 5](https://en.wikipedia.org/wiki/PlayStation_5) | <nobr><code>role-playing</code></nobr> | December 12th | ⭐️⭐️⭐️⭐️⭐️ |
+| [Clair Obscur: Expedition 33](https://en.wikipedia.org/wiki/Clair_Obscur:_Expedition_33) | [Sandfall Interactive](https://en.wikipedia.org/wiki/Sandfall_Interactive) | [Kepler Interactive](https://en.wikipedia.org/wiki/Kepler_Interactive) | [PlayStation 5](https://en.wikipedia.org/wiki/PlayStation_5) | <nobr><code>role-playing</code></nobr> | December 12th | ⭐️⭐️⭐️⭐️⭐️ |
 | [Hyrule Warriors: Age of Imprisonment](https://en.wikipedia.org/wiki/Hyrule_Warriors:_Age_of_Imprisonment) | [AAA Games Studio](https://en.wikipedia.org/wiki/AAA_Games_Studio) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2)  | <nobr><code>hack and slash</code></nobr> | November 23rd | ⭐️⭐️⭐️⭐️ |
 | [Pokémon Legends: Z-A](https://en.wikipedia.org/wiki/Pokémon_Legends:_Z-A)<br/><nobr style="font-size:.75em"><strong>POST-GAME</strong></nobr> | [Game Freak](https://en.wikipedia.org/wiki/Game_Freak) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing</code></nobr> | <nobr>November 1st</nobr> | ⭐️⭐️⭐️ |
 | [Pokémon Legends: Z-A](https://en.wikipedia.org/wiki/Pokémon_Legends:_Z-A) | [Game Freak](https://en.wikipedia.org/wiki/Game_Freak) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing</code></nobr> | <nobr>October 27th</nobr> | ⭐️⭐️⭐️ |
