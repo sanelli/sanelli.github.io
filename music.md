@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Whatever](https://en.wikipedia.org/wiki/Whatever_(Hot_Chelle_Rae_album)) | [Hot Chelle Rae](https://en.wikipedia.org/wiki/Hot_Chelle_Rae) | 2011 | <nobr><code>pop rock</code></nobr> | <nobr>March 26th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Ma io sono fuoco](https://en.wikipedia.org/wiki/Ma_io_sono_fuoco) | [Annalisa](https://en.wikipedia.org/wiki/Annalisa) | 2025 |  <nobr><code>pop</code>, <code>synth pop</code>, <code>electro</code></nobr> | <nobr>March 22nd</nobr> | ⭐️⭐️⭐️⭐️ |
 | [E poi siamo finiti nel vortice](https://en.wikipedia.org/wiki/E_poi_siamo_finiti_nel_vortice) | [Annalisa](https://en.wikipedia.org/wiki/Annalisa) | 2023 |  <nobr><code>electropop</code>, <code>dance-pop</code>, <code>pop</code></nobr> | <nobr>March 22nd</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Alla mia età](https://en.wikipedia.org/wiki/Alla_mia_età_(album)) | [Tiziano Ferro](https://en.wikipedia.org/wiki/Tiziano_Ferro) | 2008 |  <nobr><code>pop</code>, <code>R&amp;B</code>, <code>soul</code></nobr> | <nobr>March 6th</nobr> | ⭐️⭐️⭐️ |
@@ -85,7 +86,6 @@ permalink: /music/
 | Album | Artist | Year | Genre |
 |-------|--------|------|-------|
 | [Bagus](https://it.wikipedia.org/wiki/Bagus) | [Cesare Cremonini](https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)) | 2002 | <nobr><code>pop</code></nobr> |
-| [Whatever](https://en.wikipedia.org/wiki/Whatever_(Hot_Chelle_Rae_album)) | [Hot Chelle Rae](https://en.wikipedia.org/wiki/Hot_Chelle_Rae) | 2011 | <nobr><code>pop rock</code></nobr> |
 | [The Fame Monster](https://en.wikipedia.org/wiki/The_Fame_Monster) | [Lady Gaga](https://en.wikipedia.org/wiki/Lady_Gaga) | 2009 | <nobr><code>electropop</code></nobr> |
 | [The Fame](https://en.wikipedia.org/wiki/The_Fame) | [Lady Gaga](https://en.wikipedia.org/wiki/Lady_Gaga) | 2008 | <nobr><code>synth-pop</code>, <code>electropop</code>,<br/><code>dance-pop</code>, <code>electronic rock</code></nobr> |
 | [Maggese](https://it.wikipedia.org/wiki/Maggese_(album)) | [Cesare Cremonini](https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)) | 2005 | <nobr><code>pop</code></nobr> |
