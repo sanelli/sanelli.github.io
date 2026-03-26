@@ -16,12 +16,13 @@ permalink: /books/
 
 | Title                             | Author(s)                         | Lang | Year | Genre     |
 |-----------------------------------|-----------------------------------|------|------|-----------|
-| [The Red Pony](https://en.wikipedia.org/wiki/The_Red_Pony) | [John Steinbeck](https://en.wikipedia.org/wiki/John_Steinbeck) | <code>English</code> | 1937 | <nobr><code>episodic novella</code></nobr> | 
+| [Oceano mare](https://it.wikipedia.org/wiki/Oceano_mare) | [Alessandro Baricco](https://en.wikipedia.org/wiki/Alessandro_Baricco) | <code>Italian</code> | 1993 | <nobr><code>novel</code></nobr> | 
 
 ## 2026
 
 | Title                             | Author(s)                         | Lang | Year | Genre     | Finished    | Rating       |
 |-----------------------------------|-----------------------------------|------|------|-----------|-------------|--------------|
+| [The Red Pony](https://en.wikipedia.org/wiki/The_Red_Pony) | [John Steinbeck](https://en.wikipedia.org/wiki/John_Steinbeck) | <code>English</code> | 1937 | <nobr><code>episodic novella</code></nobr> | <nobr>March 26th</nobr>| ⭐️⭐️⭐️ |
 | [Pretty Guardian Sailor Moon](https://en.wikipedia.org/wiki/Sailor_Moon)<br/><nobr style="font-size:.75em"><strong>Volume 4 (Act 17 - Act 21)</strong></nobr> | [Naoko Takeuchi](https://en.wikipedia.org/wiki/Naoko_Takeuchi) | <code>Italian</code> | 1991 | <nobr><code>manga</code>, <code>magical girl</code></nobr> | <nobr>March 24th</nobr>| ⭐️⭐️⭐️ |
 | [L'isola di Arturo](https://en.wikipedia.org/wiki/L%27isola_di_Arturo) | [Elsa Morante](https://en.wikipedia.org/wiki/Elsa_Morante) | <code>Italian</code> | 1957 | <nobr><code>novel</code>, <code>bildungsroman</code></nobr> | <nobr>March 23rd</nobr>| ⭐️⭐️⭐️⭐️⭐️ |
 | [Pretty Guardian Sailor Moon](https://en.wikipedia.org/wiki/Sailor_Moon)<br/><nobr style="font-size:.75em"><strong>Volume 3 (Act 12 - Act 16)</strong></nobr> | [Naoko Takeuchi](https://en.wikipedia.org/wiki/Naoko_Takeuchi) | <code>Italian</code> | 1991 | <nobr><code>manga</code>, <code>magical girl</code></nobr> | <nobr>March 16th</nobr>| ⭐️⭐️⭐️⭐️⭐️ |
