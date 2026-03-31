@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Confetti](https://en.wikipedia.org/wiki/Confetti_(Little_Mix_album)) | [Little Mix](https://en.wikipedia.org/wiki/Little_Mix) | 2020 | <nobr><code>pop</code>, <code>R&amp;B</code></nobr> | <nobr>March 31st</nobr> | ⭐️⭐️⭐️ |
 | [Whatever](https://en.wikipedia.org/wiki/Whatever_(Hot_Chelle_Rae_album)) | [Hot Chelle Rae](https://en.wikipedia.org/wiki/Hot_Chelle_Rae) | 2011 | <nobr><code>pop rock</code></nobr> | <nobr>March 26th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Ma io sono fuoco](https://en.wikipedia.org/wiki/Ma_io_sono_fuoco) | [Annalisa](https://en.wikipedia.org/wiki/Annalisa) | 2025 |  <nobr><code>pop</code>, <code>synth pop</code>, <code>electro</code></nobr> | <nobr>March 22nd</nobr> | ⭐️⭐️⭐️⭐️ |
 | [E poi siamo finiti nel vortice](https://en.wikipedia.org/wiki/E_poi_siamo_finiti_nel_vortice) | [Annalisa](https://en.wikipedia.org/wiki/Annalisa) | 2023 |  <nobr><code>electropop</code>, <code>dance-pop</code>, <code>pop</code></nobr> | <nobr>March 22nd</nobr> | ⭐️⭐️⭐️⭐️ |
@@ -107,7 +108,6 @@ permalink: /music/
 | [No Strings Attached](https://en.wikipedia.org/wiki/No_Strings_Attached_(NSYNC_album)) | [NSYNC](https://en.wikipedia.org/wiki/NSYNC) | 2000 | <nobr><code>pop</code>, <code>R&amp;B</code>, <code>dance-pop</code>, <code>teen pop</code></nobr> |
 | [Metamorphosis](https://en.wikipedia.org/wiki/Metamorphosis_(Hilary_Duff_album)) | [Hilary Duff](https://en.wikipedia.org/wiki/Hilary_Duff) | 2003 | <nobr><code>pop rock</code>, <code>teen pop</code>, <code>bubblegum pop</code></nobr> |
 | [The Velvet Rope](https://en.wikipedia.org/wiki/The_Velvet_Rope) | [Janet Jackson](https://en.wikipedia.org/wiki/Janet_Jackson) | 1997 | <nobr><code>R&amp;B</code>, <code>pop</code></nobr> |
-| [Confetti](https://en.wikipedia.org/wiki/Confetti_(Little_Mix_album)) | [Little Mix](https://en.wikipedia.org/wiki/Little_Mix) | 2020 | <nobr><code>pop</code>, <code>R&amp;B</code></nobr> |
 | [Between Us](https://en.wikipedia.org/wiki/Between_Us_(Little_Mix_album)) | [Little Mix](https://en.wikipedia.org/wiki/Little_Mix) | 2016 | <nobr><code>dance-pop</code>, <code>R&amp;B</code></nobr> |
 | [Away from the Sun](https://en.wikipedia.org/wiki/Away_from_the_Sun) | [3 Doors Down](https://en.wikipedia.org/wiki/3_Doors_Down) | 2002 |  <nobr><code>post-grunge</code>, <code>alternative rock</code></nobr> |
 | [Grazie mille](https://it.wikipedia.org/wiki/Grazie_mille) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1998 | <nobr><code>pop</code>, <code>pop rock</code></nobr> |
