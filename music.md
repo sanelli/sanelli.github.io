@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Appena prima di partire](https://en.wikipedia.org/wiki/Appena_prima_di_partire) | [Zero Assoluto](https://en.wikipedia.org/wiki/Zero_Assoluto) | 2007 | <nobr><code>pop</code></nobr> | <nobr>April 1st</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Confetti](https://en.wikipedia.org/wiki/Confetti_(Little_Mix_album)) | [Little Mix](https://en.wikipedia.org/wiki/Little_Mix) | 2020 | <nobr><code>pop</code>, <code>R&amp;B</code></nobr> | <nobr>March 31st</nobr> | ⭐️⭐️⭐️ |
 | [Whatever](https://en.wikipedia.org/wiki/Whatever_(Hot_Chelle_Rae_album)) | [Hot Chelle Rae](https://en.wikipedia.org/wiki/Hot_Chelle_Rae) | 2011 | <nobr><code>pop rock</code></nobr> | <nobr>March 26th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Ma io sono fuoco](https://en.wikipedia.org/wiki/Ma_io_sono_fuoco) | [Annalisa](https://en.wikipedia.org/wiki/Annalisa) | 2025 |  <nobr><code>pop</code>, <code>synth pop</code>, <code>electro</code></nobr> | <nobr>March 22nd</nobr> | ⭐️⭐️⭐️⭐️ |
