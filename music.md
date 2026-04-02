@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Sotto una pioggia di parole](https://en.wikipedia.org/wiki/Sotto_una_pioggia_di_parole) | [Zero Assoluto](https://en.wikipedia.org/wiki/Zero_Assoluto) | 2009 | <nobr><code>pop</code></nobr> | <nobr>April 2nd</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Appena prima di partire](https://en.wikipedia.org/wiki/Appena_prima_di_partire) | [Zero Assoluto](https://en.wikipedia.org/wiki/Zero_Assoluto) | 2007 | <nobr><code>pop</code></nobr> | <nobr>April 1st</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Confetti](https://en.wikipedia.org/wiki/Confetti_(Little_Mix_album)) | [Little Mix](https://en.wikipedia.org/wiki/Little_Mix) | 2020 | <nobr><code>pop</code>, <code>R&amp;B</code></nobr> | <nobr>March 31st</nobr> | ⭐️⭐️⭐️ |
 | [Whatever](https://en.wikipedia.org/wiki/Whatever_(Hot_Chelle_Rae_album)) | [Hot Chelle Rae](https://en.wikipedia.org/wiki/Hot_Chelle_Rae) | 2011 | <nobr><code>pop rock</code></nobr> | <nobr>March 26th</nobr> | ⭐️⭐️⭐️⭐️ |
