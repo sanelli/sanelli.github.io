@@ -22,6 +22,7 @@ permalink: /books/
 
 | Title                             | Author(s)                         | Lang | Year | Genre     | Finished    | Rating       |
 |-----------------------------------|-----------------------------------|------|------|-----------|-------------|--------------|
+| [Pretty Guardian Sailor Moon](https://en.wikipedia.org/wiki/Sailor_Moon)<br/><nobr style="font-size:.75em"><strong>Volume 5 (Act 22 - Act 26)</strong></nobr> | [Naoko Takeuchi](https://en.wikipedia.org/wiki/Naoko_Takeuchi) | <code>Italian</code> | 1991 | <nobr><code>manga</code>, <code>magical girl</code></nobr> | <nobr>April 4th</nobr>| ⭐️⭐️⭐️⭐️⭐️ |
 | [Oceano mare](https://it.wikipedia.org/wiki/Oceano_mare) | [Alessandro Baricco](https://en.wikipedia.org/wiki/Alessandro_Baricco) | <code>Italian</code> | 1993 | <nobr><code>novel</code></nobr> | <nobr>April 3rd</nobr>| ⭐️⭐️ |
 | [The Red Pony](https://en.wikipedia.org/wiki/The_Red_Pony) | [John Steinbeck](https://en.wikipedia.org/wiki/John_Steinbeck) | <code>English</code> | 1937 | <nobr><code>episodic novella</code></nobr> | <nobr>March 26th</nobr>| ⭐️⭐️⭐️ |
 | [Pretty Guardian Sailor Moon](https://en.wikipedia.org/wiki/Sailor_Moon)<br/><nobr style="font-size:.75em"><strong>Volume 4 (Act 17 - Act 21)</strong></nobr> | [Naoko Takeuchi](https://en.wikipedia.org/wiki/Naoko_Takeuchi) | <code>Italian</code> | 1991 | <nobr><code>manga</code>, <code>magical girl</code></nobr> | <nobr>March 24th</nobr>| ⭐️⭐️⭐️ |
