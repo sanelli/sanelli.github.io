@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Duets - Tutti cantano Cristina](https://it.wikipedia.org/wiki/Duets_-_Tutti_cantano_Cristina) | [Cristina D'Avena](https://en.wikipedia.org/wiki/Cristina_D%27Avena) | 2017 | <nobr><code>pop</code>, <code>sigla di serie animata</code></nobr> | <nobr>April 5th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Sotto una pioggia di parole](https://en.wikipedia.org/wiki/Sotto_una_pioggia_di_parole) | [Zero Assoluto](https://en.wikipedia.org/wiki/Zero_Assoluto) | 2009 | <nobr><code>pop</code></nobr> | <nobr>April 2nd</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Appena prima di partire](https://en.wikipedia.org/wiki/Appena_prima_di_partire) | [Zero Assoluto](https://en.wikipedia.org/wiki/Zero_Assoluto) | 2007 | <nobr><code>pop</code></nobr> | <nobr>April 1st</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Confetti](https://en.wikipedia.org/wiki/Confetti_(Little_Mix_album)) | [Little Mix](https://en.wikipedia.org/wiki/Little_Mix) | 2020 | <nobr><code>pop</code>, <code>R&amp;B</code></nobr> | <nobr>March 31st</nobr> | ⭐️⭐️⭐️ |
@@ -88,6 +89,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre |
 |-------|--------|------|-------|
+| [This Is the Life](https://en.wikipedia.org/wiki/This_Is_the_Life_(Amy_Macdonald_album)) | [Amy Macdonald](https://en.wikipedia.org/wiki/Amy_Macdonald) | 2007 | <nobr><code>alternative rock</code>, <code>indie rock</code>, <code>indie folk</code></nobr> |
 | [Bagus](https://it.wikipedia.org/wiki/Bagus) | [Cesare Cremonini](https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)) | 2002 | <nobr><code>pop</code></nobr> |
 | [The Fame Monster](https://en.wikipedia.org/wiki/The_Fame_Monster) | [Lady Gaga](https://en.wikipedia.org/wiki/Lady_Gaga) | 2009 | <nobr><code>electropop</code></nobr> |
 | [The Fame](https://en.wikipedia.org/wiki/The_Fame) | [Lady Gaga](https://en.wikipedia.org/wiki/Lady_Gaga) | 2008 | <nobr><code>synth-pop</code>, <code>electropop</code>,<br/><code>dance-pop</code>, <code>electronic rock</code></nobr> |
