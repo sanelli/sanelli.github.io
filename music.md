@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Duets Forever - Tutti cantano Cristina](https://it.wikipedia.org/wiki/Duets_Forever_-_Tutti_cantano_Cristina) | [Cristina D'Avena](https://en.wikipedia.org/wiki/Cristina_D%27Avena) | 2018 | <nobr><code>pop</code>, <code>sigla di serie animata</code></nobr> | <nobr>April 6th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Duets - Tutti cantano Cristina](https://it.wikipedia.org/wiki/Duets_-_Tutti_cantano_Cristina) | [Cristina D'Avena](https://en.wikipedia.org/wiki/Cristina_D%27Avena) | 2017 | <nobr><code>pop</code>, <code>sigla di serie animata</code></nobr> | <nobr>April 5th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Sotto una pioggia di parole](https://en.wikipedia.org/wiki/Sotto_una_pioggia_di_parole) | [Zero Assoluto](https://en.wikipedia.org/wiki/Zero_Assoluto) | 2009 | <nobr><code>pop</code></nobr> | <nobr>April 2nd</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Appena prima di partire](https://en.wikipedia.org/wiki/Appena_prima_di_partire) | [Zero Assoluto](https://en.wikipedia.org/wiki/Zero_Assoluto) | 2007 | <nobr><code>pop</code></nobr> | <nobr>April 1st</nobr> | ⭐️⭐️⭐️⭐️ |
