@@ -7,7 +7,7 @@ permalink: /music/
 <style>
         a { white-space:nowrap; }
         @media screen and (min-width: 600px) {
-                .wrapper { margin-left: 5em;}
+                .wrapper { margin-left: 5em; max-width: calc(890px - 30px * 2); }
                 .post-content { margin-left: 3em;}
         }
 </style>
