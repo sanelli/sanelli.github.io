@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Nevermind](https://en.wikipedia.org/wiki/Nevermind) | [Nirvana](https://en.wikipedia.org/wiki/Nirvana_(band)) | 1991 |  <nobr><code>grunge</code>, <code>alternative rock</code></nobr> | <nobr>April 8th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [This Is the Life](https://en.wikipedia.org/wiki/This_Is_the_Life_(Amy_Macdonald_album)) | [Amy Macdonald](https://en.wikipedia.org/wiki/Amy_Macdonald) | 2007 | <nobr><code>alternative rock</code>, <code>indie rock</code>,<br/><code>indie folk</code></nobr> |  <nobr>April 7th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Duets Forever - Tutti cantano Cristina](https://it.wikipedia.org/wiki/Duets_Forever_-_Tutti_cantano_Cristina) | [Cristina D'Avena](https://en.wikipedia.org/wiki/Cristina_D%27Avena) | 2018 | <nobr><code>pop</code>, <code>sigla di serie animata</code></nobr> | <nobr>April 6th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Duets - Tutti cantano Cristina](https://it.wikipedia.org/wiki/Duets_-_Tutti_cantano_Cristina) | [Cristina D'Avena](https://en.wikipedia.org/wiki/Cristina_D%27Avena) | 2017 | <nobr><code>pop</code>, <code>sigla di serie animata</code></nobr> | <nobr>April 5th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
@@ -121,7 +122,6 @@ permalink: /music/
 | [Max 20](https://it.wikipedia.org/wiki/Max_20) | [Max Pezzali](https://it.wikipedia.org/wiki/Max_Pezzali) | 2013 | <nobr><code>pop</code>, <code>pop rock</code></nobr> |
 | [Use Your Illusion I](https://en.wikipedia.org/wiki/Use_Your_Illusion_I) | [Guns N' Roses](https://en.wikipedia.org/wiki/Guns_N%27_Roses) | 1991 |  <nobr><code>hard rock</code></nobr> |
 | [Metallica](https://en.wikipedia.org/wiki/Metallica_(album)) | [Metallica](https://en.wikipedia.org/wiki/Metallica) | 1991 |  <nobr><code>heavy metal</code>, <code>groove metal</code></nobr> |
-| [Nevermind](https://en.wikipedia.org/wiki/Nevermind) | [Nirvana](https://en.wikipedia.org/wiki/Nirvana_(band)) | 1991 |  <nobr><code>grunge</code>, <code>alternative rock</code></nobr> |
 | [Discovery](https://en.wikipedia.org/wiki/Discovery_(Daft_Punk_album)) | [Daft Punk](https://en.wikipedia.org/wiki/Daft_Punk) | 2001 |  <nobr><code>french house</code>, <code>disco</code>, <code>nu-disco</code>,<br/><code>house</code>, <code>electro-funk</code></nobr> |
 | [Waterloo](https://en.wikipedia.org/wiki/Waterloo_(album) ) | [ABBA](https://en.wikipedia.org/wiki/ABBA) | 1974 |  <nobr><code>europop</code>, <code>rock</code></nobr> |
 | [Arrival](https://en.wikipedia.org/wiki/Arrival_(ABBA_album)) | [ABBA](https://en.wikipedia.org/wiki/ABBA) | 1976 |  <nobr><code>pop</code>, <code>eurodisco</code></nobr> |
