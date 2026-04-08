@@ -16,12 +16,13 @@ permalink: /books/
 
 | Title                             | Author(s)                         | Lang | Year | Genre     |
 |-----------------------------------|-----------------------------------|------|------|-----------|
-| [Simon vs. the Homo Sapiens Agenda](https://en.wikipedia.org/wiki/Simon_vs._the_Homo_Sapiens_Agenda) | [Becky Albertalli](https://en.wikipedia.org/wiki/Becky_Albertalli) | <code>English</code> | 2015 | <nobr><code>young adult</code>, <code>romance</code>, <code>drama</code>,<br/><code>LGBT</code>, <code>coming of age</code></nobr> | 
+| [La chiamata dei tre](https://en.wikipedia.org/wiki/The_Dark_Tower_II:_The_Drawing_of_the_Three)<br/><nobr style="font-size:.75em"><strong>The Dark Tower II: The Drawing of the Three</strong></nobr> | [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) | <code>Italian</code> | 1987 | <nobr><code>dark fantasy</code>, <code>western</code>,<br/><code>science fiction</code></nobr> |
 
 ## 2026
 
 | Title                             | Author(s)                         | Lang | Year | Genre     | Finished    | Rating       |
 |-----------------------------------|-----------------------------------|------|------|-----------|-------------|--------------|
+| [Simon vs. the Homo Sapiens Agenda](https://en.wikipedia.org/wiki/Simon_vs._the_Homo_Sapiens_Agenda) | [Becky Albertalli](https://en.wikipedia.org/wiki/Becky_Albertalli) | <code>English</code> | 2015 | <nobr><code>young adult</code>, <code>romance</code>, <code>drama</code>,<br/><code>LGBT</code>, <code>coming of age</code></nobr> | <nobr>April 8th</nobr>| ⭐️⭐️⭐️ |
 | [Pretty Guardian Sailor Moon](https://en.wikipedia.org/wiki/Sailor_Moon)<br/><nobr style="font-size:.75em"><strong>Volume 5 (Act 22 - Act 26)</strong></nobr> | [Naoko Takeuchi](https://en.wikipedia.org/wiki/Naoko_Takeuchi) | <code>Italian</code> | 1991 | <nobr><code>manga</code>, <code>magical girl</code></nobr> | <nobr>April 4th</nobr>| ⭐️⭐️⭐️⭐️⭐️ |
 | [Oceano mare](https://it.wikipedia.org/wiki/Oceano_mare) | [Alessandro Baricco](https://en.wikipedia.org/wiki/Alessandro_Baricco) | <code>Italian</code> | 1993 | <nobr><code>novel</code></nobr> | <nobr>April 3rd</nobr>| ⭐️⭐️ |
 | [The Red Pony](https://en.wikipedia.org/wiki/The_Red_Pony) | [John Steinbeck](https://en.wikipedia.org/wiki/John_Steinbeck) | <code>English</code> | 1937 | <nobr><code>episodic novella</code></nobr> | <nobr>March 26th</nobr>| ⭐️⭐️⭐️ |
