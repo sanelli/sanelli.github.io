@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Let Go](https://en.wikipedia.org/wiki/Let_Go_(Avril_Lavigne_album)) | [Avril Lavigne](https://en.wikipedia.org/wiki/Avril_Lavigne) | 2002 |  <nobr><code>pop-punk</code>, <code>alternative</code>, <code>pop rock</code>,<br/><code>post-grunge</code></nobr> | <nobr>April 13th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Circus](https://en.wikipedia.org/wiki/Circus_(Britney_Spears_album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2008 |  <nobr><code>dance-pop</code>, <code>pop</code></nobr> | <nobr>April 11th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Nevermind](https://en.wikipedia.org/wiki/Nevermind) | [Nirvana](https://en.wikipedia.org/wiki/Nirvana_(band)) | 1991 |  <nobr><code>grunge</code>, <code>alternative rock</code></nobr> | <nobr>April 8th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [This Is the Life](https://en.wikipedia.org/wiki/This_Is_the_Life_(Amy_Macdonald_album)) | [Amy Macdonald](https://en.wikipedia.org/wiki/Amy_Macdonald) | 2007 | <nobr><code>alternative rock</code>, <code>indie rock</code>,<br/><code>indie folk</code></nobr> |  <nobr>April 7th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
