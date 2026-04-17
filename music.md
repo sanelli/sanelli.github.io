@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Laura Bono](https://it.wikipedia.org/wiki/Laura_Bono_(album)) | [Laura Bono](https://en.wikipedia.org/wiki/Laura_Bono) | 2005 | <nobr><code>pop rock</code></nobr> | <nobr>April 17th</nobr> | ⭐️⭐️⭐️ |
 | [The Fame Monster](https://en.wikipedia.org/wiki/The_Fame_Monster) | [Lady Gaga](https://en.wikipedia.org/wiki/Lady_Gaga) | 2009 | <nobr><code>electropop</code></nobr> | <nobr>April 14th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Let Go](https://en.wikipedia.org/wiki/Let_Go_(Avril_Lavigne_album)) | [Avril Lavigne](https://en.wikipedia.org/wiki/Avril_Lavigne) | 2002 |  <nobr><code>pop-punk</code>, <code>alternative</code>, <code>pop rock</code>,<br/><code>post-grunge</code></nobr> | <nobr>April 13th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Circus](https://en.wikipedia.org/wiki/Circus_(Britney_Spears_album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2008 |  <nobr><code>dance-pop</code>, <code>pop</code></nobr> | <nobr>April 11th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
@@ -95,7 +96,6 @@ permalink: /music/
 
 | Album | Artist | Year | Genre |
 |-------|--------|------|-------|
-| [Laura Bono](https://it.wikipedia.org/wiki/Laura_Bono_(album)) | [Laura Bono](https://en.wikipedia.org/wiki/Laura_Bono) | 2005 | <nobr><code>pop rock</code></nobr> |
 | [Bagus](https://it.wikipedia.org/wiki/Bagus) | [Cesare Cremonini](https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)) | 2002 | <nobr><code>pop</code></nobr> |
 | [The Fame](https://en.wikipedia.org/wiki/The_Fame) | [Lady Gaga](https://en.wikipedia.org/wiki/Lady_Gaga) | 2008 | <nobr><code>synth-pop</code>, <code>electropop</code>,<br/><code>dance-pop</code>, <code>electronic rock</code></nobr> |
 | [Maggese](https://it.wikipedia.org/wiki/Maggese_(album)) | [Cesare Cremonini](https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)) | 2005 | <nobr><code>pop</code></nobr> |
