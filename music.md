@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Fuego](https://it.wikipedia.org/wiki/Fuego_(Gemelli_DiVersi)) | [Gemelli DiVersi](https://en.wikipedia.org/wiki/Gemelli_DiVersi) | 2002 | <nobr><code>pop rap</code></nobr> | <nobr>April 18th</nobr> | ⭐️⭐️⭐️ |
 | [Laura Bono](https://it.wikipedia.org/wiki/Laura_Bono_(album)) | [Laura Bono](https://en.wikipedia.org/wiki/Laura_Bono) | 2005 | <nobr><code>pop rock</code></nobr> | <nobr>April 17th</nobr> | ⭐️⭐️⭐️ |
 | [The Fame Monster](https://en.wikipedia.org/wiki/The_Fame_Monster) | [Lady Gaga](https://en.wikipedia.org/wiki/Lady_Gaga) | 2009 | <nobr><code>electropop</code></nobr> | <nobr>April 14th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Let Go](https://en.wikipedia.org/wiki/Let_Go_(Avril_Lavigne_album)) | [Avril Lavigne](https://en.wikipedia.org/wiki/Avril_Lavigne) | 2002 |  <nobr><code>pop-punk</code>, <code>alternative</code>, <code>pop rock</code>,<br/><code>post-grunge</code></nobr> | <nobr>April 13th</nobr> | ⭐️⭐️⭐️⭐️ |
