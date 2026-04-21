@@ -16,12 +16,13 @@ permalink: /games/
 
 | Title | Developer(s) | Publisher(s) | Console | Genre |
 |-------|--------------|--------------|---------|-------|
-| [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn) | [Guerrilla Games](https://en.wikipedia.org/wiki/Guerrilla_Games) | [Sony Interactive Entertainment](https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment) | [Playstation 5](https://en.wikipedia.org/wiki/PlayStation_5) | <nobr><code>action role-playing</code></nobr> |
+| [Donkey Kong Bananza](https://en.wikipedia.org/wiki/Donkey_Kong_Bananza) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>platformer</code></nobr>  |
 
 ## 2026
 
 | Title | Developer(s) | Publisher(s) | Console | Genre | <nobr>Completed on<nobr> | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
+| [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn) | [Guerrilla Games](https://en.wikipedia.org/wiki/Guerrilla_Games) | [Sony Interactive Entertainment](https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment) | [Playstation 5](https://en.wikipedia.org/wiki/PlayStation_5) | <nobr><code>action role-playing</code></nobr> | <nobr>April 21st</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Salt and Sanctuary](https://en.wikipedia.org/wiki/Salt_and_Sanctuary) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing</code>, <code>soulslike</code></nobr> | <nobr>January 8th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 
 
@@ -125,10 +126,7 @@ permalink: /games/
 | `WISHLIST` | [Digimon Story: Time Stranger](https://en.wikipedia.org/wiki/Digimon_Story:_Time_Stranger) | [Media.Vision](https://en.wikipedia.org/wiki/Media.Vision) |  [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) |  | <nobr><code>action role-playing</code></nobr> |
 | `WISHLIST` | [Hades](https://en.wikipedia.org/wiki/Hades_(video_game)) | [Supergiant Games](https://en.wikipedia.org/wiki/Supergiant_Games) | [Supergiant Games](https://en.wikipedia.org/wiki/Supergiant_Games) |  | <nobr><code>roguelike</code>,<code>action role-playing</code></nobr> |
 | `WISHLIST` | [Hades II](https://en.wikipedia.org/wiki/Hades_II) | [Supergiant Games](https://en.wikipedia.org/wiki/Supergiant_Games) | [Supergiant Games](https://en.wikipedia.org/wiki/Supergiant_Games) |  | <nobr><code>roguelike</code>,<code>action role-playing</code></nobr>  |
-| `WISHLIST` | [Donkey Kong Bananza](https://en.wikipedia.org/wiki/Donkey_Kong_Bananza) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>platformer</code></nobr>  |
 | `WISHLIST` | [Xenoblade Chronicles X: Definitive Edition](https://en.wikipedia.org/wiki/Xenoblade_Chronicles_X#Definitive_Edition) | [Monolith Soft](https://en.wikipedia.org/wiki/Monolith_Soft) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing</code></nobr> |
-| `WISHLIST` | [Pokémon Legends: Z-A DLC](https://en.wikipedia.org/wiki/Pokémon_Legends:_Z-A) | [Game Freak](https://en.wikipedia.org/wiki/Game_Freak) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing</code></nobr> |
-| `STOPPED` | Pokkén Tournament  |  |  |  |
 | `STOPPED` | Grim Fandango |  |  |  |
 | `WISHLIST` | [God of War](https://en.wikipedia.org/wiki/God_of_War_(2005_video_game)) |  |  |  |
 | `WISHLIST` | [God of War Ragnarök](https://en.wikipedia.org/wiki/God_of_War_Ragnarök) |  |  |  |
