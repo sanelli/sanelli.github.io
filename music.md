@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Maybe You've Been Brainwashed Too](https://en.wikipedia.org/wiki/Maybe_You've_Been_Brainwashed_Too) | [New Radicals](https://en.wikipedia.org/wiki/New_Radicals) | 1998 | <nobr><code>alternative rock</code>, <code>pop</code>, <code>pop rock</code></nobr> |  <nobr>April 22nd</nobr> | ⭐️⭐️ |
 | [Fuego](https://it.wikipedia.org/wiki/Fuego_(Gemelli_DiVersi)) | [Gemelli DiVersi](https://en.wikipedia.org/wiki/Gemelli_DiVersi) | 2002 | <nobr><code>pop rap</code></nobr> | <nobr>April 18th</nobr> | ⭐️⭐️⭐️ |
 | [Laura Bono](https://it.wikipedia.org/wiki/Laura_Bono_(album)) | [Laura Bono](https://en.wikipedia.org/wiki/Laura_Bono) | 2005 | <nobr><code>pop rock</code></nobr> | <nobr>April 17th</nobr> | ⭐️⭐️⭐️ |
 | [The Fame Monster](https://en.wikipedia.org/wiki/The_Fame_Monster) | [Lady Gaga](https://en.wikipedia.org/wiki/Lady_Gaga) | 2009 | <nobr><code>electropop</code></nobr> | <nobr>April 14th</nobr> | ⭐️⭐️⭐️⭐️ |
@@ -97,7 +98,6 @@ permalink: /music/
 
 | Album | Artist | Year | Genre |
 |-------|--------|------|-------|
-| [Maybe You've Been Brainwashed Too](https://en.wikipedia.org/wiki/Maybe_You've_Been_Brainwashed_Too) | [New Radicals](https://en.wikipedia.org/wiki/New_Radicals) | 1998 | <nobr><code>alternative rock</code>, <code>pop</code>, <code>pop rock</code></nobr> |
 | [Bagus](https://it.wikipedia.org/wiki/Bagus) | [Cesare Cremonini](https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)) | 2002 | <nobr><code>pop</code></nobr> |
 | [The Fame](https://en.wikipedia.org/wiki/The_Fame) | [Lady Gaga](https://en.wikipedia.org/wiki/Lady_Gaga) | 2008 | <nobr><code>synth-pop</code>, <code>electropop</code>,<br/><code>dance-pop</code>, <code>electronic rock</code></nobr> |
 | [Maggese](https://it.wikipedia.org/wiki/Maggese_(album)) | [Cesare Cremonini](https://it.wikipedia.org/wiki/Cesare_Cremonini_(cantante)) | 2005 | <nobr><code>pop</code></nobr> |
