@@ -16,7 +16,8 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
-| [Maybe You've Been Brainwashed Too](https://en.wikipedia.org/wiki/Maybe_You've_Been_Brainwashed_Too) | [New Radicals](https://en.wikipedia.org/wiki/New_Radicals) | 1998 | <nobr><code>alternative rock</code>, <code>pop</code>, <code>pop rock</code></nobr> |  <nobr>April 22nd</nobr> | ⭐️⭐️ |
+| [Miss Italia](https://en.wikipedia.org/wiki/Miss_Italia_(Ditonellapiaga_album)) | [Ditonellapiaga](https://en.wikipedia.org/wiki/Ditonellapiaga) | 2026 | <nobr><code>pop</code>, <code>dance pop</code>, <code>club-pop</code>, <code>EDM</code></nobr> |  <nobr>April 26th</nobr> | ⭐️⭐️⭐️⭐️ |
+| [Maybe You've Been Brainwashed Too](https://en.wikipedia.org/wiki/Maybe_You've_Been_Brainwashed_Too) | [New Radicals](https://en.wikipedia.org/wiki/New_Radicals) | 1998 | <nobr><code>alternative rock</code>, <code>pop</code>, <code>pop rock</code></nobr> |  <nobr>April 22nd</nobr> | ⭐️ |
 | [Fuego](https://it.wikipedia.org/wiki/Fuego_(Gemelli_DiVersi)) | [Gemelli DiVersi](https://en.wikipedia.org/wiki/Gemelli_DiVersi) | 2002 | <nobr><code>pop rap</code></nobr> | <nobr>April 18th</nobr> | ⭐️⭐️⭐️ |
 | [Laura Bono](https://it.wikipedia.org/wiki/Laura_Bono_(album)) | [Laura Bono](https://en.wikipedia.org/wiki/Laura_Bono) | 2005 | <nobr><code>pop rock</code></nobr> | <nobr>April 17th</nobr> | ⭐️⭐️⭐️ |
 | [The Fame Monster](https://en.wikipedia.org/wiki/The_Fame_Monster) | [Lady Gaga](https://en.wikipedia.org/wiki/Lady_Gaga) | 2009 | <nobr><code>electropop</code></nobr> | <nobr>April 14th</nobr> | ⭐️⭐️⭐️⭐️ |
@@ -66,7 +67,7 @@ permalink: /music/
 |-------|--------|------|:-------|------|--------|
 | The Shape of a Broken Heart | [Imany](https://en.wikipedia.org/wiki/Imany) | 2011 |  <nobr><code>folk</code>, <code>soul</code>, <code>pop rock</code></nobr> | <nobr>December 31st</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Fallen](https://en.wikipedia.org/wiki/Fallen_(Evanescence_album))  | [Evanescence](https://en.wikipedia.org/wiki/Evanescence) | 2003 |  <nobr><code>nu metal</code>, <code>alternative metal</code>,<br/><code>gothic metal</code></nobr> | December 27th | ⭐️⭐️⭐️⭐️ |
-| [Backstreet Boys](https://en.wikipedia.org/wiki/Backstreet_Boys_(1996_album)) | [Backstreet Boys](https://en.wikipedia.org/wiki/Backstreet_Boys) | 1996 | <nobr><code>R&amp;B</code>, <code>pop</code>, <code>dance-pop</code>, <code>teen pop</code></nobr> | December 27th | ⭐️⭐️ |
+| [Backstreet Boys](https://en.wikipedia.org/wiki/Backstreet_Boys_(1996_album)) | [Backstreet Boys](https://en.wikipedia.org/wiki/Backstreet_Boys) | 1996 | <nobr><code>R&amp;B</code>, <code>pop</code>, <code>dance-pop</code>, <code>teen pop</code></nobr> | December 27th | ⭐️⭐️⭐️ |
 | [Scream If You Wanna Go Faster](https://en.wikipedia.org/wiki/Scream_If_You_Wanna_Go_Faster) | [Geri Halliwell](https://en.wikipedia.org/wiki/Geri_Halliwell) | 2001 |  <nobr><code>dance-pop</code>, <code>pop</code>, <code>pop rock</code></nobr> | December 25th | ⭐️⭐️⭐️ |
 | [Gli anni](https://it.wikipedia.org/wiki/Gli_anni_(album)) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1998 | <nobr><code>pop</code>, <code>pop rock</code></nobr> | December 23rd | ⭐️⭐️⭐️⭐️ |
 | [Aquarium](https://en.wikipedia.org/wiki/Aquarium_(Aqua_album)) | [Aqua](https://en.wikipedia.org/wiki/Aqua_(band)) | 1997 |  <nobr><code>eurodance</code>, <code>eurodisco</code></nobr> | December 23rd | ⭐️⭐️⭐️⭐️ |
