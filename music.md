@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [÷](https://en.wikipedia.org/wiki/÷_(album)) | [Ed Sheeran](https://en.wikipedia.org/wiki/Ed_Sheeran) | 2017 | <nobr><code>pop</code>, <code>dance pop</code>, <code>folk-pop</code>, <code>hip-hop</code>, <code>R&amp;B</code></nobr> |  <nobr>April 28th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Miss Italia](https://en.wikipedia.org/wiki/Miss_Italia_(Ditonellapiaga_album)) | [Ditonellapiaga](https://en.wikipedia.org/wiki/Ditonellapiaga) | 2026 | <nobr><code>pop</code>, <code>dance pop</code>, <code>club-pop</code>, <code>EDM</code></nobr> |  <nobr>April 26th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Maybe You've Been Brainwashed Too](https://en.wikipedia.org/wiki/Maybe_You've_Been_Brainwashed_Too) | [New Radicals](https://en.wikipedia.org/wiki/New_Radicals) | 1998 | <nobr><code>alternative rock</code>, <code>pop</code>, <code>pop rock</code></nobr> |  <nobr>April 22nd</nobr> | ⭐️ |
 | [Fuego](https://it.wikipedia.org/wiki/Fuego_(Gemelli_DiVersi)) | [Gemelli DiVersi](https://en.wikipedia.org/wiki/Gemelli_DiVersi) | 2002 | <nobr><code>pop rap</code></nobr> | <nobr>April 18th</nobr> | ⭐️⭐️⭐️ |
