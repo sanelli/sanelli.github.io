@@ -16,7 +16,8 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
-| [÷](https://en.wikipedia.org/wiki/÷_(album)) | [Ed Sheeran](https://en.wikipedia.org/wiki/Ed_Sheeran) | 2017 | <nobr><code>pop</code>, <code>folk-pop</code>, <code>hip-hop</code>, <code>R&amp;B</code></nobr> |  <nobr>April 28th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
+| [Grazie mille](https://it.wikipedia.org/wiki/Grazie_mille) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1998 | <nobr><code>pop</code>, <code>pop rock</code></nobr> | <nobr>April 29th</nobr> | ⭐️⭐️⭐️ |
+| [÷](https://en.wikipedia.org/wiki/÷_(album)) | [Ed Sheeran](https://en.wikipedia.org/wiki/Ed_Sheeran) | 2017 | <nobr><code>pop</code>, <code>folk-pop</code>, <code>hip-hop</code>, <code>R&amp;B</code></nobr> | <nobr>April 28th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Miss Italia](https://en.wikipedia.org/wiki/Miss_Italia_(Ditonellapiaga_album)) | [Ditonellapiaga](https://en.wikipedia.org/wiki/Ditonellapiaga) | 2026 | <nobr><code>pop</code>, <code>dance pop</code>, <code>club-pop</code>, <code>EDM</code></nobr> |  <nobr>April 26th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Maybe You've Been Brainwashed Too](https://en.wikipedia.org/wiki/Maybe_You've_Been_Brainwashed_Too) | [New Radicals](https://en.wikipedia.org/wiki/New_Radicals) | 1998 | <nobr><code>alternative rock</code>, <code>pop</code>, <code>pop rock</code></nobr> |  <nobr>April 22nd</nobr> | ⭐️ |
 | [Fuego](https://it.wikipedia.org/wiki/Fuego_(Gemelli_DiVersi)) | [Gemelli DiVersi](https://en.wikipedia.org/wiki/Gemelli_DiVersi) | 2002 | <nobr><code>pop rap</code></nobr> | <nobr>April 18th</nobr> | ⭐️⭐️⭐️ |
@@ -123,7 +124,6 @@ permalink: /music/
 | [The Velvet Rope](https://en.wikipedia.org/wiki/The_Velvet_Rope) | [Janet Jackson](https://en.wikipedia.org/wiki/Janet_Jackson) | 1997 | <nobr><code>R&amp;B</code>, <code>pop</code></nobr> |
 | [Between Us](https://en.wikipedia.org/wiki/Between_Us_(Little_Mix_album)) | [Little Mix](https://en.wikipedia.org/wiki/Little_Mix) | 2016 | <nobr><code>dance-pop</code>, <code>R&amp;B</code></nobr> |
 | [Away from the Sun](https://en.wikipedia.org/wiki/Away_from_the_Sun) | [3 Doors Down](https://en.wikipedia.org/wiki/3_Doors_Down) | 2002 |  <nobr><code>post-grunge</code>, <code>alternative rock</code></nobr> |
-| [Grazie mille](https://it.wikipedia.org/wiki/Grazie_mille) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1998 | <nobr><code>pop</code>, <code>pop rock</code></nobr> |
 | [Uno in più](https://it.wikipedia.org/wiki/Uno_in_più) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 2001 | <nobr><code>pop</code></nobr> |
 | [Il mondo insieme a te](https://it.wikipedia.org/wiki/Il_mondo_insieme_a_te) | [Max Pezzali](https://it.wikipedia.org/wiki/Max_Pezzali) | 2004 | <nobr><code>pop</code></nobr> |
 | [Max 20](https://it.wikipedia.org/wiki/Max_20) | [Max Pezzali](https://it.wikipedia.org/wiki/Max_Pezzali) | 2013 | <nobr><code>pop</code>, <code>pop rock</code></nobr> |
