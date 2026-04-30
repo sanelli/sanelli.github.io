@@ -16,6 +16,8 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Actually](https://en.wikipedia.org/wiki/Actually) | [Pet Shop Boys](https://en.wikipedia.org/wiki/Pet_Shop_Boys) | 1987 | <nobr><code>synth-pop</code>, <code>electropop</code>, <code>dance-pop</code></nobr> | <nobr>April 30th</nobr> | ⭐️⭐️⭐️⭐️ |
+| [Uno in più](https://it.wikipedia.org/wiki/Uno_in_più) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 2001 | <nobr><code>pop</code></nobr> | <nobr>April 30th</nobr> | ⭐️⭐️⭐️ |
 | [Grazie mille](https://it.wikipedia.org/wiki/Grazie_mille) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1998 | <nobr><code>pop</code>, <code>pop rock</code></nobr> | <nobr>April 29th</nobr> | ⭐️⭐️⭐️ |
 | [÷](https://en.wikipedia.org/wiki/÷_(album)) | [Ed Sheeran](https://en.wikipedia.org/wiki/Ed_Sheeran) | 2017 | <nobr><code>pop</code>, <code>folk-pop</code>, <code>hip-hop</code>, <code>R&amp;B</code></nobr> | <nobr>April 28th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Miss Italia](https://en.wikipedia.org/wiki/Miss_Italia_(Ditonellapiaga_album)) | [Ditonellapiaga](https://en.wikipedia.org/wiki/Ditonellapiaga) | 2026 | <nobr><code>pop</code>, <code>dance pop</code>, <code>club-pop</code>, <code>EDM</code></nobr> |  <nobr>April 26th</nobr> | ⭐️⭐️⭐️⭐️ |
@@ -124,7 +126,6 @@ permalink: /music/
 | [The Velvet Rope](https://en.wikipedia.org/wiki/The_Velvet_Rope) | [Janet Jackson](https://en.wikipedia.org/wiki/Janet_Jackson) | 1997 | <nobr><code>R&amp;B</code>, <code>pop</code></nobr> |
 | [Between Us](https://en.wikipedia.org/wiki/Between_Us_(Little_Mix_album)) | [Little Mix](https://en.wikipedia.org/wiki/Little_Mix) | 2016 | <nobr><code>dance-pop</code>, <code>R&amp;B</code></nobr> |
 | [Away from the Sun](https://en.wikipedia.org/wiki/Away_from_the_Sun) | [3 Doors Down](https://en.wikipedia.org/wiki/3_Doors_Down) | 2002 |  <nobr><code>post-grunge</code>, <code>alternative rock</code></nobr> |
-| [Uno in più](https://it.wikipedia.org/wiki/Uno_in_più) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 2001 | <nobr><code>pop</code></nobr> |
 | [Il mondo insieme a te](https://it.wikipedia.org/wiki/Il_mondo_insieme_a_te) | [Max Pezzali](https://it.wikipedia.org/wiki/Max_Pezzali) | 2004 | <nobr><code>pop</code></nobr> |
 | [Max 20](https://it.wikipedia.org/wiki/Max_20) | [Max Pezzali](https://it.wikipedia.org/wiki/Max_Pezzali) | 2013 | <nobr><code>pop</code>, <code>pop rock</code></nobr> |
 | [Use Your Illusion I](https://en.wikipedia.org/wiki/Use_Your_Illusion_I) | [Guns N' Roses](https://en.wikipedia.org/wiki/Guns_N%27_Roses) | 1991 |  <nobr><code>hard rock</code></nobr> |
