@@ -16,6 +16,8 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Breakaway](https://en.wikipedia.org/wiki/Breakaway_(Kelly_Clarkson_album)) | [Kelly Clarkson](https://en.wikipedia.org/wiki/Kelly_Clarkson) | 2004 |  <nobr><code>pop rock</code></nobr> | <nobr>May 1st</nobr> | ⭐️⭐️⭐️⭐️ |
+| [Blackout](https://en.wikipedia.org/wiki/Blackout_(Britney_Spears_album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2007 |  <nobr><code>dance-pop</code>, <code>electropop</code>, <code>techno</code>,<br/><code>avant-disco</code></nobr> | <nobr>May 1st</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Actually](https://en.wikipedia.org/wiki/Actually) | [Pet Shop Boys](https://en.wikipedia.org/wiki/Pet_Shop_Boys) | 1987 | <nobr><code>synth-pop</code>, <code>electropop</code>, <code>dance-pop</code></nobr> | <nobr>April 30th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Uno in più](https://it.wikipedia.org/wiki/Uno_in_più) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 2001 | <nobr><code>pop</code></nobr> | <nobr>April 30th</nobr> | ⭐️⭐️⭐️ |
 | [Grazie mille](https://it.wikipedia.org/wiki/Grazie_mille) | [883](https://it.wikipedia.org/wiki/883_(gruppo_musicale)) | 1998 | <nobr><code>pop</code>, <code>pop rock</code></nobr> | <nobr>April 29th</nobr> | ⭐️⭐️⭐️ |
@@ -139,7 +141,6 @@ permalink: /music/
 | [Oops!... I Did It Again](https://en.wikipedia.org/wiki/Oops!..._I_Did_It_Again_(album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2000 |  <nobr><code>dance-pop</code>, <code>pop</code>, <code>teen-pop</code></nobr> |
 | [Britney](https://en.wikipedia.org/wiki/Britney_(album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2001 |  <nobr><code>dance-pop</code>, <code>pop</code>, <code>teen-pop</code></nobr> |
 | [In The Zone](https://en.wikipedia.org/wiki/In_the_Zone) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2003 |  <nobr><code>dance-pop</code>, <code>pop</code>, <code>hip-pop</code></nobr> |
-| [Blackout](https://en.wikipedia.org/wiki/Blackout_(Britney_Spears_album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2007 |  <nobr><code>dance-pop</code>, <code>electropop</code>, <code>techno</code>, <code>avant-disco</code></nobr> |
 | [Everybody Else Is Doing It, So Why Can't We?](https://en.wikipedia.org/wiki/Everybody_Else_Is_Doing_It,_So_Why_Can%27t_We%3F) | [The Cranberries](https://en.wikipedia.org/wiki/The_Cranberries) | 1993 |  <nobr><code>alternative rock</code>, <code>indie pop</code>, <code>Irish folk</code>,<br/><code>jangle pop</code>, <code>post-punk</code>, <code>dream pop</code></nobr> |
 | [No Need to Argue](https://en.wikipedia.org/wiki/No_Need_to_Argue) | [The Cranberries](https://en.wikipedia.org/wiki/The_Cranberries) | 1994 |  <nobr><code>alternative rock</code>, <code>jangle pop</code>,<br/><code>Irish folk</code>, <code>post-punk</code></nobr> |
 | [Take Off Your Pants and Jacket](https://en.wikipedia.org/wiki/Take_Off_Your_Pants_and_Jacket) | [blink-182](https://en.wikipedia.org/wiki/Blink-182) | 2001 | <nobr><code>pop-punk</code>, <code>punk-rock</code></nobr> |
