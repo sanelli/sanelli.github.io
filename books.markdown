@@ -16,12 +16,13 @@ permalink: /books/
 
 | Title                             | Author(s)                         | Lang | Year | Genre     |
 |-----------------------------------|-----------------------------------|------|------|-----------|
-| [Giovanni's Room](https://en.wikipedia.org/wiki/Giovanni%27s_Room) | [James Baldwin](https://en.wikipedia.org/wiki/James_Baldwin) | <code>English</code> | 1956 | <nobr><code>gay</code></nobr> |
+| [Terre desolate](https://en.wikipedia.org/wiki/The_Dark_Tower_III:_The_Waste_Lands)<br/><nobr style="font-size:.75em"><strong>The Dark Tower III: The Waste Lands</strong></nobr> | [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) | <code>Italian</code> | 1991 | <nobr><code>dark fantasy</code>, <code>science fiction</code></nobr> |
 
 ## 2026
 
 | Title                             | Author(s)                         | Lang | Year | Genre     | Finished    | Rating       |
 |-----------------------------------|-----------------------------------|------|------|-----------|-------------|--------------|
+| [Giovanni's Room](https://en.wikipedia.org/wiki/Giovanni%27s_Room) | [James Baldwin](https://en.wikipedia.org/wiki/James_Baldwin) | <code>English</code> | 1956 | <nobr><code>gay</code></nobr> | <nobr>May 2nd</nobr>| ⭐️⭐️⭐️⭐️⭐️ |
 | [Accabadora](https://it.wikipedia.org/wiki/Accabadora) | [Michela Murgia](https://en.wikipedia.org/wiki/Michela_Murgia) | <code>Italian</code> | 2009 | <nobr><code>novel</code></nobr> | <nobr>April 21st</nobr>| ⭐️⭐️⭐️⭐️ |
 | [La chiamata dei tre](https://en.wikipedia.org/wiki/The_Dark_Tower_II:_The_Drawing_of_the_Three)<br/><nobr style="font-size:.75em"><strong>The Dark Tower II: The Drawing of the Three</strong></nobr> | [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) | <code>Italian</code> | 1987 | <nobr><code>dark fantasy</code>, <code>western</code>,<br/><code>science fiction</code></nobr> | <nobr>April 17th</nobr>| ⭐️⭐️⭐️⭐️ |
 | [Simon vs. the Homo Sapiens Agenda](https://en.wikipedia.org/wiki/Simon_vs._the_Homo_Sapiens_Agenda) | [Becky Albertalli](https://en.wikipedia.org/wiki/Becky_Albertalli) | <code>English</code> | 2015 | <nobr><code>young adult</code>, <code>romance</code>, <code>drama</code>,<br/><code>LGBT</code>, <code>coming of age</code></nobr> | <nobr>April 8th</nobr>| ⭐️⭐️⭐️ |
