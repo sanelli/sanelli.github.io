@@ -16,6 +16,8 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Northern Star](https://en.wikipedia.org/wiki/Northern_Star_(Melanie_C_album)) | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 1999 | <nobr><code>pop</code></nobr> | <nobr>May 4th</nobr> | ⭐️⭐️⭐️ |
+| Sweat | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 2026 | <nobr><code>pop</code></nobr> | <nobr>May 4th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Breakaway](https://en.wikipedia.org/wiki/Breakaway_(Kelly_Clarkson_album)) | [Kelly Clarkson](https://en.wikipedia.org/wiki/Kelly_Clarkson) | 2004 |  <nobr><code>pop rock</code></nobr> | <nobr>May 1st</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Blackout](https://en.wikipedia.org/wiki/Blackout_(Britney_Spears_album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2007 |  <nobr><code>dance-pop</code>, <code>electropop</code>, <code>techno</code>,<br/><code>avant-disco</code></nobr> | <nobr>May 1st</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Actually](https://en.wikipedia.org/wiki/Actually) | [Pet Shop Boys](https://en.wikipedia.org/wiki/Pet_Shop_Boys) | 1987 | <nobr><code>synth-pop</code>, <code>electropop</code>, <code>dance-pop</code></nobr> | <nobr>April 30th</nobr> | ⭐️⭐️⭐️⭐️ |
@@ -159,14 +161,12 @@ permalink: /music/
 | Amuri luci | [Carmen Consoli](https://en.wikipedia.org/wiki/Carmen_Consoli) | 2025 | <nobr></nobr> |
 | [A Girl Like Me](https://en.wikipedia.org/wiki/A_Girl_Like_Me_(Emma_Bunton_album)) | [Emma Bunton](https://en.wikipedia.org/wiki/Emma_Bunton) | 2001 | <nobr><code>pop</code></nobr> |
 | [Free Me](https://en.wikipedia.org/wiki/Free_Me_(album)) | [Emma Bunton](https://en.wikipedia.org/wiki/Emma_Bunton) | 2004 | <nobr><code>pop</code>, <code>rock</code></nobr> |
-| [Northern Star](https://en.wikipedia.org/wiki/Northern_Star_(Melanie_C_album)) | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 1999 | <nobr><code>pop</code></nobr> |
 | [Reason](https://en.wikipedia.org/wiki/Reason_(Melanie_C_album)) | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 2003 | <nobr><code>pop</code></nobr> |
 | [Beautiful Intentions](https://en.wikipedia.org/wiki/Beautiful_Intentions) | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 2005 | <nobr><code>pop</code>, <code>rock</code></nobr> |
 | [This Time](https://en.wikipedia.org/wiki/This_Time_(Melanie_C_album)) | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 2007 | <nobr><code>pop</code>, <code>pop-rock</code></nobr> |
 | [The Sea](https://en.wikipedia.org/wiki/The_Sea_(Melanie_C_album)) | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 2011 | <nobr><code>pop</code></nobr> |
 | [Version of Me](https://en.wikipedia.org/wiki/Version_of_Me) | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 2016 | <nobr><code>pop</code></nobr> |
 | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C_(album)) | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 2020 | <nobr><code>electronic</code>, <code>pop</code></nobr> |
-| Swaeat | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 2026 | <nobr></nobr> |
 | [Ci chiamano bambine](https://it.wikipedia.org/wiki/Ci_chiamano_bambine) | [Paola &amp; Chiara](https://it.wikipedia.org/wiki/Paola_%26_Chiara) | 1997 | <nobr><code>pop</code></nobr> |
 | [Giornata storica](https://it.wikipedia.org/wiki/Giornata_storica) | [Paola &amp; Chiara](https://it.wikipedia.org/wiki/Paola_%26_Chiara) | 1998 | <nobr><code>pop rock</code></nobr> |
 | [Television](https://it.wikipedia.org/wiki/Television_(Paola_%26_Chiara)) | [Paola &amp; Chiara](https://it.wikipedia.org/wiki/Paola_%26_Chiara) | 2002 | <nobr><code>pop</code></nobr> |
