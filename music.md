@@ -16,6 +16,8 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Hear My Cry](https://en.wikipedia.org/wiki/Hear_My_Cry_(album)) | [Sonique](https://en.wikipedia.org/wiki/Sonique_(musician)) | 2000 |  <nobr><code>trance</code>, <code>electronic</code>, <code>house</code></nobr> | <nobr>May 7th</nobr>  | ⭐️⭐️ |
+| [The Rhythm of the Night](https://en.wikipedia.org/wiki/The_Rhythm_of_the_Night_(album)) | [Corona](https://en.wikipedia.org/wiki/Corona_(band)) | 1995 |  <nobr><code>eurodance</code></nobr> | <nobr>May 7th</nobr>  | ⭐️⭐️⭐️ |
 | [Spiceworld](https://en.wikipedia.org/wiki/Spiceworld_(album)) | [Spice Girls](https://en.wikipedia.org/wiki/Spice_Girls) | 1997 |  <nobr><code>pop</code>, <code>dance-pop</code></nobr> | <nobr>May 6th</nobr>  | ⭐️⭐️⭐️⭐️ |
 | [Prism](https://en.wikipedia.org/wiki/Prism_(Katy_Perry_album)) | [Katy Perry](https://en.wikipedia.org/wiki/Katy_Perry) | 2013 | <nobr><code>pop</code></nobr> | <nobr>May 5th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Bad](https://en.wikipedia.org/wiki/Bad_(album)) | [Michael Jackson](https://en.wikipedia.org/wiki/Michael_Jackson) | 1987 | <nobr><code>dance-pop</code>, <code>R&amp;B</code></nobr> | <nobr>May 5th</nobr> | ⭐️⭐️⭐️⭐️ |
