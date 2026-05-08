@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [The Rocky Horror Picture Show](https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show_(soundtrack))<br/><nobr style="font-size:.75em"><strong>Soundtrack</strong></nobr> | [The Rocky Horror Picture Show](https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show) | 1975 | <nobr><code>musical</code></nobr> | <nobr>May 8th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Hear My Cry](https://en.wikipedia.org/wiki/Hear_My_Cry_(album)) | [Sonique](https://en.wikipedia.org/wiki/Sonique_(musician)) | 2000 |  <nobr><code>trance</code>, <code>electronic</code>, <code>house</code></nobr> | <nobr>May 7th</nobr>  | ⭐️⭐️ |
 | [The Rhythm of the Night](https://en.wikipedia.org/wiki/The_Rhythm_of_the_Night_(album)) | [Corona](https://en.wikipedia.org/wiki/Corona_(band)) | 1995 |  <nobr><code>eurodance</code></nobr> | <nobr>May 7th</nobr>  | ⭐️⭐️⭐️ |
 | [Spiceworld](https://en.wikipedia.org/wiki/Spiceworld_(album)) | [Spice Girls](https://en.wikipedia.org/wiki/Spice_Girls) | 1997 |  <nobr><code>pop</code>, <code>dance-pop</code></nobr> | <nobr>May 6th</nobr>  | ⭐️⭐️⭐️⭐️ |
