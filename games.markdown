@@ -16,12 +16,13 @@ permalink: /games/
 
 | Title | Developer(s) | Publisher(s) | Console | Genre |
 |-------|--------------|--------------|---------|-------|
-| [Donkey Kong Bananza](https://en.wikipedia.org/wiki/Donkey_Kong_Bananza) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>platformer</code></nobr>  |
+| [Donkey Kong Bananza](https://en.wikipedia.org/wiki/Donkey_Kong_Bananza)<br/><nobr style="font-size:.75em"><strong>Post-game</strong></nobr>  | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>platformer</code></nobr>  |
 
 ## 2026
 
 | Title | Developer(s) | Publisher(s) | Console | Genre | <nobr>Completed on<nobr> | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
+| [Donkey Kong Bananza](https://en.wikipedia.org/wiki/Donkey_Kong_Bananza) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>platformer</code></nobr>  | <nobr>May 9th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn) | [Guerrilla Games](https://en.wikipedia.org/wiki/Guerrilla_Games) | [Sony Interactive Entertainment](https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment) | [Playstation 5](https://en.wikipedia.org/wiki/PlayStation_5) | <nobr><code>action role-playing</code></nobr> | <nobr>April 21st</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Salt and Sanctuary](https://en.wikipedia.org/wiki/Salt_and_Sanctuary) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing</code>, <code>soulslike</code></nobr> | <nobr>January 8th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 
