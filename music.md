@@ -16,6 +16,8 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Aladdin](https://en.wikipedia.org/wiki/Aladdin_(1992_soundtrack))<br/><nobr style="font-size:.75em"><strong>Soundtrack</strong></nobr> | [Aladdin](https://en.wikipedia.org/wiki/Aladdin_(1992_Disney_film)) | 1992 | <nobr><code>pop</code>, <code>film score</code>, <code>disney</code></nobr> | <nobr>May 10th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
+| [40 - Il sogno continua](https://it.wikipedia.org/wiki/40_-_Il_sogno_continua) | [Cristina D'Avena](https://en.wikipedia.org/wiki/Cristina_D%27Avena) | 2002 | <nobr><code>pop</code>, <code>sigla di serie animata</code></nobr> | <nobr>May 10th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [The Rocky Horror Picture Show](https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show_(soundtrack))<br/><nobr style="font-size:.75em"><strong>Soundtrack</strong></nobr> | [The Rocky Horror Picture Show](https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show) | 1975 | <nobr><code>musical</code></nobr> | <nobr>May 8th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Hear My Cry](https://en.wikipedia.org/wiki/Hear_My_Cry_(album)) | [Sonique](https://en.wikipedia.org/wiki/Sonique_(musician)) | 2000 |  <nobr><code>trance</code>, <code>electronic</code>, <code>house</code></nobr> | <nobr>May 7th</nobr>  | ⭐️⭐️ |
 | [The Rhythm of the Night](https://en.wikipedia.org/wiki/The_Rhythm_of_the_Night_(album)) | [Corona](https://en.wikipedia.org/wiki/Corona_(band)) | 1995 |  <nobr><code>eurodance</code></nobr> | <nobr>May 7th</nobr>  | ⭐️⭐️⭐️ |
