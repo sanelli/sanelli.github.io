@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| Clarity | Zedd | 2012 | <nobr></nobr> | <nobr>May 11th</nobr> | ⭐️⭐️⭐️ |
 | [Aladdin](https://en.wikipedia.org/wiki/Aladdin_(1992_soundtrack))<br/><nobr style="font-size:.75em"><strong>Soundtrack</strong></nobr> | [Aladdin](https://en.wikipedia.org/wiki/Aladdin_(1992_Disney_film)) | 1992 | <nobr><code>pop</code>, <code>film score</code>, <code>disney</code></nobr> | <nobr>May 10th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [40 - Il sogno continua](https://it.wikipedia.org/wiki/40_-_Il_sogno_continua) | [Cristina D'Avena](https://en.wikipedia.org/wiki/Cristina_D%27Avena) | 2002 | <nobr><code>pop</code>, <code>sigla di serie animata</code></nobr> | <nobr>May 10th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [The Rocky Horror Picture Show](https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show_(soundtrack))<br/><nobr style="font-size:.75em"><strong>Soundtrack</strong></nobr> | [The Rocky Horror Picture Show](https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show) | 1975 | <nobr><code>musical</code></nobr> | <nobr>May 8th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
