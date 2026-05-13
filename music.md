@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Whoa, Nelly!](https://en.wikipedia.org/wiki/Whoa,_Nelly!) | [Nelly Furtado](https://en.wikipedia.org/wiki/Nelly_Furtado) | 2000 | <nobr><code>pop</code>, <code>trip hop</code>, <code>worldbeat</code>, <code>rock</code></nobr> | <nobr>May 13th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [M!ssundaztood](https://en.wikipedia.org/wiki/Missundaztood) | [P!nk](https://en.wikipedia.org/wiki/Pink_(singer)) | 2001 | <nobr><code>pop rock</code></nobr> | <nobr>May 12th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Clarity](https://en.wikipedia.org/wiki/Clarity_(Zedd_album)) | [Zedd](https://en.wikipedia.org/wiki/Zedd) | 2012 | <nobr><code>EDM</code>, <code>electro house</code>, <code>dance-pop</code>,<br/><code>progressive house</code></nobr> | <nobr>May 11th</nobr> | ⭐️⭐️⭐️ |
 | [Aladdin](https://en.wikipedia.org/wiki/Aladdin_(1992_soundtrack))<br/><nobr style="font-size:.75em"><strong>Soundtrack</strong></nobr> | [Aladdin](https://en.wikipedia.org/wiki/Aladdin_(1992_Disney_film)) | 1992 | <nobr><code>pop</code>, <code>film score</code>, <code>disney</code></nobr> | <nobr>May 10th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
