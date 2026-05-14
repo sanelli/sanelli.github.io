@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Loose](https://en.wikipedia.org/wiki/Loose_(Nelly_Furtado_album)) | [Nelly Furtado](https://en.wikipedia.org/wiki/Nelly_Furtado) | 2006 | <nobr><code>pop</code></nobr> | <nobr>May 14th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Whoa, Nelly!](https://en.wikipedia.org/wiki/Whoa,_Nelly!) | [Nelly Furtado](https://en.wikipedia.org/wiki/Nelly_Furtado) | 2000 | <nobr><code>pop</code>, <code>trip hop</code>, <code>worldbeat</code>, <code>rock</code></nobr> | <nobr>May 13th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [M!ssundaztood](https://en.wikipedia.org/wiki/Missundaztood) | [P!nk](https://en.wikipedia.org/wiki/Pink_(singer)) | 2001 | <nobr><code>pop rock</code></nobr> | <nobr>May 12th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Clarity](https://en.wikipedia.org/wiki/Clarity_(Zedd_album)) | [Zedd](https://en.wikipedia.org/wiki/Zedd) | 2012 | <nobr><code>EDM</code>, <code>electro house</code>, <code>dance-pop</code>,<br/><code>progressive house</code></nobr> | <nobr>May 11th</nobr> | ⭐️⭐️⭐️ |
