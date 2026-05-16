@@ -16,6 +16,7 @@ permalink: /movies/
 
 | Title | Directed <span style="font-size:.7em">- or -</span> <br/> Created by | Language | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
+| [The Devil Wears Prada 2](https://en.wikipedia.org/wiki/The_Devil_Wears_Prada_2) | [David Frankel](https://en.wikipedia.org/wiki/David_Frankel) | <code>English</code> | 2026 | <nobr><code>comedy drama</code></nobr> | May 16th | ⭐️⭐️⭐️ |
 | [The Super Mario Galaxy Movie](https://en.wikipedia.org/wiki/The_Super_Mario_Galaxy_Movie) | [Aaron Horvath](https://en.wikipedia.org/wiki/Aaron_Horvath), [Michael Jelenic](https://en.wikipedia.org/wiki/Michael_Jelenic) | <code>English</code> | 2026 | <nobr><code>adventure comedy</code>, <code>animated</code></nobr> | April 9th | ⭐️⭐️⭐️⭐️⭐️ |
 | [The Adventures of Priscilla,<br/>Queen of the Desert](https://en.wikipedia.org/wiki/The_Adventures_of_Priscilla,_Queen_of_the_Desert) | [Stephan Elliott](https://en.wikipedia.org/wiki/Stephan_Elliott) | <code>English</code> | 1994 | <nobr><code>road</code>, <code>comedy</code></nobr> | March 27th | ⭐️⭐️⭐️⭐️ |
 | [Pitch Perfect](https://en.wikipedia.org/wiki/Pitch_Perfect) | [Jason Moore](https://en.wikipedia.org/wiki/Jason_Moore_(director)) | <code>English</code> | 2012 | <nobr><code>comedy</code></nobr> | March 24th | ⭐️⭐️⭐️⭐️ |
