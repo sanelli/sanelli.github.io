@@ -16,7 +16,8 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
-| + | [Ed Sheeran](https://en.wikipedia.org/wiki/Ed_Sheeran) |  | <nobr></nobr> | <nobr>May 18th</nobr> | ⭐️⭐️⭐️ |
+| [Fever](https://en.wikipedia.org/wiki/Fever_(Kylie_Minogue_album)) | [Kylie Minogue](https://en.wikipedia.org/wiki/Kylie_Minogue) | 2001 | <nobr><code>dance-pop</code>, <code>nu-disco</code>, <code>synth-pop</code></nobr> | <nobr>May 19th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
+| [+](https://en.wikipedia.org/wiki/%2B_(album)) | [Ed Sheeran](https://en.wikipedia.org/wiki/Ed_Sheeran) | 2011 | <nobr><code>Folk-pop</code>, <code>hip-hop</code></nobr> | <nobr>May 18th</nobr> | ⭐️⭐️⭐️ |
 | [Folklore](https://en.wikipedia.org/wiki/Folklore_(Nelly_Furtado_album)) | [Nelly Furtado](https://en.wikipedia.org/wiki/Nelly_Furtado) | 2003 | <nobr><code>world</code>, <code>pop</code></nobr> | <nobr>May 15th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Loose](https://en.wikipedia.org/wiki/Loose_(Nelly_Furtado_album)) | [Nelly Furtado](https://en.wikipedia.org/wiki/Nelly_Furtado) | 2006 | <nobr><code>pop</code></nobr> | <nobr>May 14th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Whoa, Nelly!](https://en.wikipedia.org/wiki/Whoa,_Nelly!) | [Nelly Furtado](https://en.wikipedia.org/wiki/Nelly_Furtado) | 2000 | <nobr><code>pop</code>, <code>trip hop</code>, <code>worldbeat</code>, <code>rock</code></nobr> | <nobr>May 13th</nobr> | ⭐️⭐️⭐️⭐️ |
