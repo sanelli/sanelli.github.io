@@ -16,7 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
-| The rise and fall of a midwest princess | Chappell Roan |  | <nobr></nobr> | <nobr>May 21st</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
+| [The Rise and Fall of a Midwest Princess](https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_a_Midwest_Princess) | [Chappell Roan](https://en.wikipedia.org/wiki/Chappell_Roan) | 2023 | <nobr><code>synth-pop</code>, <code>alt-pop</code>, <code>bubblegum</code>,<br/><code>dance-pop</code>, <code>electro</code>, </nobr> | <nobr>May 21st</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Fever](https://en.wikipedia.org/wiki/Fever_(Kylie_Minogue_album)) | [Kylie Minogue](https://en.wikipedia.org/wiki/Kylie_Minogue) | 2001 | <nobr><code>dance-pop</code>, <code>nu-disco</code>, <code>synth-pop</code></nobr> | <nobr>May 19th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [+](https://en.wikipedia.org/wiki/%2B_(album)) | [Ed Sheeran](https://en.wikipedia.org/wiki/Ed_Sheeran) | 2011 | <nobr><code>Folk-pop</code>, <code>hip-hop</code></nobr> | <nobr>May 18th</nobr> | ⭐️⭐️⭐️ |
 | [Folklore](https://en.wikipedia.org/wiki/Folklore_(Nelly_Furtado_album)) | [Nelly Furtado](https://en.wikipedia.org/wiki/Nelly_Furtado) | 2003 | <nobr><code>world</code>, <code>pop</code></nobr> | <nobr>May 15th</nobr> | ⭐️⭐️⭐️⭐️ |
