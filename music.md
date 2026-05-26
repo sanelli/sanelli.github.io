@@ -16,11 +16,11 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
-| Nine Track Mind | Charlie Puth |  | <nobr></nobr> | <nobr>May 25th</nobr> | ⭐️⭐️⭐️⭐️ |
+| [Nine Track Mind](https://en.wikipedia.org/wiki/Nine_Track_Mind) | [Charlie Puth](https://en.wikipedia.org/wiki/Charlie_Puth) | 2016 | <nobr><code>pop</code>, <code>R&amp;B</code></nobr> | <nobr>May 25th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [No Sound Without Silence](https://en.wikipedia.org/wiki/No_Sound_Without_Silence) | [The Script](https://en.wikipedia.org/wiki/The_Script) | 2014 | <nobr><code>pop rock</code></nobr> | <nobr>May 22nd</nobr> | ⭐️⭐️⭐️⭐️ |
 | [The Rise and Fall of a Midwest Princess](https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_a_Midwest_Princess) | [Chappell Roan](https://en.wikipedia.org/wiki/Chappell_Roan) | 2023 | <nobr><code>synth-pop</code>, <code>alt-pop</code>, <code>bubblegum</code>,<br/><code>dance-pop</code>, <code>electro</code></nobr> | <nobr>May 21st</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Fever](https://en.wikipedia.org/wiki/Fever_(Kylie_Minogue_album)) | [Kylie Minogue](https://en.wikipedia.org/wiki/Kylie_Minogue) | 2001 | <nobr><code>dance-pop</code>, <code>nu-disco</code>, <code>synth-pop</code></nobr> | <nobr>May 19th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
-| [+](https://en.wikipedia.org/wiki/%2B_(album)) | [Ed Sheeran](https://en.wikipedia.org/wiki/Ed_Sheeran) | 2011 | <nobr><code>Folk-pop</code>, <code>hip-hop</code></nobr> | <nobr>May 18th</nobr> | ⭐️⭐️⭐️ |
+| [+](https://en.wikipedia.org/wiki/%2B_(album)) | [Ed Sheeran](https://en.wikipedia.org/wiki/Ed_Sheeran) | 2011 | <nobr><code>folk-pop</code>, <code>hip-hop</code></nobr> | <nobr>May 18th</nobr> | ⭐️⭐️⭐️ |
 | [Folklore](https://en.wikipedia.org/wiki/Folklore_(Nelly_Furtado_album)) | [Nelly Furtado](https://en.wikipedia.org/wiki/Nelly_Furtado) | 2003 | <nobr><code>world</code>, <code>pop</code></nobr> | <nobr>May 15th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Loose](https://en.wikipedia.org/wiki/Loose_(Nelly_Furtado_album)) | [Nelly Furtado](https://en.wikipedia.org/wiki/Nelly_Furtado) | 2006 | <nobr><code>pop</code></nobr> | <nobr>May 14th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Whoa, Nelly!](https://en.wikipedia.org/wiki/Whoa,_Nelly!) | [Nelly Furtado](https://en.wikipedia.org/wiki/Nelly_Furtado) | 2000 | <nobr><code>pop</code>, <code>trip hop</code>, <code>worldbeat</code>, <code>rock</code></nobr> | <nobr>May 13th</nobr> | ⭐️⭐️⭐️⭐️ |

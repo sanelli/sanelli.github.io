@@ -16,12 +16,13 @@ permalink: /books/
 
 | Title                             | Author(s)                         | Lang | Year | Genre     |
 |-----------------------------------|-----------------------------------|------|------|-----------|
-| [Terre desolate](https://en.wikipedia.org/wiki/The_Dark_Tower_III:_The_Waste_Lands)<br/><nobr style="font-size:.75em"><strong>The Dark Tower III: The Waste Lands</strong></nobr> | [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) | <code>Italian</code> | 1991 | <nobr><code>dark fantasy</code>, <code>science fiction</code></nobr> |
+| [Ricordi di un vicolo cieco](https://en.wikipedia.org/wiki/Dead-End_Memories) | [Banana Yoshimoto](https://en.wikipedia.org/wiki/Banana_Yoshimoto) | <code>Italian</code> | 2006 | <nobr><code>short story collection</code></nobr> |
 
 ## 2026
 
 | Title                             | Author(s)                         | Lang | Year | Genre     | Finished    | Rating       |
 |-----------------------------------|-----------------------------------|------|------|-----------|-------------|--------------|
+| [Terre desolate](https://en.wikipedia.org/wiki/The_Dark_Tower_III:_The_Waste_Lands)<br/><nobr style="font-size:.75em"><strong>The Dark Tower III: The Waste Lands</strong></nobr> | [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) | <code>Italian</code> | 1991 | <nobr><code>dark fantasy</code>, <code>science fiction</code></nobr> | <nobr>May 26th</nobr>| ⭐️⭐️⭐️⭐️⭐️ |
 | [Pretty Guardian Sailor Moon](https://en.wikipedia.org/wiki/Sailor_Moon)<br/><nobr style="font-size:.75em"><strong>Volume 6 (Act 27 - Act 30)</strong></nobr> | [Naoko Takeuchi](https://en.wikipedia.org/wiki/Naoko_Takeuchi) | <code>Italian</code> | 1991 | <nobr><code>manga</code>, <code>magical girl</code></nobr> | <nobr>May 17th</nobr>| ⭐️⭐️⭐️⭐️⭐️ |
 | [Giovanni's Room](https://en.wikipedia.org/wiki/Giovanni%27s_Room) | [James Baldwin](https://en.wikipedia.org/wiki/James_Baldwin) | <code>English</code> | 1956 | <nobr><code>gay</code></nobr> | <nobr>May 2nd</nobr>| ⭐️⭐️⭐️⭐️⭐️ |
 | [Accabadora](https://it.wikipedia.org/wiki/Accabadora) | [Michela Murgia](https://en.wikipedia.org/wiki/Michela_Murgia) | <code>Italian</code> | 2009 | <nobr><code>novel</code></nobr> | <nobr>April 21st</nobr>| ⭐️⭐️⭐️⭐️ |
