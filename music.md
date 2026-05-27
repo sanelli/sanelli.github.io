@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| This is how it feels | Mondays | | | <nobr>May 27th</nobr> | ⭐️⭐️⭐️⭐️ |
 | Hozier | Hozier | | | <nobr>May 27th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Nine Track Mind](https://en.wikipedia.org/wiki/Nine_Track_Mind) | [Charlie Puth](https://en.wikipedia.org/wiki/Charlie_Puth) | 2016 | <nobr><code>pop</code>, <code>R&amp;B</code></nobr> | <nobr>May 25th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [No Sound Without Silence](https://en.wikipedia.org/wiki/No_Sound_Without_Silence) | [The Script](https://en.wikipedia.org/wiki/The_Script) | 2014 | <nobr><code>pop rock</code></nobr> | <nobr>May 22nd</nobr> | ⭐️⭐️⭐️⭐️ |
