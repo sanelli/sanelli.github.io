@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| Hozier | Hozier | | | <nobr>May 27th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Nine Track Mind](https://en.wikipedia.org/wiki/Nine_Track_Mind) | [Charlie Puth](https://en.wikipedia.org/wiki/Charlie_Puth) | 2016 | <nobr><code>pop</code>, <code>R&amp;B</code></nobr> | <nobr>May 25th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [No Sound Without Silence](https://en.wikipedia.org/wiki/No_Sound_Without_Silence) | [The Script](https://en.wikipedia.org/wiki/The_Script) | 2014 | <nobr><code>pop rock</code></nobr> | <nobr>May 22nd</nobr> | ⭐️⭐️⭐️⭐️ |
 | [The Rise and Fall of a Midwest Princess](https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_a_Midwest_Princess) | [Chappell Roan](https://en.wikipedia.org/wiki/Chappell_Roan) | 2023 | <nobr><code>synth-pop</code>, <code>alt-pop</code>, <code>bubblegum</code>,<br/><code>dance-pop</code>, <code>electro</code></nobr> | <nobr>May 21st</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
