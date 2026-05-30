@@ -16,7 +16,8 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
-| This is how it feels | Mondays | 2017 | | <nobr>May 27th</nobr> | ⭐️⭐️⭐️⭐️ |
+| [Bridges](https://en.wikipedia.org/wiki/Bridges_(Calum_Scott_album)) | [Calum Scott](https://en.wikipedia.org/wiki/Calum_Scott) | 2022 | <nobr><code>pop</code>, <code>acustic</code>, <code>ballad</code></nobr> | <nobr>May 30th</nobr> | ⭐️⭐️⭐️⭐️ |
+| This is how it feels | Mondays | 2017 | <nobr><code>pop</code>, <code>indie pop</code>, <code>dance pop</code></nobr> | <nobr>May 27th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Hozier](https://en.wikipedia.org/wiki/Hozier_(album)) | [Hozier](https://en.wikipedia.org/wiki/Hozier) | 2014 | <nobr><code>blues</code>, <code>soul</code>, <code>indie rock</code></nobr> | <nobr>May 27th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Nine Track Mind](https://en.wikipedia.org/wiki/Nine_Track_Mind) | [Charlie Puth](https://en.wikipedia.org/wiki/Charlie_Puth) | 2016 | <nobr><code>pop</code>, <code>R&amp;B</code></nobr> | <nobr>May 25th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [No Sound Without Silence](https://en.wikipedia.org/wiki/No_Sound_Without_Silence) | [The Script](https://en.wikipedia.org/wiki/The_Script) | 2014 | <nobr><code>pop rock</code></nobr> | <nobr>May 22nd</nobr> | ⭐️⭐️⭐️⭐️ |
