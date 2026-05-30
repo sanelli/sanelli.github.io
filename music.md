@@ -38,7 +38,7 @@ permalink: /music/
 | [Prism](https://en.wikipedia.org/wiki/Prism_(Katy_Perry_album)) | [Katy Perry](https://en.wikipedia.org/wiki/Katy_Perry) | 2013 | <nobr><code>pop</code></nobr> | <nobr>May 5th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Bad](https://en.wikipedia.org/wiki/Bad_(album)) | [Michael Jackson](https://en.wikipedia.org/wiki/Michael_Jackson) | 1987 | <nobr><code>dance-pop</code>, <code>R&amp;B</code></nobr> | <nobr>May 5th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Northern Star](https://en.wikipedia.org/wiki/Northern_Star_(Melanie_C_album)) | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 1999 | <nobr><code>pop</code></nobr> | <nobr>May 4th</nobr> | ⭐️⭐️⭐️ |
-| Sweat | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 2026 | <nobr><code>pop</code></nobr> | <nobr>May 4th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
+| [Sweat](https://en.wikipedia.org/wiki/Sweat_(Melanie_C_album)) | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 2026 | <nobr><code>pop</code></nobr> | <nobr>May 4th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Breakaway](https://en.wikipedia.org/wiki/Breakaway_(Kelly_Clarkson_album)) | [Kelly Clarkson](https://en.wikipedia.org/wiki/Kelly_Clarkson) | 2004 |  <nobr><code>pop rock</code></nobr> | <nobr>May 1st</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Blackout](https://en.wikipedia.org/wiki/Blackout_(Britney_Spears_album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2007 |  <nobr><code>dance-pop</code>, <code>electropop</code>, <code>techno</code>,<br/><code>avant-disco</code></nobr> | <nobr>May 1st</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Actually](https://en.wikipedia.org/wiki/Actually) | [Pet Shop Boys](https://en.wikipedia.org/wiki/Pet_Shop_Boys) | 1987 | <nobr><code>synth-pop</code>, <code>electropop</code>, <code>dance-pop</code></nobr> | <nobr>April 30th</nobr> | ⭐️⭐️⭐️⭐️ |
