@@ -16,8 +16,7 @@ permalink: /games/
 
 | Title | Developer(s) | Publisher(s) | Console | Genre |
 |-------|--------------|--------------|---------|-------|
-| [Donkey Kong Bananza](https://en.wikipedia.org/wiki/Donkey_Kong_Bananza)<br/><nobr style="font-size:.75em"><strong>POST-GAME</strong></nobr>  | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>platformer</code></nobr>  |
-| [Cyberpunk 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077) | [CD Projekt Red](https://en.wikipedia.org/wiki/CD_Projekt_Red) | [CD Projekt](https://en.wikipedia.org/wiki/CD_Projekt) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing</code></nobr> |
+| [Mina the Hollower](https://en.wikipedia.org/wiki/Mina_the_Hollower) | [Yacht Club Games](https://en.wikipedia.org/wiki/Yacht_Club_Games) | [Yacht Club Games](https://en.wikipedia.org/wiki/Yacht_Club_Games) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action-adventure</code></nobr> |
 
 ## 2026
 
@@ -119,6 +118,7 @@ permalink: /games/
 
 | Status | Title | Developer(s) | Publisher(s) | Console | Genre |
 |:------:|-------|--------------|--------------|---------|-------|
+| `PAUSED` | [Cyberpunk 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077) | [CD Projekt Red](https://en.wikipedia.org/wiki/CD_Projekt_Red) | [CD Projekt](https://en.wikipedia.org/wiki/CD_Projekt) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing</code></nobr> |
 | `PAUSED` | [Dark Soul (Remastered)](https://en.wikipedia.org/wiki/Dark_Souls_(video_game)) | [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware) | [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) | [PlayStation 5](https://en.wikipedia.org/wiki/PlayStation_5) | <nobr><code>action role-playing</code>, <code>soulslike</code></nobr> |
 | `STOPPED` | [The Legend of Zelda: Skyward Sword](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Skyward_Sword) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action-adventure</code></nobr> |
 | `STOPPED` | [Return to Monkey Island](https://en.wikipedia.org/wiki/Return_to_Monkey_Island) | Terrible Toybox | [Devolver Digital](https://en.wikipedia.org/wiki/Devolver_Digital) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>point-and-click</code>, <code>adventure</code></nobr> |
