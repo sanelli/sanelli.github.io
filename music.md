@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| Fireworks &amp; Rollerblades | Benson Boone | 2024 | <nobr></nobr> | <nobr>June 2nd</nobr> | ⭐️⭐️⭐️ |
 | [Bridges](https://en.wikipedia.org/wiki/Bridges_(Calum_Scott_album)) | [Calum Scott](https://en.wikipedia.org/wiki/Calum_Scott) | 2022 | <nobr><code>pop</code>, <code>acustic</code>, <code>ballad</code></nobr> | <nobr>May 30th</nobr> | ⭐️⭐️⭐️⭐️ |
 | This is how it feels | Mondays | 2017 | <nobr><code>pop</code>, <code>indie pop</code>, <code>dance pop</code></nobr> | <nobr>May 30th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Hozier](https://en.wikipedia.org/wiki/Hozier_(album)) | [Hozier](https://en.wikipedia.org/wiki/Hozier) | 2014 | <nobr><code>blues</code>, <code>soul</code>, <code>indie rock</code></nobr> | <nobr>May 27th</nobr> | ⭐️⭐️⭐️⭐️ |
