@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| Dangerous woman | Ariana Grande | 2016 | <nobr></nobr> | <nobr>June 4th</nobr> | ⭐️⭐️⭐️⭐️ |
 | My everything | Ariana Grande | 2014 | <nobr></nobr> | <nobr>June 4th</nobr> | ⭐️⭐️⭐️ |
 | Fireworks &amp; Rollerblades | Benson Boone | 2024 | <nobr></nobr> | <nobr>June 2nd</nobr> | ⭐️⭐️⭐️ |
 | [Bridges](https://en.wikipedia.org/wiki/Bridges_(Calum_Scott_album)) | [Calum Scott](https://en.wikipedia.org/wiki/Calum_Scott) | 2022 | <nobr><code>pop</code>, <code>acustic</code>, <code>ballad</code></nobr> | <nobr>May 30th</nobr> | ⭐️⭐️⭐️⭐️ |
