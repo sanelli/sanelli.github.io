@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| Grease | Grease |  | <nobr></nobr> | <nobr>June 5th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | Light Years | Kylie |  | <nobr></nobr> | <nobr>June 5th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Dangerous woman](https://en.wikipedia.org/wiki/Dangerous_Woman) | [Ariana Grande](https://en.wikipedia.org/wiki/Ariana_Grande) | 2016 | <nobr><code>pop</code>, <code>R&amp;B</code></nobr> | <nobr>June 4th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [My everything](https://en.wikipedia.org/wiki/My_Everything_(Ariana_Grande_album)) | [Ariana Grande](https://en.wikipedia.org/wiki/Ariana_Grande) | 2014 | <nobr><code>pop</code>, <code>R&amp;B</code>, <code>electropop</code></nobr> | <nobr>June 4th</nobr> | ⭐️⭐️⭐️ |
