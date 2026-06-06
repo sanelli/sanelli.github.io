@@ -16,12 +16,13 @@ permalink: /books/
 
 | Title                             | Author(s)                         | Lang | Year | Genre     |
 |-----------------------------------|-----------------------------------|------|------|-----------|
-| [Ricordi di un vicolo cieco](https://en.wikipedia.org/wiki/Dead-End_Memories) | [Banana Yoshimoto](https://en.wikipedia.org/wiki/Banana_Yoshimoto) | <code>Italian</code> | 2006 | <nobr><code>short story collection</code></nobr> |
+| [Persepolis](https://en.wikipedia.org/wiki/Persepolis_(comics)) | [Marjane Satrapi](https://en.wikipedia.org/wiki/Marjane_Satrapi) | <code>English</code> | 2000 | <nobr><code>graphic novel</code></nobr> |
 
 ## 2026
 
 | Title                             | Author(s)                         | Lang | Year | Genre     | Finished    | Rating       |
 |-----------------------------------|-----------------------------------|------|------|-----------|-------------|--------------|
+| [Ricordi di un vicolo cieco](https://en.wikipedia.org/wiki/Dead-End_Memories) | [Banana Yoshimoto](https://en.wikipedia.org/wiki/Banana_Yoshimoto) | <code>Italian</code> | 2006 | <nobr><code>short story collection</code></nobr> | <nobr>June 6th</nobr>| ⭐️⭐️⭐️ |
 | [Pretty Guardian Sailor Moon](https://en.wikipedia.org/wiki/Sailor_Moon)<br/><nobr style="font-size:.75em"><strong>Volume 7 (Act 31 - Act 35)</strong></nobr> | [Naoko Takeuchi](https://en.wikipedia.org/wiki/Naoko_Takeuchi) | <code>Italian</code> | 1991 | <nobr><code>manga</code>, <code>magical girl</code></nobr> | <nobr>May 30th</nobr>| ⭐️⭐️⭐️⭐️ |
 | [Terre desolate](https://en.wikipedia.org/wiki/The_Dark_Tower_III:_The_Waste_Lands)<br/><nobr style="font-size:.75em"><strong>The Dark Tower III: The Waste Lands</strong></nobr> | [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) | <code>Italian</code> | 1991 | <nobr><code>dark fantasy</code>, <code>science fiction</code></nobr> | <nobr>May 26th</nobr>| ⭐️⭐️⭐️⭐️⭐️ |
 | [Pretty Guardian Sailor Moon](https://en.wikipedia.org/wiki/Sailor_Moon)<br/><nobr style="font-size:.75em"><strong>Volume 6 (Act 27 - Act 30)</strong></nobr> | [Naoko Takeuchi](https://en.wikipedia.org/wiki/Naoko_Takeuchi) | <code>Italian</code> | 1991 | <nobr><code>manga</code>, <code>magical girl</code></nobr> | <nobr>May 17th</nobr>| ⭐️⭐️⭐️⭐️⭐️ |
