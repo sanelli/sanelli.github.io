@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| L'Angelo | Syria | 1997 | <nobr></nobr> | <nobr>June 8th</nobr> | ⭐️⭐️⭐️⭐️ |
 | Voicenotes | Charlie Puth | 2018 | <nobr></nobr> | <nobr>June 8th</nobr> | ⭐️⭐️⭐️ |
 | [Grease](https://en.wikipedia.org/wiki/Grease_(soundtrack))<br/><nobr style="font-size:.75em"><strong>Soundtrack</strong></nobr> | [Grease](https://en.wikipedia.org/wiki/Grease_(film)) | 1978 | <nobr><code>rock and roll</code>, <code>doo-wop</code>, <code>pop</code>,<br/><code>disco</code></nobr> | <nobr>June 5th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Light Years](https://en.wikipedia.org/wiki/Light_Years_(Kylie_Minogue_album)) | [Kylie Minogue](https://en.wikipedia.org/wiki/Kylie_Minogue) | 2000 | <nobr><code>dance-pop</code>, <code>disco</code>, <code>europop</code></nobr> | <nobr>June 5th</nobr> | ⭐️⭐️⭐️⭐️ |
