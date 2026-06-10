@@ -16,8 +16,8 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
-| A Girl Like Me | Emma Bunton | 2001 | <nobr></nobr> | <nobr>June 10th</nobr> | |
-| Come una goccia d'acqua | [Syria](https://en.wikipedia.org/wiki/Syria_(singer)) | 2004 | <nobr></nobr> | <nobr>June 10th</nobr> | ⭐️⭐️⭐️ |
+| [A Girl Like Me](https://en.wikipedia.org/wiki/A_Girl_Like_Me_(Emma_Bunton_album)) | [Emma Bunton](https://en.wikipedia.org/wiki/Emma_Bunton) | 2001 | <nobr><code>pop</code></nobr> | <nobr>June 10th</nobr> | ⭐️⭐️⭐️ |
+| [Come una goccia d'acqua](https://it.wikipedia.org/wiki/Come_una_goccia_d'acqua) | [Syria](https://en.wikipedia.org/wiki/Syria_(singer)) | 2000 | <nobr><code>pop</code></nobr> | <nobr>June 10th</nobr> | ⭐️⭐️⭐️ |
 | [L'Angelo](https://it.wikipedia.org/wiki/L'angelo_(album_Syria)) | [Syria](https://en.wikipedia.org/wiki/Syria_(singer)) | 1997 | <nobr><code>pop</code></nobr> | <nobr>June 8th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Voicenotes](https://en.wikipedia.org/wiki/Voicenotes) | [Charlie Puth](https://en.wikipedia.org/wiki/Charlie_Puth) | 2018 | <nobr><code>pop</code>, <code>R&amp;B</code></nobr> | <nobr>June 8th</nobr> | ⭐️⭐️⭐️ |
 | [Grease](https://en.wikipedia.org/wiki/Grease_(soundtrack))<br/><nobr style="font-size:.75em"><strong>Soundtrack</strong></nobr> | [Grease](https://en.wikipedia.org/wiki/Grease_(film)) | 1978 | <nobr><code>rock and roll</code>, <code>doo-wop</code>, <code>pop</code>,<br/><code>disco</code></nobr> | <nobr>June 5th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
