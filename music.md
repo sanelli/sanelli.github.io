@@ -189,7 +189,6 @@ permalink: /music/
 | [L'abitudine di tornare](https://en.wikipedia.org/wiki/L%27abitudine_di_tornare) | [Carmen Consoli](https://en.wikipedia.org/wiki/Carmen_Consoli) | 2015 | <nobr><code>pop folk</code>, <code>rock</code>, <code>electronica</code></nobr> |
 | [Volevo fare la rockstar](https://en.wikipedia.org/wiki/Volevo_fare_la_rockstar) | [Carmen Consoli](https://en.wikipedia.org/wiki/Carmen_Consoli) | 2015 | <nobr><code>soft rock</code>, <code>electroacustic</code></nobr> |
 | Amuri luci | [Carmen Consoli](https://en.wikipedia.org/wiki/Carmen_Consoli) | 2025 | <nobr></nobr> |
-| [A Girl Like Me](https://en.wikipedia.org/wiki/A_Girl_Like_Me_(Emma_Bunton_album)) | [Emma Bunton](https://en.wikipedia.org/wiki/Emma_Bunton) | 2001 | <nobr><code>pop</code></nobr> |
 | [Free Me](https://en.wikipedia.org/wiki/Free_Me_(album)) | [Emma Bunton](https://en.wikipedia.org/wiki/Emma_Bunton) | 2004 | <nobr><code>pop</code>, <code>rock</code></nobr> |
 | [Reason](https://en.wikipedia.org/wiki/Reason_(Melanie_C_album)) | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 2003 | <nobr><code>pop</code></nobr> |
 | [Beautiful Intentions](https://en.wikipedia.org/wiki/Beautiful_Intentions) | [Melanie C](https://en.wikipedia.org/wiki/Melanie_C) | 2005 | <nobr><code>pop</code>, <code>rock</code></nobr> |
