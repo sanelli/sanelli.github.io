@@ -4,6 +4,14 @@ title:  "🍎 Turing machine interpreters implemented in C#, C++, Python and Go"
 date:   2024-03-26 21:32:03 +0100
 categories: projects turing interpreter dotnet csharp cpp python
 ---
+
+<style>
+        @media screen and (min-width: 600px) {
+                .wrapper { margin-left: 5em; max-width: calc(890px - 30px * 2); }
+                .post-list { margin-left: 3em;}
+        }
+</style>
+
 Released the [suite of turing machine interpreters](https://github.com/sanelli/turing).
 
 The [turing](https://github.com/sanelli/turing) repo contain various implementation of [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine) interpreters.

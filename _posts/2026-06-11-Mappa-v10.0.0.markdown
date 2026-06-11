@@ -1,0 +1,85 @@
+---
+layout: post
+title:  "🗺️ Mappa v10.0.0"
+date:   2026-06-11 22:01:00 +0100
+categories: projects csharp nuget source-generator mappa
+---
+
+<style>
+        @media screen and (min-width: 600px) {
+                .wrapper { margin-left: 5em; max-width: calc(890px - 30px * 2); }
+                .post-list { margin-left: 3em;}
+        }
+</style>
+
+A new version of [Mappa](https://github.com/sanelli/Mappa) (v10.0.0) has been released.
+
+Mappa **10.0.0** is a major release. It targets **.NET 10**, adds polymorphic mapping and richer configuration, and expands `MappaInvokeMethod`, constructor mapping, and collection support. Documentation and samples were reviewed end-to-end.
+**Full changelog:** [v1.2.0...v10.0.0](https://github.com/sanelli/Mappa/compare/v1.2.0...v10.0.0)
+
+## What's new
+
+### Platform
+- **Migrate to .NET 10** ([#178](https://github.com/sanelli/Mappa/issues/178), [#188](https://github.com/sanelli/Mappa/pull/188)) — Mappa now targets .NET 10; upgrade consuming projects accordingly.
+
+### New features
+- **Polymorphic mapping** ([#49](https://github.com/sanelli/Mappa/issues/49), [#187](https://github.com/sanelli/Mappa/pull/187)) — Map base types to derived instances when the runtime type is known.
+- **`MappaAssignToContext` attribute** ([#205](https://github.com/sanelli/Mappa/issues/205), [#207](https://github.com/sanelli/Mappa/pull/207)) — Assign mapped values into `MappaContext` during generation.
+- **`MappaSettings` property name matching** ([#98](https://github.com/sanelli/Mappa/issues/98), [#211](https://github.com/sanelli/Mappa/pull/211)) — Configure how source and target property names are matched (e.g. case sensitivity).
+- **Constructor strategy: ignore target properties** ([#3](https://github.com/sanelli/Mappa/issues/3), [#204](https://github.com/sanelli/Mappa/pull/204)) — Exclude specific target properties from constructor-based mapping via attribute.
+- **String → `Parse(string)` mapping** ([#52](https://github.com/sanelli/Mappa/issues/52), [#177](https://github.com/sanelli/Mappa/pull/177)) — Map `string` to any type that exposes `static TTarget Parse(string)`.
+- **Numeric format and `IFormatProvider`** ([#76](https://github.com/sanelli/Mappa/issues/76), [#216](https://github.com/sanelli/Mappa/pull/216)) — Control culture and format for numeric `Parse` / `ToString` conversions.
+
+### `[MappaInvokeMethod]` attribute
+- **`MappaContext` parameters** ([#70](https://github.com/sanelli/Mappa/issues/70), [#206](https://github.com/sanelli/Mappa/pull/206)) — Invoked methods can accept `MappaContext` arguments.
+- **Hierarchy lookup** ([#179](https://github.com/sanelli/Mappa/issues/179), [#199](https://github.com/sanelli/Mappa/pull/199)) — Optional fields, properties, and methods are resolved up the class hierarchy.
+- **Instance member access** ([#193](https://github.com/sanelli/Mappa/issues/193), [#195](https://github.com/sanelli/Mappa/pull/195)) — Non-static fields and properties are referenced with `this.` in generated code.
+- **Static vs. instance safety** ([#190](https://github.com/sanelli/Mappa/issues/190), [#194](https://github.com/sanelli/Mappa/pull/194)) — A static mapping method cannot invoke a non-static method.
+- **Non-static method dependencies** ([#185](https://github.com/sanelli/Mappa/issues/185), [#191](https://github.com/sanelli/Mappa/pull/191)) — Method dependency lookup can use accessible non-static methods where appropriate.
+
+### Mapping improvements
+- **Collection concrete types with capacity constructors** ([#109](https://github.com/sanelli/Mappa/issues/109), [#176](https://github.com/sanelli/Mappa/pull/176)) — Support collection types that expose a capacity constructor.
+- **Read-only collection properties** ([#110](https://github.com/sanelli/Mappa/issues/110), [#202](https://github.com/sanelli/Mappa/pull/202)) — Broader support when targeting read-only properties of collection types.
+- **Inherited mapping methods** ([#186](https://github.com/sanelli/Mappa/issues/186), [#196](https://github.com/sanelli/Mappa/pull/196)) — Methods used for mapping are discovered in parent classes.
+- **`MappaDependency` in base classes** ([#183](https://github.com/sanelli/Mappa/issues/183), [#197](https://github.com/sanelli/Mappa/pull/197)) — Fields and properties marked with `MappaDependency` are picked up from accessible members in parent classes.
+
+### Diagnostics and quality
+- **Missing attribute warnings** ([#154](https://github.com/sanelli/Mappa/issues/154), [#203](https://github.com/sanelli/Mappa/pull/203)) — Additional compiler warnings for misconfigured or incomplete attribute usage.
+- **EditorConfig integration tests for `MappaSettings`** ([#210](https://github.com/sanelli/Mappa/issues/210), [#213](https://github.com/sanelli/Mappa/pull/213)) — Settings behavior is validated against EditorConfig configuration.
+
+### Documentation and samples
+- **Tutorial and documentation review** ([#148](https://github.com/sanelli/Mappa/issues/148), [#217](https://github.com/sanelli/Mappa/pull/217)) — Tutorial advanced topics, attribute reference, error codes, and package READMEs updated and aligned with current behavior.
+- **`MappaInvokeMethod` docs for `MappaContext`** ([#209](https://github.com/sanelli/Mappa/issues/209), [#212](https://github.com/sanelli/Mappa/pull/212)) — Documented rules for `MappaContext` in invoked methods.
+- **AOT samples coverage** ([#41](https://github.com/sanelli/Mappa/issues/41), [#198](https://github.com/sanelli/Mappa/pull/198)) — `Mappa.Samples.Aot` now runs all sample mappers for native/AOT validation.
+
+### Maintenance
+- **CI and tooling** ([#200](https://github.com/sanelli/Mappa/issues/200), [#201](https://github.com/sanelli/Mappa/pull/201)) — GitHub Actions dependencies bumped to current versions.
+- **TODO hygiene** ([#182](https://github.com/sanelli/Mappa/issues/182), [#189](https://github.com/sanelli/Mappa/pull/189)) — Guard against leftover issue TODOs in the codebase.
+
+## What's next
+This is a tentative and non exhaustive list of issue that I would like to cover in the upocoming version of Mappa:
+
+### Mapping / generator features
+- [#215](https://github.com/sanelli/Mappa/issues/215) — Support `NumberStyles` for `Parse` on all numeric types
+- [#214](https://github.com/sanelli/Mappa/issues/214) — Support `DateTimeStyle` for `Parse` / `ParseExact` on `DateTime`, `DateOnly`, `TimeOnly`
+- [#184](https://github.com/sanelli/Mappa/issues/184) — More relaxed nullability when matching methods
+- [#181](https://github.com/sanelli/Mappa/issues/181) — Speed up enum mappings with `switch` expressions
+- [#175](https://github.com/sanelli/Mappa/issues/175) — Support mapping empty → empty type
+- [#155](https://github.com/sanelli/Mappa/issues/155) — Add `MappaUseConstructor` attribute to pick which constructor to use
+- [#120](https://github.com/sanelli/Mappa/issues/120) — Allow mapping via nested source property chains
+- [#73](https://github.com/sanelli/Mappa/issues/73) — Support fields, not only properties
+- [#67](https://github.com/sanelli/Mappa/issues/67) — `MappaInvokeMethodAttribute`: add `SourceProperty` parameter
+- [#29](https://github.com/sanelli/Mappa/issues/29) — Option to prefer arrays over lists in generated code
+- [#19](https://github.com/sanelli/Mappa/issues/19) — Fail enum→enum maps when not all source values are mappable
+
+### Language / platform
+- [#174](https://github.com/sanelli/Mappa/issues/174) — Support C# 14 extension blocks in static classes (partial classes assumed)
+
+### Protobuf
+- [#89](https://github.com/sanelli/Mappa/issues/89) — Polymorphism via protobuf `oneof` for both source and target
+
+### Testing / benchmarks / CI
+- [#208](https://github.com/sanelli/Mappa/issues/208) — Migrate away from FluentAssertions
+- [#119](https://github.com/sanelli/Mappa/issues/119) — Migrate to xUnit v3
+- [#134](https://github.com/sanelli/Mappa/issues/134) — Improve benchmarks
+- [#152](https://github.com/sanelli/Mappa/issues/152) — Run benchmarks on CI/CD when merging to `main`

@@ -5,6 +5,13 @@ date:   2025-06-15 10:07:00 +0100
 categories: projects blocchi tetris tetromino rust bevy game
 ---
 
+<style>
+        @media screen and (min-width: 600px) {
+                .wrapper { margin-left: 5em; max-width: calc(890px - 30px * 2); }
+                .post-list { margin-left: 3em;}
+        }
+</style>
+
 Released [Blocchi](https://github.com/sanelli/blocchi).
 
  [Blocchi](https://github.com/sanelli/blocchi) is a `rust` and [`Bevy`](https://bevy.org) implementation of the well known [Tetris](https://en.wikipedia.org/wiki/Tetris) game.

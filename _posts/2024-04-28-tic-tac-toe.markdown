@@ -4,6 +4,14 @@ title:  "❌⭕️ Tic-tac-toe"
 date:   2024-04-28 00:47:00 +0100
 categories: projects ada sdl sdl2 game
 ---
+
+<style>
+        @media screen and (min-width: 600px) {
+                .wrapper { margin-left: 5em; max-width: calc(890px - 30px * 2); }
+                .post-list { margin-left: 3em;}
+        }
+</style>
+
 Released [Tic-tac-toe](https://github.com/sanelli/tic-tac-toe).
 
 [Tic-tac-toe](https://github.com/sanelli/tic-tac-toe) is an `Ada/SDL` implementation of the well known [Tic Tac Toe](https://en.wikipedia.org/wiki/Tic-tac-toe).

@@ -4,6 +4,14 @@ title:  "💭 Comment TODO analyzer"
 date:   2023-07-30 16:21:03 +0100
 categories: projects csharp nuget
 ---
+
+<style>
+        @media screen and (min-width: 600px) {
+                .wrapper { margin-left: 5em; max-width: calc(890px - 30px * 2); }
+                .post-list { margin-left: 3em;}
+        }
+</style>
+
 [Comment TODO Analyzer](https://github.com/sanelli/Todo.Analyzer) is a .NET analyzer for C#, it ensures that all TODO comments in your code respect the same standards.
 
 ## Options

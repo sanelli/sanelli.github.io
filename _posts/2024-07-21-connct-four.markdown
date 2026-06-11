@@ -5,6 +5,13 @@ date:   2024-07-21 00:45:00 +0100
 categories: projects connect-four SDL go go-lang sdl2 game
 ---
 
+<style>
+        @media screen and (min-width: 600px) {
+                .wrapper { margin-left: 5em; max-width: calc(890px - 30px * 2); }
+                .post-list { margin-left: 3em;}
+        }
+</style>
+
 Released [Connect Four](https://github.com/sanelli/connect-four).
 
  [Connect Four](https://github.com/sanelli/connect-four) is a `go/SDL` implementation of the well known [Connect Four](https://en.wikipedia.org/wiki/Connect_Four) game.

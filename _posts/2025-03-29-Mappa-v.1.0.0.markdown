@@ -1,9 +1,17 @@
 ---
 layout: post
-title:  "🗺️ Mappa: the source generator C# mapper"
+title:  "🗺️ Mappa the source generator C# mapper"
 date:   2025-03-29 21:16:03 +0100
 categories: projects csharp nuget source-generator mappa
 ---
+
+<style>
+        @media screen and (min-width: 600px) {
+                .wrapper { margin-left: 5em; max-width: calc(890px - 30px * 2); }
+                .post-list { margin-left: 3em;}
+        }
+</style>
+
 [Mappa](https://github.com/sanelli/Mappa) (italian for _map_) is a .NET source generator for C#. Mappa allows to automatically generate mapper between differrent types, similarly to what AutoMapper does but the mapping generation happens at compile time.
 
 ## Why Mappa?

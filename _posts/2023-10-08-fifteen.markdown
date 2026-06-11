@@ -4,6 +4,14 @@ title:  "1️⃣5️⃣ Fifteen"
 date:   2023-10-08 16:21:03 +0100
 categories: projects c++ sdl2 game
 ---
+
+<style>
+        @media screen and (min-width: 600px) {
+                .wrapper { margin-left: 5em; max-width: calc(890px - 30px * 2); }
+                .post-list { margin-left: 3em;}
+        }
+</style>
+
 Released [Fifteen](https://github.com/sanelli/fifteen).
 
 [Fifteen](https://github.com/sanelli/fifteen) is a `C++/SDL` implementation of the well known [15 Puzzle](https://en.wikipedia.org/wiki/15_Puzzle).

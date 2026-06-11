@@ -4,6 +4,14 @@ title:  "👷‍♀️ Pretty Code string builder"
 date:   2023-09-30 16:21:03 +0100
 categories: projects csharp nuget
 ---
+
+<style>
+        @media screen and (min-width: 600px) {
+                .wrapper { margin-left: 5em; max-width: calc(890px - 30px * 2); }
+                .post-list { margin-left: 3em;}
+        }
+</style>
+
 [PrettyCode.StringBuilder](https://github.com/sanelli/PrettyCode.StringBuilder) is String builder wrapper that helps in generating pretty code 💄.
 Supported features are:
 - Indentation;

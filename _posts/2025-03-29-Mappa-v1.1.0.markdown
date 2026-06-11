@@ -1,9 +1,17 @@
 ---
 layout: post
-title:  "🗺️ Mappa: v1.1.0"
+title:  "🗺️ Mappa v1.1.0"
 date:   2025-04-21 21:25:03 +0100
 categories: projects csharp nuget source-generator mappa
 ---
+
+<style>
+        @media screen and (min-width: 600px) {
+                .wrapper { margin-left: 5em; max-width: calc(890px - 30px * 2); }
+                .post-list { margin-left: 3em;}
+        }
+</style>
+
 A new version of [Mappa](https://github.com/sanelli/Mappa) (v1.1.0) has been released.
 
 ## ⚙️ What's new?

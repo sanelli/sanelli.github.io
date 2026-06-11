@@ -5,6 +5,13 @@ date:   2025-09-26 18:55:00 +0100
 categories: projects csharp nuget todo analyzer comments
 ---
 
+<style>
+        @media screen and (min-width: 600px) {
+                .wrapper { margin-left: 5em; max-width: calc(890px - 30px * 2); }
+                .post-list { margin-left: 3em;}
+        }
+</style>
+
 [Comment TODO Analyzer](https://github.com/sanelli/Todo.Analyzer) is a .NET analyzer for C#, it enforces coding standards to comments defining TODOs.
 
 A new version (v1.1.0) of this .NET analyzer has been released today.

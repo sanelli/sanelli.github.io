@@ -4,4 +4,12 @@ title:  "🍎 New Turing machine interpreter implemented in C"
 date:   2024-07-19 21:28:00 +0100
 categories: projects turing interpreter c
 ---
+
+<style>
+        @media screen and (min-width: 600px) {
+                .wrapper { margin-left: 5em; max-width: calc(890px - 30px * 2); }
+                .post-list { margin-left: 3em;}
+        }
+</style>
+
 Added the [C](https://github.com/sanelli/turing/tree/main/c) implementation to the [suite of turing machine interpreters](https://github.com/sanelli/turing).
