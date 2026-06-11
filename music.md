@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| 1989 | Taylow Swift | 2014 | <nobr></nobr> | <nobr>June 11th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [A Girl Like Me](https://en.wikipedia.org/wiki/A_Girl_Like_Me_(Emma_Bunton_album)) | [Emma Bunton](https://en.wikipedia.org/wiki/Emma_Bunton) | 2001 | <nobr><code>pop</code></nobr> | <nobr>June 10th</nobr> | ⭐️⭐️⭐️ |
 | [Come una goccia d'acqua](https://it.wikipedia.org/wiki/Come_una_goccia_d'acqua) | [Syria](https://en.wikipedia.org/wiki/Syria_(singer)) | 2000 | <nobr><code>pop</code></nobr> | <nobr>June 10th</nobr> | ⭐️⭐️⭐️ |
 | [L'Angelo](https://it.wikipedia.org/wiki/L'angelo_(album_Syria)) | [Syria](https://en.wikipedia.org/wiki/Syria_(singer)) | 1997 | <nobr><code>pop</code></nobr> | <nobr>June 8th</nobr> | ⭐️⭐️⭐️⭐️ |
