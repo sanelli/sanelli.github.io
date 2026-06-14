@@ -16,12 +16,13 @@ permalink: /books/
 
 | Title                             | Author(s)                         | Lang | Year | Genre     |
 |-----------------------------------|-----------------------------------|------|------|-----------|
-| [Colorado Kid](https://en.wikipedia.org/wiki/The_Colorado_Kid)<br/><nobr style="font-size:.75em"><strong>The Colorado Kid</strong></nobr> | [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) | <code>Italian</code> | 2000 | <nobr><code>mystery</code>, <code>crime</code></nobr> |
+| [Heated Rivalry](https://en.wikipedia.org/wiki/Heated_Rivalry_(novel)) | [Rachel Reid](https://en.wikipedia.org/wiki/Rachel_Reid_(author)) | <code>English</code> | 2019 | <nobr><code>gay</code>, <code>sport</code>, <code>romance</code></nobr> |
 
 ## 2026
 
 | Title                             | Author(s)                         | Lang | Year | Genre     | Finished    | Rating       |
 |-----------------------------------|-----------------------------------|------|------|-----------|-------------|--------------|
+| [Colorado Kid](https://en.wikipedia.org/wiki/The_Colorado_Kid)<br/><nobr style="font-size:.75em"><strong>The Colorado Kid</strong></nobr> | [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) | <code>Italian</code> | 2000 | <nobr><code>mystery</code>, <code>crime</code></nobr> | <nobr>June 14th</nobr>| ⭐️⭐️⭐️ |
 | [Ricordi di un vicolo cieco](https://en.wikipedia.org/wiki/Dead-End_Memories)<br/><nobr style="font-size:.75em"><strong>デッドエンドの思い出</strong></nobr> | [Banana Yoshimoto](https://en.wikipedia.org/wiki/Banana_Yoshimoto) | <code>Italian</code> | 2006 | <nobr><code>short story collection</code></nobr> | <nobr>June 6th</nobr>| ⭐️⭐️⭐️ |
 | [Pretty Guardian Sailor Moon](https://en.wikipedia.org/wiki/Sailor_Moon)<br/><nobr style="font-size:.75em"><strong>Volume 7 (Act 31 - Act 35)</strong></nobr> | [Naoko Takeuchi](https://en.wikipedia.org/wiki/Naoko_Takeuchi) | <code>Italian</code> | 1991 | <nobr><code>manga</code>, <code>magical girl</code></nobr> | <nobr>May 30th</nobr>| ⭐️⭐️⭐️⭐️ |
 | [Terre desolate](https://en.wikipedia.org/wiki/The_Dark_Tower_III:_The_Waste_Lands)<br/><nobr style="font-size:.75em"><strong>The Dark Tower III: The Waste Lands</strong></nobr> | [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) | <code>Italian</code> | 1991 | <nobr><code>dark fantasy</code>, <code>science fiction</code></nobr> | <nobr>May 26th</nobr>| ⭐️⭐️⭐️⭐️⭐️ |
