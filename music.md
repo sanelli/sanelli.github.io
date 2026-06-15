@@ -16,7 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
-| La forma delle nuvole | Linda Valori | 2022 | <nobr></nobr> | <nobr>June 15th</nobr> | ⭐️⭐️ |
+| [La forma delle nuvole](https://it.wikipedia.org/wiki/La_forma_delle_nuvole) | [Linda Valori](https://it.wikipedia.org/wiki/Linda_Valori) | 2005 | <nobr><code>pop</code></nobr> | <nobr>June 15th</nobr> | ⭐️⭐️ |
 | [1989](https://en.wikipedia.org/wiki/1989_(album)) | [Taylor Swift](https://en.wikipedia.org/wiki/Taylor_Swift) | 2014 | <nobr><code>synth-pop</code></nobr> | <nobr>June 11th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [A Girl Like Me](https://en.wikipedia.org/wiki/A_Girl_Like_Me_(Emma_Bunton_album)) | [Emma Bunton](https://en.wikipedia.org/wiki/Emma_Bunton) | 2001 | <nobr><code>pop</code></nobr> | <nobr>June 10th</nobr> | ⭐️⭐️⭐️ |
 | [Come una goccia d'acqua](https://it.wikipedia.org/wiki/Come_una_goccia_d'acqua) | [Syria](https://en.wikipedia.org/wiki/Syria_(singer)) | 2000 | <nobr><code>pop</code></nobr> | <nobr>June 10th</nobr> | ⭐️⭐️⭐️ |
