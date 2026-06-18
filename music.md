@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| Planet Pop | A Touch of Class |  | <nobr></nobr> | <nobr>June 18th</nobr> | ⭐️⭐️⭐️⭐️ |
 | True Colors | Zedd |  | <nobr></nobr> | <nobr>June 16th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [La forma delle nuvole](https://it.wikipedia.org/wiki/La_forma_delle_nuvole) | [Linda Valori](https://it.wikipedia.org/wiki/Linda_Valori) | 2005 | <nobr><code>pop</code></nobr> | <nobr>June 15th</nobr> | ⭐️⭐️ |
 | [1989](https://en.wikipedia.org/wiki/1989_(album)) | [Taylor Swift](https://en.wikipedia.org/wiki/Taylor_Swift) | 2014 | <nobr><code>synth-pop</code></nobr> | <nobr>June 11th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
