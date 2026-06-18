@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| Io canto | Laura Pausini |  | <nobr></nobr> | <nobr>June 18th</nobr> | ⭐️⭐️⭐️⭐️ |
 | Planet Pop | A Touch of Class |  | <nobr></nobr> | <nobr>June 18th</nobr> | ⭐️⭐️⭐️⭐️ |
 | True Colors | Zedd |  | <nobr></nobr> | <nobr>June 16th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [La forma delle nuvole](https://it.wikipedia.org/wiki/La_forma_delle_nuvole) | [Linda Valori](https://it.wikipedia.org/wiki/Linda_Valori) | 2005 | <nobr><code>pop</code></nobr> | <nobr>June 15th</nobr> | ⭐️⭐️ |
