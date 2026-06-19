@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| Questo piccolo grande amore | Claudio Baglioni |  | <nobr></nobr> | <nobr>June 19th</nobr> | ⭐️⭐️⭐️ |
 | Gira che ti rigira | Claudio Baglioni |  | <nobr></nobr> | <nobr>June 19th</nobr> | ⭐️⭐️⭐️⭐️ |
 | Io canto | Laura Pausini |  | <nobr></nobr> | <nobr>June 18th</nobr> | ⭐️⭐️⭐️⭐️ |
 | Planet Pop | A Touch of Class |  | <nobr></nobr> | <nobr>June 18th</nobr> | ⭐️⭐️⭐️⭐️ |
