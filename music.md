@@ -16,11 +16,11 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
-| Questo piccolo grande amore | Claudio Baglioni |  | <nobr></nobr> | <nobr>June 19th</nobr> | ⭐️⭐️⭐️ |
-| Gira che ti rigira | Claudio Baglioni |  | <nobr></nobr> | <nobr>June 19th</nobr> | ⭐️⭐️⭐️⭐️ |
-| Io canto | Laura Pausini |  | <nobr></nobr> | <nobr>June 18th</nobr> | ⭐️⭐️⭐️⭐️ |
-| Planet Pop | A Touch of Class |  | <nobr></nobr> | <nobr>June 18th</nobr> | ⭐️⭐️⭐️⭐️ |
-| True Colors | Zedd |  | <nobr></nobr> | <nobr>June 16th</nobr> | ⭐️⭐️⭐️⭐️ |
+| [Questo piccolo grande amore](https://it.wikipedia.org/wiki/Questo_piccolo_grande_amore_(album)) | [Claudio Baglioni](https://en.wikipedia.org/wiki/Claudio_Baglioni) | 1972 | <nobr><code>pop</code>, <code>pop rock</code>, <code>opera rock</code></nobr> | <nobr>June 19th</nobr> | ⭐️⭐️⭐️ |
+| [Gira che ti rigira amore bello](https://it.wikipedia.org/wiki/Gira_che_ti_rigira_amore_bello) | [Claudio Baglioni](https://en.wikipedia.org/wiki/Claudio_Baglioni) | 1973 | <nobr><code>pop</code>, <code>pop rock</code></nobr> | <nobr>June 19th</nobr> | ⭐️⭐️⭐️⭐️ |
+| [Io canto](https://en.wikipedia.org/wiki/Io_canto) | [Laura Pausini](https://en.wikipedia.org/wiki/Laura_Pausini) | 2006 | <nobr><code>pop rock</code></nobr> | <nobr>June 18th</nobr> | ⭐️⭐️⭐️⭐️ |
+| [Planet Pop](https://en.wikipedia.org/wiki/Planet_Pop) | [A Touch of Class](https://en.wikipedia.org/wiki/A_Touch_of_Class_(group)) | 2000 | <nobr><code>eurodance</code></nobr> | <nobr>June 18th</nobr> | ⭐️⭐️⭐️⭐️ |
+| [True Colors](https://en.wikipedia.org/wiki/True_Colors_(Zedd_album)) | [Zedd](https://en.wikipedia.org/wiki/Zedd) | 2015 | <nobr><code>EDM</code>, <code>electro house</code>, <code>complextro</code>,<br/><code>progressive house</code></nobr> | <nobr>June 16th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [La forma delle nuvole](https://it.wikipedia.org/wiki/La_forma_delle_nuvole) | [Linda Valori](https://it.wikipedia.org/wiki/Linda_Valori) | 2005 | <nobr><code>pop</code></nobr> | <nobr>June 15th</nobr> | ⭐️⭐️ |
 | [1989](https://en.wikipedia.org/wiki/1989_(album)) | [Taylor Swift](https://en.wikipedia.org/wiki/Taylor_Swift) | 2014 | <nobr><code>synth-pop</code></nobr> | <nobr>June 11th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [A Girl Like Me](https://en.wikipedia.org/wiki/A_Girl_Like_Me_(Emma_Bunton_album)) | [Emma Bunton](https://en.wikipedia.org/wiki/Emma_Bunton) | 2001 | <nobr><code>pop</code></nobr> | <nobr>June 10th</nobr> | ⭐️⭐️⭐️ |
@@ -164,7 +164,6 @@ permalink: /music/
 | [Destiny Fulfilled](https://en.wikipedia.org/wiki/Destiny_Fulfilled) | [Destiny's Child](https://en.wikipedia.org/wiki/Destiny%27s_Child) | 2004 | <nobr><code>R&amp;B</code></nobr> |
 | [No Strings Attached](https://en.wikipedia.org/wiki/No_Strings_Attached_(NSYNC_album)) | [NSYNC](https://en.wikipedia.org/wiki/NSYNC) | 2000 | <nobr><code>pop</code>, <code>R&amp;B</code>, <code>dance-pop</code>, <code>teen pop</code></nobr> |
 | [Metamorphosis](https://en.wikipedia.org/wiki/Metamorphosis_(Hilary_Duff_album)) | [Hilary Duff](https://en.wikipedia.org/wiki/Hilary_Duff) | 2003 | <nobr><code>pop rock</code>, <code>teen pop</code>, <code>bubblegum pop</code></nobr> |
-| [The Velvet Rope](https://en.wikipedia.org/wiki/The_Velvet_Rope) | [Janet Jackson](https://en.wikipedia.org/wiki/Janet_Jackson) | 1997 | <nobr><code>R&amp;B</code>, <code>pop</code></nobr> |
 | [Between Us](https://en.wikipedia.org/wiki/Between_Us_(Little_Mix_album)) | [Little Mix](https://en.wikipedia.org/wiki/Little_Mix) | 2016 | <nobr><code>dance-pop</code>, <code>R&amp;B</code></nobr> |
 | [Away from the Sun](https://en.wikipedia.org/wiki/Away_from_the_Sun) | [3 Doors Down](https://en.wikipedia.org/wiki/3_Doors_Down) | 2002 |  <nobr><code>post-grunge</code>, <code>alternative rock</code></nobr> |
 | [Il mondo insieme a te](https://it.wikipedia.org/wiki/Il_mondo_insieme_a_te) | [Max Pezzali](https://it.wikipedia.org/wiki/Max_Pezzali) | 2004 | <nobr><code>pop</code></nobr> |
