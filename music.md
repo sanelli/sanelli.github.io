@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| Emozioni | [Lucio Battisti](https://en.wikipedia.org/wiki/Lucio_Battisti) |  | <nobr></nobr> | <nobr>June 30th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [La canzone del sole / Anche per te](https://en.wikipedia.org/wiki/Il_mio_canto_libero) | [Lucio Battisti](https://en.wikipedia.org/wiki/Lucio_Battisti) | 1971 | <nobr><code>pop</code></nobr> | <nobr>June 20th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Il mio canto libero](https://en.wikipedia.org/wiki/Il_mio_canto_libero) | [Lucio Battisti](https://en.wikipedia.org/wiki/Lucio_Battisti) | 1972 | <nobr><code>pop</code>, <code>rock</code></nobr> | <nobr>June 20th</nobr> | ⭐️⭐️⭐️ |
 | [Questo piccolo grande amore](https://it.wikipedia.org/wiki/Questo_piccolo_grande_amore_(album)) | [Claudio Baglioni](https://en.wikipedia.org/wiki/Claudio_Baglioni) | 1972 | <nobr><code>pop</code>, <code>pop rock</code>, <code>opera rock</code></nobr> | <nobr>June 19th</nobr> | ⭐️⭐️⭐️ |
