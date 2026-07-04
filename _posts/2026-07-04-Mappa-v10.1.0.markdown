@@ -1,0 +1,96 @@
+---
+layout: post
+title:  "🗺️ Mappa v10.1.0"
+date:   2026-07-04 20:00:00 +0100
+categories: projects csharp nuget source-generator mappa
+---
+
+<style>
+        @media screen and (min-width: 600px) {
+                .wrapper { margin-left: 5em; max-width: calc(890px - 30px * 2); }
+                .post-list { margin-left: 3em;}
+        }
+</style>
+
+A new version of [Mappa](https://github.com/sanelli/Mappa) (v10.1.0) has been released.
+
+Mappa **10.1.0** builds on the 10.0.0 foundation with expanded enum mapping, richer parse and format `MappaSettings`, identity deep-copy and collection buffer options, stronger diagnostics, safer generated code, and a migrated test stack. Documentation now includes a full feature catalog.
+**Full changelog:** [v10.0.0...v10.1.0](https://github.com/sanelli/Mappa/compare/v10.0.0...v10.1.0)
+
+## Breaking changes
+When upgrading from 10.0.0, see the [upgrade guide](https://github.com/sanelli/Mappa/blob/main/Documentation/upgrade.md).
+
+### `MappaSettings` rename
+- **`ForceCaseInsensitivePropertyMap` renamed to `CaseInsensitivePropertyMap`** ([#257](https://github.com/sanelli/Mappa/issues/257), [#260](https://github.com/sanelli/Mappa/pull/260))
+  - Update attribute usage: `[MappaSettings(CaseInsensitivePropertyMap = BooleanSetting.Enable)]`
+  - Update `.editorconfig`: `mappa.caseinsensitivepropertymap = enable`
+  - The legacy `.editorconfig` key `mappa.forcecaseinsensitivepropertymap` is no longer supported
+
+### Stricter diagnostics
+Projects that previously compiled may now fail with new or tightened generator errors:
+
+- **MP00042 — ambiguous invoke-method resolution** ([#233](https://github.com/sanelli/Mappa/issues/233), [#266](https://github.com/sanelli/Mappa/pull/266)) — When multiple methods match `[MappaInvokeMethod]` or a polymorphism `InvokeMethod` default, the generator reports an error instead of silently selecting the first match.
+- **MP00038 — invalid parse style values** ([#231](https://github.com/sanelli/Mappa/issues/231), [#241](https://github.com/sanelli/Mappa/pull/241)) — Arbitrary integer `DateTimeStyles` / `NumberStyles` values in `[MappaSettings]` now produce a generator diagnostic instead of being silently decomposed into known flag bits.
+
+## What's new
+
+### Test infrastructure
+- **Migrate to xUnit v3** ([#119](https://github.com/sanelli/Mappa/issues/119), [#222](https://github.com/sanelli/Mappa/pull/222)) — Test projects now use xUnit v3 and Microsoft Testing Platform.
+- **Replace FluentAssertions with AwesomeAssertions** ([#208](https://github.com/sanelli/Mappa/issues/208), [#223](https://github.com/sanelli/Mappa/pull/223)) — Assertion library updated across all test projects.
+
+### New features
+- **`IdentityMapDeepCopy` setting** ([#14](https://github.com/sanelli/Mappa/issues/14), [#267](https://github.com/sanelli/Mappa/pull/267)) — Control shallow, deep, and nested same-type copying in identity mappings via `[MappaSettings]`.
+- **`EnumerableConcreteType` setting** ([#29](https://github.com/sanelli/Mappa/issues/29), [#268](https://github.com/sanelli/Mappa/pull/268)) — Prefer `T[]` over `List<T>` when mapping to sequence-like interface targets (e.g. `IEnumerable<T>`).
+- **`DateTimeStyle` for parse** ([#214](https://github.com/sanelli/Mappa/issues/214), [#224](https://github.com/sanelli/Mappa/pull/224)) — Per-type `DateTimeStyles` for `Parse` / `ParseExact` on `DateTime`, `DateOnly`, and `TimeOnly`.
+- **`NumberStyles` for parse** ([#215](https://github.com/sanelli/Mappa/issues/215), [#226](https://github.com/sanelli/Mappa/pull/226)) — Per-type `NumberStyles` for string-to-numeric `Parse` conversions.
+- **`GlobalDateTimeStyle` and `GlobalNumberStyle`** ([#225](https://github.com/sanelli/Mappa/issues/225), [#228](https://github.com/sanelli/Mappa/pull/228)) — Shared parse-style defaults applied across date/time and numeric types.
+
+### Enum mapping
+- **`Description` attribute support** ([#15](https://github.com/sanelli/Mappa/issues/15), [#16](https://github.com/sanelli/Mappa/issues/16), [#265](https://github.com/sanelli/Mappa/pull/265)) — Map enums using `[Description]` for enum-to-string, string-to-enum, and enum-to-enum conversions.
+- **Case-insensitive string-to-enum** ([#17](https://github.com/sanelli/Mappa/issues/17), [#258](https://github.com/sanelli/Mappa/pull/258)) — Optional case-insensitive matching when parsing strings to enums.
+- **Numeric enum-to-enum mapping** ([#18](https://github.com/sanelli/Mappa/issues/18), [#264](https://github.com/sanelli/Mappa/pull/264)) — Map enums by numeric value instead of member name via `EnumToEnumMapSetting`.
+- **Partial enum-to-enum warning (MP00039)** ([#19](https://github.com/sanelli/Mappa/issues/19), [#244](https://github.com/sanelli/Mappa/pull/244)) — Warn when not all source enum members can be mapped to the target enum.
+- **`CaseInsensitiveEnumMap`** ([#15](https://github.com/sanelli/Mappa/issues/15), [#265](https://github.com/sanelli/Mappa/pull/265)) — Optional case-insensitive enum member matching.
+- **Rename `ForceCaseInsensitivePropertyMap`** ([#257](https://github.com/sanelli/Mappa/issues/257), [#260](https://github.com/sanelli/Mappa/pull/260)) — Setting renamed to `CaseInsensitivePropertyMap`; legacy `.editorconfig` key removed.
+
+### `[MappaInvokeMethod]` attribute
+- **Optional `SourcePropertyName` parameter** ([#67](https://github.com/sanelli/Mappa/issues/67), [#243](https://github.com/sanelli/Mappa/pull/243)) — Invoke a method with an explicit source property value instead of the full source object.
+- **Ambiguous invoke-method diagnostic (MP00042)** ([#233](https://github.com/sanelli/Mappa/issues/233), [#266](https://github.com/sanelli/Mappa/pull/266)) — Report a diagnostic when `[MappaInvokeMethod]` or polymorphism invoke-method resolution is ambiguous.
+
+### Diagnostics and quality
+- **Invalid style values (MP00038)** ([#231](https://github.com/sanelli/Mappa/issues/231), [#241](https://github.com/sanelli/Mappa/pull/241)) — Diagnose arbitrary integer `DateTimeStyles` / `NumberStyles` values in `[MappaSettings]`.
+- **Test coverage improvements** ([#220](https://github.com/sanelli/Mappa/issues/220), [#239](https://github.com/sanelli/Mappa/pull/239)) — Additional generator, builder, and settings-stack tests for previously uncovered paths.
+- **Fix `.editorconfig` `CurrentCulture` mapping** ([#229](https://github.com/sanelli/Mappa/issues/229), [#235](https://github.com/sanelli/Mappa/pull/235)) — Correct global culture resolution in `MappaGlobalOptions`.
+- **Rename misleading local in `CanMapStringToNumber`** ([#234](https://github.com/sanelli/Mappa/issues/234), [#242](https://github.com/sanelli/Mappa/pull/242)) — Internal readability fix in string strategy detection.
+
+### Generated code safety
+- **Escape format and culture strings** ([#230](https://github.com/sanelli/Mappa/issues/230), [#236](https://github.com/sanelli/Mappa/pull/236)) — User-controlled format and culture strings are safely escaped in generated mapping code.
+- **Escape attribute string literals** ([#232](https://github.com/sanelli/Mappa/issues/232), [#237](https://github.com/sanelli/Mappa/pull/237)) — User-controlled literals from mapping attributes are escaped in generated code.
+
+### Documentation and samples
+- **Feature catalog (`Documentation/features.md`)** ([#262](https://github.com/sanelli/Mappa/issues/262), [#263](https://github.com/sanelli/Mappa/pull/263)) — New page listing all Mappa features with links to tutorial, attributes, algorithm, and samples.
+- **Generator algorithm documentation alignment** ([#227](https://github.com/sanelli/Mappa/issues/227), [#240](https://github.com/sanelli/Mappa/pull/240)) — Algorithm docs and generator README brought in line with the current implementation.
+- **Suppress MP00039 in `EnumToEnumMapper` sample** ([#259](https://github.com/sanelli/Mappa/issues/259), [#261](https://github.com/sanelli/Mappa/pull/261)) — Intentional partial enum mapping demonstrated with `#pragma warning disable`.
+
+## What's next
+This is a tentative and non exhaustive list of issues that I would like to cover in the upcoming version of Mappa:
+
+### Mapping / generator features
+- [#255](https://github.com/sanelli/Mappa/issues/255) — Richer enum mapping configuration
+- [#250](https://github.com/sanelli/Mappa/issues/250) — Before / after map hooks
+- [#249](https://github.com/sanelli/Mappa/issues/249) — Circular reference / reference handling
+- [#248](https://github.com/sanelli/Mappa/issues/248) — Generic mapping methods
+- [#246](https://github.com/sanelli/Mappa/issues/246) — Reverse / bidirectional mapping
+- [#245](https://github.com/sanelli/Mappa/issues/245) — IQueryable projection (`ProjectTo`)
+- [#184](https://github.com/sanelli/Mappa/issues/184) — More relaxed nullability when matching methods
+- [#120](https://github.com/sanelli/Mappa/issues/120) — Flattening and unflattening
+- [#108](https://github.com/sanelli/Mappa/issues/108) — Allow preventing `Enumerable.Count` when targeting arrays, `Span`, and `Memory`
+- [#73](https://github.com/sanelli/Mappa/issues/73) — Support fields, not only properties
+- [#34](https://github.com/sanelli/Mappa/issues/34) — Allow choosing `.Add` vs. the indexer for dictionary-to-dictionary mapping
+
+### Language / platform
+- [#174](https://github.com/sanelli/Mappa/issues/174) — Support C# 14 extension blocks in static classes (partial classes assumed)
+
+### Diagnostics and maintainability
+- [#141](https://github.com/sanelli/Mappa/issues/141) — Improved debug feature
+- [#238](https://github.com/sanelli/Mappa/issues/238) — Reduce ReportGenerator CRAP score and cyclomatic complexity in `Mappa.Generator`
