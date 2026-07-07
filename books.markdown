@@ -14,14 +14,15 @@ permalink: /books/
 
 ## Reading
 
-| Title                             | Author(s)                         | Lang | Year | Genre     |
-|-----------------------------------|-----------------------------------|------|------|-----------|
-| [Heated Rivalry](https://en.wikipedia.org/wiki/Heated_Rivalry_(novel)) | [Rachel Reid](https://en.wikipedia.org/wiki/Rachel_Reid_(author)) | <code>English</code> | 2019 | <nobr><code>gay</code>, <code>sport</code>, <code>romance</code></nobr> |
+| Title                             | Author(s)                         | Language | Year | Genre     |
+|-----------------------------------|-----------------------------------|----------|------|-----------|
+| [La sfera del buio](https://en.wikipedia.org/wiki/The_Dark_Tower_IV:_Wizard_and_Glass)<br/><nobr style="font-size:.75em"><strong>The Dark Tower IV: Wizard and Glass</strong></nobr> | [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) | <code>Italian</code> | 1997 | <nobr><code>dark fantasy</code>, <code>science fiction</code></nobr> |
 
 ## 2026
 
-| Title                             | Author(s)                         | Lang | Year | Genre     | Finished    | Rating       |
-|-----------------------------------|-----------------------------------|------|------|-----------|-------------|--------------|
+| Title                             | Author(s)                         | Language | Year | Genre     | Finished    | Rating       |
+|-----------------------------------|-----------------------------------|----------|------|-----------|-------------|--------------|
+| [Heated Rivalry](https://en.wikipedia.org/wiki/Heated_Rivalry_(novel)) | [Rachel Reid](https://en.wikipedia.org/wiki/Rachel_Reid_(author)) | <code>English</code> | 2019 | <nobr><code>gay</code>, <code>sport</code>, <code>romance</code></nobr> | <nobr>July 7th</nobr>| ⭐️⭐️⭐️ |
 | [Colorado Kid](https://en.wikipedia.org/wiki/The_Colorado_Kid)<br/><nobr style="font-size:.75em"><strong>The Colorado Kid</strong></nobr> | [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) | <code>Italian</code> | 2000 | <nobr><code>mystery</code>, <code>crime</code></nobr> | <nobr>June 14th</nobr>| ⭐️⭐️⭐️ |
 | [Ricordi di un vicolo cieco](https://en.wikipedia.org/wiki/Dead-End_Memories)<br/><nobr style="font-size:.75em"><strong>デッドエンドの思い出</strong></nobr> | [Banana Yoshimoto](https://en.wikipedia.org/wiki/Banana_Yoshimoto) | <code>Italian</code> | 2006 | <nobr><code>short story collection</code></nobr> | <nobr>June 6th</nobr>| ⭐️⭐️⭐️ |
 | [Pretty Guardian Sailor Moon](https://en.wikipedia.org/wiki/Sailor_Moon)<br/><nobr style="font-size:.75em"><strong>Volume 7 (Act 31 - Act 35)</strong></nobr> | [Naoko Takeuchi](https://en.wikipedia.org/wiki/Naoko_Takeuchi) | <code>Italian</code> | 1991 | <nobr><code>manga</code>, <code>magical girl</code></nobr> | <nobr>May 30th</nobr>| ⭐️⭐️⭐️⭐️ |
@@ -45,8 +46,8 @@ permalink: /books/
 
 ## 2025
 
-| Title                             | Author(s)                         | Lang | Year | Genre     | Finished    | Rating       |
-|-----------------------------------|-----------------------------------|------|------|-----------|-------------|--------------|
+| Title                             | Author(s)                         | Language | Year | Genre     | Finished    | Rating       |
+|-----------------------------------|-----------------------------------|----------|------|-----------|-------------|--------------|
 | [Building Event-Driven Microservices](https://www.oreilly.com/library/view/building-event-driven-microservices/9781492057888/)| Adam Bellemare | <code>English</code> | 2020 | <nobr><code>tech</code></nobr> | <nobr>November 24th</nobr>| ⭐️⭐️ |
 | [Magic Knight Rayearth](https://en.wikipedia.org/wiki/Magic_Knight_Rayearth)<br/><nobr style="font-size:.75em"><strong>PART ONE: BOOK THREE</strong></nobr> | [CLAMP](https://en.wikipedia.org/wiki/Clamp_(manga_artists)) | <code>English</code> | 1993 | <nobr><code>manga</code>, <code>isekai</code>,<br/><code>mecha</code>, <code>sword and sorcery</code> </nobr> | <nobr>October 25th</nobr>| ⭐️⭐️⭐️⭐️⭐️ |
 | [Magic Knight Rayearth](https://en.wikipedia.org/wiki/Magic_Knight_Rayearth)<br/><nobr style="font-size:.75em"><strong>PART ONE: BOOK TWO</strong></nobr> | [CLAMP](https://en.wikipedia.org/wiki/Clamp_(manga_artists)) | <code>English</code> | 1993 | <nobr><code>manga</code>, <code>isekai</code>,<br/><code>mecha</code>, <code>sword and sorcery</code> </nobr> | <nobr>October 24th</nobr>| ⭐️⭐️⭐️⭐️ |
@@ -63,8 +64,8 @@ permalink: /books/
 
 ## 2024
 
-| Title                             | Author(s)                         | Lang | Year | Genre     | Finished    | Rating       |
-|-----------------------------------|-----------------------------------|------|------|-----------|-------------|--------------|
+| Title                             | Author(s)                         | Language | Year | Genre     | Finished    | Rating       |
+|-----------------------------------|-----------------------------------|----------|------|-----------|-------------|--------------|
 | [Maurice](https://en.wikipedia.org/wiki/Maurice_(novel)) | [E. M. Forster](https://en.wikipedia.org/wiki/E._M._Forster) | <code>English</code> | 1971 | <nobr><code>novel</code></nobr> | <nobr>November 23rd</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Il giardino segreto](https://www.criticaletteraria.org/2017/12/il-giardino-segreto-yoshimoto-feltrinelli.html)<br/><nobr style="font-size:.75em"><strong>王国 その3 ひみつの花園</strong></nobr> | [Banana Yoshimoto](https://en.wikipedia.org/wiki/Banana_Yoshimoto) | <code>Italian</code> | 2005 | <nobr><code>novel</code></nobr> | <nobr>October 13th</nobr> | ⭐️⭐️⭐️ |
 | [Dune](https://en.wikipedia.org/wiki/Dune_(novel)) | [Frank Herbert](https://en.wikipedia.org/wiki/Frank_Herbert) | <code>English</code> | 1965 | <nobr><code>epic science fiction</code></nobr> | <nobr>October 6th</nobr> | ⭐️⭐️⭐️ |
@@ -81,8 +82,8 @@ permalink: /books/
 
 ## 2023
 
-| Title                             | Author(s)                         | Lang | Year | Genre     | Finished on | Rating       |
-|-----------------------------------|-----------------------------------|------|------|-----------|-------------|--------------|
+| Title                             | Author(s)                         | Language | Year | Genre     | Finished on | Rating       |
+|-----------------------------------|-----------------------------------|----------|------|-----------|-------------|--------------|
 | [Call me by your name](https://en.wikipedia.org/wiki/Call_Me_by_Your_Name_(novel)) | [André Aciman](https://en.wikipedia.org/wiki/André_Aciman) | <code>English</code> | 2007 | <nobr><code>novel</code></nobr> | <nobr>December 28th</nobr>  | ⭐️⭐️⭐️⭐️⭐️ |
 | [Of mice and man](https://en.wikipedia.org/wiki/Of_Mice_and_Men) | [John Steinbeck](https://en.wikipedia.org/wiki/John_Steinbeck) | <code>English</code> | 1937 | <nobr><code>tragedy</code></nobr> | <nobr>December</nobr>  | ⭐️⭐️⭐️⭐️⭐️ |
 | [American Gods](https://en.wikipedia.org/wiki/American_Gods) | [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman) | <code>English</code> | 2001 | <nobr><code>fantasy</code></nobr> | <nobr>November</nobr> | ⭐️⭐️⭐️⭐️   |
