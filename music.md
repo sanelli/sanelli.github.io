@@ -16,7 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
-| Confession II | Madonna | 2026 | <nobr></nobr>| <nobr>July 7th</nobr> | ⭐️⭐️ |
+| [Confessions II](https://en.wikipedia.org/wiki/Confessions_II) | [Madonna](https://en.wikipedia.org/wiki/Madonna) | 2026 | <nobr><code>EDM</code>, <code>house</code>, <code>dance-pop</code>, <code>disco</code>, <br/><code>synth-pop</code></nobr>| <nobr>July 7th</nobr> | ⭐️⭐️ |
 | [FanMail](https://en.wikipedia.org/wiki/FanMail) | [TLC](https://en.wikipedia.org/wiki/TLC_(group)) | 1999 | <nobr><code>R&amp;B</code>, <code>pop</code></nobr>| <nobr>July 3rd</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Magia Bianca](https://it.wikipedia.org/wiki/Magia_bianca_(album)) | [Francesca Michielin](https://it.wikipedia.org/wiki/Francesca_Michielin) | 2026 | <nobr><code>dungeon synth</code>, <code>elettropop</code></nobr>| <nobr>July 3rd</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Emozioni](https://en.wikipedia.org/wiki/Emozioni) | [Lucio Battisti](https://en.wikipedia.org/wiki/Lucio_Battisti) | 1970 | <nobr><code>pop</code>, <code>blues</code></nobr>| <nobr>June 30th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
