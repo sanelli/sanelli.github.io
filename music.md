@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| Light Years | [Kylie Minogue](https://en.wikipedia.org/wiki/Aphrodite_(Kylie_Minogue_album)) | 2000 | <nobr></nobr>| <nobr>July 13th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Aphrodite](https://en.wikipedia.org/wiki/Aphrodite_(Kylie_Minogue_album)) | [Kylie Minogue](https://en.wikipedia.org/wiki/Aphrodite_(Kylie_Minogue_album)) | 2010 | <nobr><code>dance-pop</code>, <code>disco-pop</code></nobr>| <nobr>July 10th</nobr> | ⭐️⭐️⭐️ |
 | [Confessions II](https://en.wikipedia.org/wiki/Confessions_II) | [Madonna](https://en.wikipedia.org/wiki/Madonna) | 2026 | <nobr><code>EDM</code>, <code>house</code>, <code>dance-pop</code>, <code>disco</code>, <br/><code>synth-pop</code></nobr>| <nobr>July 7th</nobr> | ⭐️⭐️ |
 | [FanMail](https://en.wikipedia.org/wiki/FanMail) | [TLC](https://en.wikipedia.org/wiki/TLC_(group)) | 1999 | <nobr><code>R&amp;B</code>, <code>pop</code></nobr>| <nobr>July 3rd</nobr> | ⭐️⭐️⭐️⭐️ |
