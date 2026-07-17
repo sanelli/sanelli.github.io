@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| Celebration | Madonna |  | <nobr></nobr>| <nobr>July 17th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Future Nostalgia](https://en.wikipedia.org/wiki/Future_Nostalgia) | [Dua Lipa](https://en.wikipedia.org/wiki/Dua_Lipa) | 2020 | <nobr><code>dance-pop</code>, <code>disco-pop</code>, <code>electropop</code>,<br/><code>nu-disco</code>, <code>pop-funk</code>, <code>power pop</code>,<br/><code>synth-pop</code></nobr>| <nobr>July 15th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Light Years](https://en.wikipedia.org/wiki/Light_Years_(Kylie_Minogue_album)) | [Kylie Minogue](https://en.wikipedia.org/wiki/Aphrodite_(Kylie_Minogue_album)) | 2000 | <nobr><code>dance-pop</code>, <code>disco</code>, <code>europop</code></nobr>| <nobr>July 13th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Aphrodite](https://en.wikipedia.org/wiki/Aphrodite_(Kylie_Minogue_album)) | [Kylie Minogue](https://en.wikipedia.org/wiki/Aphrodite_(Kylie_Minogue_album)) | 2010 | <nobr><code>dance-pop</code>, <code>disco-pop</code></nobr>| <nobr>July 10th</nobr> | ⭐️⭐️⭐️ |
