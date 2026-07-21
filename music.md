@@ -16,7 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
-| [Radical Optimism](https://en.wikipedia.org/wiki/Radical_Optimism) | [Dua Lipa](https://en.wikipedia.org/wiki/Dua_Lipa) | 2024 | <nobr><code>dance-pop</code>, <code>electropop</code>, <code>europop</code>,<br/><code>neo-psychedelia</code></nobr>| <nobr>July 21th</nobr> | ⭐️⭐️⭐️⭐️ |
+| [Radical Optimism](https://en.wikipedia.org/wiki/Radical_Optimism) | [Dua Lipa](https://en.wikipedia.org/wiki/Dua_Lipa) | 2024 | <nobr><code>dance-pop</code>, <code>electropop</code>, <code>europop</code>,<br/><code>neo-psychedelia</code></nobr>| <nobr>July 21st</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Baccara](https://en.wikipedia.org/wiki/Baccara_(album)) | [Baccara](https://en.wikipedia.org/wiki/Baccara) | 1977 | <nobr><code>disco</code>, <code>pop</code></nobr>| <nobr>July 20th</nobr> | ⭐️⭐️⭐️ |
 | [Breaking All The Rules](https://en.wikipedia.org/wiki/Breaking_All_the_Rules_(She_Moves_album)) | [She Moves](https://en.wikipedia.org/wiki/She_Moves) | 1997 | <nobr><code>pop</code></nobr>| <nobr>July 20th</nobr> | ⭐️⭐️⭐️ |
 | [Celebration](https://en.wikipedia.org/wiki/Celebration_(Madonna_album)) | [Madonna](https://en.wikipedia.org/wiki/Madonna) | 2009 | <nobr><code>pop</code></nobr>| <nobr>July 17th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
