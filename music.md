@@ -16,8 +16,9 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
-| Baccara | Baccara | 1977 | <nobr></nobr>| <nobr>July 20th</nobr> | ⭐️⭐️⭐️ |
-| Breaking All The Rules | She Moves | 1997 | <nobr></nobr>| <nobr>July 20th</nobr> | ⭐️⭐️⭐️ |
+| [Radical Optimism](https://en.wikipedia.org/wiki/Radical_Optimism) | [Dua Lipa](https://en.wikipedia.org/wiki/Dua_Lipa) | 2024 | <nobr><code>dance-pop</code>, <code>electropop</code>, <code>europop</code>,<br/><code>neo-psychedelia</code></nobr>| <nobr>July 21th</nobr> | ⭐️⭐️⭐️⭐️ |
+| [Baccara](https://en.wikipedia.org/wiki/Baccara_(album)) | [Baccara](https://en.wikipedia.org/wiki/Baccara) | 1977 | <nobr><code>disco</code>, <code>pop</code></nobr>| <nobr>July 20th</nobr> | ⭐️⭐️⭐️ |
+| [Breaking All The Rules](https://en.wikipedia.org/wiki/Breaking_All_the_Rules_(She_Moves_album)) | [She Moves](https://en.wikipedia.org/wiki/She_Moves) | 1997 | <nobr><code>pop</code></nobr>| <nobr>July 20th</nobr> | ⭐️⭐️⭐️ |
 | [Celebration](https://en.wikipedia.org/wiki/Celebration_(Madonna_album)) | [Madonna](https://en.wikipedia.org/wiki/Madonna) | 2009 | <nobr><code>pop</code></nobr>| <nobr>July 17th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Future Nostalgia](https://en.wikipedia.org/wiki/Future_Nostalgia) | [Dua Lipa](https://en.wikipedia.org/wiki/Dua_Lipa) | 2020 | <nobr><code>dance-pop</code>, <code>disco-pop</code>, <code>electropop</code>,<br/><code>nu-disco</code>, <code>pop-funk</code>, <code>power pop</code>,<br/><code>synth-pop</code></nobr>| <nobr>July 15th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Light Years](https://en.wikipedia.org/wiki/Light_Years_(Kylie_Minogue_album)) | [Kylie Minogue](https://en.wikipedia.org/wiki/Aphrodite_(Kylie_Minogue_album)) | 2000 | <nobr><code>dance-pop</code>, <code>disco</code>, <code>europop</code></nobr>| <nobr>July 13th</nobr> | ⭐️⭐️⭐️⭐️ |
