@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| Crazysexycool | [TLC](https://en.wikipedia.org/wiki/TLC_(group)) | 1994 | <nobr></nobr>| <nobr>July 23rd</nobr> | ⭐️⭐️ |
 | [Radical Optimism](https://en.wikipedia.org/wiki/Radical_Optimism) | [Dua Lipa](https://en.wikipedia.org/wiki/Dua_Lipa) | 2024 | <nobr><code>dance-pop</code>, <code>electropop</code>, <code>europop</code>,<br/><code>neo-psychedelia</code></nobr>| <nobr>July 21st</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Baccara](https://en.wikipedia.org/wiki/Baccara_(album)) | [Baccara](https://en.wikipedia.org/wiki/Baccara) | 1977 | <nobr><code>disco</code>, <code>pop</code></nobr>| <nobr>July 20th</nobr> | ⭐️⭐️⭐️ |
 | [Breaking All The Rules](https://en.wikipedia.org/wiki/Breaking_All_the_Rules_(She_Moves_album)) | [She Moves](https://en.wikipedia.org/wiki/She_Moves) | 1997 | <nobr><code>pop</code></nobr>| <nobr>July 20th</nobr> | ⭐️⭐️⭐️ |
