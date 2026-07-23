@@ -16,8 +16,8 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
-| 2640 | Francesca Michielin |  | <nobr></nobr>| <nobr>July 23rd</nobr> | ⭐️⭐️⭐️ |
-| Crazysexycool | [TLC](https://en.wikipedia.org/wiki/TLC_(group)) | 1994 | <nobr></nobr>| <nobr>July 23rd</nobr> | ⭐️⭐️ |
+| [2640](https://en.wikipedia.org/wiki/2640_(album)) | [Francesca Michielin](https://en.wikipedia.org/wiki/Francesca_Michielin) | 2018 | <nobr><code>pop</code>, <code>indie pop</code></nobr>| <nobr>July 23rd</nobr> | ⭐️⭐️⭐️ |
+| [CrazySexyCool](https://en.wikipedia.org/wiki/CrazySexyCool) | [TLC](https://en.wikipedia.org/wiki/TLC_(group)) | 1994 | <nobr><code>R&amp;B</code>, <code>hip-hop soul</code></nobr>| <nobr>July 23rd</nobr> | ⭐️⭐️ |
 | [Radical Optimism](https://en.wikipedia.org/wiki/Radical_Optimism) | [Dua Lipa](https://en.wikipedia.org/wiki/Dua_Lipa) | 2024 | <nobr><code>dance-pop</code>, <code>electropop</code>, <code>europop</code>,<br/><code>neo-psychedelia</code></nobr>| <nobr>July 21st</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Baccara](https://en.wikipedia.org/wiki/Baccara_(album)) | [Baccara](https://en.wikipedia.org/wiki/Baccara) | 1977 | <nobr><code>disco</code>, <code>pop</code></nobr>| <nobr>July 20th</nobr> | ⭐️⭐️⭐️ |
 | [Breaking All The Rules](https://en.wikipedia.org/wiki/Breaking_All_the_Rules_(She_Moves_album)) | [She Moves](https://en.wikipedia.org/wiki/She_Moves) | 1997 | <nobr><code>pop</code></nobr>| <nobr>July 20th</nobr> | ⭐️⭐️⭐️ |
