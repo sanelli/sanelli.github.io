@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| 2640 | Francesca Michielin |  | <nobr></nobr>| <nobr>July 23rd</nobr> | ⭐️⭐️⭐️ |
 | Crazysexycool | [TLC](https://en.wikipedia.org/wiki/TLC_(group)) | 1994 | <nobr></nobr>| <nobr>July 23rd</nobr> | ⭐️⭐️ |
 | [Radical Optimism](https://en.wikipedia.org/wiki/Radical_Optimism) | [Dua Lipa](https://en.wikipedia.org/wiki/Dua_Lipa) | 2024 | <nobr><code>dance-pop</code>, <code>electropop</code>, <code>europop</code>,<br/><code>neo-psychedelia</code></nobr>| <nobr>July 21st</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Baccara](https://en.wikipedia.org/wiki/Baccara_(album)) | [Baccara](https://en.wikipedia.org/wiki/Baccara) | 1977 | <nobr><code>disco</code>, <code>pop</code></nobr>| <nobr>July 20th</nobr> | ⭐️⭐️⭐️ |
