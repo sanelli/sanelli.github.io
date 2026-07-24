@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| Teenage Dream | Katy Perry | 2010 | <nobr></nobr>| <nobr>July 24th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [2640](https://en.wikipedia.org/wiki/2640_(album)) | [Francesca Michielin](https://en.wikipedia.org/wiki/Francesca_Michielin) | 2018 | <nobr><code>pop</code>, <code>indie pop</code></nobr>| <nobr>July 23rd</nobr> | ⭐️⭐️⭐️ |
 | [CrazySexyCool](https://en.wikipedia.org/wiki/CrazySexyCool) | [TLC](https://en.wikipedia.org/wiki/TLC_(group)) | 1994 | <nobr><code>R&amp;B</code>, <code>hip-hop soul</code></nobr>| <nobr>July 23rd</nobr> | ⭐️⭐️ |
 | [Radical Optimism](https://en.wikipedia.org/wiki/Radical_Optimism) | [Dua Lipa](https://en.wikipedia.org/wiki/Dua_Lipa) | 2024 | <nobr><code>dance-pop</code>, <code>electropop</code>, <code>europop</code>,<br/><code>neo-psychedelia</code></nobr>| <nobr>July 21st</nobr> | ⭐️⭐️⭐️⭐️ |
