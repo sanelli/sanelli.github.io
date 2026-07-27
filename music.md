@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| Rebel heart | Madonna | 2015 | <nobr></nobr>| <nobr>July 27th</nobr> | ⭐️⭐️⭐️⭐️ |
 | The Life of a Showgirl | Taylor Swift | 2025 | <nobr></nobr>| <nobr>July 27th</nobr> | ⭐️⭐️⭐️ |
 | [Teenage Dream](https://en.wikipedia.org/wiki/Teenage_Dream) | [Katy Perry](https://en.wikipedia.org/wiki/Katy_Perry) | 2010 | <nobr><code>pop</code></nobr>| <nobr>July 24th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [2640](https://en.wikipedia.org/wiki/2640_(album)) | [Francesca Michielin](https://en.wikipedia.org/wiki/Francesca_Michielin) | 2018 | <nobr><code>pop</code>, <code>indie pop</code></nobr>| <nobr>July 23rd</nobr> | ⭐️⭐️⭐️ |
