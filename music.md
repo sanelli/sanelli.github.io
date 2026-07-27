@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| The Life of a Showgirl | Taylor Swift | 2025 | <nobr></nobr>| <nobr>July 27th</nobr> | ⭐️⭐️⭐️ |
 | [Teenage Dream](https://en.wikipedia.org/wiki/Teenage_Dream) | [Katy Perry](https://en.wikipedia.org/wiki/Katy_Perry) | 2010 | <nobr><code>pop</code></nobr>| <nobr>July 24th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [2640](https://en.wikipedia.org/wiki/2640_(album)) | [Francesca Michielin](https://en.wikipedia.org/wiki/Francesca_Michielin) | 2018 | <nobr><code>pop</code>, <code>indie pop</code></nobr>| <nobr>July 23rd</nobr> | ⭐️⭐️⭐️ |
 | [CrazySexyCool](https://en.wikipedia.org/wiki/CrazySexyCool) | [TLC](https://en.wikipedia.org/wiki/TLC_(group)) | 1994 | <nobr><code>R&amp;B</code>, <code>hip-hop soul</code></nobr>| <nobr>July 23rd</nobr> | ⭐️⭐️ |
