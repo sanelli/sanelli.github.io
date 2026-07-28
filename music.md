@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| PRISM | Katy Perry |  | <nobr></nobr>| <nobr>July 28th</nobr> | ⭐️⭐️⭐️⭐️ |
 | Rebel heart | Madonna | 2015 | <nobr></nobr>| <nobr>July 27th</nobr> | ⭐️⭐️⭐️⭐️ |
 | The Life of a Showgirl | Taylor Swift | 2025 | <nobr></nobr>| <nobr>July 27th</nobr> | ⭐️⭐️⭐️ |
 | [Teenage Dream](https://en.wikipedia.org/wiki/Teenage_Dream) | [Katy Perry](https://en.wikipedia.org/wiki/Katy_Perry) | 2010 | <nobr><code>pop</code></nobr>| <nobr>July 24th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
