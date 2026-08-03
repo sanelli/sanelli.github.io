@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| Whoa, Nelly! | Nelly Furtado |  | <nobr></nobr>| <nobr>August 3rd</nobr> | ⭐️⭐️⭐️⭐️ |
 | [PRISM](https://en.wikipedia.org/wiki/Prism_(Katy_Perry_album)) | [Katy Perry](https://en.wikipedia.org/wiki/Katy_Perry) | 2013 | <nobr><code>pop</code></nobr>| <nobr>July 28th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Rebel heart](https://en.wikipedia.org/wiki/Rebel_Heart) | [Madonna](https://en.wikipedia.org/wiki/Madonna) | 2015 | <nobr><code>pop</code></nobr>| <nobr>July 27th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [The Life of a Showgirl](https://en.wikipedia.org/wiki/The_Life_of_a_Showgirl) | [Taylor Swift](https://en.wikipedia.org/wiki/Taylor_Swift) | 2025 | <nobr><code>soft pop</code>, <code>soft rock</code></nobr>| <nobr>July 27th</nobr> | ⭐️⭐️⭐️ |
