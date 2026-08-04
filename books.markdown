@@ -16,12 +16,13 @@ permalink: /books/
 
 | Title                             | Author(s)                         | Language | Year | Genre     |
 |-----------------------------------|-----------------------------------|----------|------|-----------|
-| [La sfera del buio](https://en.wikipedia.org/wiki/The_Dark_Tower_IV:_Wizard_and_Glass)<br/><nobr style="font-size:.75em"><strong>The Dark Tower IV: Wizard and Glass</strong></nobr> | [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) | <code>Italian</code> | 1997 | <nobr><code>dark fantasy</code>, <code>science fiction</code></nobr> |
+| [Paul Takes the Form of a Mortal Girl](https://en.wikipedia.org/wiki/Paul_Takes_the_Form_of_a_Mortal_Girl) | [Andrea Lawlor](https://en.wikipedia.org/wiki/Andrea_Lawlor) | <code>English</code> | 2017 | <nobr><code>picaresque novel</code>, <code>magical realism</code></nobr> |
 
 ## 2026
 
 | Title                             | Author(s)                         | Language | Year | Genre     | Finished    | Rating       |
 |-----------------------------------|-----------------------------------|----------|------|-----------|-------------|--------------|
+| [La sfera del buio](https://en.wikipedia.org/wiki/The_Dark_Tower_IV:_Wizard_and_Glass)<br/><nobr style="font-size:.75em"><strong>The Dark Tower IV: Wizard and Glass</strong></nobr> | [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) | <code>Italian</code> | 1997 | <nobr><code>dark fantasy</code>, <code>science fiction</code></nobr> | <nobr>August 4th</nobr>| ⭐️⭐️⭐️ |
 | [Pretty Guardian Sailor Moon](https://en.wikipedia.org/wiki/Sailor_Moon)<br/><nobr style="font-size:.75em"><strong>Volume 8 (Act 36 - Act 39)</strong></nobr> | [Naoko Takeuchi](https://en.wikipedia.org/wiki/Naoko_Takeuchi) | <code>Italian</code> | 1995 | <nobr><code>manga</code>, <code>magical girl</code></nobr> | <nobr>July 8th</nobr>| ⭐️⭐️⭐️⭐️ |
 | [Heated Rivalry](https://en.wikipedia.org/wiki/Heated_Rivalry_(novel)) | [Rachel Reid](https://en.wikipedia.org/wiki/Rachel_Reid_(author)) | <code>English</code> | 2019 | <nobr><code>gay</code>, <code>sport</code>, <code>romance</code></nobr> | <nobr>July 7th</nobr>| ⭐️⭐️⭐️ |
 | [Colorado Kid](https://en.wikipedia.org/wiki/The_Colorado_Kid)<br/><nobr style="font-size:.75em"><strong>The Colorado Kid</strong></nobr> | [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) | <code>Italian</code> | 2000 | <nobr><code>mystery</code>, <code>crime</code></nobr> | <nobr>June 14th</nobr>| ⭐️⭐️⭐️ |
@@ -92,4 +93,3 @@ permalink: /books/
 | [Effective Modern C++](https://www.amazon.co.uk/Effective-Modern-Specific-Ways-Improve/dp/1491903996) | [Scott Meyers](https://en.wikipedia.org/wiki/Scott_Meyers) | <code>English</code> | 2014 | <nobr><code>tech</code></nobr> | <nobr>October</nobr>  | ⭐️⭐️⭐️ |
 | [Cecità](https://it.wikipedia.org/wiki/Cecità_(romanzo))<br/><nobr style="font-size:.75em"><strong>Ensaio sobre a Cegueira</strong></nobr> | [José Saramago](https://en.wikipedia.org/wiki/José_Saramago) | <code>Italian</code> | 1995 | <nobr><code>post-apocalyptic</code></nobr> | <nobr>August</nobr>  | ⭐️⭐️⭐️⭐️ |
 | [Senilità](https://it.wikipedia.org/wiki/Senilità_(romanzo)) | [Italo Svevo](https://it.wikipedia.org/wiki/Italo_Svevo) | <code>Italian</code> | 1898 | <nobr><code>novel</code></nobr> | <nobr>June</nobr>  | ⭐️⭐️ |
-| [Cose preziose](https://it.wikipedia.org/wiki/Cose_preziose_(romanzo))<br/><nobr style="font-size:.75em"><strong>Needful Things</strong></nobr> | [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) | <code>Italian</code> | 1991 | <nobr><code>horror</code></nobr> | <nobr>June</nobr> | ⭐️⭐️⭐️⭐️ |
