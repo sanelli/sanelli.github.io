@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| Encanto<br/><nobr style="font-size:.75em"><strong>Soundtrack</strong></nobr> | Encanto |  | <nobr><code>film score</code>, <code>pop</code>, <code>disney</code></nobr>| <nobr>August 4th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Beauty and the Beast](https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(1991_soundtrack))<br/><nobr style="font-size:.75em"><strong>Soundtrack</strong></nobr> | [Beauty and the beast](https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(1991_film)) | 1991 | <nobr><code>film score</code>, <code>pop</code>, <code>disney</code></nobr>| <nobr>August 3rd</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Short n' Sweet](https://en.wikipedia.org/wiki/Short_n'_Sweet) | [Sabrina Carpenter](https://en.wikipedia.org/wiki/Sabrina_Carpenter) | 2024 | <nobr><code>pop</code>, <code>dance pop</code></nobr>| <nobr>August 3rd</nobr> | ⭐️⭐️ |
 | [Whoa, Nelly!](https://en.wikipedia.org/wiki/Whoa,_Nelly!) | [Nelly Furtado](https://en.wikipedia.org/wiki/Nelly_Furtado) | 2000 | <nobr><code>pop</code>, <code>trip hop</code>, <code>worldbeat</code>, <code>rock</code></nobr>| <nobr>August 3rd</nobr> | ⭐️⭐️⭐️⭐️ |
