@@ -16,6 +16,7 @@ permalink: /books/
 
 | Title                             | Author(s)                         | Language | Year | Genre     |
 |-----------------------------------|-----------------------------------|----------|------|-----------|
+| [IT](https://en.wikipedia.org/wiki/It_(novel)) | [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) | <code>English</code> | 1986 | <nobr><code>horror</code>, <code>thriller</code>,<br/><code>thriller</code>, <code>coming-of-age story</code></nobr> |
 | [Paul Takes the Form of a Mortal Girl](https://en.wikipedia.org/wiki/Paul_Takes_the_Form_of_a_Mortal_Girl) | [Andrea Lawlor](https://en.wikipedia.org/wiki/Andrea_Lawlor) | <code>English</code> | 2017 | <nobr><code>picaresque novel</code>, <code>magical realism</code></nobr> |
 
 ## 2026

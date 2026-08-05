@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Laundry Service](https://en.wikipedia.org/wiki/Laundry_Service) | [Shakira](https://en.wikipedia.org/wiki/Shakira) | 2001 | <nobr><code>pop rock</code></nobr>| <nobr>August 5th</nobr> | ⭐️⭐️⭐️⭐️ |
 | Platinum | [Cascada](https://en.wikipedia.org/wiki/Cascada) | 2011 | <nobr><code>dance</code></nobr>| <nobr>August 4th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Encanto](https://en.wikipedia.org/wiki/Encanto_(soundtrack))<br/><nobr style="font-size:.75em"><strong>Soundtrack</strong></nobr> | [Encanto](https://en.wikipedia.org/wiki/Encanto) | 2021 | <nobr><code>film score</code>, <code>latin pop</code>, <code>disney</code></nobr>| <nobr>August 4th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Beauty and the Beast](https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(1991_soundtrack))<br/><nobr style="font-size:.75em"><strong>Soundtrack</strong></nobr> | [Beauty and the beast](https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(1991_film)) | 1991 | <nobr><code>film score</code>, <code>pop</code>, <code>disney</code></nobr>| <nobr>August 3rd</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
