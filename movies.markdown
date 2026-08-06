@@ -101,19 +101,3 @@ permalink: /movies/
 | [Poor things](https://en.wikipedia.org/wiki/Poor_Things_(film)) | [Yorgos Lanthimos](https://en.wikipedia.org/wiki/Yorgos_Lanthimos) | <code>English</code> | 2024 | `genre-defying`  | <nobr>April 7th</nobr> | ⭐️⭐️ |
 | [All of Us Strangers](https://en.wikipedia.org/wiki/All_of_Us_Strangers) | [Andrew Haigh](https://en.wikipedia.org/wiki/Andrew_Haigh) | <code>English</code> | 2024 | <nobr><code>romantic fantasy</code></nobr> | <nobr>April 4th</nobr> | ⭐️⭐️⭐️ |
 
-## Backlog
-
-| Title | Directed <span style="font-size:.7em">- or -</span> <br/> Created by | Language | Year | Genre |
-|-----|----|----|-----|------|----|----|
-| [South Pacific](https://en.wikipedia.org/wiki/South_Pacific_(1958_film)) | [Joshua Logan](https://en.wikipedia.org/wiki/Joshua_Logan) | <code>English</code> | 1958 | <nobr><code>musical</code>, <code>romantic</code></nobr> |
-| [Four Weddings and a Funeral](https://en.wikipedia.org/wiki/Four_Weddings_and_a_Funeral) | [Mike Newell](https://en.wikipedia.org/wiki/Mike_Newell_(director)) | <code>English</code> | 1994 | <nobr><code>romantic comedy</code></nobr> |
-| [Pulp Fiction](https://en.wikipedia.org/wiki/Pulp_Fiction) | [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino) | <code>English</code> | 1994 | <nobr><code>independent</code>, <code>crime</code>, <code>black comedy</code></nobr> |
-| [The Shawshank Redemption](https://en.wikipedia.org/wiki/The_Shawshank_Redemption) | [Frank Darabont](https://en.wikipedia.org/wiki/Frank_Darabont) | <code>English</code> | 1994 | <nobr><code>drama</code></nobr> |
-| [The Godfather](https://en.wikipedia.org/wiki/The_Godfather) | [Francis Ford Coppola](https://en.wikipedia.org/wiki/Francis_Ford_Coppola) | <code>English</code> | 1972 | <nobr><code>epic</code>, <code>gangster</code></nobr> |
-| [The Sixth Sense](https://en.wikipedia.org/wiki/The_Sixth_Sense) | [M. Night Shyamalan](https://en.wikipedia.org/wiki/M._Night_Shyamalan) | <code>English</code> | 1999 | <nobr><code>psychological thriller</code></nobr> |
-| [Jumanji](https://en.wikipedia.org/wiki/Jumanji_(film)) | [Joe Johnston](https://en.wikipedia.org/wiki/Joe_Johnston) | <code>English</code> | 1995 | <nobr><code>fantasy</code>, <code>adventure</code></nobr> |
-| [The Fifth Element](https://en.wikipedia.org/wiki/The_Fifth_Element) | [Luc Besson](https://en.wikipedia.org/wiki/Luc_Besson) | <code>English</code> | 1997 | <nobr><code>science fiction</code>, <code>action</code></nobr> |
-| [Inception](https://en.wikipedia.org/wiki/Inception) | [Christopher Nolan](https://en.wikipedia.org/wiki/Christopher_Nolan) | <code>English</code> | 2010 | <nobr><code>science fiction</code>, <code>action</code></nobr> |
-| [Unbreakable](https://en.wikipedia.org/wiki/Unbreakable_(film)) | [M. Night Shyamalan](https://en.wikipedia.org/wiki/M._Night_Shyamalan) | <code>English</code> | 2000 | <nobr><code>superhero</code>, <code>thriller</code></nobr> |
-| [Split](https://en.wikipedia.org/wiki/Split_(2016_American_film)) | [M. Night Shyamalan](https://en.wikipedia.org/wiki/M._Night_Shyamalan) | <code>English</code> | 2016 | <nobr><code> psychological thriller</code></nobr> |
-| [Glass](https://en.wikipedia.org/wiki/Glass_(2019_film)) | [M. Night Shyamalan](https://en.wikipedia.org/wiki/M._Night_Shyamalan) | <code>English</code> | 2019 | <nobr><code>superhero</code>, <code>thriller</code></nobr> |
