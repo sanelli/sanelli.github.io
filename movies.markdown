@@ -16,6 +16,7 @@ permalink: /movies/
 
 | Title | Directed <span style="font-size:.7em">- or -</span> <br/> Created by | Language | Year | Genre | When | Rating |
 |-----|----|----|-----|------|----|----|
+| [Spider-Man: Brand New Day](https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day) | [Destin Daniel Cretton](https://en.wikipedia.org/wiki/Destin_Daniel_Cretton) | <code>English</code> | 2026 | <nobr><code>superhero</code></nobr> | August 6th | ⭐️⭐️⭐️⭐️⭐️ |
 | [The Odyssey](https://en.wikipedia.org/wiki/The_Odyssey_(2026_film)) | [Christopher Nolan](https://en.wikipedia.org/wiki/Christopher_Nolan) | <code>English</code> | 2026 | <nobr><code>epic</code>, <code>action-fantasy</code></nobr> | July 22nd | ⭐️⭐️⭐️⭐️⭐️ |
 | [Masters of the Universe](https://en.wikipedia.org/wiki/Masters_of_the_Universe_(2026_film)) | [Travis Knight](https://en.wikipedia.org/wiki/Travis_Knight) | <code>English</code> | 2026 | <nobr><code>sword-and-sorcery</code></nobr> | June 10th | ⭐️⭐️⭐️⭐️ |
 | [The Devil Wears Prada 2](https://en.wikipedia.org/wiki/The_Devil_Wears_Prada_2) | [David Frankel](https://en.wikipedia.org/wiki/David_Frankel) | <code>English</code> | 2026 | <nobr><code>comedy drama</code></nobr> | May 16th | ⭐️⭐️⭐️ |
