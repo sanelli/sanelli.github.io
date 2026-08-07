@@ -16,7 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
-| Oral Fixation, Vol. 2 | [Shakira](https://en.wikipedia.org/wiki/Shakira) |  | <nobr></nobr>| <nobr>August 7th</nobr> | ⭐️⭐️⭐️ |
+| [Oral Fixation, Vol. 2](https://en.wikipedia.org/wiki/Oral_Fixation,_Vol._2) | [Shakira](https://en.wikipedia.org/wiki/Shakira) | 2005 | <nobr><code>pop rock</code></nobr>| <nobr>August 7th</nobr> | ⭐️⭐️⭐️ |
 | [Folklore](https://en.wikipedia.org/wiki/Folklore_(Nelly_Furtado_album)) | [Nelly Furtado](https://en.wikipedia.org/wiki/Nelly_Furtado) | 2003 | <nobr><code>world</code>, <code>pop rock</code></nobr>| <nobr>August 6th</nobr> | ⭐️⭐️⭐️ |
 | [Laundry Service](https://en.wikipedia.org/wiki/Laundry_Service) | [Shakira](https://en.wikipedia.org/wiki/Shakira) | 2001 | <nobr><code>pop rock</code></nobr>| <nobr>August 5th</nobr> | ⭐️⭐️⭐️⭐️ |
 | Platinum | [Cascada](https://en.wikipedia.org/wiki/Cascada) | 2011 | <nobr><code>dance</code></nobr>| <nobr>August 4th</nobr> | ⭐️⭐️⭐️⭐️ |
