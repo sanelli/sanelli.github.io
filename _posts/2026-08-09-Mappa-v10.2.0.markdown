@@ -1,0 +1,101 @@
+---
+layout: post
+title:  "🗺️ Mappa v10.2.0"
+date:   2026-08-09 18:00:00 +0100
+categories: projects csharp nuget source-generator mappa
+---
+
+<style>
+        @media screen and (min-width: 600px) {
+                .wrapper { margin-left: 5em; max-width: calc(890px - 30px * 2); }
+                .post-list { margin-left: 3em;}
+        }
+</style>
+
+A new version of [Mappa](https://github.com/sanelli/Mappa) (v10.2.0) has been released.
+
+Mappa **10.2.0** expands mapping control with reference handling and compile-time cycle breaking, `IQueryable` projection, nested property paths, dependency-injection registrars, inaccessible-member mapping, object factories, before/after hooks, and richer enum / settings options. Benchmarks, coverage tooling, and generator performance also improve.
+**Full changelog:** [v10.1.0...v10.2.0](https://github.com/sanelli/Mappa/compare/v10.1.0...v10.2.0)
+
+## Breaking changes
+When upgrading from 10.1.0, see the [upgrade guide](https://github.com/sanelli/Mappa/blob/main/Documentation/upgrade.md).
+
+### Relaxed nullability matching for existing map methods
+- **Nested mappings may reuse an existing map method when nullability annotations differ slightly** ([#184](https://github.com/sanelli/Mappa/issues/184), [#272](https://github.com/sanelli/Mappa/pull/272))
+  - With `#nullable enable`, nested mappings may now invoke an existing map method on the mapper, a dependency, or a matching polymorphic method when the underlying types match even if nullability annotations differ.
+  - Exact nullability matches are still preferred; a relaxed match is used only when no exact match exists.
+  - Supported relaxations: nested needs `TTarget?` → may invoke a method returning `TTarget`; nested needs `TSource` → may invoke a method accepting `TSource?`.
+  - Previously, a nullability mismatch caused the generator to skip the existing method and generate inline mapping (or select another strategy). Review nested mappings that relied on the old behaviour.
+
+## What's new
+
+### Reference handling
+- **Circular reference / reference handling** ([#249](https://github.com/sanelli/Mappa/issues/249), [#307](https://github.com/sanelli/Mappa/pull/307)) — Reuse mapped reference-type instances for cycles and shared graphs (`ReferenceReusing`), limit runtime nesting (`MaxRuntimeDepth`), and guard generator discovery (`MaxCompileTimeDepth` + compile-time mapping-cycle detection). Not supported on `IQueryable` projection.
+- **Per-`TTarget` reference reuse and codegen polish** ([#320](https://github.com/sanelli/Mappa/issues/320), [#321](https://github.com/sanelli/Mappa/issues/321), [#322](https://github.com/sanelli/Mappa/issues/322), [#333](https://github.com/sanelli/Mappa/pull/333)) — Key reuse by source identity and `typeof(TTarget)`, omit redundant `AddReferencePair` calls, and cache the reference-manager local.
+- **`BreakCompileTimeCycles`** ([#306](https://github.com/sanelli/Mappa/issues/306), [#311](https://github.com/sanelli/Mappa/pull/311)) — Optionally break compile-time mapping cycles by synthesizing private map methods; emits **MP00078** when a cycle is auto-broken.
+
+### New features
+- **`IQueryable` projection (`ProjectTo`-style)** ([#245](https://github.com/sanelli/Mappa/issues/245), [#284](https://github.com/sanelli/Mappa/pull/284)) — Map methods with `IQueryable<TSource>` → `IQueryable<TTarget>` emit provider-translatable `Select` projections. Not compatible with Native AOT (`[RequiresDynamicCode]`).
+- **Nested (dot-separated) property paths** ([#120](https://github.com/sanelli/Mappa/issues/120), [#274](https://github.com/sanelli/Mappa/pull/274), [#275](https://github.com/sanelli/Mappa/issues/275), [#278](https://github.com/sanelli/Mappa/pull/278)) — Use paths such as `"Address.City"` on `MappaUseProperty`, invoke, constant, context, and ignore attributes for flattening/unflattening.
+- **`MappaObjectFactory`** ([#253](https://github.com/sanelli/Mappa/issues/253), [#291](https://github.com/sanelli/Mappa/pull/291)) — Construct target types via named factory methods instead of `new`.
+- **`MappaBeforeMap` / `MappaAfterMap`** ([#250](https://github.com/sanelli/Mappa/issues/250), [#281](https://github.com/sanelli/Mappa/pull/281)) — Invoke named hooks immediately before and after the generated root mapping body.
+- **`MappaMustMapTargetProperty`** ([#20](https://github.com/sanelli/Mappa/issues/20), [#298](https://github.com/sanelli/Mappa/pull/298)) — Require listed (or all) non-required target properties to be mapped on the empty-constructor path; otherwise **MP00065**.
+- **Inaccessible / private members** ([#254](https://github.com/sanelli/Mappa/issues/254), [#300](https://github.com/sanelli/Mappa/pull/300)) — Opt in with `MappaAllowInaccessibleSourceMembers` / `MappaAllowInaccessibleTargetMembers` to read/write private or protected members (and invoke inaccessible constructors) via `UnsafeAccessor`.
+- **Generic polymorphic type-mapping attributes** ([#305](https://github.com/sanelli/Mappa/issues/305), [#316](https://github.com/sanelli/Mappa/pull/316)) — Prefer `MappaTypeMapping<TTarget, TSource>` and `MappaTypeMappingDefault<TDefault>` over non-generic forms.
+
+### Dependency injection
+- **`MappaDependencyInjection` attribute** ([#299](https://github.com/sanelli/Mappa/issues/299), [#302](https://github.com/sanelli/Mappa/pull/302)) — Generate `IServiceCollection` registration methods for `[Mappa]` mappers; static DI mappers are skipped with **MP00073**.
+- **`InjectFromAssemblies`** ([#301](https://github.com/sanelli/Mappa/issues/301), [#317](https://github.com/sanelli/Mappa/pull/317)) — Discover `[Mappa]` mappers across assemblies for DI registration; Bson and Protobuf DI packages migrate to generated registrars.
+
+### `MappaSettings` and mapping behaviour
+- **`DictionaryAssignment`** ([#34](https://github.com/sanelli/Mappa/issues/34), [#273](https://github.com/sanelli/Mappa/pull/273)) — Choose indexer or `Add` insertion for dictionary-to-dictionary mapping.
+- **`PreventEnumerableCount`** ([#108](https://github.com/sanelli/Mappa/issues/108), [#285](https://github.com/sanelli/Mappa/pull/285)) — Avoid `Enumerable.Count` for fixed-size targets when the source length is unknown.
+- **`CompatibleMapMethod`** ([#13](https://github.com/sanelli/Mappa/issues/13), [#296](https://github.com/sanelli/Mappa/pull/296)) — Opt-in reuse of existing map methods when the source is a base/interface type and the method returns a compatible derived type.
+- **Richer enum mapping configuration** ([#255](https://github.com/sanelli/Mappa/issues/255), [#282](https://github.com/sanelli/Mappa/pull/282)) — Configure enum↔integral, enum↔string, and enum↔enum pairings via `MappaMapEnumMember`, `MappaMapEnumIgnore`, and `MappaMapEnumDefault`.
+- **Relaxed nullability fallback for map method matching** ([#184](https://github.com/sanelli/Mappa/issues/184), [#272](https://github.com/sanelli/Mappa/pull/272)) — See [Breaking changes](#breaking-changes).
+
+### Projection polish
+- **Remove unused `{MethodName}Element` from `IQueryable` projections** ([#303](https://github.com/sanelli/Mappa/issues/303), [#304](https://github.com/sanelli/Mappa/pull/304)) — Stop emitting unused local helpers in projection-generated code.
+
+### Generator quality and performance
+- **Narrow syntax providers and honor `CancellationToken`** ([#323](https://github.com/sanelli/Mappa/issues/323), [#325](https://github.com/sanelli/Mappa/issues/325), [#335](https://github.com/sanelli/Mappa/pull/335)) — Attribute-driven incremental discovery via `ForAttributeWithMetadataName`, and cooperative cancellation on hot paths.
+- **Reduce ReportGenerator CRAP / cyclomatic complexity** ([#238](https://github.com/sanelli/Mappa/issues/238), [#318](https://github.com/sanelli/Mappa/pull/318)) — Refactor hotspot methods and enforce CRAP/CC maxima in the coverage script.
+- **Branch coverage improvements** ([#327](https://github.com/sanelli/Mappa/issues/327), [#336](https://github.com/sanelli/Mappa/pull/336)) — Targeted tests for previously uncovered generator branches; comparison-chart annotation polish.
+- **Bug fixes** ([#319](https://github.com/sanelli/Mappa/issues/319), [#328](https://github.com/sanelli/Mappa/issues/328), [#329](https://github.com/sanelli/Mappa/issues/329), [#330](https://github.com/sanelli/Mappa/pull/330)) — Null-class continue path, culture typo, and `MappaContext` documentation corrections.
+
+### Benchmarks and CI tooling
+- **Expanded benchmark suite with SVG charts** ([#134](https://github.com/sanelli/Mappa/issues/134), [#286](https://github.com/sanelli/Mappa/pull/286)) — Broader mapper scenarios, competitor/Mappa percentage charts, and gist/history publishing.
+- **Benchmark display and comparison charts** ([#295](https://github.com/sanelli/Mappa/issues/295), [#297](https://github.com/sanelli/Mappa/pull/297), [#309](https://github.com/sanelli/Mappa/issues/309), [#315](https://github.com/sanelli/Mappa/pull/315)) — Bogus-seeded inputs, refined TIME/MEMORY SVGs, and a winner comparison table.
+- **Default BenchmarkDotNet job; skip PR benchmarks** ([#331](https://github.com/sanelli/Mappa/issues/331), [#332](https://github.com/sanelli/Mappa/pull/332)) — Reduce flakiness and stop running/commenting benchmarks on pull requests.
+- **Coverage history and PR coverage comments** ([#250](https://github.com/sanelli/Mappa/issues/250), [#276](https://github.com/sanelli/Mappa/issues/276), [#280](https://github.com/sanelli/Mappa/pull/280), [#281](https://github.com/sanelli/Mappa/pull/281)) — PR coverage comments with drop thresholds and improved coverage-history SVGs.
+- **Gist update retries** ([#293](https://github.com/sanelli/Mappa/issues/293), [#294](https://github.com/sanelli/Mappa/pull/294)) — Idempotent history merges with retries on gist updates.
+
+### Test infrastructure
+- **Stronger generator syntax assertions** ([#277](https://github.com/sanelli/Mappa/issues/277), [#279](https://github.com/sanelli/Mappa/pull/279), [#290](https://github.com/sanelli/Mappa/issues/290), [#292](https://github.com/sanelli/Mappa/pull/292)) — Require `HasNextSyntaxNode` walks and full validation after `HaveGeneratedSourceCode()`.
+- **Diagnostic assertion rules** ([#310](https://github.com/sanelli/Mappa/issues/310), [#313](https://github.com/sanelli/Mappa/pull/313)) — Require `HaveDiagnostics(n)` or `NotHaveDiagnostics()` on generator test chains.
+- **Dump generated sources from generator tests** ([#308](https://github.com/sanelli/Mappa/issues/308), [#312](https://github.com/sanelli/Mappa/pull/312)) — Persist successful generation dumps for issue reports.
+
+### Maintenance
+- **Update outdated NuGet package dependencies** ([#287](https://github.com/sanelli/Mappa/issues/287), [#337](https://github.com/sanelli/Mappa/pull/337)) — Bump Roslyn, analyzers, test packages, samples, benchmarks, and integration packages.
+- **Release 10.2.0** ([#271](https://github.com/sanelli/Mappa/issues/271), [#338](https://github.com/sanelli/Mappa/pull/338)) — Promote version from `10.2.0-alpha.*` to stable `10.2.0`.
+
+## What's next
+This is a tentative and non exhaustive list of issues that I would like to cover in the upcoming version of Mappa:
+
+### Mapping / generator features
+- [#334](https://github.com/sanelli/Mappa/issues/334) — Inline mapping via C# interceptors
+- [#256](https://github.com/sanelli/Mappa/issues/256) — Collection merge semantics and map into existing collections
+- [#251](https://github.com/sanelli/Mappa/issues/251) — Conditional mapping, null substitution, and value transformers
+- [#248](https://github.com/sanelli/Mappa/issues/248) — Generic mapping methods
+- [#247](https://github.com/sanelli/Mappa/issues/247) — Map into existing target / merge semantics
+- [#246](https://github.com/sanelli/Mappa/issues/246) — Reverse / bidirectional mapping
+- [#283](https://github.com/sanelli/Mappa/issues/283) — `IQueryable` projection follow-ups
+- [#73](https://github.com/sanelli/Mappa/issues/73) — Support fields, not only properties
+
+### Generator performance
+- [#326](https://github.com/sanelli/Mappa/issues/326) — Optimize hot paths (`TypeSymbolExtensions`, constructor detection, attribute helpers)
+- [#324](https://github.com/sanelli/Mappa/issues/324) — Reduce `Collect()` fan-out and document incremental host behavior
+- [#314](https://github.com/sanelli/Mappa/issues/314) — Investigate Mapperly/Mapster benchmark wins and `FastCollections` behaviour
+
+### Diagnostics and maintainability
+- [#141](https://github.com/sanelli/Mappa/issues/141) — Improved debug feature
