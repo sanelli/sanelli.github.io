@@ -16,11 +16,11 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
-| React<br/>Single | The Pussycat Dolls | 2020 |   | August 10th | ⭐️⭐️⭐️⭐️ |
-| Jai Ho! (You Are My Destiny)<br/>Single | The Pussycat Dolls | 2009 |   | August 10th | ⭐️⭐️⭐️⭐️ |
-| Hush Hush; Hush Hush<br/>Single | The Pussycat Dolls | 2009 |   | August 10th | ⭐️⭐️⭐️⭐️ |
-| Don't Cha<br/>Single | The Pussycat Dolls | 2005 |   | August 10th | ⭐️⭐️⭐️⭐️ |
-| Doll Domination | The Pussycat Dolls | 2008 |   | August 10th | ⭐️⭐️⭐️⭐️ |
+| [React](https://en.wikipedia.org/wiki/React_(The_Pussycat_Dolls_song))<br/><nobr style="font-size:.75em"><strong>Single</strong></nobr> | [The Pussycat Dolls](https://en.wikipedia.org/wiki/The_Pussycat_Dolls)  | 2020 | <nobr><code>electropop</code>, <code>synth-pop</code></nobr> | August 10th | ⭐️⭐️⭐️⭐️ |
+| [Jai Ho! (You Are My Destiny)](https://en.wikipedia.org/wiki/Jai_Ho!_(You_Are_My_Destiny))<br/><nobr style="font-size:.75em"><strong>Single</strong></nobr> | [The Pussycat Dolls](https://en.wikipedia.org/wiki/The_Pussycat_Dolls)  | 2009 | <nobr><code>pop</code>, <code>indian pop</code>, <code>R&amp;B</code></nobr>  | August 10th | ⭐️⭐️⭐️⭐️ |
+| [Hush Hush; Hush Hush](https://en.wikipedia.org/wiki/Hush_Hush_(the_Pussycat_Dolls_song)#Remix)<br/><nobr style="font-size:.75em"><strong>Single</strong></nobr> | [The Pussycat Dolls](https://en.wikipedia.org/wiki/The_Pussycat_Dolls)  | 2009 | <nobr><code>disco</code>, <code>house</code></nobr>  | August 10th | ⭐️⭐️⭐️⭐️ |
+| [Don't Cha](https://en.wikipedia.org/wiki/Don%27t_Cha)<br/><nobr style="font-size:.75em"><strong>Single</strong></nobr> | [The Pussycat Dolls](https://en.wikipedia.org/wiki/The_Pussycat_Dolls)  | 2005 | <nobr><code>dance</code></nobr>   | August 10th | ⭐️⭐️⭐️⭐️ |
+| [Doll Domination](https://en.wikipedia.org/wiki/Doll_Domination) | [The Pussycat Dolls](https://en.wikipedia.org/wiki/The_Pussycat_Dolls) | 2008 | <nobr><code>pop</code>, <code>dance</code>, <code>R&amp;B</code></nobr> | August 10th | ⭐️⭐️⭐️⭐️ |
 | [Oral Fixation, Vol. 2](https://en.wikipedia.org/wiki/Oral_Fixation,_Vol._2) | [Shakira](https://en.wikipedia.org/wiki/Shakira) | 2005 | <nobr><code>pop rock</code></nobr>| <nobr>August 7th</nobr> | ⭐️⭐️⭐️ |
 | [Folklore](https://en.wikipedia.org/wiki/Folklore_(Nelly_Furtado_album)) | [Nelly Furtado](https://en.wikipedia.org/wiki/Nelly_Furtado) | 2003 | <nobr><code>world</code>, <code>pop rock</code></nobr>| <nobr>August 6th</nobr> | ⭐️⭐️⭐️ |
 | [Laundry Service](https://en.wikipedia.org/wiki/Laundry_Service) | [Shakira](https://en.wikipedia.org/wiki/Shakira) | 2001 | <nobr><code>pop rock</code></nobr>| <nobr>August 5th</nobr> | ⭐️⭐️⭐️⭐️ |
@@ -46,7 +46,7 @@ permalink: /music/
 | [FanMail](https://en.wikipedia.org/wiki/FanMail) | [TLC](https://en.wikipedia.org/wiki/TLC_(group)) | 1999 | <nobr><code>R&amp;B</code>, <code>pop</code></nobr>| <nobr>July 3rd</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Magia Bianca](https://it.wikipedia.org/wiki/Magia_bianca_(album)) | [Francesca Michielin](https://it.wikipedia.org/wiki/Francesca_Michielin) | 2026 | <nobr><code>dungeon synth</code>, <code>elettropop</code></nobr>| <nobr>July 3rd</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Emozioni](https://en.wikipedia.org/wiki/Emozioni) | [Lucio Battisti](https://en.wikipedia.org/wiki/Lucio_Battisti) | 1970 | <nobr><code>pop</code>, <code>blues</code></nobr>| <nobr>June 30th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
-| [La canzone del sole / Anche per te](https://en.wikipedia.org/wiki/Il_mio_canto_libero) | [Lucio Battisti](https://en.wikipedia.org/wiki/Lucio_Battisti) | 1971 | <nobr><code>pop</code></nobr> | <nobr>June 20th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
+| [La canzone del sole / Anche per te](https://it.wikipedia.org/wiki/La_canzone_del_sole/Anche_per_te) | [Lucio Battisti](https://en.wikipedia.org/wiki/Lucio_Battisti) | 1971 | <nobr><code>pop</code></nobr> | <nobr>June 20th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 | [Il mio canto libero](https://en.wikipedia.org/wiki/Il_mio_canto_libero) | [Lucio Battisti](https://en.wikipedia.org/wiki/Lucio_Battisti) | 1972 | <nobr><code>pop</code>, <code>rock</code></nobr> | <nobr>June 20th</nobr> | ⭐️⭐️⭐️ |
 | [Questo piccolo grande amore](https://it.wikipedia.org/wiki/Questo_piccolo_grande_amore_(album)) | [Claudio Baglioni](https://en.wikipedia.org/wiki/Claudio_Baglioni) | 1972 | <nobr><code>pop</code>, <code>pop rock</code>, <code>opera rock</code></nobr> | <nobr>June 19th</nobr> | ⭐️⭐️⭐️ |
 | [Gira che ti rigira amore bello](https://it.wikipedia.org/wiki/Gira_che_ti_rigira_amore_bello) | [Claudio Baglioni](https://en.wikipedia.org/wiki/Claudio_Baglioni) | 1973 | <nobr><code>pop</code>, <code>pop rock</code></nobr> | <nobr>June 19th</nobr> | ⭐️⭐️⭐️⭐️ |
