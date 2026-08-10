@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| React<br/>Single | The Pussycat Dolls | 2020 |   | August 10th | ⭐️⭐️⭐️⭐️ |
 | Jai Ho! (You Are My Destiny)<br/>Single | The Pussycat Dolls | 2009 |   | August 10th | ⭐️⭐️⭐️⭐️ |
 | Hush Hush; Hush Hush<br/>Single | The Pussycat Dolls | 2009 |   | August 10th | ⭐️⭐️⭐️⭐️ |
 | Don't Cha<br/>Single | The Pussycat Dolls | 2005 |   | August 10th | ⭐️⭐️⭐️⭐️ |
