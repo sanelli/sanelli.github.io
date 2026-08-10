@@ -16,6 +16,11 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| React<br/>Single | The Pussycat Dolls | 2020 |   | August 10th | ⭐️⭐️⭐️⭐️ |
+| Jai Ho! (You Are My Destiny)<br/>Single | The Pussycat Dolls | 2009 |   | August 10th | ⭐️⭐️⭐️⭐️ |
+| Hush Hush; Hush Hush<br/>Single | The Pussycat Dolls | 2009 |   | August 10th | ⭐️⭐️⭐️⭐️ |
+| Don't Cha<br/>Single | The Pussycat Dolls | 2005 |   | August 10th | ⭐️⭐️⭐️⭐️ |
+| Doll Domination | The Pussycat Dolls | 2008 |   | August 10th | ⭐️⭐️⭐️⭐️ |
 | [Oral Fixation, Vol. 2](https://en.wikipedia.org/wiki/Oral_Fixation,_Vol._2) | [Shakira](https://en.wikipedia.org/wiki/Shakira) | 2005 | <nobr><code>pop rock</code></nobr>| <nobr>August 7th</nobr> | ⭐️⭐️⭐️ |
 | [Folklore](https://en.wikipedia.org/wiki/Folklore_(Nelly_Furtado_album)) | [Nelly Furtado](https://en.wikipedia.org/wiki/Nelly_Furtado) | 2003 | <nobr><code>world</code>, <code>pop rock</code></nobr>| <nobr>August 6th</nobr> | ⭐️⭐️⭐️ |
 | [Laundry Service](https://en.wikipedia.org/wiki/Laundry_Service) | [Shakira](https://en.wikipedia.org/wiki/Shakira) | 2001 | <nobr><code>pop rock</code></nobr>| <nobr>August 5th</nobr> | ⭐️⭐️⭐️⭐️ |
