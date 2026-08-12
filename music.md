@@ -16,6 +16,8 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| [Savage Garden](https://en.wikipedia.org/wiki/Savage_Garden_(Savage_Garden_album)) | [Savage Garden](https://en.wikipedia.org/wiki/Savage_Garden) | 1997 | <nobr><code>pop</code>, <code>soft rock</code>, <code>dance-pop</code></nobr> | August 12th | ⭐️⭐️⭐️ |
+| [Oops!... I Did It Again](https://en.wikipedia.org/wiki/Oops!..._I_Did_It_Again_(album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2000 |<nobr><code>pop</code>, <code>dance-pop</code>, <code>teen pop</code></nobr> | August 12th | ⭐️⭐️⭐️⭐️ |
 | [React](https://en.wikipedia.org/wiki/React_(The_Pussycat_Dolls_song))<br/><nobr style="font-size:.75em"><strong>Single</strong></nobr> | [The Pussycat Dolls](https://en.wikipedia.org/wiki/The_Pussycat_Dolls)  | 2020 | <nobr><code>electropop</code>, <code>synth-pop</code></nobr> | August 10th | ⭐️⭐️⭐️⭐️ |
 | [Jai Ho! (You Are My Destiny)](https://en.wikipedia.org/wiki/Jai_Ho!_(You_Are_My_Destiny))<br/><nobr style="font-size:.75em"><strong>Single</strong></nobr> | [The Pussycat Dolls](https://en.wikipedia.org/wiki/The_Pussycat_Dolls)  | 2009 | <nobr><code>pop</code>, <code>indian pop</code>, <code>R&amp;B</code></nobr>  | August 10th | ⭐️⭐️⭐️⭐️ |
 | [Hush Hush; Hush Hush](https://en.wikipedia.org/wiki/Hush_Hush_(the_Pussycat_Dolls_song)#Remix)<br/><nobr style="font-size:.75em"><strong>Single</strong></nobr> | [The Pussycat Dolls](https://en.wikipedia.org/wiki/The_Pussycat_Dolls)  | 2009 | <nobr><code>disco</code>, <code>house</code></nobr>  | August 10th | ⭐️⭐️⭐️⭐️ |
