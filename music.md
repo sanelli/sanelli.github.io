@@ -16,6 +16,7 @@ permalink: /music/
 
 | Album | Artist | Year | Genre  | When | Rating |
 |-------|--------|------|:-------|------|--------|
+| Sweet Dreams | La Bouche | 1995 |   | August 14th | ⭐️⭐️⭐️ |
 | Anastacia | Anastacia | 2001 |   | August 13th | ⭐️⭐️⭐️ |
 | [Savage Garden](https://en.wikipedia.org/wiki/Savage_Garden_(Savage_Garden_album)) | [Savage Garden](https://en.wikipedia.org/wiki/Savage_Garden) | 1997 | <nobr><code>pop</code>, <code>soft rock</code>, <code>dance-pop</code></nobr> | August 12th | ⭐️⭐️⭐️ |
 | [Oops!... I Did It Again](https://en.wikipedia.org/wiki/Oops!..._I_Did_It_Again_(album)) | [Britney Spears](https://en.wikipedia.org/wiki/Britney_Spears) | 2000 |<nobr><code>pop</code>, <code>dance-pop</code>, <code>teen pop</code></nobr> | August 12th | ⭐️⭐️⭐️⭐️ |
