@@ -178,6 +178,28 @@ table {
   font-size: .7em;
 }
 
+// Sortable media tables (Tablesort)
+table.sortable th[role="columnheader"]:not([data-sort-method="none"]) {
+  cursor: pointer;
+  user-select: none;
+}
+
+table.sortable th[aria-sort="ascending"]::after,
+table.sortable th[aria-sort="descending"]::after {
+  display: inline-block;
+  margin-left: 0.35em;
+  opacity: 0.75;
+  font-size: 0.85em;
+}
+
+table.sortable th[aria-sort="ascending"]::after {
+  content: "▲";
+}
+
+table.sortable th[aria-sort="descending"]::after {
+  content: "▼";
+}
+
 // 404 page
 .error-404 {
   margin: 10px auto;

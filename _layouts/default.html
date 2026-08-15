@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+    {%- if page.sortable_tables -%}
+    <script src="{{ '/assets/js/tablesort.min.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/tablesort.number.min.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/media-tables.js' | relative_url }}"></script>
+    {%- endif -%}
+
+  </body>
+
+</html>
