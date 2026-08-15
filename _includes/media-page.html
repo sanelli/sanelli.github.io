@@ -11,14 +11,14 @@
 
 {%- for group in data.years -%}
 <div class="media-section">
-  <h2>{{ group.label }}</h2>
+  <h2>{{ group.label }} <span class="media-count">({{ group.entries.size }})</span></h2>
   {% include media-table.html kind=kind entries=group.entries mode="logged" %}
 </div>
 {%- endfor -%}
 
 {%- if data.backlog and data.backlog.size > 0 -%}
 <div class="media-section">
-  <h2>Backlog</h2>
+  <h2>Backlog <span class="media-count">({{ data.backlog.size }})</span></h2>
   {% include media-table.html kind=kind entries=data.backlog mode="plain" %}
 </div>
 {%- endif -%}
