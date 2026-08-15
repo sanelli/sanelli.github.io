@@ -20,16 +20,16 @@ permalink: /games/
 
 ## 2026
 
-| Title | Developer(s) | Publisher(s) | Console | Genre | <nobr>Completed on<nobr> | Score |
+| Title | Developer(s) | Publisher(s) | Console | Genre | <nobr>Completed on</nobr> | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
 | [Donkey Kong Bananza](https://en.wikipedia.org/wiki/Donkey_Kong_Bananza) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>platformer</code></nobr>  | <nobr>May 9th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
-| [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn) | [Guerrilla Games](https://en.wikipedia.org/wiki/Guerrilla_Games) | [Sony Interactive Entertainment](https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment) | [Playstation 5](https://en.wikipedia.org/wiki/PlayStation_5) | <nobr><code>action role-playing</code></nobr> | <nobr>April 21st</nobr> | ⭐️⭐️⭐️⭐️ |
+| [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn) | [Guerrilla Games](https://en.wikipedia.org/wiki/Guerrilla_Games) | [Sony Interactive Entertainment](https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment) | [PlayStation 5](https://en.wikipedia.org/wiki/PlayStation_5) | <nobr><code>action role-playing</code></nobr> | <nobr>April 21st</nobr> | ⭐️⭐️⭐️⭐️ |
 | [Salt and Sanctuary](https://en.wikipedia.org/wiki/Salt_and_Sanctuary) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Ska Studios](https://en.wikipedia.org/wiki/Ska_Studios) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2) | <nobr><code>action role-playing</code>,<br/><code>soulslike</code></nobr> | <nobr>January 8th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 
 
 ## 2025
 
-| Title | Developer(s) | Publisher(s) | Console | Genre | <nobr>Completed on<nobr> | Score |
+| Title | Developer(s) | Publisher(s) | Console | Genre | <nobr>Completed on</nobr> | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
 | [Clair Obscur: Expedition 33](https://en.wikipedia.org/wiki/Clair_Obscur:_Expedition_33) | [Sandfall Interactive](https://en.wikipedia.org/wiki/Sandfall_Interactive) | [Kepler Interactive](https://en.wikipedia.org/wiki/Kepler_Interactive) | [PlayStation 5](https://en.wikipedia.org/wiki/PlayStation_5) | <nobr><code>role-playing</code></nobr> | December 12th | ⭐️⭐️⭐️⭐️⭐️ |
 | [Hyrule Warriors: Age of Imprisonment](https://en.wikipedia.org/wiki/Hyrule_Warriors:_Age_of_Imprisonment) | [AAA Games Studio](https://en.wikipedia.org/wiki/AAA_Games_Studio) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch 2](https://en.wikipedia.org/wiki/Nintendo_Switch_2)  | <nobr><code>hack and slash</code></nobr> | November 23rd | ⭐️⭐️⭐️⭐️ |
@@ -45,9 +45,9 @@ permalink: /games/
 | Title | Developer(s) | Publisher(s) | Console | Genre | Completed on | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
 | [The Legend of Zelda: Echoes of Wisdom](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Echoes_of_Wisdom) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo), [Grezzo](https://en.wikipedia.org/wiki/Grezzo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | <nobr><code>action-adventure game</code></nobr> | <nobr>November 14th</nobr> | ⭐️⭐️⭐️⭐️ |
-| [Elden Ring: Shadow of the Erdtree](https://en.wikipedia.org/wiki/Elden_Ring#Shadow_of_the_Erdtree) | [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware) | [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) | [Playstation 5](https://en.wikipedia.org/wiki/PlayStation_5) | <nobr><code>action role-playing</code>,<br/><code>soulslike</code></nobr> | <nobr>September 19th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
-| [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring)<br/><nobr style="font-size:.75em"><strong>Age Of Stars</strong></nobr> | [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware) | [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) | [Playstation 5](https://en.wikipedia.org/wiki/PlayStation_5) | <nobr><code>action role-playing</code>,<br/><code>soulslike</code></nobr> | <nobr>August</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
-| [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring)<br/><nobr style="font-size:.75em"><strong>Lord of the Frenzied Flame</strong></nobr> | [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware) | [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) | [Playstation 5](https://en.wikipedia.org/wiki/PlayStation_5) | <nobr><code>action role-playing</code>,<br/><code>soulslike</code></nobr> | <nobr>July 5th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
+| [Elden Ring: Shadow of the Erdtree](https://en.wikipedia.org/wiki/Elden_Ring#Shadow_of_the_Erdtree) | [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware) | [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) | [PlayStation 5](https://en.wikipedia.org/wiki/PlayStation_5) | <nobr><code>action role-playing</code>,<br/><code>soulslike</code></nobr> | <nobr>September 19th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
+| [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring)<br/><nobr style="font-size:.75em"><strong>Age of the Stars</strong></nobr> | [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware) | [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) | [PlayStation 5](https://en.wikipedia.org/wiki/PlayStation_5) | <nobr><code>action role-playing</code>,<br/><code>soulslike</code></nobr> | <nobr>August</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
+| [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring)<br/><nobr style="font-size:.75em"><strong>Lord of the Frenzied Flame</strong></nobr> | [FromSoftware](https://en.wikipedia.org/wiki/FromSoftware) | [Bandai Namco](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) | [PlayStation 5](https://en.wikipedia.org/wiki/PlayStation_5) | <nobr><code>action role-playing</code>,<br/><code>soulslike</code></nobr> | <nobr>July 5th</nobr> | ⭐️⭐️⭐️⭐️⭐️ |
 
 ## 2023
 
@@ -84,12 +84,12 @@ permalink: /games/
 
 | Title | Developer(s) | Publisher(s) | Console | Genre | Completed on | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
-| [Hyrule Warrios: Age Of Calamity](https://en.wikipedia.org/wiki/Hyrule_Warriors:_Age_of_Calamity) | [Omega Force](https://en.wikipedia.org/wiki/Omega_Force) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) |[Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | <nobr><code>hack and slash</code></nobr> | <nobr>December 3rd</nobr>| ⭐️⭐️⭐️⭐️ |
+| [Hyrule Warriors: Age of Calamity](https://en.wikipedia.org/wiki/Hyrule_Warriors:_Age_of_Calamity) | [Omega Force](https://en.wikipedia.org/wiki/Omega_Force) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) |[Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | <nobr><code>hack and slash</code></nobr> | <nobr>December 3rd</nobr>| ⭐️⭐️⭐️⭐️ |
 | [Ori and the blind forest](https://en.wikipedia.org/wiki/Ori_and_the_Blind_Forest) | [Moon Studios](https://en.wikipedia.org/wiki/Moon_Studios) | [Microsoft Studios](https://en.wikipedia.org/wiki/Microsoft_Studios) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | <nobr><code>platform-adventure</code>,<br/><code>metroidvania</code></nobr> | <nobr>September 30th</nobr> | ⭐️⭐️⭐️⭐️ |
 
 ## 2019
 
-| Title | Developer(s) | Publisher(s) | Console | Genre | <nobr>Completed on<nobr> | Score |
+| Title | Developer(s) | Publisher(s) | Console | Genre | <nobr>Completed on</nobr> | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
 | [Pokémon Shield](https://en.wikipedia.org/wiki/Pokémon_Sword_and_Shield) | [Game Freak](https://en.wikipedia.org/wiki/Game_Freak) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | <nobr><code>role playing</code></nobr> | | ⭐️⭐️⭐️ |
 | [Luigi's Mansion 3](https://en.wikipedia.org/wiki/Luigi%27s_Mansion_3) | [Next Level Games](https://en.wikipedia.org/wiki/Next_Level_Games)| [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | <nobr><code>action adventure</code></nobr> |  | ⭐️⭐️⭐️⭐️ |
@@ -99,7 +99,7 @@ permalink: /games/
 
 ## 2018
 
-| Title | Developer(s) | Publisher(s) | Console | Genre | <nobr>Completed on<nobr> | Score |
+| Title | Developer(s) | Publisher(s) | Console | Genre | <nobr>Completed on</nobr> | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
 | [Pokémon: Let's Go Pikachu](https://en.wikipedia.org/wiki/Pokémon:_Let%27s_Go,_Pikachu!_and_Let%27s_Go,_Eevee!) | [Game Freak](https://en.wikipedia.org/wiki/Game_Freak) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | <nobr><code>role playing</code></nobr> |  | ⭐️⭐️ |
 | [Super Mario Odissey](https://en.wikipedia.org/wiki/Super_Mario_Odyssey) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | <nobr><code>platformer</code></nobr> |  | ⭐️⭐️⭐️⭐️⭐️ |
@@ -108,7 +108,7 @@ permalink: /games/
 
 ## Past
 
-| Title | Developer(s) | Publisher(s) | Console | Genre | <nobr>Completed on<nobr> | Score |
+| Title | Developer(s) | Publisher(s) | Console | Genre | <nobr>Completed on</nobr> | Score |
 |-------|--------------|--------------|---------|-------|--------------|-------|
 | [New Super Mario Bros. U Deluxe](https://en.wikipedia.org/wiki/New_Super_Mario_Bros._U ) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo](https://en.wikipedia.org/wiki/Nintendo) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | <nobr><code>platformer</code></nobr> |  | ⭐️⭐️⭐️⭐️ |
 | [Mario + Rabbids Kingdom Battle](https://en.wikipedia.org/wiki/Mario_%2B_Rabbids_Kingdom_Battle) | [Ubisoft Milan](https://en.wikipedia.org/wiki/Ubisoft_Milan), [Ubisoft Paris](https://en.wikipedia.org/wiki/Ubisoft_Paris)  | [Ubisoft](https://en.wikipedia.org/wiki/Ubisoft) | [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch) | <nobr><code>action-adventure</code>,<br/><code>atactical role-playing</code></nobr> |  | ⭐️⭐️⭐️⭐️ |
