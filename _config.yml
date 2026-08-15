@@ -37,9 +37,9 @@ header_pages:
   - cv.markdown
   - projects.markdown
   - books.markdown
-  - games.markdown
-  - movies.markdown
   - music.md
+  - movies.markdown
+  - games.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.

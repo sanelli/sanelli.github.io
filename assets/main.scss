@@ -109,6 +109,15 @@ table {
   }
 }
 
+.home-intro {
+  margin: 0 0 2em;
+}
+
+.home-intro p {
+  margin: 0 0 1em;
+  max-width: 42em;
+}
+
 // Desktop content indent (was duplicated in page/post <style> blocks).
 @media screen and (min-width: 600px) {
   .wrapper {
