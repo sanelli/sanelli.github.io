@@ -16,21 +16,21 @@ body_class: entries-page
 <span class="entry-detail">*Staff Software Engineer, Cloud Application Architect*</span> <span class="entry-meta-sm">[Oct 2025 – Jan 2026]</span><br/>
 <span class="entry-detail">**Activities**: `architecture design`, `architecture implementation`</span><br/>
 <span class="entry-detail">**Language**: `C#`</span><br/>
-<span class="entry-detail">**Product**: [Unity Asset Manager](https://unity.com/products/asset-manager)</span><br/>
+<span class="entry-detail entry-chips">**Product**: [Unity Asset Manager](https://unity.com/products/asset-manager)</span><br/>
 <span class="entry-detail">**Frameworks**: `ASP.NET`, `MongoDB`, `Elasticsearch`, `Redis`, `Azure`, `gRPC`</span><br/><br/>
 <span class="entry-detail">*Senior Manager, Software Engineering*</span> <span class="entry-meta-sm">[Apr 2024 – Sep 2025]</span><br/>
 <span class="entry-detail">**Activities**: `team growth`, `architecture design`, `recruiting`, `mentoring`</span><br/>
-<span class="entry-detail">**Product**: [Unity Asset Manager](https://unity.com/products/asset-manager)</span><br/>
+<span class="entry-detail entry-chips">**Product**: [Unity Asset Manager](https://unity.com/products/asset-manager)</span><br/>
 <span class="entry-detail">**Frameworks**: `ASP.NET`, `MongoDB`, `Elasticsearch`, `Redis`, `Azure`</span><br/><br/>
 <span class="entry-detail">*Staff Software Engineer*</span> <span class="entry-meta-sm">[Jul 2023 – Mar 2024]</span><br/>
 <span class="entry-detail">**Activities**: `software architecture`, `coding`, `defining standards`, `bug-fixing`</span><br/>
 <span class="entry-detail">**Language**: `C#`</span><br/>
-<span class="entry-detail">**Product**: [Unity Asset Manager](https://unity.com/products/asset-manager)</span><br/>
+<span class="entry-detail entry-chips">**Product**: [Unity Asset Manager](https://unity.com/products/asset-manager)</span><br/>
 <span class="entry-detail">**Frameworks**: `ASP.NET`, `MongoDB`, `Elasticsearch`, `Kafka`, `Redis`, `Azure`, `GCP`</span><br/><br/>
 <span class="entry-detail">*Senior Software Engineer*</span> <span class="entry-meta-sm">[Jun 2020 – Jun 2023]</span><br/>
 <span class="entry-detail">**Activities**: `software architecture`, `coding`, `bug-fixing`</span><br/>
 <span class="entry-detail">**Languages**: `C#`, `C++`</span><br/>
-<span class="entry-detail">**Product**: [Unity Asset Manager](https://unity.com/products/asset-manager), [ArtEngine](https://unity.com/products/unity-artengine)</span><br/>
+<span class="entry-detail entry-chips">**Product**: [Unity Asset Manager](https://unity.com/products/asset-manager), [ArtEngine](https://unity.com/products/unity-artengine)</span><br/>
 <span class="entry-detail">**Frameworks**: `ASP.NET`, `GCP`, `Unity`, `nuklear`</span>
 
 ### <span class="entry-title"><img class="entry-logo" src="https://www.ifsc.ie/images/uploads/clients-logos/Susquehanna_logo.jpg"/> Susquehanna International Group</span> <span class="entry-meta">[Oct 2016 – May 2020]</span>
@@ -55,7 +55,7 @@ body_class: entries-page
 <span class="entry-detail">*Software engineer*</span><br/>
 <span class="entry-detail">**Activities**: `software architecture`, `coding`, `bug-fixing`</span><br/>
 <span class="entry-detail">**Languages**: `C#`, `C++`, `C++/CLI`, `Python`</span><br/>
-<span class="entry-detail">**Product**: [Petrel multiphysics plug-in](https://www.software.slb.com/products/petrel/petrel-geophysics/petrel-multiphysics-plug-in)</span><br/>
+<span class="entry-detail entry-chips">**Product**: [Petrel multiphysics plug-in](https://www.software.slb.com/products/petrel/petrel-geophysics/petrel-multiphysics-plug-in)</span><br/>
 <span class="entry-detail">**Frameworks**: `NHibernate`, `Boost.Spirit`, `GDI`, `Petrel`, `Ocean`</span>
 
 ### <span class="entry-title"><img class="entry-logo" src="https://zenprospect-production.s3.amazonaws.com/uploads/pictures/65b895849b704b0001e5d0a4/picture"/> Manthia</span> <span class="entry-meta">[Apr 2009 – Jun 2010]</span>

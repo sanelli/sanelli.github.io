@@ -296,6 +296,59 @@ table {
     color: #eee;
   }
 
+  .chip,
+  .entry-detail:has(code) code,
+  .entry-chips a {
+    display: inline-block;
+    margin: 0.12rem 0.28rem 0.12rem 0;
+    padding: 0.18rem 0.6rem;
+    border-radius: 999px;
+    background: #2a2a2a;
+    border: 1px solid #3f3f3f;
+    color: #d8d8d8;
+    font-family: $base-font-family;
+    font-size: 0.75rem;
+    font-weight: 500;
+    line-height: 1.3;
+  }
+
+  .entry-detail:has(code) code {
+    background: #2a2a2a;
+    border-color: #3f3f3f;
+    color: #d8d8d8;
+  }
+
+  .chip-label,
+  .entry-detail:has(code) > strong,
+  .entry-chips > strong {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: $grey-color;
+  }
+
+  .entry-detail:has(code) > strong,
+  .entry-chips > strong {
+    min-width: 6.4rem;
+    margin-right: 0.35rem;
+  }
+
+  .entry-detail:has(code),
+  .entry-chips {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    font-size: 0;
+    line-height: 1.4;
+  }
+
+  .entry-chips a:hover {
+    color: #f0f0f0;
+    border-color: #6a6a6a;
+  }
+
   .entry-detail img {
     width: 1.1em;
     height: 1.1em;
@@ -400,14 +453,32 @@ table {
     background: #111;
   }
 
-  .project-notes {
-    margin: 0.45em 0 0;
-    line-height: 1.6;
+  .project-meta-row {
+    display: grid;
+    grid-template-columns: 3.4rem 1fr;
+    column-gap: 0.85rem;
+    align-items: start;
+    margin: 0.35em 0 0;
   }
 
-  .project-notes a {
+  .project-meta-row .chip-label {
+    padding-top: 0.28rem;
+  }
+
+  .project-meta-values {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    min-width: 0;
+  }
+
+  .project-meta-values .chip {
+    margin: 0.12rem 0.28rem 0.12rem 0;
+  }
+
+  .project-meta-values a {
     display: inline-block;
-    margin: 0.15em 0.35em 0.15em 0;
+    margin: 0.12rem 0.28rem 0.12rem 0;
     padding: 0.12em 0.5em;
     border: 1px solid #444;
     border-radius: 999px;
