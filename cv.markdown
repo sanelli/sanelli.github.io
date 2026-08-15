@@ -104,7 +104,7 @@ body_class: entries-page
 <span class="entry-detail entry-row">{% include media-language.html language="English" %} **English** <span class="entry-row-value">Full professional proficiency</span></span>
 
 ## {% include icon.html name="links" %} Links
-<span class="entry-detail"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> [GitHub](https://github.com/sanelli)</span><br/>
-<span class="entry-detail"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg> [LinkedIn](https://linkedin.com/in/stefanoanelli/)</span><br/>
-<span class="entry-detail">📦 [NuGet](https://www.nuget.org/profiles/sanelli)</span><br/>
-<span class="entry-detail"><img src="{{ '/assets/images/logos/stackoverflow.png' | relative_url }}" width="20" height="20"/> [Stack Overflow](https://stackoverflow.com/users/1468832/sanelli)</span>
+<span class="entry-detail">{% include icon.html name="github" %} [GitHub](https://github.com/sanelli)</span><br/>
+<span class="entry-detail">{% include icon.html name="linkedin" %} [LinkedIn](https://linkedin.com/in/stefanoanelli/)</span><br/>
+<span class="entry-detail">{% include icon.html name="nuget" %} [NuGet](https://www.nuget.org/profiles/sanelli)</span><br/>
+<span class="entry-detail">{% include icon.html name="stackoverflow" %} [Stack Overflow](https://stackoverflow.com/users/1468832/sanelli)</span>
