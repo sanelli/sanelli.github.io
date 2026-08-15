@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 🕹️ Games
+title: Games
+icon: games
 description: Games I have played and am playing, with ratings, developers, and consoles.
 permalink: /games/
 sortable_tables: true

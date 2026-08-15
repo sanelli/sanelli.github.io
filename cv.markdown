@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 💼 Work
+title: Work
+icon: work
 description: Work history — software engineering roles in C#, .NET, and cloud systems.
 permalink: /work/
 body_class: entries-page
@@ -64,7 +65,7 @@ body_class: entries-page
 <span class="entry-detail">**Languages**: `Java`</span><br/>
 <span class="entry-detail">**Frameworks**: `MySQL`, `JSP`</span>
 
-## 📚 Education
+## {% include icon.html name="education" %} Education
 ### <span class="entry-title"><img class="entry-logo" src="https://iconape.com/wp-content/png_logo_vector/politecnico-milano-logo.png"/> Politecnico di Milano</span> <span class="entry-meta">[Sep 2003 – Jul 2009]</span>
 <span class="entry-detail">*Master of Science in Computer Engineering*</span> <span class="entry-meta-sm">[Sep 2007 – Jul 2009]</span><br/>
 <span class="entry-detail">**Subjects**: `software architecture`, `OS`, `compilers`, `AI`, `cryptography`</span><br/>
@@ -78,11 +79,11 @@ body_class: entries-page
 <span class="entry-detail">**Subjects**: `computer science`, `electronics`, `networking`, `databases`</span><br/>
 <span class="entry-detail">**Final project**: An SMTP/POP3 e-mail client written in Delphi.</span>
 
-## 🗣️ Languages
+## {% include icon.html name="languages" %} Languages
 <span class="entry-detail">**🇮🇹 Italian**: Native proficiency.</span><br/>
 <span class="entry-detail">**🇬🇧 English**: Full professional proficiency.</span>
 
-## 🔗 Links
+## {% include icon.html name="links" %} Links
 <span class="entry-detail"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> [GitHub](https://github.com/sanelli)</span><br/>
 <span class="entry-detail"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg> [LinkedIn](https://linkedin.com/in/stefanoanelli/)</span><br/>
 <span class="entry-detail">📦 [NuGet](https://www.nuget.org/profiles/sanelli)</span><br/>

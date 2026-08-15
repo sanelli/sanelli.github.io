@@ -18,6 +18,41 @@ html {
   color-scheme: dark;
 }
 
+.icon-sprite {
+  position: absolute;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+}
+
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.15em;
+  margin-right: 0.35em;
+  flex: 0 0 auto;
+}
+
+.page-link,
+.post-title,
+.entry-title,
+.post-link {
+  .icon {
+    color: $brand-color;
+  }
+}
+
+.page-link {
+  display: inline-flex;
+  align-items: center;
+}
+
+.post-content h2 .icon {
+  color: $brand-color;
+  margin-right: 0.4em;
+}
+
 .site-title,
 .site-header .site-title,
 .page-heading,

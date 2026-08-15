@@ -1,0 +1,13 @@
+{%- assign label_title = include.title -%}
+{%- assign label_project = include.project -%}
+{%- if label_project -%}
+  {%- if label_project.emoji -%}
+    {%- assign label_title = label_title | replace: label_project.emoji, "" -%}
+  {%- endif -%}
+  {%- if label_project.emoji_alt -%}
+    {%- assign label_title = label_title | replace: label_project.emoji_alt, "" -%}
+  {%- endif -%}
+  {%- assign label_title = label_title | strip -%}
+  {%- include icon.html name=label_project.icon -%}
+{%- endif -%}
+{{ label_title | escape }}

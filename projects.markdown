@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 👨🏻‍💻 Projects
+title: Projects
+icon: projects
 description: Open-source .NET tools, source generators, analyzers, and small games.
 permalink: /projects/
 body_class: entries-page

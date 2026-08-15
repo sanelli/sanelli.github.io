@@ -1,6 +1,7 @@
 - slug: mappa
   section: flagship
   category: mappa
+  icon: mappa
   emoji: "🗺️"
   name: Mappa
   why: Compile-time mapping that stays Native AOT friendly, readable, and reusable.
@@ -23,6 +24,7 @@
 - slug: todo-analyzer
   section: flagship
   category: todo
+  icon: todo
   emoji: "💭"
   name: Comment TODO Analyzer
   why: TODOs without a ticket number rot; this makes the format a compiler rule.
@@ -43,6 +45,7 @@
 - slug: prettycode
   section: libraries
   category: prettycode
+  icon: prettycode
   emoji: "👷"
   name: PrettyCode.StringBuilder
   why: Generated source is easier to debug when indent and directives nest and unwind themselves.
@@ -60,6 +63,7 @@
 - slug: blocchi
   section: games
   category: blocchi
+  icon: blocchi
   emoji: "🟦🟩"
   name: Blocchi
   why: Learn Rust and Bevy’s ECS by implementing Tetris.
@@ -76,6 +80,7 @@
 - slug: fifteen
   section: games
   category: fifteen
+  icon: fifteen
   emoji: "1️⃣5️⃣"
   name: Fifteen
   why: A small C++ and SDL2 sliding-tile puzzle to practise native game setup.
@@ -93,6 +98,7 @@
 - slug: tic-tac-toe
   section: games
   category: tic-tac-toe
+  icon: tictactoe
   emoji: "❌⭕️"
   name: Tic-tac-toe
   why: The same kind of small game, this time to learn Ada and SDL2 bindings.
@@ -110,6 +116,7 @@
 - slug: connect-four
   section: games
   category: connect-four
+  icon: connectfour
   emoji: "🔴🟡"
   name: Connect Four
   why: A Go and SDL2 take on the same “learn the stack by shipping a game” idea.
@@ -126,6 +133,7 @@
 - slug: turing
   section: interpreters
   category: turing
+  icon: turing
   emoji: "🍎"
   name: Turing machine emulators
   why: One Turing-machine interpreter, many languages, so the idioms are comparable.
@@ -144,6 +152,7 @@
 - slug: brainfuck
   section: interpreters
   category: brainfuck
+  icon: brainfuck
   emoji: "🧠"
   name: Brainfuck interpreters
   why: The same cross-language exercise for a tiny language, including Erlang.
