@@ -45,7 +45,7 @@
       {%- elsif kind == "games" -%}
       <td>{%- include media-people.html people=item.developers -%}</td>
       <td>{%- include media-people.html people=item.publishers -%}</td>
-      <td>{%- if item.console -%}{%- if item.console.url -%}[{{ item.console.name }}]({{ item.console.url }}){%- else -%}{{ item.console.name }}{%- endif -%}{%- endif -%}</td>
+      <td>{%- if item.console -%}{%- include media-link.html text=item.console.name url=item.console.url -%}{%- endif -%}</td>
       {%- elsif kind == "movies" -%}
       <td>{%- include media-people.html people=item.creators -%}</td>
       <td>{%- if item.language -%}<code>{{ item.language }}</code>{%- endif -%}</td>

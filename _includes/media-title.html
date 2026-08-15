@@ -1,4 +1,4 @@
-{%- if include.item.url -%}[{{ include.item.title }}]({{ include.item.url }}){%- else -%}{{ include.item.title }}{%- endif -%}
+{%- include media-link.html text=include.item.title url=include.item.url -%}
 {%- if include.item.subtitles -%}
-<br/><nobr class="media-subtitle">{%- for subtitle in include.item.subtitles -%}<strong>{{ subtitle }}</strong>{%- unless forloop.last -%}<br/>{%- endunless -%}{%- endfor -%}</nobr>
+<br/><nobr class="media-subtitle">{%- for subtitle in include.item.subtitles -%}<strong>{{ subtitle | escape }}</strong>{%- unless forloop.last -%}<br/>{%- endunless -%}{%- endfor -%}</nobr>
 {%- endif -%}
