@@ -17,12 +17,13 @@ permalink: /books/
 | Title                             | Author(s)                         | Language | Year | Genre     |
 |-----------------------------------|-----------------------------------|----------|------|-----------|
 | [IT](https://en.wikipedia.org/wiki/It_(novel)) | [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) | <code>English</code> | 1986 | <nobr><code>horror</code>, <code>thriller</code>,<br/><code>thriller</code>, <code>coming-of-age story</code></nobr> |
-| [Paul Takes the Form of a Mortal Girl](https://en.wikipedia.org/wiki/Paul_Takes_the_Form_of_a_Mortal_Girl) | [Andrea Lawlor](https://en.wikipedia.org/wiki/Andrea_Lawlor) | <code>English</code> | 2017 | <nobr><code>picaresque novel</code>, <code>magical realism</code></nobr> |
+| [Hands-On Large Language Models](https://books.google.ie/books/about/Hands_On_Large_Language_Models.html) | [Jay Alammar](https://www.google.ie/search?tbo=p&tbm=bks&q=inauthor:%22Jay+Alammar%22), [Maarten Grootendorst](https://www.google.ie/search?tbo=p&tbm=bks&q=inauthor:%22Maarten+Grootendorst%22) | <code>English</code>  | 2024 | <nobr><code>tech</code></nobr>  |
 
 ## 2026
 
 | Title                             | Author(s)                         | Language | Year | Genre     | Finished    | Rating       |
 |-----------------------------------|-----------------------------------|----------|------|-----------|-------------|--------------|
+| [Paul Takes the Form of a Mortal Girl](https://en.wikipedia.org/wiki/Paul_Takes_the_Form_of_a_Mortal_Girl) | [Andrea Lawlor](https://en.wikipedia.org/wiki/Andrea_Lawlor) | <code>English</code> | 2017 | <nobr><code>picaresque novel</code>, <code>magical realism</code></nobr> | <nobr>August 15th</nobr> | ⭐️⭐️⭐️⭐️ |
 | [La sfera del buio](https://en.wikipedia.org/wiki/The_Dark_Tower_IV:_Wizard_and_Glass)<br/><nobr style="font-size:.75em"><strong>The Dark Tower IV: Wizard and Glass</strong></nobr> | [Stephen King](https://en.wikipedia.org/wiki/Stephen_King) | <code>Italian</code> | 1997 | <nobr><code>dark fantasy</code>, <code>science fiction</code></nobr> | <nobr>August 4th</nobr>| ⭐️⭐️⭐️⭐️ |
 | [Pretty Guardian Sailor Moon](https://en.wikipedia.org/wiki/Sailor_Moon)<br/><nobr style="font-size:.75em"><strong>Volume 8 (Act 36 - Act 39)</strong></nobr> | [Naoko Takeuchi](https://en.wikipedia.org/wiki/Naoko_Takeuchi) | <code>Italian</code> | 1995 | <nobr><code>manga</code>, <code>magical girl</code></nobr> | <nobr>July 8th</nobr>| ⭐️⭐️⭐️⭐️ |
 | [Heated Rivalry](https://en.wikipedia.org/wiki/Heated_Rivalry_(novel)) | [Rachel Reid](https://en.wikipedia.org/wiki/Rachel_Reid_(author)) | <code>English</code> | 2019 | <nobr><code>gay</code>, <code>sport</code>, <code>romance</code></nobr> | <nobr>July 7th</nobr>| ⭐️⭐️⭐️ |
