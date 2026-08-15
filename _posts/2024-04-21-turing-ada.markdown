@@ -12,5 +12,5 @@ categories: projects turing interpreter ada
         }
 </style>
 
-Added the [Ada](https://github.com/sanelli/turing/tree/main/ada) implementation to the [suite of turing machine interpreters](https://github.com/sanelli/turing).
-This has been implemented to with the [Alire](https://alire.ada.dev) toolchain and libraries.
+Added the [Ada](https://github.com/sanelli/turing/tree/main/ada) implementation to the [suite of Turing machine interpreters](https://github.com/sanelli/turing).
+This has been implemented with the [Alire](https://alire.ada.dev) toolchain and libraries.

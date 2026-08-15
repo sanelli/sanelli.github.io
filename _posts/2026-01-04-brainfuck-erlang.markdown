@@ -12,4 +12,4 @@ categories: projects brainfuck interpreter erlang
         }
 </style>
 
-Added the [Erlang](https://github.com/sanelli/brainfuck/tree/main/erlang) implementation to the [suite of brainfuck interpreters](https://github.com/sanelli/brainfuck).
+Added the [Erlang](https://github.com/sanelli/brainfuck/tree/main/erlang) implementation to the [suite of Brainfuck interpreters](https://github.com/sanelli/brainfuck).

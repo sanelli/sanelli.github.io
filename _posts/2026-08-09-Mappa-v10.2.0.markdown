@@ -80,7 +80,7 @@ When upgrading from 10.1.0, see the [upgrade guide](https://github.com/sanelli/M
 - **Release 10.2.0** ([#271](https://github.com/sanelli/Mappa/issues/271), [#338](https://github.com/sanelli/Mappa/pull/338)) — Promote version from `10.2.0-alpha.*` to stable `10.2.0`.
 
 ## What's next
-This is a tentative and non exhaustive list of issues that I would like to cover in the upcoming version of Mappa:
+This is a tentative and non-exhaustive list of issues that I would like to cover in the upcoming version of Mappa:
 
 ### Mapping / generator features
 - [#334](https://github.com/sanelli/Mappa/issues/334) — Inline mapping via C# interceptors

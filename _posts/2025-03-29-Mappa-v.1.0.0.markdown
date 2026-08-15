@@ -12,15 +12,15 @@ categories: projects csharp nuget source-generator mappa
         }
 </style>
 
-[Mappa](https://github.com/sanelli/Mappa) (italian for _map_) is a .NET source generator for C#. Mappa allows to automatically generate mapper between differrent types, similarly to what AutoMapper does but the mapping generation happens at compile time.
+[Mappa](https://github.com/sanelli/Mappa) (Italian for _map_) is a .NET source generator for C#. Mappa allows you to automatically generate mappers between different types, similarly to what AutoMapper does but the mapping generation happens at compile time.
 
 ## Why Mappa?
-Mappa is relatively new project (well I have been workig on this for a couple of year) and does not aim at replacing bigger players in this field, like AutoMapper. So why create a new mapping tool? Well because there was no automatic mapper that was satisying my needs:
+Mappa is a relatively new project (well, I have been working on this for a couple of years) and does not aim at replacing bigger players in this field, like AutoMapper. So why create a new mapping tool? Well because there was no automatic mapper that was satisfying my needs:
 - I needed to be able to generate Native AOT executable
 - I needed to be able to easily share mapping code across different mappers
 - I needed to be able to see and understand what the mapper was doing
-- I needed a mapper that take into account protobuf
-- I needed a mapper that was easier to cofigure, yet powerful
+- I needed a mapper that takes into account protobuf
+- I needed a mapper that was easier to configure, yet powerful
 
 Mappa is all of this!
 
@@ -31,7 +31,7 @@ Mappa is well suited when:
 - You need to reuse some code across different mappers
 
 ## Example
-Consider the following code snipped:
+Consider the following code snippet:
 ```csharp
 using Mappa;
 using System.Collections.Generic;
@@ -66,7 +66,7 @@ public partial class Mapper
 }
 ```
 
-will create mapping code like the following:
+This will create mapping code like the following:
 ```csharp
 namespace Sample;
 
@@ -112,23 +112,23 @@ public partial class Mapper
 ```
 
 ## What's next?
-More feature are going to be added in future releases:
-- Polymorphysm
+More features are going to be added in future releases:
+- Polymorphism
 - Allow the user to prefer arrays over list when mapping towards generic interfaces
-- Improve performances by allowing users to map using `Span<T>` and friends
+- Improve performance by allowing users to map using `Span<T>` and friends
 - More default mappings (e.g. `byte[]` <-> `Guid`)
 - More types supported (e.g. `ValueTuple<T>`)
 - Union types (when they will be released in .NET)
 - More support for MappaContext
 - Dependency via static class provided by Mappa Settings
-- Allow users to use `Add` method instead than using the `Indexer` when mapping dictionaries
+- Allow users to use `Add` method instead of using the `Indexer` when mapping dictionaries
 - Add default rules to select the source property
 - Support mapping to/from fields
 
 ## NuGet packages
-Mappa provide 6 NuGet packeges:
-- [Mappa](https://www.nuget.org/packages/Mappa/): source generator that allows to automatically generate mapping between classes and value types;
-- [Mappa source generator](https://www.nuget.org/packages/Mappa.Generator/): source generator that allows to automatically generate mapping between classes and value types;
+Mappa provides 6 NuGet packages:
+- [Mappa](https://www.nuget.org/packages/Mappa/): source generator that allows you to automatically generate mappings between classes and value types;
+- [Mappa source generator](https://www.nuget.org/packages/Mappa.Generator/): source generator that allows you to automatically generate mappings between classes and value types;
 - [Mappa Protobuf](https://www.nuget.org/packages/Mappa.Dependency.Protobuf/): methods to map `Google.Protobuf.WellKnownTypes` objects from [Google.Protobuf](https://www.nuget.org/packages/Google.Protobuf) package into common objects.
 - [Mappa Protobuf dependency](https://www.nuget.org/packages/Mappa.Dependency.Protobuf.DependencyInjection/): utility methods to register the Protobuf mapper.
 - [Mappa Bson](https://www.nuget.org/packages/Mappa.Dependency.Bson/): methods to map `MongoDB.Bson` objects from [MongoDB.Bson](https://www.nuget.org/packages/MongoDB.Bson) package into common objects.

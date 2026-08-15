@@ -57,7 +57,7 @@ Mappa **10.0.0** is a major release. It targets **.NET 10**, adds polymorphic ma
 - **TODO hygiene** ([#182](https://github.com/sanelli/Mappa/issues/182), [#189](https://github.com/sanelli/Mappa/pull/189)) — Guard against leftover issue TODOs in the codebase.
 
 ## What's next
-This is a tentative and non exhaustive list of issue that I would like to cover in the upocoming version of Mappa:
+This is a tentative and non-exhaustive list of issues that I would like to cover in the upcoming version of Mappa:
 
 ### Mapping / generator features
 - [#215](https://github.com/sanelli/Mappa/issues/215) — Support `NumberStyles` for `Parse` on all numeric types

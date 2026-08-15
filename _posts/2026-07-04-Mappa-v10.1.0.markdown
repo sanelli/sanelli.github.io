@@ -73,7 +73,7 @@ Projects that previously compiled may now fail with new or tightened generator e
 - **Suppress MP00039 in `EnumToEnumMapper` sample** ([#259](https://github.com/sanelli/Mappa/issues/259), [#261](https://github.com/sanelli/Mappa/pull/261)) — Intentional partial enum mapping demonstrated with `#pragma warning disable`.
 
 ## What's next
-This is a tentative and non exhaustive list of issues that I would like to cover in the upcoming version of Mappa:
+This is a tentative and non-exhaustive list of issues that I would like to cover in the upcoming version of Mappa:
 
 ### Mapping / generator features
 - [#255](https://github.com/sanelli/Mappa/issues/255) — Richer enum mapping configuration

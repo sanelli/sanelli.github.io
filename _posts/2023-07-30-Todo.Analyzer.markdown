@@ -12,10 +12,10 @@ categories: projects csharp nuget
         }
 </style>
 
-[Comment TODO Analyzer](https://github.com/sanelli/Todo.Analyzer) is a .NET analyzer for C#, it ensures that all TODO comments in your code respect the same standards.
+[Comment TODO Analyzer](https://github.com/sanelli/Todo.Analyzer) is a .NET analyzer for C#; it ensures that all TODO comments in your code respect the same standards.
 
 ## Options
-These option can be setup inside the `.editorconfig`:
+These options can be set up in the `.editorconfig`:
 
 - `todo_analyzer.comment.format`
   - Description: The format of the comment containing the TODO. 
@@ -28,7 +28,7 @@ These option can be setup inside the `.editorconfig`:
     - Example: `todo_analyzer.comment.format.custom.token = やるべきこと`
     - Note: This is a regular expression.
 - `todo_analyzer.comment.format.custom.regex`
-    - Description: The regular expression used to check if the comment match the expected criteria when `todo_analyzer.comment.format` is `custom`.
+    - Description: The regular expression used to check if the comment matches the expected criteria when `todo_analyzer.comment.format` is `custom`.
     - Default: `^ TODO .*$`
     - Example: `todo_analyzer.comment.format.custom.regex = ^ TODO \[MY-PROJECT\] [\d+] .+\.$`
 

@@ -12,5 +12,5 @@ categories: projects turing interpreter pascal
         }
 </style>
 
-Added the [pascal](https://github.com/sanelli/brainfuck/tree/main/pascal) implementation to the [suite of brainfuck interpreters](https://github.com/sanelli/brainfuck).
-This has been implemented to with the [Free Pascal](https://www.freepascal.org) compiler.
+Added the [Pascal](https://github.com/sanelli/brainfuck/tree/main/pascal) implementation to the [suite of Brainfuck interpreters](https://github.com/sanelli/brainfuck).
+This has been implemented with the [Free Pascal](https://www.freepascal.org) compiler.

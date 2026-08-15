@@ -24,11 +24,11 @@ A new version of [Mappa](https://github.com/sanelli/Mappa) (v1.2.0) has been rel
 * [#162](https://github.com/sanelli/Mappa/issues/162) Released NuGet packages are built in release.
 
 ## 🐞 Bug fixes
-* [#153](https://github.com/sanelli/Mappa/issues/153) Mapping now take into account properties in base classes;
+* [#153](https://github.com/sanelli/Mappa/issues/153) Mapping now takes into account properties in base classes;
 * [#159](https://github.com/sanelli/Mappa/issues/159) When mapping from an interface the tree of implemented interfaces is taken into account when deriving the list of properties.
 
 ## 🔜 What's next for v1.3.0?
-More feature are going to be added in future releases:
+More features are going to be added in future releases:
 * [#53](https://github.com/sanelli/Mappa/issues/53) Better detection of implemented interfaces in case multiple interfaces of the same type are implemented by the class;
 * [#34](https://github.com/sanelli/Mappa/issues/34) User should be able to select if they want to use the `Add` method or the indexer when mapping to dictionaries;
 * [#54](https://github.com/sanelli/Mappa/issues/54) When mapping from string support static `Parse` methods on the target type;
@@ -36,9 +36,9 @@ More feature are going to be added in future releases:
 * [#118](https://github.com/sanelli/Mappa/issues/110) When targeting read-only properties of type collection Mappa should support more types (e.g. `Stack<T>`, `Queue<T>`, ...);
 
 ## 📦 NuGet packages
-Mappa provide 6 NuGet packeges:
-* [Mappa](https://www.nuget.org/packages/Mappa/): source generator that allows to automatically generate mapping between classes and value types;
-* [Mappa source generator](https://www.nuget.org/packages/Mappa.Generator/): source generator that allows to automatically generate mapping between classes and value types;
+Mappa provides 6 NuGet packages:
+* [Mappa](https://www.nuget.org/packages/Mappa/): source generator that allows you to automatically generate mappings between classes and value types;
+* [Mappa source generator](https://www.nuget.org/packages/Mappa.Generator/): source generator that allows you to automatically generate mappings between classes and value types;
 * [Mappa Protobuf](https://www.nuget.org/packages/Mappa.Dependency.Protobuf/): methods to map `Google.Protobuf.WellKnownTypes` objects from [Google.Protobuf](https://www.nuget.org/packages/Google.Protobuf) package into common objects.
 * [Mappa Protobuf dependency](https://www.nuget.org/packages/Mappa.Dependency.Protobuf.DependencyInjection/): utility methods to register the Protobuf mapper.
 * [Mappa Bson](https://www.nuget.org/packages/Mappa.Dependency.Bson/): methods to map `MongoDB.Bson` objects from [MongoDB.Bson](https://www.nuget.org/packages/MongoDB.Bson) package into common objects.

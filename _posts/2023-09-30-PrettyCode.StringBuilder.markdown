@@ -12,7 +12,7 @@ categories: projects csharp nuget
         }
 </style>
 
-[PrettyCode.StringBuilder](https://github.com/sanelli/PrettyCode.StringBuilder) is String builder wrapper that helps in generating pretty code 💄.
+[PrettyCode.StringBuilder](https://github.com/sanelli/PrettyCode.StringBuilder) is a string builder wrapper that helps generate pretty code 💄.
 Supported features are:
 - Indentation;
 - Curly braces code blocks;
@@ -21,7 +21,7 @@ Supported features are:
 - Region directive.
 
 All code blocks introduced using the builder will be automatically
-reverted to their original status using the `IDisposable`
+restored to their original state using the `IDisposable`
 pattern.
 
 ## Examples

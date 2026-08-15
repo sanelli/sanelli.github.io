@@ -12,4 +12,4 @@ categories: projects brainfuck interpreter rust rust-lang
         }
 </style>
 
-Added the [Rust](https://github.com/sanelli/brainfuck/tree/main/rust) implementation to the [suite of brainfuck interpreters](https://github.com/sanelli/brainfuck).
+Added the [Rust](https://github.com/sanelli/brainfuck/tree/main/rust) implementation to the [suite of Brainfuck interpreters](https://github.com/sanelli/brainfuck).

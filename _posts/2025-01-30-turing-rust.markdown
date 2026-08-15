@@ -12,4 +12,4 @@ categories: projects turing interpreter rust
         }
 </style>
 
-Added the [Rust](https://github.com/sanelli/turing/tree/main/rust) implementation to the [suite of turing machine interpreters](https://github.com/sanelli/turing).
+Added the [Rust](https://github.com/sanelli/turing/tree/main/rust) implementation to the [suite of Turing machine interpreters](https://github.com/sanelli/turing).

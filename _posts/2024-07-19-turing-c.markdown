@@ -12,4 +12,4 @@ categories: projects turing interpreter c
         }
 </style>
 
-Added the [C](https://github.com/sanelli/turing/tree/main/c) implementation to the [suite of turing machine interpreters](https://github.com/sanelli/turing).
+Added the [C](https://github.com/sanelli/turing/tree/main/c) implementation to the [suite of Turing machine interpreters](https://github.com/sanelli/turing).
