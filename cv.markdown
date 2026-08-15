@@ -14,24 +14,25 @@ body_class: entries-page
 <span class="entry-detail">**Frameworks**: `ASP.NET`, `Kafka`, `Postgres`</span>
 
 ### <span class="entry-title"><img class="entry-logo" src="{{ '/assets/images/logos/unity.svg' | relative_url }}"/> Unity Technologies</span> <span class="entry-meta">[Jun 2020 – Jan 2026]</span>
+<span class="entry-products">{% include product-shot.html name="Unity Asset Manager" url="https://unity.com/products/asset-manager" image="asset-manager.png" %}{% include product-shot.html name="ArtEngine" url="https://unity.com/products/unity-artengine" image="artengine.jpg" %}</span>
 <span class="entry-detail">*Staff Software Engineer, Cloud Application Architect*</span> <span class="entry-meta-sm">[Oct 2025 – Jan 2026]</span><br/>
 <span class="entry-detail">**Activities**: `architecture design`, `architecture implementation`</span><br/>
 <span class="entry-detail">**Language**: `C#`</span><br/>
-<span class="entry-detail entry-chips">**Product**: [Unity Asset Manager](https://unity.com/products/asset-manager)</span><br/>
+<span class="entry-detail entry-chips">**Product**: {% include product-chip.html name="Unity Asset Manager" url="https://unity.com/products/asset-manager" %}</span><br/>
 <span class="entry-detail">**Frameworks**: `ASP.NET`, `MongoDB`, `Elasticsearch`, `Redis`, `Azure`, `gRPC`</span><br/><br/>
 <span class="entry-detail">*Senior Manager, Software Engineering*</span> <span class="entry-meta-sm">[Apr 2024 – Sep 2025]</span><br/>
 <span class="entry-detail">**Activities**: `team growth`, `architecture design`, `recruiting`, `mentoring`</span><br/>
-<span class="entry-detail entry-chips">**Product**: [Unity Asset Manager](https://unity.com/products/asset-manager)</span><br/>
+<span class="entry-detail entry-chips">**Product**: {% include product-chip.html name="Unity Asset Manager" url="https://unity.com/products/asset-manager" %}</span><br/>
 <span class="entry-detail">**Frameworks**: `ASP.NET`, `MongoDB`, `Elasticsearch`, `Redis`, `Azure`</span><br/><br/>
 <span class="entry-detail">*Staff Software Engineer*</span> <span class="entry-meta-sm">[Jul 2023 – Mar 2024]</span><br/>
 <span class="entry-detail">**Activities**: `software architecture`, `coding`, `defining standards`, `bug-fixing`</span><br/>
 <span class="entry-detail">**Language**: `C#`</span><br/>
-<span class="entry-detail entry-chips">**Product**: [Unity Asset Manager](https://unity.com/products/asset-manager)</span><br/>
+<span class="entry-detail entry-chips">**Product**: {% include product-chip.html name="Unity Asset Manager" url="https://unity.com/products/asset-manager" %}</span><br/>
 <span class="entry-detail">**Frameworks**: `ASP.NET`, `MongoDB`, `Elasticsearch`, `Kafka`, `Redis`, `Azure`, `GCP`</span><br/><br/>
 <span class="entry-detail">*Senior Software Engineer*</span> <span class="entry-meta-sm">[Jun 2020 – Jun 2023]</span><br/>
 <span class="entry-detail">**Activities**: `software architecture`, `coding`, `bug-fixing`</span><br/>
 <span class="entry-detail">**Languages**: `C#`, `C++`</span><br/>
-<span class="entry-detail entry-chips">**Product**: [Unity Asset Manager](https://unity.com/products/asset-manager), [ArtEngine](https://unity.com/products/unity-artengine)</span><br/>
+<span class="entry-detail entry-chips">**Product**: {% include product-chip.html name="Unity Asset Manager" url="https://unity.com/products/asset-manager" %}{% include product-chip.html name="ArtEngine" url="https://unity.com/products/unity-artengine" %}</span><br/>
 <span class="entry-detail">**Frameworks**: `ASP.NET`, `GCP`, `Unity`, `nuklear`</span>
 
 ### <span class="entry-title"><img class="entry-logo" src="{{ '/assets/images/logos/sig.jpg' | relative_url }}"/> Susquehanna International Group</span> <span class="entry-meta">[Oct 2016 – May 2020]</span>
@@ -47,16 +48,19 @@ body_class: entries-page
 <span class="entry-detail">**Frameworks**: `Ruby on Rails`, `Guice`</span>
 
 ### <span class="entry-title"><img class="entry-logo" src="{{ '/assets/images/logos/daon.webp' | relative_url }}"/> Daon</span> <span class="entry-meta">[Oct 2015 – Mar 2016]</span>
+<span class="entry-products">{% include product-shot.html name="IdentityX" url="https://www.daon.com/products/identityx/" image="identityx.webp" logo=true %}</span>
 <span class="entry-detail">*Software engineer*</span><br/>
 <span class="entry-detail">**Activities**: `coding`, `bug-fixing`</span><br/>
 <span class="entry-detail">**Languages**: `C++`, `Java`</span><br/>
+<span class="entry-detail entry-chips">**Product**: {% include product-chip.html name="IdentityX" url="https://www.daon.com/products/identityx/" %}</span><br/>
 <span class="entry-detail">**Frameworks**: `Maven`, `Spring`</span>
 
 ### <span class="entry-title"><img class="entry-logo" src="{{ '/assets/images/logos/slb.svg' | relative_url }}"/> Schlumberger</span> <span class="entry-meta">[Jun 2010 – Sep 2015]</span>
+<span class="entry-products">{% include product-shot.html name="Petrel multiphysics plug-in" url="https://www.slb.com/products-and-services/delivering-digital-at-scale/software/petrel-subsurface-software/petrel/petrel-geophysics/petrel-multiphysics-plug-in" image="petrel-multiphysics.jpg" %}</span>
 <span class="entry-detail">*Software engineer*</span><br/>
 <span class="entry-detail">**Activities**: `software architecture`, `coding`, `bug-fixing`</span><br/>
 <span class="entry-detail">**Languages**: `C#`, `C++`, `C++/CLI`, `Python`</span><br/>
-<span class="entry-detail entry-chips">**Product**: [Petrel multiphysics plug-in](https://www.software.slb.com/products/petrel/petrel-geophysics/petrel-multiphysics-plug-in)</span><br/>
+<span class="entry-detail entry-chips">**Product**: {% include product-chip.html name="Petrel multiphysics plug-in" url="https://www.slb.com/products-and-services/delivering-digital-at-scale/software/petrel-subsurface-software/petrel/petrel-geophysics/petrel-multiphysics-plug-in" %}</span><br/>
 <span class="entry-detail">**Frameworks**: `NHibernate`, `Boost.Spirit`, `GDI`, `Petrel`, `Ocean`</span>
 
 ### <span class="entry-title"><img class="entry-logo" src="{{ '/assets/images/logos/manthia.jpg' | relative_url }}"/> Manthia</span> <span class="entry-meta">[Apr 2009 – Jun 2010]</span>
