@@ -344,6 +344,13 @@ table {
     color: #eee;
   }
 
+  .entry-blurb {
+    margin: 0.2em 0 0.35em;
+    color: #c8c8c8;
+    font-size: 0.92em;
+    line-height: 1.45;
+  }
+
   .chip,
   .entry-detail:has(code) code,
   .entry-chips a {
@@ -397,7 +404,16 @@ table {
 
   .entry-detail:has(code),
   .entry-chips {
+    align-items: flex-start;
+    padding-left: 6.75rem;
     font-size: 0;
+  }
+
+  .entry-detail:has(code) > strong,
+  .entry-chips > strong {
+    width: 6.4rem;
+    margin-left: -6.75rem;
+    padding-top: 0.22rem;
   }
 
   .entry-row .media-flag {
