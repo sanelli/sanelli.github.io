@@ -1,0 +1,40 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+    <div class="footer-top">
+      <h2 class="footer-heading">{{ site.title | escape }}</h2>
+      <button type="button" class="theme-switch" data-theme-toggle aria-label="Color theme: Dark. Click to switch.">
+        {%- include icon.html name="theme-dark" -%}
+        {%- include icon.html name="theme-light" -%}
+        {%- include icon.html name="theme-system" -%}
+        <span class="theme-switch-label">Dark</span>
+      </button>
+    </div>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">
+            {%- if site.author -%}
+              {{ site.author | escape }}
+            {%- else -%}
+              {{ site.title | escape }}
+            {%- endif -%}
+          </li>
+          {%- if site.email -%}
+          <li>{{ site.email }}</li>
+          {%- endif -%}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        {%- include social.html -%}
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{- site.description | escape -}}</p>
+      </div>
+    </div>
+  </div>
+</footer>

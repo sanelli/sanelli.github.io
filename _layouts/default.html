@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}" data-theme="dark">
 
   {%- include head.html -%}
 
@@ -16,6 +16,7 @@
 
     {%- include footer.html -%}
 
+    <script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
     {%- if page.sortable_tables -%}
     <script src="{{ '/assets/js/tablesort.min.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/tablesort.number.min.js' | relative_url }}"></script>

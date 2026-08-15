@@ -14,8 +14,125 @@ $heading-font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
 
 @import "minima";
 
-html {
+@mixin theme-dark {
   color-scheme: dark;
+  --bg: #181818;
+  --bg-elevated: #202020;
+  --bg-chip: #2a2a2a;
+  --bg-code: #222;
+  --bg-shot: #111;
+  --bg-header: #2a2a2a;
+  --bg-row-even: #202020;
+  --bg-selection: #3d5a80;
+  --text: #d0d0d0;
+  --text-strong: #eee;
+  --text-muted: #9a9a9a;
+  --text-heading: #c8c8c8;
+  --text-blurb: #c8c8c8;
+  --text-chip: #d8d8d8;
+  --text-code: #d8d8d8;
+  --text-hover: #f0f0f0;
+  --text-selection: #f5f5f5;
+  --brand: #6ea8e0;
+  --brand-visited: #80bbff;
+  --border: #333;
+  --border-subtle: #2e2e2e;
+  --border-chip: #3f3f3f;
+  --border-meta: #444;
+  --border-strong: #3a3a3a;
+  --border-chip-hover: #6a6a6a;
+  --flag-ring: rgba(255, 255, 255, 0.15);
+}
+
+@mixin theme-light {
+  color-scheme: light;
+  --bg: #f7f5f0;
+  --bg-elevated: #fff;
+  --bg-chip: #efece6;
+  --bg-code: #eceae4;
+  --bg-shot: #eceae4;
+  --bg-header: #efece6;
+  --bg-row-even: #f0eee8;
+  --bg-selection: #c5d8ef;
+  --text: #2c2c2c;
+  --text-strong: #1a1a1a;
+  --text-muted: #6a6a6a;
+  --text-heading: #1f1f1f;
+  --text-blurb: #4a4a4a;
+  --text-chip: #333;
+  --text-code: #2c2c2c;
+  --text-hover: #111;
+  --text-selection: #1a1a1a;
+  --brand: #2b6cb0;
+  --brand-visited: #1a4f8b;
+  --border: #ddd8ce;
+  --border-subtle: #e4e0d6;
+  --border-chip: #d4cfc4;
+  --border-meta: #c8c2b6;
+  --border-strong: #d4cfc4;
+  --border-chip-hover: #a8a296;
+  --flag-ring: rgba(0, 0, 0, 0.12);
+}
+
+:root,
+html:not([data-theme="light"]):not([data-theme="system"]),
+html[data-theme="dark"] {
+  @include theme-dark;
+}
+
+html[data-theme="light"] {
+  @include theme-light;
+}
+
+@media (prefers-color-scheme: light) {
+  html[data-theme="system"] {
+    @include theme-light;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  html[data-theme="system"] {
+    @include theme-dark;
+  }
+}
+
+body {
+  color: var(--text);
+  background-color: var(--bg);
+}
+
+a {
+  color: var(--brand);
+}
+
+a:visited {
+  color: var(--brand-visited);
+}
+
+a:hover {
+  color: var(--text-hover);
+}
+
+.site-title,
+.site-title:visited {
+  color: var(--text-heading);
+}
+
+.site-nav .page-link {
+  color: var(--text);
+}
+
+.site-footer {
+  color: var(--text-muted);
+}
+
+blockquote {
+  color: var(--text-muted);
+  border-left-color: var(--border-subtle);
+}
+
+.svg-icon {
+  fill: var(--text-muted);
 }
 
 .icon-sprite {
@@ -39,7 +156,7 @@ html {
 .entry-title,
 .post-link {
   .icon {
-    color: $brand-color;
+    color: var(--brand);
   }
 }
 
@@ -49,7 +166,7 @@ html {
 }
 
 .post-content h2 .icon {
-  color: $brand-color;
+  color: var(--brand);
   margin-right: 0.4em;
 }
 
@@ -102,44 +219,89 @@ html {
 .layout-page .post-content h2 {
   margin-top: 1.6em;
   padding-bottom: 0.2em;
-  border-bottom: 1px solid $grey-color-light;
+  border-bottom: 1px solid var(--border-subtle);
 }
 
 // Minima uses $grey-color-dark for the header's top border; that variable is
 // intentionally light (for the site title). Match header borders to the page.
 .site-header {
-  border-top-color: $background-color;
-  border-bottom-color: $grey-color-light;
+  border-top-color: var(--bg);
+  border-bottom-color: var(--border-subtle);
 }
 
 .site-footer {
-  border-top-color: $grey-color-light;
+  border-top-color: var(--border-subtle);
+}
+
+.footer-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1em;
+  margin-bottom: 15px;
+}
+
+.footer-top .footer-heading {
+  margin-bottom: 0;
+}
+
+.theme-switch {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  margin: 0;
+  padding: 0.28em 0.7em;
+  border: 1px solid var(--border-meta);
+  border-radius: 999px;
+  background: var(--bg-elevated);
+  color: var(--text-muted);
+  font-family: $base-font-family;
+  font-size: 0.8em;
+  line-height: 1.2;
+  cursor: pointer;
+
+  .icon {
+    display: none;
+    width: 1em;
+    height: 1em;
+    margin-right: 0;
+  }
+}
+
+.theme-switch:hover {
+  color: var(--text);
+  border-color: var(--border-chip-hover);
+}
+
+html[data-theme="dark"] .theme-switch .icon-theme-dark,
+html[data-theme="light"] .theme-switch .icon-theme-light,
+html[data-theme="system"] .theme-switch .icon-theme-system {
+  display: inline-block;
+}
+
+@media screen and (max-width: 600px) {
+  .site-nav {
+    background-color: var(--bg);
+    border-color: var(--border-subtle);
+  }
 }
 
 ::selection {
-  background-color: #3d5a80;
-  color: #f5f5f5;
-}
-
-a:visited {
-  color: #80bbff;
-}
-
-a:hover {
-  color: #f0f0f0;
+  background-color: var(--bg-selection);
+  color: var(--text-selection);
 }
 
 hr {
-  background-color: $grey-color-light;
+  background-color: var(--border-subtle);
   border: 0;
   height: 1px;
 }
 
 pre,
 code {
-  background-color: #222;
-  border-color: #333;
-  color: #d8d8d8;
+  background-color: var(--bg-code);
+  border-color: var(--border);
+  color: var(--text-code);
 }
 
 .highlight {
@@ -178,19 +340,20 @@ code {
 }
 
 table {
-  color: $text-color;
+  color: var(--text);
+  border-color: var(--border-subtle);
 
   tr:nth-child(even) {
-    background-color: #202020;
+    background-color: var(--bg-row-even);
   }
 
   th {
-    background-color: #2a2a2a;
-    border-color: #3a3a3a;
+    background-color: var(--bg-header);
+    border-color: var(--border-strong);
   }
 
   td {
-    border-color: #2e2e2e;
+    border-color: var(--border-subtle);
   }
 }
 
@@ -200,8 +363,8 @@ table {
   align-items: flex-start;
   margin: 0 0 2.25em;
   padding: 1.15em 1.2em;
-  background: #202020;
-  border: 1px solid #333;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
   border-radius: 10px;
 }
 
@@ -212,8 +375,8 @@ table {
   object-fit: cover;
   object-position: 50% 20%;
   border-radius: 50%;
-  border: 2px solid #3a3a3a;
-  background: #2a2a2a;
+  border: 2px solid var(--border-strong);
+  background: var(--bg-chip);
 }
 
 .home-intro-body {
@@ -225,7 +388,7 @@ table {
   font-size: 0.78em;
   letter-spacing: 0.04em;
   text-transform: uppercase;
-  color: $grey-color;
+  color: var(--text-muted);
 }
 
 .home-intro p {
@@ -278,8 +441,8 @@ table {
     gap: 0.35em 1em;
     margin: 1.25em 0 0;
     padding: 0.95em 1.15em 0.5em;
-    background: #202020;
-    border: 1px solid #333;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
     border-bottom: 0;
     border-radius: 10px 10px 0 0;
     font-family: $base-font-family;
@@ -300,8 +463,8 @@ table {
   .post-content > h3 + p {
     margin: 0 0 0.15em;
     padding: 0.1em 1.15em 0.85em;
-    background: #202020;
-    border: 1px solid #333;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
     border-top: 0;
     border-radius: 0 0 10px 10px;
   }
@@ -318,8 +481,8 @@ table {
   .post-content > h2 + p {
     margin-top: 0.75em;
     padding: 0.95em 1.15em;
-    background: #202020;
-    border: 1px solid #333;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
     border-radius: 10px;
   }
 
@@ -346,7 +509,7 @@ table {
   .entry-detail:has(> em:first-child) {
     margin-top: 0.65em;
     padding-top: 0.55em;
-    border-top: 1px solid #333;
+    border-top: 1px solid var(--border);
   }
 
   h3 + p > .entry-detail:first-child,
@@ -359,12 +522,12 @@ table {
   .entry-detail em {
     font-style: normal;
     font-weight: 600;
-    color: #eee;
+    color: var(--text-strong);
   }
 
   .entry-blurb {
     margin: 0.2em 0 0.35em;
-    color: #c8c8c8;
+    color: var(--text-blurb);
     font-size: 0.92em;
     line-height: 1.45;
   }
@@ -376,9 +539,9 @@ table {
     margin: 0.12rem 0.28rem 0.12rem 0;
     padding: 0.18rem 0.6rem;
     border-radius: 999px;
-    background: #2a2a2a;
-    border: 1px solid #3f3f3f;
-    color: #d8d8d8;
+    background: var(--bg-chip);
+    border: 1px solid var(--border-chip);
+    color: var(--text-chip);
     font-family: $base-font-family;
     font-size: 0.75rem;
     font-weight: 500;
@@ -386,9 +549,9 @@ table {
   }
 
   .entry-detail:has(code) code {
-    background: #2a2a2a;
-    border-color: #3f3f3f;
-    color: #d8d8d8;
+    background: var(--bg-chip);
+    border-color: var(--border-chip);
+    color: var(--text-chip);
   }
 
   .chip-label,
@@ -400,7 +563,7 @@ table {
     font-weight: 600;
     letter-spacing: 0.05em;
     text-transform: uppercase;
-    color: $grey-color;
+    color: var(--text-muted);
   }
 
   .entry-detail:has(code) > strong,
@@ -444,12 +607,12 @@ table {
     min-width: 0;
     font-size: 0.85rem;
     line-height: 1.4;
-    color: #d8d8d8;
+    color: var(--text-chip);
   }
 
   .entry-chips a:hover {
-    color: #f0f0f0;
-    border-color: #6a6a6a;
+    color: var(--text-hover);
+    border-color: var(--border-chip-hover);
   }
 
   .entry-products {
@@ -474,22 +637,22 @@ table {
     object-fit: cover;
     object-position: center;
     border-radius: 6px;
-    border: 1px solid #333;
-    background: #111;
+    border: 1px solid var(--border);
+    background: var(--bg-shot);
   }
 
   .entry-product-shot--logo {
     height: 6.1rem;
     object-fit: contain;
     padding: 1.1rem 0.7rem;
-    background: #111;
+    background: var(--bg-shot);
   }
 
   .entry-product-shot--portrait {
     height: auto;
     max-height: 14.5rem;
     object-fit: contain;
-    background: #111;
+    background: var(--bg-shot);
   }
 
   .entry-detail img {
@@ -533,14 +696,14 @@ table {
   .entry-meta-sm {
     font-size: 0.8em;
     font-weight: 400;
-    color: $grey-color;
+    color: var(--text-muted);
   }
 
   .entry-meta a {
     display: inline-block;
     margin: 0.1em 0 0.1em 0.25em;
     padding: 0.12em 0.5em;
-    border: 1px solid #444;
+    border: 1px solid var(--border-meta);
     border-radius: 999px;
     font-size: 0.85em;
   }
@@ -568,25 +731,25 @@ table {
   .svg-icon {
     width: 1em;
     height: 1em;
-    fill: $grey-color;
+    fill: var(--text-muted);
     vertical-align: -0.15em;
     margin-right: 0.25em;
   }
 
   .entry-detail .icon {
-    color: $grey-color;
+    color: var(--text-muted);
   }
 
   .project-card {
     margin: 1.15em 0 0;
     padding: 0.95em 1.15em 0.9em;
-    background: #202020;
-    border: 1px solid #333;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
     border-radius: 10px;
   }
 
   .project-card--flagship {
-    border-left: 3px solid $brand-color;
+    border-left: 3px solid var(--brand);
   }
 
   .project-card h3 {
@@ -608,7 +771,7 @@ table {
 
   .project-why {
     margin: 0 0 0.4em;
-    color: #eee;
+    color: var(--text-strong);
     font-weight: 600;
     line-height: 1.4;
   }
@@ -630,8 +793,8 @@ table {
     object-fit: contain;
     margin: 0.45em 0 0.6em;
     border-radius: 6px;
-    border: 1px solid #333;
-    background: #111;
+    border: 1px solid var(--border);
+    background: var(--bg-shot);
   }
 
   .project-meta-row {
@@ -661,7 +824,7 @@ table {
     display: inline-block;
     margin: 0.12rem 0.28rem 0.12rem 0;
     padding: 0.12em 0.5em;
-    border: 1px solid #444;
+    border: 1px solid var(--border-meta);
     border-radius: 999px;
     font-size: 0.8em;
   }
@@ -670,7 +833,7 @@ table {
 .post-project {
   margin: 0.35em 0 0;
   font-size: 0.85em;
-  color: $grey-color;
+  color: var(--text-muted);
 }
 
 // Compact date / star columns on books, games, movies, and music tables.
@@ -701,9 +864,9 @@ table {
   margin: 0.12rem 0.28rem 0.12rem 0;
   padding: 0.18rem 0.6rem;
   border-radius: 999px;
-  background: #2a2a2a;
-  border: 1px solid #3f3f3f;
-  color: #d8d8d8;
+  background: var(--bg-chip);
+  border: 1px solid var(--border-chip);
+  color: var(--text-chip);
   font-family: $base-font-family;
   font-size: 0.75rem;
   font-weight: 500;
@@ -733,7 +896,7 @@ table.media-table a {
   height: 0.77rem;
   vertical-align: -0.12em;
   border-radius: 2px;
-  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.15);
+  box-shadow: 0 0 0 1px var(--flag-ring);
   overflow: hidden;
 }
 
@@ -802,8 +965,8 @@ table.sortable th[aria-sort="descending"] .sort-icon {
 .media-toolbar {
   margin: 0 0 1.5em;
   padding: 0.85em 1em;
-  background: #202020;
-  border: 1px solid #333;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
   border-radius: 6px;
 }
 
@@ -815,15 +978,15 @@ table.sortable th[aria-sort="descending"] .sort-icon {
 .media-toolbar-label {
   display: block;
   font-size: 0.75em;
-  color: $grey-color;
+  color: var(--text-muted);
   margin-bottom: 0.25em;
 }
 
 .media-search,
 .media-rating-filter {
-  background: #181818;
-  color: $text-color;
-  border: 1px solid #444;
+  background: var(--bg);
+  color: var(--text);
+  border: 1px solid var(--border-meta);
   border-radius: 4px;
   padding: 0.35em 0.55em;
   min-width: 12em;
@@ -833,7 +996,7 @@ table.sortable th[aria-sort="descending"] .sort-icon {
 .media-filter-status {
   margin: 0.35em 0 0;
   font-size: 0.8em;
-  color: $grey-color;
+  color: var(--text-muted);
 }
 
 // 404 page

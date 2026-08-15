@@ -3,6 +3,16 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#181818">
+  <script>
+    (function () {
+      var theme = "dark";
+      try {
+        var stored = localStorage.getItem("theme");
+        if (stored === "light" || stored === "dark" || stored === "system") theme = stored;
+      } catch (err) {}
+      document.documentElement.setAttribute("data-theme", theme);
+    })();
+  </script>
   {%- seo -%}
   <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
   <link rel="apple-touch-icon" href="{{ '/assets/images/stefano.jpg' | relative_url }}">
