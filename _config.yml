@@ -21,17 +21,33 @@
 title: Stefano Anelli
 email: stefano.anelli (at) gmail.com
 description: >-
-  Reading 📚 · Playing 🎮 · Coding 👨🏻‍💻
+  Millennial software engineer from Italy, living in Ireland.
+  C# and .NET, open-source tools, and lists of books, games, movies, and music.
+lang: en
+author: Stefano Anelli
+logo: /assets/images/stefano.jpg
 baseurl: /
 url: https://sanelli.github.io
 github_username:  sanelli
 linkedin_username: stefanoanelli
 domain: sanelli.github.io
+social:
+  name: Stefano Anelli
+  links:
+    - https://github.com/sanelli
+    - https://www.linkedin.com/in/stefanoanelli/
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/stefano.jpg
 
 header_pages:
   - cv.markdown

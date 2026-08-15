@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 💼 Work
+description: Work history — software engineering roles in C#, .NET, and cloud systems.
 permalink: /work/
 ---
 

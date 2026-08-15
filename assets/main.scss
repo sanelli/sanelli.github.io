@@ -9,11 +9,55 @@ $brand-color:      #6ea8e0;
 $grey-color:       #9a9a9a;
 $grey-color-light: #2e2e2e;
 $grey-color-dark:  #c8c8c8;
+$base-font-family: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+$heading-font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
 
 @import "minima";
 
 html {
   color-scheme: dark;
+}
+
+.site-title,
+.site-header .site-title,
+.page-heading,
+.post-list-heading,
+.post-title,
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.home-kicker {
+  font-family: $heading-font-family;
+}
+
+.site-title {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.layout-home .site-title {
+  font-size: 1.7em;
+}
+
+.layout-page .post-title {
+  font-size: 2em;
+  letter-spacing: -0.02em;
+}
+
+.layout-post .post-title {
+  font-size: 2.15em;
+  letter-spacing: -0.025em;
+  line-height: 1.2;
+}
+
+.layout-post .post-content {
+  max-width: 40em;
+}
+
+.layout-page .post-content h2 {
+  margin-top: 1.6em;
+  padding-bottom: 0.2em;
+  border-bottom: 1px solid $grey-color-light;
 }
 
 // Minima uses $grey-color-dark for the header's top border; that variable is
@@ -232,18 +276,29 @@ table {
   font-size: .7em;
 }
 
+.media-table-wrap {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 0 0 1.25em;
+}
+
 // Sortable media tables (Tablesort)
 table.sortable th[role="columnheader"]:not([data-sort-method="none"]) {
   cursor: pointer;
   user-select: none;
 }
 
-table.sortable th[aria-sort="ascending"]::after,
-table.sortable th[aria-sort="descending"]::after {
+table.sortable th[role="columnheader"]:not([data-sort-method="none"])::after {
   display: inline-block;
   margin-left: 0.35em;
-  opacity: 0.75;
-  font-size: 0.85em;
+  opacity: 0.35;
+  font-size: 0.75em;
+  content: "↕";
+}
+
+table.sortable th[aria-sort="ascending"]::after,
+table.sortable th[aria-sort="descending"]::after {
+  opacity: 0.8;
 }
 
 table.sortable th[aria-sort="ascending"]::after {
@@ -252,6 +307,45 @@ table.sortable th[aria-sort="ascending"]::after {
 
 table.sortable th[aria-sort="descending"]::after {
   content: "▼";
+}
+
+@media screen and (max-width: 800px) {
+  .media-table-wrap {
+    margin-left: -15px;
+    margin-right: -15px;
+    padding: 0 15px;
+  }
+
+  table.media-table {
+    a {
+      white-space: nowrap;
+    }
+  }
+
+  %sticky-title {
+    position: sticky;
+    left: 0;
+    z-index: 1;
+    box-shadow: 6px 0 8px -6px rgba(0, 0, 0, 0.7);
+  }
+
+  .media-table--logged thead th:nth-child(3),
+  .media-table--plain thead th:nth-child(1) {
+    @extend %sticky-title;
+    z-index: 2;
+    background-color: #2a2a2a;
+  }
+
+  .media-table--logged tbody td:nth-child(3),
+  .media-table--plain tbody td:nth-child(1) {
+    @extend %sticky-title;
+    background-color: $background-color;
+  }
+
+  .media-table--logged tbody tr:nth-child(even) td:nth-child(3),
+  .media-table--plain tbody tr:nth-child(even) td:nth-child(1) {
+    background-color: #202020;
+  }
 }
 
 .media-toolbar {

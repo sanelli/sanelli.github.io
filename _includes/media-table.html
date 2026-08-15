@@ -1,7 +1,8 @@
 {%- assign kind = include.kind -%}
 {%- assign rated = false -%}
 {%- if include.mode == "logged" -%}{%- assign rated = true -%}{%- endif -%}
-<table class="media-table sortable">
+<div class="media-table-wrap">
+<table class="media-table media-table--{{ include.mode }} sortable">
   <thead>
     <tr>
       {%- if rated -%}
@@ -58,3 +59,4 @@
     {%- endfor -%}
   </tbody>
 </table>
+</div>

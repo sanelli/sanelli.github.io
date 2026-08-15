@@ -1,5 +1,6 @@
 ---
 layout: home
+description: Millennial software engineer from Italy, living in Ireland. C# and .NET, open-source tools, and lists of books, games, movies, and music.
 ---
 
 <div class="home-intro">

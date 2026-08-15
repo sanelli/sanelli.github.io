@@ -20,6 +20,9 @@
       if (label === "year" || label === "rating") {
         th.setAttribute("data-sort-method", "number");
       }
+      if (!th.getAttribute("title") && th.getAttribute("data-sort-method") !== "none") {
+        th.setAttribute("title", "Click to sort");
+      }
     });
   }
 
