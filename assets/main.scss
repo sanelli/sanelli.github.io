@@ -251,11 +251,15 @@ table {
     max-width: calc(890px - 30px * 2);
   }
 
+  .site-header .wrapper {
+    max-width: 1100px;
+  }
+
   .post-list {
     margin-left: 3em;
   }
 
-  body:has(.media-table-wrap) .wrapper {
+  body:has(.media-table-wrap) .page-content .wrapper {
     max-width: 1100px;
   }
 }
