@@ -5,12 +5,5 @@ date:   2024-04-16 23:19:00 +0100
 categories: projects brainfuck interpreter ada
 ---
 
-<style>
-        @media screen and (min-width: 600px) {
-                .wrapper { margin-left: 5em; max-width: calc(890px - 30px * 2); }
-                .post-list { margin-left: 3em;}
-        }
-</style>
-
 Added the [Ada](https://github.com/sanelli/brainfuck/tree/main/ada) implementation to the [suite of Brainfuck interpreters](https://github.com/sanelli/brainfuck).
 This has been implemented with the [Alire](https://alire.ada.dev) toolchain and libraries.

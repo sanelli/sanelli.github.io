@@ -5,13 +5,6 @@ date:   2026-07-04 20:00:00 +0100
 categories: projects csharp nuget source-generator mappa
 ---
 
-<style>
-        @media screen and (min-width: 600px) {
-                .wrapper { margin-left: 5em; max-width: calc(890px - 30px * 2); }
-                .post-list { margin-left: 3em;}
-        }
-</style>
-
 A new version of [Mappa](https://github.com/sanelli/Mappa) (v10.1.0) has been released.
 
 Mappa **10.1.0** builds on the 10.0.0 foundation with expanded enum mapping, richer parse and format `MappaSettings`, identity deep-copy and collection buffer options, stronger diagnostics, safer generated code, and a migrated test stack. Documentation now includes a full feature catalog.

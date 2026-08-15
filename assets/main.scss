@@ -92,11 +92,91 @@ table {
   td {
     border-color: #2e2e2e;
   }
+
+  a {
+    white-space: nowrap;
+  }
+}
+
+// Desktop content indent (was duplicated in page/post <style> blocks).
+@media screen and (min-width: 600px) {
+  .wrapper {
+    margin-left: 5em;
+    max-width: calc(890px - 30px * 2);
+  }
+
+  .post-list {
+    margin-left: 3em;
+  }
+
+  // Media list pages indent their tables; avoid shifting projects/cv entries.
+  .post-content:has(table) {
+    margin-left: 3em;
+  }
 }
 
 // Keep small employer / school logos readable on the dark page.
-.post-content h3 img {
+.post-content h3 img,
+.entry-logo {
   background-color: #f2f2f2;
   border-radius: 3px;
   padding: 1px;
+}
+
+.entry-logo {
+  width: 1em;
+}
+
+// Projects / CV entry layout.
+.entry-title {
+  padding-left: 40px;
+}
+
+.entry-detail {
+  padding-left: 80px;
+}
+
+.entry-detail-cont {
+  padding-left: 125px;
+}
+
+.entry-meta {
+  font-size: .5em;
+}
+
+.entry-meta-sm {
+  font-size: .7em;
+}
+
+// Compact date / star columns on books, games, movies, and music tables.
+.media-date {
+  display: block;
+  font-size: .6em;
+  text-align: center;
+}
+
+.media-rating {
+  font-size: .6em;
+}
+
+.media-subtitle {
+  font-size: .75em;
+}
+
+.media-or {
+  font-size: .7em;
+}
+
+// 404 page
+.error-404 {
+  margin: 10px auto;
+  max-width: 600px;
+  text-align: center;
+
+  h1 {
+    margin: 30px 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
 }
