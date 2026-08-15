@@ -33,6 +33,14 @@ theme: minima
 plugins:
   - jekyll-feed
 
+header_pages:
+  - cv.markdown
+  - projects.markdown
+  - books.markdown
+  - games.markdown
+  - movies.markdown
+  - music.md
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

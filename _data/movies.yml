@@ -1,0 +1,898 @@
+years:
+  - label: 2026
+    entries:
+      - title: "Spider-Man: Brand New Day"
+        url: "https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day"
+        date: 2026-08-06
+        rating: 5
+        creators:
+          - name: Destin Daniel Cretton
+            url: "https://en.wikipedia.org/wiki/Destin_Daniel_Cretton"
+        language: English
+        year: 2026
+        genres:
+          - superhero
+      - title: The Odyssey
+        url: "https://en.wikipedia.org/wiki/The_Odyssey_(2026_film)"
+        date: 2026-07-22
+        rating: 5
+        creators:
+          - name: Christopher Nolan
+            url: "https://en.wikipedia.org/wiki/Christopher_Nolan"
+        language: English
+        year: 2026
+        genres:
+          - action-fantasy
+          - epic
+      - title: Masters of the Universe
+        url: "https://en.wikipedia.org/wiki/Masters_of_the_Universe_(2026_film)"
+        date: 2026-06-10
+        rating: 4
+        creators:
+          - name: Travis Knight
+            url: "https://en.wikipedia.org/wiki/Travis_Knight"
+        language: English
+        year: 2026
+        genres:
+          - sword-and-sorcery
+      - title: The Devil Wears Prada 2
+        url: "https://en.wikipedia.org/wiki/The_Devil_Wears_Prada_2"
+        date: 2026-05-16
+        rating: 3
+        creators:
+          - name: David Frankel
+            url: "https://en.wikipedia.org/wiki/David_Frankel"
+        language: English
+        year: 2026
+        genres:
+          - comedy drama
+      - title: The Super Mario Galaxy Movie
+        url: "https://en.wikipedia.org/wiki/The_Super_Mario_Galaxy_Movie"
+        date: 2026-04-09
+        rating: 5
+        creators:
+          - name: Aaron Horvath
+            url: "https://en.wikipedia.org/wiki/Aaron_Horvath"
+          - name: Michael Jelenic
+            url: "https://en.wikipedia.org/wiki/Michael_Jelenic"
+        language: English
+        year: 2026
+        genres:
+          - adventure comedy
+          - animated
+      - title: "The Adventures of Priscilla, Queen of the Desert"
+        url: "https://en.wikipedia.org/wiki/The_Adventures_of_Priscilla,_Queen_of_the_Desert"
+        date: 2026-03-27
+        rating: 4
+        creators:
+          - name: Stephan Elliott
+            url: "https://en.wikipedia.org/wiki/Stephan_Elliott"
+        language: English
+        year: 1994
+        genres:
+          - comedy
+          - road
+      - title: Pitch Perfect
+        url: "https://en.wikipedia.org/wiki/Pitch_Perfect"
+        date: 2026-03-24
+        rating: 4
+        creators:
+          - name: Jason Moore
+            url: "https://en.wikipedia.org/wiki/Jason_Moore_(director)"
+        language: English
+        year: 2012
+        genres:
+          - comedy
+      - title: Sliding Doors
+        url: "https://en.wikipedia.org/wiki/Sliding_Doors"
+        date: 2026-03-21
+        rating: 2
+        creators:
+          - name: Peter Howitt
+            url: "https://en.wikipedia.org/wiki/Peter_Howitt_(actor)"
+        language: English
+        year: 1998
+        genres:
+          - comedy-drama
+          - romantic
+      - title: The Crow
+        url: "https://en.wikipedia.org/wiki/The_Crow_(1994_film)"
+        date: 2026-03-08
+        rating: 5
+        creators:
+          - name: Alex Proyas
+            url: "https://en.wikipedia.org/wiki/Alex_Proyas"
+        language: English
+        year: 1994
+        genres:
+          - gothic
+          - superhero
+          - supernatural
+      - title: "Batman & Robin"
+        url: "https://en.wikipedia.org/wiki/Batman_%26_Robin_(film)"
+        date: 2026-03-03
+        rating: 2
+        creators:
+          - name: Joel Schumacher
+            url: "https://en.wikipedia.org/wiki/Joel_Schumacher"
+        language: English
+        year: 1997
+        genres:
+          - superhero
+      - title: Cattiverie a domicilio
+        url: "https://it.wikipedia.org/wiki/Cattiverie_a_domicilio"
+        subtitles:
+          - Wicked Little Letters
+        date: 2026-02-20
+        rating: 3
+        creators:
+          - name: Thea Sharrock
+            url: "https://en.wikipedia.org/wiki/Thea_Sharrock"
+        language: Italian
+        year: 2023
+        genres:
+          - black comedy
+          - mystery
+          - period
+      - title: Batman Forever
+        url: "https://en.wikipedia.org/wiki/Batman_Forever"
+        date: 2026-02-18
+        rating: 2
+        creators:
+          - name: Joel Schumacher
+            url: "https://en.wikipedia.org/wiki/Joel_Schumacher"
+        language: English
+        year: 1995
+        genres:
+          - superhero
+      - title: Il Vizietto
+        url: "https://en.wikipedia.org/wiki/La_Cage_aux_Folles_(film)"
+        subtitles:
+          - La Cage aux Folles
+        date: 2026-02-17
+        rating: 2
+        creators:
+          - name: Édouard Molinaro
+            url: "https://en.wikipedia.org/wiki/Édouard_Molinaro"
+        language: Italian
+        year: 1978
+        genres:
+          - comedy
+      - title: Batman Returns
+        url: "https://en.wikipedia.org/wiki/Batman_Returns"
+        date: 2026-02-13
+        rating: 4
+        creators:
+          - name: Tim Burton
+            url: "https://en.wikipedia.org/wiki/Tim_Burton"
+        language: English
+        year: 1992
+        genres:
+          - superhero
+      - title: Donnie Darko
+        url: "https://en.wikipedia.org/wiki/Donnie_Darko"
+        date: 2026-02-10
+        rating: 3
+        creators:
+          - name: Richard Kelly
+            url: "https://en.wikipedia.org/wiki/Richard_Kelly_(filmmaker)"
+        language: English
+        year: 2001
+        genres:
+          - psychological thriller
+          - science fiction
+      - title: Batman
+        url: "https://en.wikipedia.org/wiki/Batman_(1989_film)"
+        date: 2026-02-05
+        rating: 3
+        creators:
+          - name: Tim Burton
+            url: "https://en.wikipedia.org/wiki/Tim_Burton"
+        language: English
+        year: 1989
+        genres:
+          - superhero
+      - title: Ghost
+        url: "https://en.wikipedia.org/wiki/Ghost_(1990_film)"
+        date: 2026-01-27
+        rating: 4
+        creators:
+          - name: Jerry Zucker
+            url: "https://en.wikipedia.org/wiki/Jerry_Zucker"
+        language: English
+        year: 1990
+        genres:
+          - romance
+          - supernatural
+      - title: Hamnet
+        url: "https://en.wikipedia.org/wiki/Hamnet_(film)"
+        date: 2026-01-21
+        rating: 3
+        creators:
+          - name: Chloé Zhao
+            url: "https://en.wikipedia.org/wiki/Chloé_Zhao"
+        language: English
+        year: 2025
+        genres:
+          - historical
+          - tragedy
+      - title: Mine Vaganti
+        url: "https://en.wikipedia.org/wiki/Loose_Cannons_(2010_film)"
+        date: 2026-01-18
+        rating: 5
+        creators:
+          - name: Ferzan Özpetek
+            url: "https://en.wikipedia.org/wiki/Ferzan_Özpetek"
+        language: Italian
+        year: 2010
+        genres:
+          - comedy
+      - title: From Dusk till Dawn
+        url: "https://en.wikipedia.org/wiki/From_Dusk_till_Dawn"
+        date: 2026-01-15
+        rating: 2
+        creators:
+          - name: Robert Rodriguez
+            url: "https://en.wikipedia.org/wiki/Robert_Rodriguez"
+        language: English
+        year: 1996
+        genres:
+          - action
+          - crime
+          - horror
+      - title: Stargate
+        url: "https://en.wikipedia.org/wiki/Stargate_(film)"
+        date: 2026-01-09
+        rating: 5
+        creators:
+          - name: Roland Emmerich
+            url: "https://en.wikipedia.org/wiki/Roland_Emmerich"
+        language: English
+        year: 1994
+        genres:
+          - action
+          - adventure
+          - science fiction
+      - title: Weekend
+        url: "https://en.wikipedia.org/wiki/Weekend_(2011_film)"
+        date: 2026-01-06
+        rating: 5
+        creators:
+          - name: Andrew Haigh
+            url: "https://en.wikipedia.org/wiki/Andrew_Haigh"
+        language: English
+        year: 2011
+        genres:
+          - drama
+          - romantic
+      - title: Jurassic Park
+        url: "https://en.wikipedia.org/wiki/Jurassic_Park"
+        date: 2026-01-03
+        rating: 5
+        creators:
+          - name: Steven Spielberg
+            url: "https://en.wikipedia.org/wiki/Steven_Spielberg"
+        language: English
+        year: 1993
+        genres:
+          - adventure
+          - science fiction
+  - label: 2025
+    entries:
+      - title: "Mamma ho perso l'aereo 2"
+        url: "https://en.wikipedia.org/wiki/Home_Alone_2:_Lost_in_New_York"
+        subtitles:
+          - Mi Sono Smarrito a New York
+        date: 2025-12-25
+        rating: 4
+        creators:
+          - name: Chris Columbus
+            url: "https://en.wikipedia.org/wiki/Chris_Columbus_(filmmaker)"
+        language: Italian
+        year: 1992
+        genres:
+          - comedy
+      - title: Fantaghirò 2
+        url: "https://it.wikipedia.org/wiki/Fantaghirò_2"
+        subtitles:
+          - Parte 2
+        date: 2025-12-21
+        rating: 3
+        creators:
+          - name: Lamberto Bava
+            url: "https://it.wikipedia.org/wiki/Lamberto_Bava"
+        language: Italian
+        year: 1992
+        genres:
+          - adventure
+          - fantasy
+          - romance
+      - title: Fantaghirò 2
+        url: "https://it.wikipedia.org/wiki/Fantaghirò_2"
+        subtitles:
+          - Parte 1
+        date: 2025-12-19
+        rating: 3
+        creators:
+          - name: Lamberto Bava
+            url: "https://it.wikipedia.org/wiki/Lamberto_Bava"
+        language: Italian
+        year: 1992
+        genres:
+          - adventure
+          - fantasy
+          - romance
+      - title: Pillion
+        url: "https://en.wikipedia.org/wiki/Pillion_(film)"
+        date: 2025-12-18
+        rating: 4
+        creators:
+          - name: Harry Lighton
+            url: "https://en.wikipedia.org/wiki/Harry_Lighton"
+        language: English
+        year: 2025
+        genres:
+          - comedy drama
+          - romantic
+      - title: Fantaghirò
+        url: "https://it.wikipedia.org/wiki/Fantaghirò_(miniserie_televisiva)"
+        subtitles:
+          - Parte 2
+        date: 2025-12-16
+        rating: 3
+        creators:
+          - name: Lamberto Bava
+            url: "https://it.wikipedia.org/wiki/Lamberto_Bava"
+        language: Italian
+        year: 1991
+        genres:
+          - adventure
+          - fantasy
+          - romance
+      - title: Fantaghirò
+        url: "https://it.wikipedia.org/wiki/Fantaghirò_(miniserie_televisiva)"
+        subtitles:
+          - Parte 1
+        date: 2025-12-15
+        rating: 3
+        creators:
+          - name: Lamberto Bava
+            url: "https://it.wikipedia.org/wiki/Lamberto_Bava"
+        language: Italian
+        year: 1991
+        genres:
+          - adventure
+          - fantasy
+          - romance
+      - title: "Wicked: For Good"
+        url: "https://en.wikipedia.org/wiki/Wicked:_For_Good"
+        date: 2025-11-26
+        rating: 3
+        creators:
+          - name: Jon M. Chu
+            url: "https://en.wikipedia.org/wiki/Jon_M._Chu"
+        language: English
+        year: 2025
+        genres:
+          - fantasy
+          - musical
+      - title: "The Fantastic Four: First Steps"
+        url: "https://en.wikipedia.org/wiki/The_Fantastic_Four:_First_Steps"
+        date: 2025-11-25
+        rating: 3
+        creators:
+          - name: Matt Shakman
+            url: "https://en.wikipedia.org/wiki/Matt_Shakman"
+        language: English
+        year: 2025
+        genres:
+          - superhero
+      - title: Interview with the Vampire
+        url: "https://en.wikipedia.org/wiki/Interview_with_the_Vampire_(film)"
+        date: 2025-11-02
+        rating: 4
+        creators:
+          - name: Neil Jordan
+            url: "https://en.wikipedia.org/wiki/Neil_Jordan"
+        language: English
+        year: 1994
+        genres:
+          - gothic
+          - horror
+      - title: Frankenstein
+        url: "https://en.wikipedia.org/wiki/Frankenstein_(2025_film)"
+        date: 2025-10-25
+        rating: 4
+        creators:
+          - name: Guillermo del Toro
+            url: "https://en.wikipedia.org/wiki/Guillermo_del_Toro"
+        language: English
+        year: 2025
+        genres:
+          - epic
+          - gothic
+          - science fiction
+      - title: The Miracle Club
+        url: "https://en.wikipedia.org/wiki/The_Miracle_Club"
+        date: 2025-09-26
+        rating: 4
+        creators:
+          - name: "Thaddeus O'Sullivan"
+            url: "https://en.wikipedia.org/wiki/Thaddeus_O%27Sullivan"
+        language: English
+        year: 2023
+        genres:
+          - drama
+      - title: KPop Demon Hunters
+        url: "https://en.wikipedia.org/wiki/KPop_Demon_Hunters"
+        date: 2025-09-16
+        rating: 5
+        creators:
+          - name: Maggie Kang
+            url: "https://en.wikipedia.org/wiki/Maggie_Kang"
+          - name: Chris Appelhans
+            url: "https://en.wikipedia.org/wiki/Chris_Appelhans"
+        language: English
+        year: 2025
+        genres:
+          - animated musical
+          - urban fantasy
+      - title: "Thunderbolts*"
+        url: "https://en.wikipedia.org/wiki/Thunderbolts*"
+        date: 2025-08-24
+        rating: 2
+        creators:
+          - name: Jake Schreier
+            url: "https://en.wikipedia.org/wiki/Jake_Schreier"
+          - name: "Richard O'Brien"
+            url: "https://en.wikipedia.org/wiki/Richard_O%27Brien"
+        language: English
+        year: 2025
+        genres:
+          - superhero
+      - title: The Rocky Horror Picture Show
+        url: "https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show"
+        date: 2025-08-23
+        rating: 5
+        creators:
+          - name: Jim Sharman
+            url: "https://en.wikipedia.org/wiki/Jim_Sharman"
+          - name: "Richard O'Brien"
+            url: "https://en.wikipedia.org/wiki/Richard_O%27Brien"
+        language: English
+        year: 1975
+        genres:
+          - horror
+          - musical comedy
+      - title: "Spider-Man: Across the Spider-Verse"
+        url: "https://en.wikipedia.org/wiki/Spider-Man:_Across_the_Spider-Verse"
+        date: 2025-07-31
+        rating: 5
+        creators:
+          - name: Joaquim Dos Santos
+            url: "https://en.wikipedia.org/wiki/Joaquim_Dos_Santos"
+          - name: Kemp Powers
+            url: "https://en.wikipedia.org/wiki/Kemp_Powers"
+          - name: Justin K. Thompson
+            url: "https://en.wikipedia.org/wiki/Justin_K._Thompson"
+        language: English
+        year: 2023
+        genres:
+          - superhero
+      - title: Superman (2025)
+        url: "https://en.wikipedia.org/wiki/Superman_(2025_film)"
+        date: 2025-07-21
+        rating: 4
+        creators:
+          - name: James Gunn
+            url: "https://en.wikipedia.org/wiki/James_Gunn"
+        language: English
+        year: 2025
+        genres:
+          - superhero
+      - title: The Boy and the Heron
+        url: "https://en.wikipedia.org/wiki/The_Boy_and_the_Heron"
+        date: 2025-06-08
+        rating: 3
+        creators:
+          - name: Hayao Miyazaki
+            url: "https://en.wikipedia.org/wiki/Hayao_Miyazaki"
+        language: Italian
+        year: 2025
+        genres:
+          - japanese animated fantasy
+      - title: "Captain America: Brave New World"
+        url: "https://en.wikipedia.org/wiki/Captain_America:_Brave_New_World"
+        date: 2025-05-28
+        rating: 4
+        creators:
+          - name: Julius Onah
+            url: "https://en.wikipedia.org/wiki/Julius_Onah"
+        language: English
+        year: 2025
+        genres:
+          - superhero
+      - title: The Super Mario Bros. Movie
+        url: "https://en.wikipedia.org/wiki/The_Super_Mario_Bros._Movie"
+        date: 2025-05-05
+        rating: 3
+        creators:
+          - name: Aaron Horvath
+            url: "https://en.wikipedia.org/wiki/Aaron_Horvath"
+          - name: Michael Jelenic
+            url: "https://en.wikipedia.org/wiki/Michael_Jelenic"
+        language: English
+        year: 2023
+        genres:
+          - animated adventure comedy
+      - title: "Deadpool & Wolverine"
+        url: "https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine"
+        date: 2025-05-02
+        rating: 3
+        creators:
+          - name: Shawn Levy
+            url: "https://en.wikipedia.org/wiki/Shawn_Levy"
+        language: English
+        year: 2024
+        genres:
+          - superhero
+      - title: Buffy the Vampire Slayer
+        url: "https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer"
+        subtitles:
+          - Season 1
+        date: 2025-04-16
+        rating: 4
+        creators:
+          - name: Joss Whedon
+            url: "https://en.wikipedia.org/wiki/Joss_Whedon"
+        language: English
+        year: 1997
+        genres:
+          - supernatural drama
+      - title: Sing
+        url: "https://en.wikipedia.org/wiki/Sing_(2016_American_film)"
+        date: 2025-01-07
+        rating: 3
+        creators:
+          - name: Garth Jennings
+            url: "https://en.wikipedia.org/wiki/Garth_Jennings"
+          - name: Illumination
+            url: "https://en.wikipedia.org/wiki/Illumination_(company)"
+        language: English
+        year: 2016
+        genres:
+          - jukebox musical comedy
+      - title: Cunk on Earth
+        url: "https://en.wikipedia.org/wiki/Cunk_on_Earth"
+        date: 2025-01-04
+        rating: 4
+        creators:
+          - name: Charlie Brooker
+            url: "https://en.wikipedia.org/wiki/Charlie_Brooker"
+        language: English
+        year: 2022
+        genres:
+          - mockumentary
+      - title: "Chicken Run: Dawn of the Nugget"
+        url: "https://en.wikipedia.org/wiki/Chicken_Run:_Dawn_of_the_Nugget"
+        date: 2025-01-03
+        rating: 2
+        creators:
+          - name: Sam Fell
+            url: "https://en.wikipedia.org/wiki/Sam_Fell"
+        language: English
+        year: 2023
+        genres:
+          - comedy
+  - label: 2024
+    entries:
+      - title: Coco
+        url: "https://en.wikipedia.org/wiki/Coco_(2017_film)"
+        date: 2024-12-25
+        rating: 4
+        creators:
+          - name: Lee Unkrich
+            url: "https://en.wikipedia.org/wiki/Lee_Unkrich"
+          - name: Pixar
+            url: "https://en.wikipedia.org/wiki/Pixar"
+        language: Italian
+        year: 2017
+        genres:
+          - fantasy comedy-drama
+      - title: Queer
+        url: "https://en.wikipedia.org/wiki/Queer_(film)"
+        date: 2024-12-18
+        rating: 3
+        creators:
+          - name: Luca Guadagnino
+            url: "https://en.wikipedia.org/wiki/Luca_Guadagnino"
+        language: English
+        year: 2024
+        genres:
+          - period romantic drama
+      - title: Wicked
+        url: "https://en.wikipedia.org/wiki/Wicked_(2024_film)"
+        date: 2024-11-24
+        rating: 5
+        creators:
+          - name: Jon M. Chu
+            url: "https://en.wikipedia.org/wiki/Jon_M._Chu"
+        language: English
+        year: 2024
+        genres:
+          - fantasy
+          - musical
+      - title: Agatha All Along
+        url: "https://en.wikipedia.org/wiki/Agatha_All_Along_(miniseries)"
+        date: 2024-10-31
+        rating: 4
+        creators:
+          - name: Jac Schaeffer
+            url: "https://en.wikipedia.org/wiki/Jac_Schaeffer"
+        language: English
+        year: 2024
+        genres:
+          - dark comedy
+          - fantasy
+          - superhero
+      - title: "The Emperor's New Groove"
+        url: "https://en.wikipedia.org/wiki/The_Emperor%27s_New_Groove"
+        date: 2024-10-28
+        rating: 4
+        creators:
+          - name: Mark Dindal
+            url: "https://en.wikipedia.org/wiki/Mark_Dindal"
+          - name: The Walt Disney Company
+            url: "https://it.wikipedia.org/wiki/The_Walt_Disney_Company"
+        language: English
+        year: 2000
+        genres:
+          - fantasy comedy
+      - title: Taron e la pentola magica
+        url: "https://it.wikipedia.org/wiki/Taron_e_la_pentola_magica"
+        date: 2024-10-27
+        rating: 3
+        creators:
+          - name: Ted Berman
+            url: "https://en.wikipedia.org/wiki/Ted_Berman"
+          - name: Richard Rich
+            url: "https://en.wikipedia.org/wiki/Richard_Rich_(filmmaker)"
+          - name: The Walt Disney Company
+            url: "https://it.wikipedia.org/wiki/The_Walt_Disney_Company"
+        language: Italian
+        year: 1985
+        genres:
+          - dark fantasy adventure
+      - title: La spada nella roccia
+        url: "https://it.wikipedia.org/wiki/La_spada_nella_roccia_(film)"
+        date: 2024-10-12
+        rating: 5
+        creators:
+          - name: Wolfgang Reitherman
+            url: "https://en.wikipedia.org/wiki/Wolfgang_Reitherman"
+          - name: The Walt Disney Company
+            url: "https://it.wikipedia.org/wiki/The_Walt_Disney_Company"
+        language: Italian
+        year: 1963
+        genres:
+          - musical fantasy comedy
+      - title: Indiana Jones and the Temple of Doom
+        url: "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Temple_of_Doom"
+        date: 2024-09-28
+        rating: 5
+        creators:
+          - name: Steven Spielberg
+            url: "https://en.wikipedia.org/wiki/Steven_Spielberg"
+        language: English
+        year: 1984
+        genres:
+          - action-adventure
+      - title: Raiders of the Lost Ark
+        url: "https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark"
+        date: 2024-09-25
+        rating: 4
+        creators:
+          - name: Steven Spielberg
+            url: "https://en.wikipedia.org/wiki/Steven_Spielberg"
+        language: English
+        year: 1981
+        genres:
+          - action-adventure
+      - title: Bros
+        url: "https://en.wikipedia.org/wiki/Bros_(film)"
+        date: 2024-09-22
+        rating: 5
+        creators:
+          - name: Nicholas Stoller
+            url: "https://en.wikipedia.org/wiki/Nicholas_Stoller"
+        language: English
+        year: 2022
+        genres:
+          - romantic comedy
+      - title: Beetlejuice Beetlejuice
+        url: "https://en.wikipedia.org/wiki/Beetlejuice_Beetlejuice"
+        date: 2024-09-18
+        rating: 4
+        creators:
+          - name: Tim Burton
+            url: "https://en.wikipedia.org/wiki/Tim_Burton"
+        language: English
+        year: 2024
+        genres:
+          - dark fantasy comedy horror
+      - title: Beetlejuice
+        url: "https://en.wikipedia.org/wiki/Beetlejuice"
+        date: 2024-09-15
+        rating: 2
+        creators:
+          - name: Tim Burton
+            url: "https://en.wikipedia.org/wiki/Tim_Burton"
+        language: English
+        year: 1988
+        genres:
+          - dark fantasy comedy horror
+      - title: Sailor Moon Cosmos
+        url: "https://en.wikipedia.org/wiki/Sailor_Moon_Cosmos"
+        date: 2024-08-23
+        rating: 3
+        creators:
+          - name: Tomoya Takahashi
+        language: Italian
+        year: 2024
+        genres:
+          - anime
+      - title: The Favourite
+        url: "https://en.wikipedia.org/wiki/The_Favourite"
+        date: 2024-08-21
+        rating: 2
+        creators:
+          - name: Yorgos Lanthimos
+            url: "https://en.wikipedia.org/wiki/Yorgos_Lanthimos"
+        language: English
+        year: 2018
+        genres:
+          - period dark comedy
+          - satirical absurdist
+      - title: "Ghostbusters: Afterlife"
+        url: "https://en.wikipedia.org/wiki/Ghostbusters:_Afterlife"
+        date: 2024-08-12
+        rating: 5
+        creators:
+          - name: Jason Reitman
+            url: "https://en.wikipedia.org/wiki/Jason_Reitman"
+        language: English
+        year: 2021
+        genres:
+          - supernatural comedy
+      - title: "Sister Act 2: Back in the Habit"
+        url: "https://en.wikipedia.org/wiki/Sister_Act_2:_Back_in_the_Habit"
+        date: 2024-07-15
+        rating: 4
+        creators:
+          - name: Bill Duke
+            url: "https://en.wikipedia.org/wiki/Bill_Duke"
+        language: English
+        year: 1993
+        genres:
+          - musical comedy
+      - title: Sister Act
+        url: "https://en.wikipedia.org/wiki/Sister_Act"
+        date: 2024-07-07
+        rating: 5
+        creators:
+          - name: Emile Ardolino
+            url: "https://en.wikipedia.org/wiki/Emile_Ardolino"
+        language: English
+        year: 1992
+        genres:
+          - musical crime comedy
+      - title: "Robin Hood: Prince of Thieves"
+        url: "https://en.wikipedia.org/wiki/Robin_Hood:_Prince_of_Thieves"
+        date: 2024-07-06
+        rating: 4
+        creators:
+          - name: Kevin Reynolds
+            url: "https://en.wikipedia.org/wiki/Kevin_Reynolds_(director)"
+        language: English
+        year: 1991
+        genres:
+          - action-adventure
+      - title: Irish Wish
+        url: "https://en.wikipedia.org/wiki/Irish_Wish"
+        date: 2024-07-02
+        rating: 1
+        creators:
+          - name: Janeen Damian
+            url: "https://en.wikipedia.org/wiki/Janeen_Damian"
+        language: English
+        year: 2024
+        genres:
+          - fantasy rom-com
+      - title: "Masters of the Universe: Revolution"
+        url: "https://en.wikipedia.org/wiki/Masters_of_the_Universe:_Revelation"
+        date: 2024-05-12
+        rating: 5
+        creators:
+          - name: Kevin Smith
+            url: "https://en.wikipedia.org/wiki/Kevin_Smith"
+        language: English
+        year: 2024
+        genres:
+          - action-adventure
+      - title: "C'è ancora domani"
+        url: "https://it.wikipedia.org/wiki/C%27è_ancora_domani"
+        date: 2024-05-08
+        rating: 4
+        creators:
+          - name: Paola Cortellesi
+            url: "https://it.wikipedia.org/wiki/Paola_Cortellesi"
+        language: Italian
+        year: 2023
+        genres:
+          - comedy drama
+      - title: 1922
+        url: "https://en.wikipedia.org/wiki/1922_(2017_film)"
+        date: 2024-05-06
+        rating: 2
+        creators:
+          - name: Zak Hilditch
+            url: "https://en.wikipedia.org/wiki/Zak_Hilditch"
+        language: English
+        year: 2017
+        genres:
+          - horror drama
+      - title: "L'ultima notte di Amore"
+        url: "https://it.wikipedia.org/wiki/L%27ultima_notte_di_Amore"
+        date: 2024-04-28
+        rating: 3
+        creators:
+          - name: Andrea Di Stefano
+            url: "https://it.wikipedia.org/wiki/Andrea_Di_Stefano"
+        language: Italian
+        year: 2023
+        genres:
+          - crime drama
+      - title: The Matrix Resurrections
+        url: "https://en.wikipedia.org/wiki/The_Matrix_Resurrections"
+        date: 2024-04-26
+        rating: 4
+        creators:
+          - name: Lana Wachowski
+            url: "https://en.wikipedia.org/wiki/The_Wachowskis"
+        language: English
+        year: 2021
+        genres:
+          - science fiction
+      - title: "Dune: Part One"
+        url: "https://en.wikipedia.org/wiki/Dune_(2021_film)"
+        date: 2024-04-08
+        rating: 4
+        creators:
+          - name: Denis Villeneuve
+            url: "https://en.wikipedia.org/wiki/Denis_Villeneuve"
+        language: English
+        year: 2021
+        genres:
+          - science fiction
+      - title: Poor Things
+        url: "https://en.wikipedia.org/wiki/Poor_Things_(film)"
+        date: 2024-04-07
+        rating: 2
+        creators:
+          - name: Yorgos Lanthimos
+            url: "https://en.wikipedia.org/wiki/Yorgos_Lanthimos"
+        language: English
+        year: 2024
+        genres:
+          - "`genre-defying`"
+      - title: All of Us Strangers
+        url: "https://en.wikipedia.org/wiki/All_of_Us_Strangers"
+        date: 2024-04-04
+        rating: 3
+        creators:
+          - name: Andrew Haigh
+            url: "https://en.wikipedia.org/wiki/Andrew_Haigh"
+        language: English
+        year: 2024
+        genres:
+          - romantic fantasy

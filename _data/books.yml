@@ -1,0 +1,754 @@
+current:
+  - title: It
+    url: "https://en.wikipedia.org/wiki/It_(novel)"
+    authors:
+      - name: Stephen King
+        url: "https://en.wikipedia.org/wiki/Stephen_King"
+    language: English
+    year: 1986
+    genres:
+      - coming-of-age story
+      - horror
+      - thriller
+  - title: Hands-On Large Language Models
+    url: "https://books.google.ie/books/about/Hands_On_Large_Language_Models.html"
+    authors:
+      - name: Jay Alammar
+        url: "https://www.google.ie/search?tbo=p&tbm=bks&q=inauthor:%22Jay+Alammar%22"
+      - name: Maarten Grootendorst
+        url: "https://www.google.ie/search?tbo=p&tbm=bks&q=inauthor:%22Maarten+Grootendorst%22"
+    language: English
+    year: 2024
+    genres:
+      - tech
+
+years:
+  - label: 2026
+    entries:
+      - title: Paul Takes the Form of a Mortal Girl
+        url: "https://en.wikipedia.org/wiki/Paul_Takes_the_Form_of_a_Mortal_Girl"
+        date: 2026-08-15
+        rating: 4
+        authors:
+          - name: Andrea Lawlor
+            url: "https://en.wikipedia.org/wiki/Andrea_Lawlor"
+        language: English
+        year: 2017
+        genres:
+          - magical realism
+          - picaresque novel
+      - title: La sfera del buio
+        url: "https://en.wikipedia.org/wiki/The_Dark_Tower_IV:_Wizard_and_Glass"
+        subtitles:
+          - "The Dark Tower IV: Wizard and Glass"
+        date: 2026-08-04
+        rating: 4
+        authors:
+          - name: Stephen King
+            url: "https://en.wikipedia.org/wiki/Stephen_King"
+        language: Italian
+        year: 1997
+        genres:
+          - dark fantasy
+          - science fiction
+      - title: Pretty Guardian Sailor Moon
+        url: "https://en.wikipedia.org/wiki/Sailor_Moon"
+        subtitles:
+          - Volume 8 (Act 36 - Act 39)
+        date: 2026-07-08
+        rating: 4
+        authors:
+          - name: Naoko Takeuchi
+            url: "https://en.wikipedia.org/wiki/Naoko_Takeuchi"
+        language: Italian
+        year: 1995
+        genres:
+          - magical girl
+          - manga
+      - title: Heated Rivalry
+        url: "https://en.wikipedia.org/wiki/Heated_Rivalry_(novel)"
+        date: 2026-07-07
+        rating: 3
+        authors:
+          - name: Rachel Reid
+            url: "https://en.wikipedia.org/wiki/Rachel_Reid_(author)"
+        language: English
+        year: 2019
+        genres:
+          - gay
+          - romance
+          - sport
+      - title: The Colorado Kid
+        url: "https://en.wikipedia.org/wiki/The_Colorado_Kid"
+        subtitles:
+          - The Colorado Kid
+        date: 2026-06-14
+        rating: 3
+        authors:
+          - name: Stephen King
+            url: "https://en.wikipedia.org/wiki/Stephen_King"
+        language: Italian
+        year: 2000
+        genres:
+          - crime
+          - mystery
+      - title: Ricordi di un vicolo cieco
+        url: "https://en.wikipedia.org/wiki/Dead-End_Memories"
+        subtitles:
+          - デッドエンドの思い出
+        date: 2026-06-06
+        rating: 3
+        authors:
+          - name: Banana Yoshimoto
+            url: "https://en.wikipedia.org/wiki/Banana_Yoshimoto"
+        language: Italian
+        year: 2006
+        genres:
+          - short story collection
+      - title: Pretty Guardian Sailor Moon
+        url: "https://en.wikipedia.org/wiki/Sailor_Moon"
+        subtitles:
+          - Volume 7 (Act 31 - Act 35)
+        date: 2026-05-30
+        rating: 4
+        authors:
+          - name: Naoko Takeuchi
+            url: "https://en.wikipedia.org/wiki/Naoko_Takeuchi"
+        language: Italian
+        year: 1995
+        genres:
+          - magical girl
+          - manga
+      - title: Terre desolate
+        url: "https://en.wikipedia.org/wiki/The_Dark_Tower_III:_The_Waste_Lands"
+        subtitles:
+          - "The Dark Tower III: The Waste Lands"
+        date: 2026-05-26
+        rating: 5
+        authors:
+          - name: Stephen King
+            url: "https://en.wikipedia.org/wiki/Stephen_King"
+        language: Italian
+        year: 1991
+        genres:
+          - dark fantasy
+          - science fiction
+      - title: Pretty Guardian Sailor Moon
+        url: "https://en.wikipedia.org/wiki/Sailor_Moon"
+        subtitles:
+          - Volume 6 (Act 27 - Act 30)
+        date: 2026-05-17
+        rating: 5
+        authors:
+          - name: Naoko Takeuchi
+            url: "https://en.wikipedia.org/wiki/Naoko_Takeuchi"
+        language: Italian
+        year: 1994
+        genres:
+          - magical girl
+          - manga
+      - title: "Giovanni's Room"
+        url: "https://en.wikipedia.org/wiki/Giovanni%27s_Room"
+        date: 2026-05-02
+        rating: 5
+        authors:
+          - name: James Baldwin
+            url: "https://en.wikipedia.org/wiki/James_Baldwin"
+        language: English
+        year: 1956
+        genres:
+          - gay
+      - title: Accabadora
+        url: "https://it.wikipedia.org/wiki/Accabadora"
+        date: 2026-04-21
+        rating: 4
+        authors:
+          - name: Michela Murgia
+            url: "https://en.wikipedia.org/wiki/Michela_Murgia"
+        language: Italian
+        year: 2009
+        genres:
+          - novel
+      - title: La chiamata dei tre
+        url: "https://en.wikipedia.org/wiki/The_Dark_Tower_II:_The_Drawing_of_the_Three"
+        subtitles:
+          - "The Dark Tower II: The Drawing of the Three"
+        date: 2026-04-17
+        rating: 4
+        authors:
+          - name: Stephen King
+            url: "https://en.wikipedia.org/wiki/Stephen_King"
+        language: Italian
+        year: 1987
+        genres:
+          - dark fantasy
+          - science fiction
+          - western
+      - title: Simon vs. the Homo Sapiens Agenda
+        url: "https://en.wikipedia.org/wiki/Simon_vs._the_Homo_Sapiens_Agenda"
+        date: 2026-04-08
+        rating: 3
+        authors:
+          - name: Becky Albertalli
+            url: "https://en.wikipedia.org/wiki/Becky_Albertalli"
+        language: English
+        year: 2015
+        genres:
+          - coming-of-age
+          - drama
+          - LGBT
+          - romance
+          - young adult
+      - title: Pretty Guardian Sailor Moon
+        url: "https://en.wikipedia.org/wiki/Sailor_Moon"
+        subtitles:
+          - Volume 5 (Act 22 - Act 26)
+        date: 2026-04-04
+        rating: 5
+        authors:
+          - name: Naoko Takeuchi
+            url: "https://en.wikipedia.org/wiki/Naoko_Takeuchi"
+        language: Italian
+        year: 1994
+        genres:
+          - magical girl
+          - manga
+      - title: Oceano mare
+        url: "https://it.wikipedia.org/wiki/Oceano_mare"
+        date: 2026-04-03
+        rating: 2
+        authors:
+          - name: Alessandro Baricco
+            url: "https://en.wikipedia.org/wiki/Alessandro_Baricco"
+        language: Italian
+        year: 1993
+        genres:
+          - novel
+      - title: The Red Pony
+        url: "https://en.wikipedia.org/wiki/The_Red_Pony"
+        date: 2026-03-26
+        rating: 3
+        authors:
+          - name: John Steinbeck
+            url: "https://en.wikipedia.org/wiki/John_Steinbeck"
+        language: English
+        year: 1937
+        genres:
+          - episodic novella
+      - title: Pretty Guardian Sailor Moon
+        url: "https://en.wikipedia.org/wiki/Sailor_Moon"
+        subtitles:
+          - Volume 4 (Act 17 - Act 21)
+        date: 2026-03-24
+        rating: 3
+        authors:
+          - name: Naoko Takeuchi
+            url: "https://en.wikipedia.org/wiki/Naoko_Takeuchi"
+        language: Italian
+        year: 1993
+        genres:
+          - magical girl
+          - manga
+      - title: "L'isola di Arturo"
+        url: "https://en.wikipedia.org/wiki/L%27isola_di_Arturo"
+        date: 2026-03-23
+        rating: 5
+        authors:
+          - name: Elsa Morante
+            url: "https://en.wikipedia.org/wiki/Elsa_Morante"
+        language: Italian
+        year: 1957
+        genres:
+          - bildungsroman
+          - novel
+      - title: Pretty Guardian Sailor Moon
+        url: "https://en.wikipedia.org/wiki/Sailor_Moon"
+        subtitles:
+          - Volume 3 (Act 12 - Act 16)
+        date: 2026-03-16
+        rating: 5
+        authors:
+          - name: Naoko Takeuchi
+            url: "https://en.wikipedia.org/wiki/Naoko_Takeuchi"
+        language: Italian
+        year: 1993
+        genres:
+          - magical girl
+          - manga
+      - title: "L'ultimo cavaliere"
+        url: "https://en.wikipedia.org/wiki/The_Dark_Tower:_The_Gunslinger"
+        subtitles:
+          - "The Dark Tower: The Gunslinger"
+        date: 2026-03-15
+        rating: 5
+        authors:
+          - name: Stephen King
+            url: "https://en.wikipedia.org/wiki/Stephen_King"
+        language: Italian
+        year: 1982
+        genres:
+          - dark fantasy
+          - western
+      - title: The Princess Bride
+        url: "https://en.wikipedia.org/wiki/The_Princess_Bride_(novel)"
+        date: 2026-03-13
+        rating: 3
+        authors:
+          - name: William Goldman
+            url: "https://en.wikipedia.org/wiki/William_Goldman"
+        language: English
+        year: 1973
+        genres:
+          - adventure
+          - fantasy
+          - metafiction
+          - romance
+      - title: Pretty Guardian Sailor Moon
+        url: "https://en.wikipedia.org/wiki/Sailor_Moon"
+        subtitles:
+          - Volume 2 (Act 7 - Act 11)
+        date: 2026-03-08
+        rating: 4
+        authors:
+          - name: Naoko Takeuchi
+            url: "https://en.wikipedia.org/wiki/Naoko_Takeuchi"
+        language: Italian
+        year: 1992
+        genres:
+          - magical girl
+          - manga
+      - title: "L'ombra dello scorpione"
+        url: "https://it.wikipedia.org/wiki/L%27ombra_dello_scorpione"
+        subtitles:
+          - The Stand
+        date: 2026-01-26
+        rating: 4
+        authors:
+          - name: Stephen King
+            url: "https://en.wikipedia.org/wiki/Stephen_King"
+        language: Italian
+        year: 1990
+        genres:
+          - dark fantasy
+          - post-apocalyptic
+      - title: Pretty Guardian Sailor Moon
+        url: "https://en.wikipedia.org/wiki/Sailor_Moon"
+        subtitles:
+          - Volume 1 (Act 1 - Act 6)
+        date: 2026-01-06
+        rating: 4
+        authors:
+          - name: Naoko Takeuchi
+            url: "https://en.wikipedia.org/wiki/Naoko_Takeuchi"
+        language: Italian
+        year: 1992
+        genres:
+          - magical girl
+          - manga
+  - label: 2025
+    entries:
+      - title: Building Event-Driven Microservices
+        url: "https://www.oreilly.com/library/view/building-event-driven-microservices/9781492057888/"
+        date: 2025-11-24
+        rating: 2
+        authors:
+          - name: Adam Bellemare
+        language: English
+        year: 2020
+        genres:
+          - tech
+      - title: Magic Knight Rayearth
+        url: "https://en.wikipedia.org/wiki/Magic_Knight_Rayearth"
+        subtitles:
+          - "PART ONE: BOOK THREE"
+        date: 2025-10-25
+        rating: 5
+        authors:
+          - name: CLAMP
+            url: "https://en.wikipedia.org/wiki/Clamp_(manga_artists)"
+        language: English
+        year: 1993
+        genres:
+          - isekai
+          - manga
+          - mecha
+          - sword and sorcery
+      - title: Magic Knight Rayearth
+        url: "https://en.wikipedia.org/wiki/Magic_Knight_Rayearth"
+        subtitles:
+          - "PART ONE: BOOK TWO"
+        date: 2025-10-24
+        rating: 4
+        authors:
+          - name: CLAMP
+            url: "https://en.wikipedia.org/wiki/Clamp_(manga_artists)"
+        language: English
+        year: 1993
+        genres:
+          - isekai
+          - manga
+          - mecha
+          - sword and sorcery
+      - title: Magic Knight Rayearth
+        url: "https://en.wikipedia.org/wiki/Magic_Knight_Rayearth"
+        subtitles:
+          - "PART ONE: BOOK ONE"
+        date: 2025-10-23
+        rating: 4
+        authors:
+          - name: CLAMP
+            url: "https://en.wikipedia.org/wiki/Clamp_(manga_artists)"
+        language: English
+        year: 1993
+        genres:
+          - isekai
+          - manga
+          - mecha
+          - sword and sorcery
+      - title: Good Omens
+        url: "https://en.wikipedia.org/wiki/Good_Omens"
+        date: 2025-10-12
+        rating: 2
+        authors:
+          - name: Terry Pratchett
+            url: "https://en.wikipedia.org/wiki/Terry_Pratchett"
+          - name: Neil Gaiman
+            url: "https://en.wikipedia.org/wiki/Neil_Gaiman"
+        language: English
+        year: 1990
+        genres:
+          - apocalyptic fiction
+          - comedy
+          - fantasy
+          - horror
+          - supernatural
+      - title: Il postino di Neruda
+        url: "https://it.wikipedia.org/wiki/Il_postino_di_Neruda"
+        subtitles:
+          - El cartero de Neruda
+        date: 2025-09-20
+        rating: 3
+        authors:
+          - name: Antonio Skármeta
+            url: "https://it.wikipedia.org/wiki/Antonio_Skármeta"
+        language: Italian
+        year: 1986
+        genres:
+          - novel
+      - title: The Picture of Dorian Gray
+        url: "https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray"
+        date: 2025-09-13
+        rating: 3
+        authors:
+          - name: Oscar Wilde
+            url: "https://en.wikipedia.org/wiki/Oscar_Wilde"
+        language: English
+        year: 1890
+        genres:
+          - gothic horror
+          - philosophical fiction
+      - title: Le intermittenze della morte
+        url: "https://it.wikipedia.org/wiki/Le_intermittenze_della_morte"
+        subtitles:
+          - As intermitências da morte
+        date: 2025-08-24
+        rating: 4
+        authors:
+          - name: José Saramago
+            url: "https://it.wikipedia.org/wiki/José_Saramago"
+        language: Italian
+        year: 2005
+        genres:
+          - novel
+      - title: Evenings and Weekends
+        url: "https://www.amazon.ie/Evenings-Weekends-book-summer-Dazed/dp/0008604177/ref=asc_df_0008604177"
+        date: 2025-07-02
+        rating: 4
+        authors:
+          - name: Oisín McKenna
+        language: English
+        year: 2024
+        genres:
+          - novel
+      - title: The Hours
+        url: "https://en.wikipedia.org/wiki/The_Hours_(novel)"
+        date: 2025-05-25
+        rating: 4
+        authors:
+          - name: Michael Cunningham
+            url: "https://en.wikipedia.org/wiki/Michael_Cunningham"
+        language: English
+        year: 1998
+        genres:
+          - novel
+      - title: Young Mungo
+        url: "https://en.wikipedia.org/wiki/Young_Mungo"
+        date: 2025-05-08
+        rating: 5
+        authors:
+          - name: Douglas Stuart
+            url: "https://en.wikipedia.org/wiki/Douglas_Stuart_(writer)"
+        language: English
+        year: 2022
+        genres:
+          - coming-of-age
+          - gay novel
+      - title: Programming Rust
+        url: "https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/"
+        subtitles:
+          - Second edition
+        date: 2025-04-25
+        rating: 5
+        authors:
+          - name: Jim Blandy
+          - name: Jason Orendorff
+          - name: Leonora F. S. Tindall
+        language: English
+        year: 2021
+        genres:
+          - tech
+      - title: La tregua
+        url: "https://it.wikipedia.org/wiki/La_tregua_(Primo_Levi)"
+        date: 2025-01-02
+        rating: 3
+        authors:
+          - name: Primo Levi
+            url: "https://it.wikipedia.org/wiki/Primo_Levi"
+        language: Italian
+        year: 1963
+        genres:
+          - memoir
+  - label: 2024
+    entries:
+      - title: Maurice
+        url: "https://en.wikipedia.org/wiki/Maurice_(novel)"
+        date: 2024-11-23
+        rating: 5
+        authors:
+          - name: E. M. Forster
+            url: "https://en.wikipedia.org/wiki/E._M._Forster"
+        language: English
+        year: 1971
+        genres:
+          - novel
+      - title: Il giardino segreto
+        url: "https://www.criticaletteraria.org/2017/12/il-giardino-segreto-yoshimoto-feltrinelli.html"
+        subtitles:
+          - 王国 その3 ひみつの花園
+        date: 2024-10-13
+        rating: 3
+        authors:
+          - name: Banana Yoshimoto
+            url: "https://en.wikipedia.org/wiki/Banana_Yoshimoto"
+        language: Italian
+        year: 2005
+        genres:
+          - novel
+      - title: Dune
+        url: "https://en.wikipedia.org/wiki/Dune_(novel)"
+        date: 2024-10-06
+        rating: 3
+        authors:
+          - name: Frank Herbert
+            url: "https://en.wikipedia.org/wiki/Frank_Herbert"
+        language: English
+        year: 1965
+        genres:
+          - epic science fiction
+      - title: "What Is ChatGPT Doing... and Why Does It Work?"
+        url: "https://www.amazon.co.uk/What-ChatGPT-Doing-Does-Work/dp/1579550819"
+        date: 2024-09-21
+        rating: 3
+        authors:
+          - name: Stephen Wolfram
+            url: "https://en.wikipedia.org/wiki/Stephen_Wolfram"
+        language: English
+        year: 2023
+        genres:
+          - tech
+      - title: Programming Language Concepts
+        url: "https://www.amazon.co.uk/Programming-3e-Carlo-Ghezzi-dp-0471104264/dp/0471104264/ref=dp_ob_image_bk"
+        date: 2024-07-14
+        rating: 4
+        authors:
+          - name: Carlo Ghezzi
+            url: "https://en.wikipedia.org/wiki/Carlo_Ghezzi"
+          - name: Mehdi Jazayeri
+            url: "https://en.wikipedia.org/wiki/Mehdi_Jazayeri"
+        language: English
+        year: 1998
+        genres:
+          - tech
+      - title: Il giardino dei Finzi-Contini
+        url: "https://it.wikipedia.org/wiki/Il_giardino_dei_Finzi-Contini"
+        date: 2024-07-08
+        rating: 2
+        authors:
+          - name: Giorgio Bassani
+            url: "https://it.wikipedia.org/wiki/Giorgio_Bassani"
+        language: Italian
+        year: 1962
+        genres:
+          - historical novel
+      - title: Ventimila leghe sotto i mari
+        url: "https://it.wikipedia.org/wiki/Ventimila_leghe_sotto_i_mari"
+        subtitles:
+          - "Vingt mille lieues sous les mers: Tour du monde sous-marin"
+        date: 2024-05-07
+        rating: 3
+        authors:
+          - name: Jules Verne
+            url: "https://en.wikipedia.org/wiki/Jules_Verne"
+        language: Italian
+        year: 1872
+        genres:
+          - science fiction
+      - title: Seta
+        url: "https://it.wikipedia.org/wiki/Seta_(romanzo)"
+        date: 2024-03-31
+        rating: 5
+        authors:
+          - name: Alessandro Baricco
+            url: "https://it.wikipedia.org/wiki/Alessandro_Baricco"
+        language: Italian
+        year: 1996
+        genres:
+          - novel
+      - title: "Breakfast at Tiffany's"
+        url: "https://en.wikipedia.org/wiki/Breakfast_at_Tiffany%27s_(novella)"
+        date: 2024-03-16
+        rating: 1
+        authors:
+          - name: Truman Capote
+            url: "https://en.wikipedia.org/wiki/Truman_Capote"
+        language: English
+        year: 1958
+        genres:
+          - novel
+      - title: Lucertola
+        url: "https://it.wikipedia.org/wiki/Lucertola_(raccolta_di_racconti)"
+        subtitles:
+          - とかげ
+        date: 2024-03-16
+        rating: 4
+        authors:
+          - name: Banana Yoshimoto
+            url: "https://en.wikipedia.org/wiki/Banana_Yoshimoto"
+        language: Italian
+        year: 1993
+        genres:
+          - short story collection
+      - title: "Red, White & Royal Blue"
+        url: "https://en.wikipedia.org/wiki/Red,_White_%26_Royal_Blue"
+        date: 2024-03-06
+        rating: 4
+        authors:
+          - name: Casey McQuiston
+            url: "https://en.wikipedia.org/wiki/Casey_McQuiston"
+        language: English
+        year: 2019
+        genres:
+          - romantic comedy
+      - title: Un amore
+        url: "https://it.wikipedia.org/wiki/Un_amore_(romanzo)"
+        date: 2024-02-03
+        rating: 3
+        authors:
+          - name: Dino Buzzati
+            url: "https://it.wikipedia.org/wiki/Dino_Buzzati"
+        language: Italian
+        year: 1963
+        genres:
+          - novel
+      - title: The Woman in Me
+        url: "https://en.wikipedia.org/wiki/The_Woman_in_Me_(memoir)"
+        date: 2024-01-02
+        rating: 3
+        authors:
+          - name: Britney Spears
+            url: "https://en.wikipedia.org/wiki/Britney_Spears"
+        language: English
+        year: 2023
+        genres:
+          - memoir
+  - label: 2023
+    entries:
+      - title: Call Me by Your Name
+        url: "https://en.wikipedia.org/wiki/Call_Me_by_Your_Name_(novel)"
+        date: 2023-12-28
+        rating: 5
+        authors:
+          - name: André Aciman
+            url: "https://en.wikipedia.org/wiki/André_Aciman"
+        language: English
+        year: 2007
+        genres:
+          - novel
+      - title: Of Mice and Men
+        url: "https://en.wikipedia.org/wiki/Of_Mice_and_Men"
+        date: 2023-12-01
+        rating: 5
+        authors:
+          - name: John Steinbeck
+            url: "https://en.wikipedia.org/wiki/John_Steinbeck"
+        language: English
+        year: 1937
+        genres:
+          - tragedy
+      - title: American Gods
+        url: "https://en.wikipedia.org/wiki/American_Gods"
+        date: 2023-11-01
+        rating: 4
+        authors:
+          - name: Neil Gaiman
+            url: "https://en.wikipedia.org/wiki/Neil_Gaiman"
+        language: English
+        year: 2001
+        genres:
+          - fantasy
+      - title: The Man in the High Castle
+        url: "https://en.wikipedia.org/wiki/The_Man_in_the_High_Castle"
+        date: 2023-10-01
+        rating: 1
+        authors:
+          - name: Philip K. Dick
+            url: "https://en.wikipedia.org/wiki/Philip_K._Dick"
+        language: English
+        year: 1962
+        genres:
+          - science fiction
+      - title: Effective Modern C++
+        url: "https://www.amazon.co.uk/Effective-Modern-Specific-Ways-Improve/dp/1491903996"
+        date: 2023-10-01
+        rating: 3
+        authors:
+          - name: Scott Meyers
+            url: "https://en.wikipedia.org/wiki/Scott_Meyers"
+        language: English
+        year: 2014
+        genres:
+          - tech
+      - title: Cecità
+        url: "https://it.wikipedia.org/wiki/Cecità_(romanzo)"
+        subtitles:
+          - Ensaio sobre a Cegueira
+        date: 2023-08-01
+        rating: 4
+        authors:
+          - name: José Saramago
+            url: "https://en.wikipedia.org/wiki/José_Saramago"
+        language: Italian
+        year: 1995
+        genres:
+          - post-apocalyptic
+      - title: Senilità
+        url: "https://it.wikipedia.org/wiki/Senilità_(romanzo)"
+        date: 2023-06-01
+        rating: 2
+        authors:
+          - name: Italo Svevo
+            url: "https://it.wikipedia.org/wiki/Italo_Svevo"
+        language: Italian
+        year: 1898
+        genres:
+          - novel

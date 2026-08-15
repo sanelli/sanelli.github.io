@@ -1,0 +1,4 @@
+{%- if include.item.url -%}[{{ include.item.title }}]({{ include.item.url }}){%- else -%}{{ include.item.title }}{%- endif -%}
+{%- if include.item.subtitles -%}
+<br/><nobr class="media-subtitle">{%- for subtitle in include.item.subtitles -%}<strong>{{ subtitle }}</strong>{%- unless forloop.last -%}<br/>{%- endunless -%}{%- endfor -%}</nobr>
+{%- endif -%}

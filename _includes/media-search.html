@@ -1,0 +1,14 @@
+{%- assign item = include.item -%}
+{%- capture media_search -%}
+{{ item.title }}
+{%- if item.subtitles %} {{ item.subtitles | join: " " }}{% endif -%}
+{%- for person in item.authors %} {{ person.name }}{% endfor -%}
+{%- for person in item.developers %} {{ person.name }}{% endfor -%}
+{%- for person in item.publishers %} {{ person.name }}{% endfor -%}
+{%- for person in item.creators %} {{ person.name }}{% endfor -%}
+{%- for person in item.artists %} {{ person.name }}{% endfor -%}
+{%- if item.console %} {{ item.console.name }}{% endif -%}
+{%- if item.language %} {{ item.language }}{% endif -%}
+{%- if item.year %} {{ item.year }}{% endif -%}
+{%- for genre in item.genres %} {{ genre }}{% endfor -%}
+{%- endcapture -%}

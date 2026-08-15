@@ -1,0 +1,60 @@
+{%- assign kind = include.kind -%}
+{%- assign rated = false -%}
+{%- if include.mode == "logged" -%}{%- assign rated = true -%}{%- endif -%}
+<table class="media-table sortable">
+  <thead>
+    <tr>
+      {%- if rated -%}
+      <th>Date</th>
+      <th data-sort-method="number">Rating</th>
+      {%- endif -%}
+      {%- if kind == "music" -%}
+      <th>Album</th>
+      {%- else -%}
+      <th>Title</th>
+      {%- endif -%}
+      {%- if kind == "books" -%}
+      <th>Author(s)</th>
+      <th>Language</th>
+      {%- elsif kind == "games" -%}
+      <th>Developer(s)</th>
+      <th>Publisher(s)</th>
+      <th>Console</th>
+      {%- elsif kind == "movies" -%}
+      <th>Directed <span class="media-or">- or -</span> <br/> Created by</th>
+      <th>Language</th>
+      {%- elsif kind == "music" -%}
+      <th>Artist</th>
+      {%- endif -%}
+      <th data-sort-method="number">Year</th>
+      <th>Genre</th>
+    </tr>
+  </thead>
+  <tbody>
+    {%- for item in include.entries -%}
+    {%- include media-search.html item=item -%}
+    <tr class="media-row" data-search="{{ media_search | downcase | strip | xml_escape }}"{% if item.rating %} data-rating="{{ item.rating }}"{% else %} data-rating=""{% endif %}>
+      {%- if rated -%}
+      <td data-sort="{{ item.date }}">{%- if item.date -%}<span class="media-date" data-sort="{{ item.date }}"><nobr>{{ item.date }}</nobr></span>{%- endif -%}</td>
+      <td data-sort="{{ item.rating }}">{%- if item.rating -%}<span class="media-rating" data-sort="{{ item.rating }}">{%- for i in (1..item.rating) -%}⭐️{%- endfor -%}</span>{%- endif -%}</td>
+      {%- endif -%}
+      <td>{%- include media-title.html item=item -%}</td>
+      {%- if kind == "books" -%}
+      <td>{%- include media-people.html people=item.authors -%}</td>
+      <td>{%- if item.language -%}<code>{{ item.language }}</code>{%- endif -%}</td>
+      {%- elsif kind == "games" -%}
+      <td>{%- include media-people.html people=item.developers -%}</td>
+      <td>{%- include media-people.html people=item.publishers -%}</td>
+      <td>{%- if item.console -%}{%- if item.console.url -%}[{{ item.console.name }}]({{ item.console.url }}){%- else -%}{{ item.console.name }}{%- endif -%}{%- endif -%}</td>
+      {%- elsif kind == "movies" -%}
+      <td>{%- include media-people.html people=item.creators -%}</td>
+      <td>{%- if item.language -%}<code>{{ item.language }}</code>{%- endif -%}</td>
+      {%- elsif kind == "music" -%}
+      <td>{%- include media-people.html people=item.artists -%}</td>
+      {%- endif -%}
+      <td>{{ item.year }}</td>
+      <td>{%- include media-genres.html genres=item.genres -%}</td>
+    </tr>
+    {%- endfor -%}
+  </tbody>
+</table>

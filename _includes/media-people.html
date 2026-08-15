@@ -1,0 +1,5 @@
+{%- assign people = include.people -%}
+{%- for person in people -%}
+{%- if person.url -%}[{{ person.name }}]({{ person.url }}){%- else -%}{{ person.name }}{%- endif -%}
+{%- unless forloop.last %}, {% endunless -%}
+{%- endfor -%}

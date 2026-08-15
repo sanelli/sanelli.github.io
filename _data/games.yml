@@ -1,0 +1,1096 @@
+current:
+  - title: Mina the Hollower
+    url: "https://en.wikipedia.org/wiki/Mina_the_Hollower"
+    developers:
+      - name: Yacht Club Games
+        url: "https://en.wikipedia.org/wiki/Yacht_Club_Games"
+    publishers:
+      - name: Yacht Club Games
+        url: "https://en.wikipedia.org/wiki/Yacht_Club_Games"
+    console:
+      name: Nintendo Switch 2
+      url: "https://en.wikipedia.org/wiki/Nintendo_Switch_2"
+    year: 2026
+    genres:
+      - action-adventure
+
+years:
+  - label: 2026
+    entries:
+      - title: Donkey Kong Bananza
+        url: "https://en.wikipedia.org/wiki/Donkey_Kong_Bananza"
+        date: 2026-05-09
+        rating: 5
+        developers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        publishers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        console:
+          name: Nintendo Switch 2
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch_2"
+        year: 2025
+        genres:
+          - platformer
+      - title: Horizon Zero Dawn
+        url: "https://en.wikipedia.org/wiki/Horizon_Zero_Dawn"
+        date: 2026-04-21
+        rating: 4
+        developers:
+          - name: Guerrilla Games
+            url: "https://en.wikipedia.org/wiki/Guerrilla_Games"
+        publishers:
+          - name: Sony Interactive Entertainment
+            url: "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment"
+        console:
+          name: PlayStation 5
+          url: "https://en.wikipedia.org/wiki/PlayStation_5"
+        year: 2017
+        genres:
+          - action role-playing
+      - title: Salt and Sanctuary
+        url: "https://en.wikipedia.org/wiki/Salt_and_Sanctuary"
+        date: 2026-01-08
+        rating: 5
+        developers:
+          - name: Ska Studios
+            url: "https://en.wikipedia.org/wiki/Ska_Studios"
+        publishers:
+          - name: Ska Studios
+            url: "https://en.wikipedia.org/wiki/Ska_Studios"
+        console:
+          name: Nintendo Switch 2
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch_2"
+        year: 2016
+        genres:
+          - action role-playing
+          - soulslike
+  - label: 2025
+    entries:
+      - title: "Clair Obscur: Expedition 33"
+        url: "https://en.wikipedia.org/wiki/Clair_Obscur:_Expedition_33"
+        date: 2025-12-12
+        rating: 5
+        developers:
+          - name: Sandfall Interactive
+            url: "https://en.wikipedia.org/wiki/Sandfall_Interactive"
+        publishers:
+          - name: Kepler Interactive
+            url: "https://en.wikipedia.org/wiki/Kepler_Interactive"
+        console:
+          name: PlayStation 5
+          url: "https://en.wikipedia.org/wiki/PlayStation_5"
+        year: 2025
+        genres:
+          - role-playing
+      - title: "Hyrule Warriors: Age of Imprisonment"
+        url: "https://en.wikipedia.org/wiki/Hyrule_Warriors:_Age_of_Imprisonment"
+        date: 2025-11-23
+        rating: 4
+        developers:
+          - name: AAA Games Studio
+            url: "https://en.wikipedia.org/wiki/AAA_Games_Studio"
+        publishers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        console:
+          name: Nintendo Switch 2
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch_2"
+        year: 2025
+        genres:
+          - hack and slash
+      - title: "Pokémon Legends: Z-A"
+        url: "https://en.wikipedia.org/wiki/Pokémon_Legends:_Z-A"
+        subtitles:
+          - POST-GAME
+        date: 2025-11-01
+        rating: 3
+        developers:
+          - name: Game Freak
+            url: "https://en.wikipedia.org/wiki/Game_Freak"
+        publishers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        console:
+          name: Nintendo Switch 2
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch_2"
+        year: 2025
+        genres:
+          - action role-playing
+      - title: "Pokémon Legends: Z-A"
+        url: "https://en.wikipedia.org/wiki/Pokémon_Legends:_Z-A"
+        date: 2025-10-27
+        rating: 3
+        developers:
+          - name: Game Freak
+            url: "https://en.wikipedia.org/wiki/Game_Freak"
+        publishers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        console:
+          name: Nintendo Switch 2
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch_2"
+        year: 2025
+        genres:
+          - action role-playing
+      - title: "Hollow Knight: Silksong"
+        url: "https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong"
+        subtitles:
+          - Sister of the Void
+          - Passing of the Age
+        date: 2025-10-15
+        rating: 5
+        developers:
+          - name: Team Cherry
+            url: "https://en.wikipedia.org/wiki/Team_Cherry"
+        publishers:
+          - name: Team Cherry
+            url: "https://en.wikipedia.org/wiki/Team_Cherry"
+        console:
+          name: Nintendo Switch 2
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch_2"
+        year: 2025
+        genres:
+          - metroidvania
+          - soulslike
+      - title: "Hollow Knight: Silksong"
+        url: "https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong"
+        subtitles:
+          - Snared Silk
+        date: 2025-09-25
+        rating: 5
+        developers:
+          - name: Team Cherry
+            url: "https://en.wikipedia.org/wiki/Team_Cherry"
+        publishers:
+          - name: Team Cherry
+            url: "https://en.wikipedia.org/wiki/Team_Cherry"
+        console:
+          name: Nintendo Switch 2
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch_2"
+        year: 2025
+        genres:
+          - metroidvania
+          - soulslike
+      - title: "Hollow Knight: Silksong"
+        url: "https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong"
+        subtitles:
+          - Weaver Queen
+        date: 2025-09-20
+        rating: 5
+        developers:
+          - name: Team Cherry
+            url: "https://en.wikipedia.org/wiki/Team_Cherry"
+        publishers:
+          - name: Team Cherry
+            url: "https://en.wikipedia.org/wiki/Team_Cherry"
+        console:
+          name: Nintendo Switch 2
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch_2"
+        year: 2025
+        genres:
+          - metroidvania
+          - soulslike
+      - title: Celeste
+        url: "https://en.wikipedia.org/wiki/Celeste_(video_game)"
+        date: 2025-01-31
+        rating: 5
+        developers:
+          - name: Maddy Makes Games
+            url: "https://en.wikipedia.org/wiki/Maddy_Thorson#Maddy_Makes_Games"
+        publishers:
+          - name: Maddy Makes Games
+            url: "https://en.wikipedia.org/wiki/Maddy_Thorson#Maddy_Makes_Games"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2018
+        genres:
+          - platformer
+  - label: 2024
+    entries:
+      - title: "The Legend of Zelda: Echoes of Wisdom"
+        url: "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Echoes_of_Wisdom"
+        date: 2024-11-14
+        rating: 4
+        developers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+          - name: Grezzo
+            url: "https://en.wikipedia.org/wiki/Grezzo"
+        publishers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2024
+        genres:
+          - action-adventure
+      - title: "Elden Ring: Shadow of the Erdtree"
+        url: "https://en.wikipedia.org/wiki/Elden_Ring#Shadow_of_the_Erdtree"
+        date: 2024-09-19
+        rating: 5
+        developers:
+          - name: FromSoftware
+            url: "https://en.wikipedia.org/wiki/FromSoftware"
+        publishers:
+          - name: Bandai Namco
+            url: "https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment"
+        console:
+          name: PlayStation 5
+          url: "https://en.wikipedia.org/wiki/PlayStation_5"
+        year: 2024
+        genres:
+          - action role-playing
+          - soulslike
+      - title: Elden Ring
+        url: "https://en.wikipedia.org/wiki/Elden_Ring"
+        subtitles:
+          - Age of the Stars
+        date: 2024-08-01
+        rating: 5
+        developers:
+          - name: FromSoftware
+            url: "https://en.wikipedia.org/wiki/FromSoftware"
+        publishers:
+          - name: Bandai Namco
+            url: "https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment"
+        console:
+          name: PlayStation 5
+          url: "https://en.wikipedia.org/wiki/PlayStation_5"
+        year: 2022
+        genres:
+          - action role-playing
+          - soulslike
+      - title: Elden Ring
+        url: "https://en.wikipedia.org/wiki/Elden_Ring"
+        subtitles:
+          - Lord of the Frenzied Flame
+        date: 2024-07-05
+        rating: 5
+        developers:
+          - name: FromSoftware
+            url: "https://en.wikipedia.org/wiki/FromSoftware"
+        publishers:
+          - name: Bandai Namco
+            url: "https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment"
+        console:
+          name: PlayStation 5
+          url: "https://en.wikipedia.org/wiki/PlayStation_5"
+        year: 2022
+        genres:
+          - action role-playing
+          - soulslike
+  - label: 2023
+    entries:
+      - title: "The Legend of Zelda: Tears of the Kingdom"
+        url: "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom"
+        rating: 4
+        developers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        publishers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2023
+        genres:
+          - action-adventure
+  - label: 2022
+    entries:
+      - title: Pokémon Violet
+        url: "https://en.wikipedia.org/wiki/Pokémon_Scarlet_and_Violet"
+        date: 2022-12-10
+        rating: 2
+        developers:
+          - name: Game Freak
+            url: "https://en.wikipedia.org/wiki/Game_Freak"
+        publishers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2022
+        genres:
+          - role-playing
+      - title: Mario + Rabbids Sparks of Hope
+        url: "https://en.wikipedia.org/wiki/Mario_%2B_Rabbids_Sparks_of_Hope"
+        date: 2022-11-10
+        rating: 4
+        developers:
+          - name: Ubisoft Milan
+            url: "https://en.wikipedia.org/wiki/Ubisoft_Milan"
+          - name: Ubisoft Paris
+            url: "https://en.wikipedia.org/wiki/Ubisoft_Paris"
+        publishers:
+          - name: Ubisoft
+            url: "https://en.wikipedia.org/wiki/Ubisoft"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2022
+        genres:
+          - action-adventure
+          - tactical role-playing
+      - title: Xenoblade Chronicles 3
+        url: "https://en.wikipedia.org/wiki/Xenoblade_Chronicles_3"
+        date: 2022-09-08
+        rating: 4
+        developers:
+          - name: Monolith Soft
+            url: "https://en.wikipedia.org/wiki/Monolith_Soft"
+        publishers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2022
+        genres:
+          - action role-playing
+      - title: "Pokémon Legends: Arceus"
+        url: "https://en.wikipedia.org/wiki/Pokémon_Legends:_Arceus"
+        date: 2022-03-18
+        rating: 4
+        developers:
+          - name: Game Freak
+            url: "https://en.wikipedia.org/wiki/Game_Freak"
+        publishers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2022
+        genres:
+          - action role-playing
+  - label: 2021
+    entries:
+      - title: Pokémon Brilliant Diamond
+        url: "https://en.wikipedia.org/wiki/Pokémon_Brilliant_Diamond_and_Shining_Pearl"
+        date: 2021-12-10
+        rating: 1
+        developers:
+          - name: ILCA
+            url: "https://en.wikipedia.org/wiki/ILCA_(company)"
+        publishers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2021
+        genres:
+          - role-playing
+      - title: Metroid Dread
+        url: "https://en.wikipedia.org/wiki/Metroid_Dread"
+        date: 2021-11-09
+        rating: 4
+        developers:
+          - name: MercurySteam
+            url: "https://en.wikipedia.org/wiki/MercurySteam"
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        publishers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2021
+        genres:
+          - metroidvania
+      - title: Little Nightmares
+        url: "https://en.wikipedia.org/wiki/Little_Nightmares"
+        date: 2021-10-16
+        rating: 3
+        developers:
+          - name: Tarsier Studios
+            url: "https://en.wikipedia.org/wiki/Tarsier_Studios"
+        publishers:
+          - name: Bandai Namco
+            url: "https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2017
+        genres:
+          - adventure
+          - horror
+          - puzzle-platform
+      - title: Xenoblade Chronicles Definitive Edition
+        url: "https://en.wikipedia.org/wiki/Xenoblade_Chronicles_(video_game)#Xenoblade_Chronicles:_Definitive_Edition"
+        date: 2021-10-07
+        rating: 5
+        developers:
+          - name: Monolith Soft
+            url: "https://en.wikipedia.org/wiki/Monolith_Soft"
+        publishers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2020
+        genres:
+          - action role-playing
+      - title: The First Tree
+        url: "https://en.wikipedia.org/wiki/The_First_Tree"
+        date: 2021-07-11
+        rating: 1
+        developers:
+          - name: David Wehle
+        publishers:
+          - name: David Wehle
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2017
+        genres:
+          - adventure
+      - title: Ori and the Will of the Wisps
+        url: "https://en.wikipedia.org/wiki/Ori_and_the_Will_of_the_Wisps"
+        date: 2021-07-11
+        rating: 3
+        developers:
+          - name: Moon Studios
+            url: "https://en.wikipedia.org/wiki/Moon_Studios"
+        publishers:
+          - name: Microsoft Studios
+            url: "https://en.wikipedia.org/wiki/Microsoft_Studios"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2020
+        genres:
+          - metroidvania
+          - platform-adventure
+      - title: Hollow Knight
+        url: "https://en.wikipedia.org/wiki/Hollow_Knight"
+        date: 2021-04-15
+        rating: 5
+        developers:
+          - name: Team Cherry
+            url: "https://en.wikipedia.org/wiki/Team_Cherry"
+        publishers:
+          - name: Team Cherry
+            url: "https://en.wikipedia.org/wiki/Team_Cherry"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2017
+        genres:
+          - metroidvania
+      - title: "Super Mario 3D World + Bowser's Fury"
+        url: "https://en.wikipedia.org/wiki/Super_Mario_3D_World#Super_Mario_3D_World_+_Bowser's_Fury"
+        date: 2021-03-02
+        rating: 3
+        developers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        publishers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2021
+        genres:
+          - platformer
+      - title: Super Mario 3D World
+        url: "https://en.wikipedia.org/wiki/Super_Mario_3D_World"
+        date: 2021-02-27
+        rating: 3
+        developers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        publishers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2013
+        genres:
+          - platformer
+      - title: Alex Kidd in Miracle World DX
+        url: "https://en.wikipedia.org/wiki/Alex_Kidd_in_Miracle_World#Remake"
+        date: 2021-01-10
+        rating: 3
+        developers:
+          - name: Sega
+            url: "https://en.wikipedia.org/wiki/Sega"
+        publishers:
+          - name: Sega
+            url: "https://en.wikipedia.org/wiki/Sega"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2021
+        genres:
+          - platformer
+      - title: Cuphead
+        url: "https://en.wikipedia.org/wiki/Cuphead"
+        date: 2021-01-09
+        rating: 3
+        developers:
+          - name: Studio MDHR
+            url: "https://en.wikipedia.org/wiki/Studio_MDHR"
+        publishers:
+          - name: Studio MDHR
+            url: "https://en.wikipedia.org/wiki/Studio_MDHR"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2017
+        genres:
+          - run and gun
+  - label: 2020
+    entries:
+      - title: "Hyrule Warriors: Age of Calamity"
+        url: "https://en.wikipedia.org/wiki/Hyrule_Warriors:_Age_of_Calamity"
+        date: 2020-12-03
+        rating: 4
+        developers:
+          - name: Omega Force
+            url: "https://en.wikipedia.org/wiki/Omega_Force"
+        publishers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2020
+        genres:
+          - hack and slash
+      - title: Ori and the Blind Forest
+        url: "https://en.wikipedia.org/wiki/Ori_and_the_Blind_Forest"
+        date: 2020-09-30
+        rating: 4
+        developers:
+          - name: Moon Studios
+            url: "https://en.wikipedia.org/wiki/Moon_Studios"
+        publishers:
+          - name: Microsoft Studios
+            url: "https://en.wikipedia.org/wiki/Microsoft_Studios"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2015
+        genres:
+          - metroidvania
+          - platform-adventure
+  - label: 2019
+    entries:
+      - title: Pokémon Shield
+        url: "https://en.wikipedia.org/wiki/Pokémon_Sword_and_Shield"
+        rating: 3
+        developers:
+          - name: Game Freak
+            url: "https://en.wikipedia.org/wiki/Game_Freak"
+        publishers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2019
+        genres:
+          - role-playing
+      - title: "Luigi's Mansion 3"
+        url: "https://en.wikipedia.org/wiki/Luigi%27s_Mansion_3"
+        rating: 4
+        developers:
+          - name: Next Level Games
+            url: "https://en.wikipedia.org/wiki/Next_Level_Games"
+        publishers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2019
+        genres:
+          - action-adventure
+      - title: Xenoblade Chronicles 2
+        url: "https://en.wikipedia.org/wiki/Xenoblade_Chronicles_2"
+        rating: 4
+        developers:
+          - name: Monolith Soft
+            url: "https://en.wikipedia.org/wiki/Monolith_Soft"
+        publishers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2017
+        genres:
+          - action role-playing
+      - title: "The Legend of Zelda: Link's Awakening (2019)"
+        url: "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Link%27s_Awakening_(2019_video_game)"
+        rating: 4
+        developers:
+          - name: Grezzo
+            url: "https://en.wikipedia.org/wiki/Grezzo"
+        publishers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2019
+        genres:
+          - action-adventure
+  - label: 2018
+    entries:
+      - title: "Pokémon: Let's Go Pikachu"
+        url: "https://en.wikipedia.org/wiki/Pokémon:_Let%27s_Go,_Pikachu!_and_Let%27s_Go,_Eevee!"
+        rating: 2
+        developers:
+          - name: Game Freak
+            url: "https://en.wikipedia.org/wiki/Game_Freak"
+        publishers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2018
+        genres:
+          - role-playing
+      - title: Super Mario Odyssey
+        url: "https://en.wikipedia.org/wiki/Super_Mario_Odyssey"
+        rating: 5
+        developers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        publishers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2017
+        genres:
+          - platformer
+      - title: "The Legend of Zelda: Breath of the Wild"
+        url: "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild"
+        rating: 5
+        developers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        publishers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2017
+        genres:
+          - action-adventure
+      - title: "Wonder Boy: The Dragon's Trap"
+        url: "https://en.wikipedia.org/wiki/Wonder_Boy:_The_Dragon%27s_Trap"
+        rating: 5
+        developers:
+          - name: Lizardcube
+            url: "https://en.wikipedia.org/wiki/Lizardcube"
+        publishers:
+          - name: Headup Games
+            url: "https://en.wikipedia.org/wiki/Headup_Games"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2017
+        genres:
+          - platformer
+  - label: Past
+    entries:
+      - title: New Super Mario Bros. U Deluxe
+        url: "https://en.wikipedia.org/wiki/New_Super_Mario_Bros._U"
+        rating: 4
+        developers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        publishers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2019
+        genres:
+          - platformer
+      - title: Mario + Rabbids Kingdom Battle
+        url: "https://en.wikipedia.org/wiki/Mario_%2B_Rabbids_Kingdom_Battle"
+        rating: 4
+        developers:
+          - name: Ubisoft Milan
+            url: "https://en.wikipedia.org/wiki/Ubisoft_Milan"
+          - name: Ubisoft Paris
+            url: "https://en.wikipedia.org/wiki/Ubisoft_Paris"
+        publishers:
+          - name: Ubisoft
+            url: "https://en.wikipedia.org/wiki/Ubisoft"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2017
+        genres:
+          - action-adventure
+          - tactical role-playing
+      - title: Mario Kart 8 Deluxe
+        url: "https://en.wikipedia.org/wiki/Mario_Kart_8"
+        rating: 3
+        developers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        publishers:
+          - name: Nintendo
+            url: "https://en.wikipedia.org/wiki/Nintendo"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2017
+        genres:
+          - kart racing
+
+backlog:
+  - title: Cyberpunk 2077
+    url: "https://en.wikipedia.org/wiki/Cyberpunk_2077"
+    developers:
+      - name: CD Projekt Red
+        url: "https://en.wikipedia.org/wiki/CD_Projekt_Red"
+    publishers:
+      - name: CD Projekt
+        url: "https://en.wikipedia.org/wiki/CD_Projekt"
+    console:
+      name: Nintendo Switch 2
+      url: "https://en.wikipedia.org/wiki/Nintendo_Switch_2"
+    year: 2020
+    genres:
+      - action role-playing
+  - title: Dark Souls (Remastered)
+    url: "https://en.wikipedia.org/wiki/Dark_Souls_(video_game)"
+    developers:
+      - name: FromSoftware
+        url: "https://en.wikipedia.org/wiki/FromSoftware"
+    publishers:
+      - name: Bandai Namco
+        url: "https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment"
+    console:
+      name: PlayStation 5
+      url: "https://en.wikipedia.org/wiki/PlayStation_5"
+    year: 2018
+    genres:
+      - action role-playing
+      - soulslike
+  - title: "The Legend of Zelda: Skyward Sword"
+    url: "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Skyward_Sword"
+    developers:
+      - name: Nintendo
+        url: "https://en.wikipedia.org/wiki/Nintendo"
+    publishers:
+      - name: Nintendo
+        url: "https://en.wikipedia.org/wiki/Nintendo"
+    console:
+      name: Nintendo Switch 2
+      url: "https://en.wikipedia.org/wiki/Nintendo_Switch_2"
+    year: 2011
+    genres:
+      - action-adventure
+  - title: Return to Monkey Island
+    url: "https://en.wikipedia.org/wiki/Return_to_Monkey_Island"
+    developers:
+      - name: Terrible Toybox
+    publishers:
+      - name: Devolver Digital
+        url: "https://en.wikipedia.org/wiki/Devolver_Digital"
+    console:
+      name: Nintendo Switch 2
+      url: "https://en.wikipedia.org/wiki/Nintendo_Switch_2"
+    year: 2022
+    genres:
+      - adventure
+      - point-and-click
+  - title: "Paper Mario: The Origami King"
+    url: "https://en.wikipedia.org/wiki/Paper_Mario:_The_Origami_King"
+    developers:
+      - name: Intelligent Systems
+        url: "https://en.wikipedia.org/wiki/Intelligent_Systems"
+    publishers:
+      - name: Nintendo
+        url: "https://en.wikipedia.org/wiki/Nintendo"
+    console:
+      name: Nintendo Switch 2
+      url: "https://en.wikipedia.org/wiki/Nintendo_Switch_2"
+    year: 2020
+    genres:
+      - role-playing
+  - title: Blasphemous 2
+    url: "https://en.wikipedia.org/wiki/Blasphemous_2"
+    developers:
+      - name: The Game Kitchen
+    publishers:
+      - name: Team17
+        url: "https://en.wikipedia.org/wiki/Team17"
+    year: 2023
+    genres:
+      - action role-playing
+  - title: "Digimon Story: Time Stranger"
+    url: "https://en.wikipedia.org/wiki/Digimon_Story:_Time_Stranger"
+    developers:
+      - name: Media.Vision
+        url: "https://en.wikipedia.org/wiki/Media.Vision"
+    publishers:
+      - name: Bandai Namco
+        url: "https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment"
+    year: 2025
+    genres:
+      - action role-playing
+  - title: Hades
+    url: "https://en.wikipedia.org/wiki/Hades_(video_game)"
+    developers:
+      - name: Supergiant Games
+        url: "https://en.wikipedia.org/wiki/Supergiant_Games"
+    publishers:
+      - name: Supergiant Games
+        url: "https://en.wikipedia.org/wiki/Supergiant_Games"
+    year: 2020
+    genres:
+      - action role-playing
+      - roguelike
+  - title: Hades II
+    url: "https://en.wikipedia.org/wiki/Hades_II"
+    developers:
+      - name: Supergiant Games
+        url: "https://en.wikipedia.org/wiki/Supergiant_Games"
+    publishers:
+      - name: Supergiant Games
+        url: "https://en.wikipedia.org/wiki/Supergiant_Games"
+    year: 2025
+    genres:
+      - action role-playing
+      - roguelike
+  - title: "Xenoblade Chronicles X: Definitive Edition"
+    url: "https://en.wikipedia.org/wiki/Xenoblade_Chronicles_X#Definitive_Edition"
+    developers:
+      - name: Monolith Soft
+        url: "https://en.wikipedia.org/wiki/Monolith_Soft"
+    publishers:
+      - name: Nintendo
+        url: "https://en.wikipedia.org/wiki/Nintendo"
+    console:
+      name: Nintendo Switch 2
+      url: "https://en.wikipedia.org/wiki/Nintendo_Switch_2"
+    year: 2025
+    genres:
+      - action role-playing
+  - title: Xenoblade Genesis
+    url: "https://en.wikipedia.org/wiki/Xenoblade"
+    developers:
+      - name: Monolith Soft
+        url: "https://en.wikipedia.org/wiki/Monolith_Soft"
+    publishers:
+      - name: Nintendo
+        url: "https://en.wikipedia.org/wiki/Nintendo"
+    console:
+      name: Nintendo Switch 2
+      url: "https://en.wikipedia.org/wiki/Nintendo_Switch_2"
+    year: 2027
+    genres:
+      - action role-playing
+  - title: Grim Fandango
+    url: "https://en.wikipedia.org/wiki/Grim_Fandango"
+    developers:
+      - name: LucasArts
+        url: "https://en.wikipedia.org/wiki/LucasArts"
+    publishers:
+      - name: LucasArts
+        url: "https://en.wikipedia.org/wiki/LucasArts"
+    console:
+      name: Nintendo Switch 2
+      url: "https://en.wikipedia.org/wiki/Nintendo_Switch_2"
+    year: 1998
+    genres:
+      - adventure
+  - title: God of War
+    url: "https://en.wikipedia.org/wiki/God_of_War_(2005_video_game)"
+    developers:
+      - name: Santa Monica Studio
+        url: "https://en.wikipedia.org/wiki/Santa_Monica_Studio"
+    publishers:
+      - name: Sony Interactive Entertainment
+        url: "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment"
+    console:
+      name: PlayStation 5
+      url: "https://en.wikipedia.org/wiki/PlayStation_5"
+    year: 2005
+    genres:
+      - action-adventure
+      - hack and slash
+  - title: God of War Ragnarök
+    url: "https://en.wikipedia.org/wiki/God_of_War_Ragnarök"
+    developers:
+      - name: Santa Monica Studio
+        url: "https://en.wikipedia.org/wiki/Santa_Monica_Studio"
+    publishers:
+      - name: Sony Interactive Entertainment
+        url: "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment"
+    console:
+      name: PlayStation 5
+      url: "https://en.wikipedia.org/wiki/PlayStation_5"
+    year: 2022
+    genres:
+      - action-adventure
+      - hack and slash
+  - title: Resident Evil Village
+    url: "https://en.wikipedia.org/wiki/Resident_Evil_Village"
+    developers:
+      - name: Capcom
+        url: "https://en.wikipedia.org/wiki/Capcom"
+    publishers:
+      - name: Capcom
+        url: "https://en.wikipedia.org/wiki/Capcom"
+    year: 2021
+    genres:
+      - survival horror
+  - title: Little Nightmares II
+    url: "https://en.wikipedia.org/wiki/Little_Nightmares_II"
+    developers:
+      - name: Tarsier Studios
+        url: "https://en.wikipedia.org/wiki/Tarsier_Studios"
+    publishers:
+      - name: Bandai Namco
+        url: "https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment"
+    year: 2021
+    genres:
+      - puzzle-platform
+      - survival horror
+  - title: Little Nightmares III
+    url: "https://en.wikipedia.org/wiki/Little_Nightmares_III"
+    developers:
+      - name: Supermassive Games
+        url: "https://en.wikipedia.org/wiki/Supermassive_Games"
+    publishers:
+      - name: Bandai Namco
+        url: "https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment"
+    year: 2025
+    genres:
+      - puzzle-platform
+      - survival horror
+  - title: Dark Souls II
+    url: "https://en.wikipedia.org/wiki/Dark_Souls_II"
+    developers:
+      - name: FromSoftware
+        url: "https://en.wikipedia.org/wiki/FromSoftware"
+    publishers:
+      - name: Bandai Namco
+        url: "https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment"
+    console:
+      name: PlayStation 5
+      url: "https://en.wikipedia.org/wiki/PlayStation_5"
+    year: 2014
+    genres:
+      - action role-playing
+      - soulslike
+  - title: Dark Souls III
+    url: "https://en.wikipedia.org/wiki/Dark_Souls_III"
+    developers:
+      - name: FromSoftware
+        url: "https://en.wikipedia.org/wiki/FromSoftware"
+    publishers:
+      - name: Bandai Namco
+        url: "https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment"
+    console:
+      name: PlayStation 5
+      url: "https://en.wikipedia.org/wiki/PlayStation_5"
+    year: 2016
+    genres:
+      - action role-playing
+      - soulslike
+  - title: Lost in Random
+    url: "https://en.wikipedia.org/wiki/Lost_in_Random"
+    developers:
+      - name: Zoink
+        url: "https://en.wikipedia.org/wiki/Zoink"
+    publishers:
+      - name: Electronic Arts
+        url: "https://en.wikipedia.org/wiki/Electronic_Arts"
+    year: 2021
+    genres:
+      - action-adventure
+  - title: Genshin Impact
+    url: "https://en.wikipedia.org/wiki/Genshin_Impact"
+    developers:
+      - name: miHoYo
+        url: "https://en.wikipedia.org/wiki/miHoYo"
+    publishers:
+      - name: HoYoverse
+        url: "https://en.wikipedia.org/wiki/miHoYo"
+    console:
+      name: PlayStation 5
+      url: "https://en.wikipedia.org/wiki/PlayStation_5"
+    year: 2020
+    genres:
+      - action role-playing
+  - title: Sonic Frontiers
+    url: "https://en.wikipedia.org/wiki/Sonic_Frontiers"
+    developers:
+      - name: Sonic Team
+        url: "https://en.wikipedia.org/wiki/Sonic_Team"
+    publishers:
+      - name: Sega
+        url: "https://en.wikipedia.org/wiki/Sega"
+    year: 2022
+    genres:
+      - action-adventure
+      - platformer
+  - title: Death Stranding
+    url: "https://en.wikipedia.org/wiki/Death_Stranding"
+    developers:
+      - name: Kojima Productions
+        url: "https://en.wikipedia.org/wiki/Kojima_Productions"
+    publishers:
+      - name: Sony Interactive Entertainment
+        url: "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment"
+    console:
+      name: PlayStation 5
+      url: "https://en.wikipedia.org/wiki/PlayStation_5"
+    year: 2019
+    genres:
+      - action-adventure
+  - title: "Death Stranding 2: On the Beach"
+    url: "https://en.wikipedia.org/wiki/Death_Stranding_2:_On_the_Beach"
+    developers:
+      - name: Kojima Productions
+        url: "https://en.wikipedia.org/wiki/Kojima_Productions"
+    publishers:
+      - name: Sony Interactive Entertainment
+        url: "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment"
+    console:
+      name: PlayStation 5
+      url: "https://en.wikipedia.org/wiki/PlayStation_5"
+    year: 2025
+    genres:
+      - action-adventure
+  - title: Salt and Sacrifice
+    url: "https://en.wikipedia.org/wiki/Salt_and_Sacrifice"
+    developers:
+      - name: Ska Studios
+        url: "https://en.wikipedia.org/wiki/Ska_Studios"
+    publishers:
+      - name: Ska Studios
+        url: "https://en.wikipedia.org/wiki/Ska_Studios"
+    console:
+      name: Nintendo Switch 2
+      url: "https://en.wikipedia.org/wiki/Nintendo_Switch_2"
+    year: 2022
+    genres:
+      - action role-playing
+      - soulslike

@@ -1,0 +1,24 @@
+{%- assign kind = include.kind -%}
+{%- assign data = site.data[kind] -%}
+{%- include media-toolbar.html -%}
+
+{%- if data.current and data.current.size > 0 -%}
+<div class="media-section">
+  <h2>{{ include.current_heading }}</h2>
+  {% include media-table.html kind=kind entries=data.current mode="plain" %}
+</div>
+{%- endif -%}
+
+{%- for group in data.years -%}
+<div class="media-section">
+  <h2>{{ group.label }}</h2>
+  {% include media-table.html kind=kind entries=group.entries mode="logged" %}
+</div>
+{%- endfor -%}
+
+{%- if data.backlog and data.backlog.size > 0 -%}
+<div class="media-section">
+  <h2>Backlog</h2>
+  {% include media-table.html kind=kind entries=data.backlog mode="plain" %}
+</div>
+{%- endif -%}
