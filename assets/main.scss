@@ -342,6 +342,83 @@ table {
     vertical-align: -0.15em;
     margin-right: 0.25em;
   }
+
+  .project-card {
+    margin: 1.15em 0 0;
+    padding: 0.95em 1.15em 0.9em;
+    background: #202020;
+    border: 1px solid #333;
+    border-radius: 10px;
+  }
+
+  .project-card--flagship {
+    border-left: 3px solid $brand-color;
+  }
+
+  .project-card h3 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.35em 0.75em;
+    margin: 0 0 0.45em;
+    padding: 0;
+    background: none;
+    border: 0;
+    border-radius: 0;
+    font-family: $base-font-family;
+    font-size: 1.2em;
+    font-weight: 600;
+    line-height: 1.35;
+  }
+
+  .project-why {
+    margin: 0 0 0.4em;
+    color: #eee;
+    font-weight: 600;
+    line-height: 1.4;
+  }
+
+  .project-blurb {
+    margin: 0 0 0.45em;
+
+    p {
+      margin: 0;
+      line-height: 1.45;
+    }
+  }
+
+  .project-shot {
+    display: block;
+    max-width: min(100%, 28em);
+    width: auto;
+    max-height: 16em;
+    object-fit: contain;
+    margin: 0.45em 0 0.6em;
+    border-radius: 6px;
+    border: 1px solid #333;
+    background: #111;
+  }
+
+  .project-notes {
+    margin: 0.45em 0 0;
+    line-height: 1.6;
+  }
+
+  .project-notes a {
+    display: inline-block;
+    margin: 0.15em 0.35em 0.15em 0;
+    padding: 0.12em 0.5em;
+    border: 1px solid #444;
+    border-radius: 999px;
+    font-size: 0.8em;
+  }
+}
+
+.post-project {
+  margin: 0.35em 0 0;
+  font-size: 0.85em;
+  color: $grey-color;
 }
 
 // Compact date / star columns on books, games, movies, and music tables.

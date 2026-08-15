@@ -1,0 +1,32 @@
+{%- assign project = include.project -%}
+{%- assign related = site.posts | where_exp: "post", "post.categories contains project.category" -%}
+<article class="project-card{% if project.section == 'flagship' %} project-card--flagship{% endif %}" id="{{ project.slug }}">
+  <h3>
+    <span class="entry-title">{{ project.emoji }} {{ project.name }}</span>
+    <span class="entry-meta">
+      {%- for link in project.links -%}
+      <a href="{{ link.url }}">{{ link.text }}</a>
+      {%- endfor -%}
+    </span>
+  </h3>
+  {%- if project.why -%}
+  <p class="project-why">{{ project.why }}</p>
+  {%- endif -%}
+  {%- if project.description -%}
+  <div class="project-blurb">{{ project.description | markdownify }}</div>
+  {%- endif -%}
+  {%- if project.screenshot -%}
+  <img class="project-shot" src="{{ project.screenshot }}" alt="{{ project.screenshot_alt | default: project.name | escape }}">
+  {%- endif -%}
+  {%- if project.tags -%}
+  <p class="entry-detail"><strong>Tags</strong>: {% for tag in project.tags %}<code>{{ tag }}</code>{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
+  {%- endif -%}
+  {%- if related.size > 0 -%}
+  <p class="project-notes">
+    <strong>Notes</strong>
+    {%- for post in related -%}
+    <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+    {%- endfor -%}
+  </p>
+  {%- endif -%}
+</article>

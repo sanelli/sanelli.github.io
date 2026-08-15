@@ -2,7 +2,7 @@
 layout: post
 title:  "👷‍♀️ Pretty Code string builder"
 date:   2023-09-30 16:21:03 +0100
-categories: projects csharp nuget
+categories: projects csharp nuget prettycode
 ---
 
 [PrettyCode.StringBuilder](https://github.com/sanelli/PrettyCode.StringBuilder) is a string builder wrapper that helps generate pretty code 💄.

@@ -2,7 +2,7 @@
 layout: post
 title:  "❌⭕️ Tic-tac-toe"
 date:   2024-04-28 00:47:00 +0100
-categories: projects ada sdl sdl2 game
+categories: projects ada sdl sdl2 game tic-tac-toe
 ---
 
 Released [Tic-tac-toe](https://github.com/sanelli/tic-tac-toe).

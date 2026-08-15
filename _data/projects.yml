@@ -1,0 +1,159 @@
+- slug: mappa
+  section: flagship
+  category: mappa
+  emoji: "🗺️"
+  name: Mappa
+  why: Compile-time mapping that stays Native AOT friendly, readable, and reusable.
+  description: >
+    A C# source generator that emits plain mapping code between types — similar
+    in spirit to [AutoMapper](https://www.nuget.org/packages/AutoMapper), but the
+    work happens at compile time. Attributes configure the mapper without changing
+    source or target types; missing nested maps are generated for you. Methods can
+    live on any partial class, including static types and extension methods.
+    Companion packages cover Google.Protobuf well-known types and MongoDB BSON.
+    Recent releases add `IQueryable` projection, polymorphic mapping, reference
+    and cycle handling, and dependency-injection registration.
+  links:
+    - text: GitHub
+      url: https://github.com/sanelli/Mappa
+    - text: NuGet
+      url: https://www.nuget.org/packages/Mappa
+  tags: [C#, source-generator, csharp, dotnet]
+
+- slug: todo-analyzer
+  section: flagship
+  category: todo
+  emoji: "💭"
+  name: Comment TODO Analyzer
+  why: TODOs without a ticket number rot; this makes the format a compiler rule.
+  description: >
+    A Roslyn analyzer that requires every `TODO` comment to follow the same
+    shape. Built-in formats are GitHub (`TODO [#33] This needs to be handled.`),
+    Jira (`TODO [COMMON-1234] This needs to be handled!`), and plain
+    (`TODO: Should we handle this?`), or a custom regex from `.editorconfig`.
+    Optional rules fail the build on any leftover TODO (`TA0002`) or on a list
+    of task IDs you want closed (`TA0003`).
+  links:
+    - text: GitHub
+      url: https://github.com/sanelli/Todo.Analyzer
+    - text: NuGet
+      url: https://www.nuget.org/packages/Comment.Todo.Analyzer
+  tags: [C#, analyzer, csharp, dotnet]
+
+- slug: prettycode
+  section: libraries
+  category: prettycode
+  emoji: "👷"
+  name: PrettyCode.StringBuilder
+  why: Generated source is easier to debug when indent and directives nest and unwind themselves.
+  description: >
+    A `StringBuilder` wrapper for emitting formatted source. Disposable scopes
+    handle indentation, curly-brace blocks, `#pragma warning`, `#nullable`, and
+    `#region`, and restore the previous state when the scope ends.
+  links:
+    - text: GitHub
+      url: https://github.com/sanelli/PrettyCode.StringBuilder
+    - text: NuGet
+      url: https://www.nuget.org/packages/PrettyCode.StringBuilder
+  tags: [C#, csharp, dotnet]
+
+- slug: blocchi
+  section: games
+  category: blocchi
+  emoji: "🟦🟩"
+  name: Blocchi
+  why: Learn Rust and Bevy’s ECS by implementing Tetris.
+  description: >
+    A [Tetris](https://en.wikipedia.org/wiki/Tetris) clone written in
+    [Rust](https://www.rust-lang.org) with the [Bevy](https://bevy.org) game engine.
+  screenshot: https://github.com/user-attachments/assets/0e472fc9-02dd-46ec-a308-b80b1cfa7abf
+  screenshot_alt: Blocchi — a Tetris-style board in Bevy
+  links:
+    - text: GitHub
+      url: https://github.com/sanelli/blocchi
+  tags: [rust, Bevy, game, ecs]
+
+- slug: fifteen
+  section: games
+  category: fifteen
+  emoji: "1️⃣5️⃣"
+  name: Fifteen
+  why: A small C++ and SDL2 sliding-tile puzzle to practise native game setup.
+  description: >
+    A [15 Puzzle](https://en.wikipedia.org/wiki/15_Puzzle) built with C++ and
+    [SDL2](https://www.libsdl.org) (image and TTF). CMake on macOS with Homebrew
+    SDL packages.
+  screenshot: https://github.com/sanelli/fifteen/assets/2866041/d89d5499-20fc-44ed-aa40-639601275a6e
+  screenshot_alt: Fifteen — the 15-puzzle board
+  links:
+    - text: GitHub
+      url: https://github.com/sanelli/fifteen
+  tags: [c++, cpp, SDL, SDL2, game, puzzle]
+
+- slug: tic-tac-toe
+  section: games
+  category: tic-tac-toe
+  emoji: "❌⭕️"
+  name: Tic-tac-toe
+  why: The same kind of small game, this time to learn Ada and SDL2 bindings.
+  description: >
+    [Tic-tac-toe](https://en.wikipedia.org/wiki/Tic-tac-toe) in
+    [Ada](https://ada-lang.io) with [SDL2](https://www.libsdl.org), built with
+    [Alire](https://alire.ada.dev).
+  screenshot: https://github.com/sanelli/tic-tac-toe/assets/2866041/cd2b1153-d15b-4500-8834-063844aa0513
+  screenshot_alt: Tic-tac-toe — the 3×3 board
+  links:
+    - text: GitHub
+      url: https://github.com/sanelli/tic-tac-toe
+  tags: [ada, SDL, SDL2, game]
+
+- slug: connect-four
+  section: games
+  category: connect-four
+  emoji: "🔴🟡"
+  name: Connect Four
+  why: A Go and SDL2 take on the same “learn the stack by shipping a game” idea.
+  description: >
+    [Connect Four](https://en.wikipedia.org/wiki/Connect_Four) in
+    [Go](https://go.dev) using [veandco/go-sdl2](https://github.com/veandco/go-sdl2).
+  screenshot: https://github.com/user-attachments/assets/ec05ea02-b7de-4f1a-9bbd-bab74a7be8a4
+  screenshot_alt: Connect Four — the seven-column board
+  links:
+    - text: GitHub
+      url: https://github.com/sanelli/connect-four
+  tags: [go, SDL, SDL2, game]
+
+- slug: turing
+  section: interpreters
+  category: turing
+  emoji: "🍎"
+  name: Turing machine emulators
+  why: One Turing-machine interpreter, many languages, so the idioms are comparable.
+  description: >
+    The same [Turing machine](https://en.wikipedia.org/wiki/Turing_machine)
+    interpreter written in C#, Python, C++, Go, Pascal, Ada, C, D, and Rust.
+    Shared PowerShell scripts check toolchains, build, run a substitute-machine
+    sample, and test every language the same way.
+  screenshot: https://github.com/sanelli/turing/assets/2866041/045c58a0-ebc1-4e46-85f9-02d858bb99ac
+  screenshot_alt: Turing machine emulator — tape and state display
+  links:
+    - text: GitHub
+      url: https://github.com/sanelli/turing
+  tags: [c++, python, dotnet, go, csharp, pascal, ada, c, d, rust]
+
+- slug: brainfuck
+  section: interpreters
+  category: brainfuck
+  emoji: "🧠"
+  name: Brainfuck interpreters
+  why: The same cross-language exercise for a tiny language, including Erlang.
+  description: >
+    A [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreter in C#,
+    Python, C++, Go, Pascal, Ada, C, D, Rust, and Erlang. The same Check / Build
+    / Test scripts as the Turing suite, plus a hello-world runner.
+  screenshot: https://github.com/sanelli/brainfuck/assets/2866041/636f62c0-0b56-426a-b4ed-f8edb18dcb96
+  screenshot_alt: Brainfuck interpreter — running a small program
+  links:
+    - text: GitHub
+      url: https://github.com/sanelli/brainfuck
+  tags: [c++, python, dotnet, go, csharp, pascal, ada, c, d, rust, erlang]
