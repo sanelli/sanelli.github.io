@@ -751,25 +751,34 @@ table.sortable th[role="columnheader"]:not([data-sort-method="none"]) {
   user-select: none;
 }
 
-table.sortable th[role="columnheader"]:not([data-sort-method="none"]) nobr::after {
-  display: inline;
-  margin-left: 0.35em;
-  opacity: 0.35;
-  font-size: 0.75em;
-  content: "↕";
+.sort-icon {
+  display: inline-flex;
+  align-items: center;
+  margin-left: 0.3em;
+  vertical-align: -0.1em;
+
+  .icon {
+    display: none;
+    width: 0.85em;
+    height: 0.85em;
+    margin-right: 0;
+    opacity: 0.4;
+    color: inherit;
+  }
 }
 
-table.sortable th[aria-sort="ascending"] nobr::after,
-table.sortable th[aria-sort="descending"] nobr::after {
-  opacity: 0.8;
+table.sortable th:not([data-sort-method="none"]) .sort-icon .icon-sort {
+  display: inline-block;
 }
 
-table.sortable th[aria-sort="ascending"] nobr::after {
-  content: "▲";
+table.sortable th[aria-sort="ascending"] .sort-icon {
+  .icon-sort { display: none; }
+  .icon-sort-up { display: inline-block; opacity: 0.85; }
 }
 
-table.sortable th[aria-sort="descending"] nobr::after {
-  content: "▼";
+table.sortable th[aria-sort="descending"] .sort-icon {
+  .icon-sort { display: none; }
+  .icon-sort-down { display: inline-block; opacity: 0.85; }
 }
 
 @media screen and (max-width: 800px) {
@@ -783,31 +792,6 @@ table.sortable th[aria-sort="descending"] nobr::after {
 
   table.media-table a {
     white-space: nowrap;
-  }
-
-  %sticky-title {
-    position: sticky;
-    left: 0;
-    z-index: 1;
-    box-shadow: 6px 0 8px -6px rgba(0, 0, 0, 0.7);
-  }
-
-  .media-table--logged thead th:nth-child(3),
-  .media-table--plain thead th:nth-child(1) {
-    @extend %sticky-title;
-    z-index: 2;
-    background-color: #2a2a2a;
-  }
-
-  .media-table--logged tbody td:nth-child(3),
-  .media-table--plain tbody td:nth-child(1) {
-    @extend %sticky-title;
-    background-color: $background-color;
-  }
-
-  .media-table--logged tbody tr:nth-child(even) td:nth-child(3),
-  .media-table--plain tbody tr:nth-child(even) td:nth-child(1) {
-    background-color: #202020;
   }
 }
 

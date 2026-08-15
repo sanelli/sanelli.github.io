@@ -6,29 +6,29 @@
   <thead>
     <tr>
       {%- if rated -%}
-      <th><nobr>Date</nobr></th>
-      <th data-sort-method="number"><nobr>Rating</nobr></th>
+      <th><nobr>Date</nobr>{%- include sort-icon.html -%}</th>
+      <th data-sort-method="number"><nobr>Rating</nobr>{%- include sort-icon.html -%}</th>
       {%- endif -%}
       {%- if kind == "music" -%}
-      <th><nobr>Album</nobr></th>
+      <th><nobr>Album</nobr>{%- include sort-icon.html -%}</th>
       {%- else -%}
-      <th><nobr>Title</nobr></th>
+      <th><nobr>Title</nobr>{%- include sort-icon.html -%}</th>
       {%- endif -%}
       {%- if kind == "books" -%}
-      <th><nobr>Author(s)</nobr></th>
-      <th><nobr>Language</nobr></th>
+      <th><nobr>Author(s)</nobr>{%- include sort-icon.html -%}</th>
+      <th><nobr>Language</nobr>{%- include sort-icon.html -%}</th>
       {%- elsif kind == "games" -%}
-      <th><nobr>Developer(s)</nobr></th>
-      <th><nobr>Publisher(s)</nobr></th>
-      <th><nobr>Console</nobr></th>
+      <th><nobr>Developer(s)</nobr>{%- include sort-icon.html -%}</th>
+      <th><nobr>Publisher(s)</nobr>{%- include sort-icon.html -%}</th>
+      <th><nobr>Console</nobr>{%- include sort-icon.html -%}</th>
       {%- elsif kind == "movies" -%}
-      <th>Directed <span class="media-or">- or -</span> <br/> <nobr>Created by</nobr></th>
-      <th><nobr>Language</nobr></th>
+      <th>Directed <span class="media-or">- or -</span> <br/> <nobr>Created by</nobr>{%- include sort-icon.html -%}</th>
+      <th><nobr>Language</nobr>{%- include sort-icon.html -%}</th>
       {%- elsif kind == "music" -%}
-      <th><nobr>Artist</nobr></th>
+      <th><nobr>Artist</nobr>{%- include sort-icon.html -%}</th>
       {%- endif -%}
-      <th data-sort-method="number"><nobr>Year</nobr></th>
-      <th><nobr>Genre</nobr></th>
+      <th data-sort-method="number"><nobr>Year</nobr>{%- include sort-icon.html -%}</th>
+      <th><nobr>Genre</nobr>{%- include sort-icon.html -%}</th>
     </tr>
   </thead>
   <tbody>
