@@ -25,7 +25,7 @@ html {
 .post-title,
 .post-content h1,
 .post-content h2,
-.post-content h3,
+.layout-post .post-content h3,
 .home-kicker {
   font-family: $heading-font-family;
 }
@@ -147,10 +147,6 @@ table {
   td {
     border-color: #2e2e2e;
   }
-
-  a {
-    white-space: nowrap;
-  }
 }
 
 .home-intro {
@@ -214,43 +210,133 @@ table {
     margin-left: 3em;
   }
 
-  // Media list pages indent their tables; avoid shifting projects/cv entries.
-  .post-content:has(table) {
-    margin-left: 3em;
+  body:has(.media-table-wrap) .wrapper {
+    max-width: 1100px;
   }
 }
 
-// Keep small employer / school logos readable on the dark page.
-.post-content h3 img,
-.entry-logo {
-  background-color: #f2f2f2;
-  border-radius: 3px;
-  padding: 1px;
-}
+// Work / Projects: cards instead of indented heading hacks.
+.entries-page {
+  .post-content > h3 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.35em 1em;
+    margin: 1.25em 0 0;
+    padding: 0.95em 1.15em 0.5em;
+    background: #202020;
+    border: 1px solid #333;
+    border-bottom: 0;
+    border-radius: 10px 10px 0 0;
+    font-family: $base-font-family;
+    font-size: 1.15em;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 1.35;
+  }
 
-.entry-logo {
-  width: 1em;
-}
+  .post-content > h3:first-child {
+    margin-top: 0;
+  }
 
-// Projects / CV entry layout.
-.entry-title {
-  padding-left: 40px;
-}
+  .post-content > h2 + h3 {
+    margin-top: 0.85em;
+  }
 
-.entry-detail {
-  padding-left: 80px;
-}
+  .post-content > h3 + p {
+    margin: 0 0 0.15em;
+    padding: 0.15em 1.15em 1em;
+    background: #202020;
+    border: 1px solid #333;
+    border-top: 0;
+    border-radius: 0 0 10px 10px;
+  }
 
-.entry-detail-cont {
-  padding-left: 125px;
-}
+  .post-content > h2 + p {
+    margin-top: 0.75em;
+    padding: 0.95em 1.15em;
+    background: #202020;
+    border: 1px solid #333;
+    border-radius: 10px;
+  }
 
-.entry-meta {
-  font-size: .5em;
-}
+  .entry-title {
+    padding-left: 0;
+  }
 
-.entry-meta-sm {
-  font-size: .7em;
+  .entry-detail,
+  .entry-detail-cont {
+    display: block;
+    padding-left: 0;
+    margin: 0.15em 0;
+    line-height: 1.55;
+  }
+
+  .entry-detail:has(> em:first-child) {
+    margin-top: 0.85em;
+    padding-top: 0.7em;
+    border-top: 1px solid #333;
+  }
+
+  h3 + p > .entry-detail:first-child {
+    margin-top: 0;
+    padding-top: 0;
+    border-top: 0;
+  }
+
+  .entry-detail em {
+    font-style: normal;
+    font-weight: 600;
+    color: #eee;
+  }
+
+  .entry-detail img {
+    width: 1.1em;
+    height: 1.1em;
+    vertical-align: -0.15em;
+    margin-right: 0.25em;
+  }
+
+  .entry-meta,
+  .entry-meta-sm {
+    font-size: 0.8em;
+    font-weight: 400;
+    color: $grey-color;
+  }
+
+  .entry-meta a {
+    display: inline-block;
+    margin: 0.1em 0 0.1em 0.25em;
+    padding: 0.12em 0.5em;
+    border: 1px solid #444;
+    border-radius: 999px;
+    font-size: 0.85em;
+  }
+
+  .entry-logo,
+  .post-content h3 img {
+    width: 1.2em;
+    height: 1.2em;
+    object-fit: contain;
+    vertical-align: -0.2em;
+    margin-right: 0.3em;
+    background-color: #f2f2f2;
+    border-radius: 3px;
+    padding: 1px;
+  }
+
+  .post-content h2 {
+    margin-top: 2.1em;
+  }
+
+  .svg-icon {
+    width: 1em;
+    height: 1em;
+    fill: $grey-color;
+    vertical-align: -0.15em;
+    margin-right: 0.25em;
+  }
 }
 
 // Compact date / star columns on books, games, movies, and music tables.
@@ -277,9 +363,11 @@ table {
 }
 
 .media-table-wrap {
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
   margin: 0 0 1.25em;
+}
+
+table.media-table {
+  width: 100%;
 }
 
 // Sortable media tables (Tablesort)
@@ -311,15 +399,15 @@ table.sortable th[aria-sort="descending"]::after {
 
 @media screen and (max-width: 800px) {
   .media-table-wrap {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
     margin-left: -15px;
     margin-right: -15px;
     padding: 0 15px;
   }
 
-  table.media-table {
-    a {
-      white-space: nowrap;
-    }
+  table.media-table a {
+    white-space: nowrap;
   }
 
   %sticky-title {

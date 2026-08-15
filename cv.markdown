@@ -3,6 +3,7 @@ layout: page
 title: 💼 Work
 description: Work history — software engineering roles in C#, .NET, and cloud systems.
 permalink: /work/
+body_class: entries-page
 ---
 
 ### <span class="entry-title"><img class="entry-logo" src="https://www.ifsc.ie/images/uploads/clients-logos/Susquehanna_logo.jpg"/> Susquehanna International Group</span> <span class="entry-meta">[Apr 2026 – Now]</span>

@@ -3,6 +3,7 @@ layout: page
 title: 👨🏻‍💻 Projects
 description: Open-source .NET tools, source generators, analyzers, and small games.
 permalink: /projects/
+body_class: entries-page
 ---
 
 ### <span class="entry-title">🗺️ Mappa</span> <span class="entry-meta">[[GitHub]](https://github.com/sanelli/Mappa) [[NuGet]](https://www.nuget.org/packages/Mappa) [[NuGet]](https://www.nuget.org/packages/Mappa.Generator)</span>
