@@ -1,4 +1,8 @@
 {%- assign genres = include.genres -%}
 {%- if genres and genres.size > 0 -%}
-<nobr>{%- for genre in genres -%}<code>{{ genre }}</code>{%- unless forloop.last -%}{%- if genres.size >= 4 and forloop.index == 3 -%},<br/>{%- else -%}, {% endif -%}{%- endunless -%}{%- endfor -%}</nobr>
+<span class="media-genres">
+{%- for genre in genres -%}
+<span class="chip">{{ genre }}</span>
+{%- endfor -%}
+</span>
 {%- endif -%}

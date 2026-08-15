@@ -1,5 +1,5 @@
 {%- assign people = include.people -%}
 {%- for person in people -%}
 {%- include media-link.html text=person.name url=person.url -%}
-{%- unless forloop.last %}, {% endunless -%}
+{%- unless forloop.last -%}<br/>{%- endunless -%}
 {%- endfor -%}

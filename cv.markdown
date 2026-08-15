@@ -69,7 +69,7 @@ body_class: entries-page
 ### <span class="entry-title"><img class="entry-logo" src="https://iconape.com/wp-content/png_logo_vector/politecnico-milano-logo.png"/> Politecnico di Milano</span> <span class="entry-meta">[Sep 2003 – Jul 2009]</span>
 <span class="entry-detail">*Master of Science in Computer Engineering*</span> <span class="entry-meta-sm">[Sep 2007 – Jul 2009]</span><br/>
 <span class="entry-detail">**Subjects**: `software architecture`, `OS`, `compilers`, `AI`, `cryptography`</span><br/>
-<span class="entry-detail">**Dissertation**: Method specialization for [CIL](https://en.wikipedia.org/wiki/Common_Intermediate_Language) in a dynamic compiler.</span><br/><br/>
+<span class="entry-detail">**Dissertation**: Method specialization for [CIL](https://en.wikipedia.org/wiki/Common_Intermediate_Language) in a dynamic compiler. ([PDF]({{ '/assets/tesi.pdf' | relative_url }}))</span><br/><br/>
 <span class="entry-detail">*Bachelor of Science in Computer Engineering*</span> <span class="entry-meta-sm">[Sep 2003 – Jun 2007]</span><br/>
 <span class="entry-detail">**Subjects**: `software engineering`, `networking`, `databases`, `mathematics`, `physics`</span><br/>
 <span class="entry-detail">**Dissertation**: A publish/subscribe system based on Gmail.</span>
@@ -80,8 +80,8 @@ body_class: entries-page
 <span class="entry-detail">**Final project**: An SMTP/POP3 e-mail client written in Delphi.</span>
 
 ## {% include icon.html name="languages" %} Languages
-<span class="entry-detail">**🇮🇹 Italian**: Native proficiency.</span><br/>
-<span class="entry-detail">**🇬🇧 English**: Full professional proficiency.</span>
+<span class="entry-detail">{% include media-language.html language="Italian" %} **Italian**: Native proficiency.</span><br/>
+<span class="entry-detail">{% include media-language.html language="English" %} **English**: Full professional proficiency.</span>
 
 ## {% include icon.html name="links" %} Links
 <span class="entry-detail"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> [GitHub](https://github.com/sanelli)</span><br/>
