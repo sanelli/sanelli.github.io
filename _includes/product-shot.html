@@ -1,3 +1,15 @@
-<a class="entry-product-link" href="{{ include.url }}" title="{{ include.name | escape }}">
-  <img class="entry-product-shot{% if include.logo %} entry-product-shot--logo{% endif %}" src="{{ '/assets/images/products/' | append: include.image | relative_url }}" alt="{{ include.name | escape }}" />
+{%- assign shot_class = "entry-product-shot" -%}
+{%- if include.logo -%}{%- assign shot_class = shot_class | append: " entry-product-shot--logo" -%}{%- endif -%}
+{%- if include.portrait -%}{%- assign shot_class = shot_class | append: " entry-product-shot--portrait" -%}{%- endif -%}
+{%- if include.src -%}
+  {%- assign shot_src = include.src | relative_url -%}
+{%- else -%}
+  {%- assign shot_src = '/assets/images/products/' | append: include.image | relative_url -%}
+{%- endif -%}
+{%- assign shot_href = include.url -%}
+{%- unless include.url contains "://" -%}
+  {%- assign shot_href = include.url | relative_url -%}
+{%- endunless -%}
+<a class="entry-product-link" href="{{ shot_href }}" title="{{ include.name | escape }}">
+  <img class="{{ shot_class }}" src="{{ shot_src }}" alt="{{ include.name | escape }}" />
 </a>

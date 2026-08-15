@@ -306,7 +306,15 @@ table {
   }
 
   .entry-title {
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.15em 0.2em;
     padding-left: 0;
+  }
+
+  .entry-title .entry-meta {
+    font-weight: 400;
   }
 
   .entry-detail,
@@ -360,7 +368,8 @@ table {
 
   .chip-label,
   .entry-detail:has(code) > strong,
-  .entry-chips > strong {
+  .entry-chips > strong,
+  .entry-row > strong {
     display: inline-block;
     font-size: 0.7rem;
     font-weight: 600;
@@ -370,18 +379,38 @@ table {
   }
 
   .entry-detail:has(code) > strong,
-  .entry-chips > strong {
+  .entry-chips > strong,
+  .entry-row > strong {
     min-width: 6.4rem;
     margin-right: 0.35rem;
+    flex: 0 0 auto;
+  }
+
+  .entry-detail:has(code),
+  .entry-chips,
+  .entry-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    line-height: 1.4;
   }
 
   .entry-detail:has(code),
   .entry-chips {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
     font-size: 0;
+  }
+
+  .entry-row .media-flag {
+    flex: 0 0 auto;
+    margin-right: 0.35rem;
+  }
+
+  .entry-row-value {
+    flex: 1 1 12rem;
+    min-width: 0;
+    font-size: 0.85rem;
     line-height: 1.4;
+    color: #d8d8d8;
   }
 
   .entry-chips a:hover {
@@ -422,6 +451,13 @@ table {
     background: #111;
   }
 
+  .entry-product-shot--portrait {
+    height: auto;
+    max-height: 14.5rem;
+    object-fit: contain;
+    background: #111;
+  }
+
   .entry-detail img {
     width: 1.1em;
     height: 1.1em;
@@ -451,6 +487,11 @@ table {
     .entry-product-shot,
     .entry-product-shot--logo {
       height: 5.2rem;
+    }
+
+    .entry-product-shot--portrait {
+      height: auto;
+      max-height: 12rem;
     }
   }
 
