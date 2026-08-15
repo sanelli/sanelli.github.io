@@ -110,12 +110,53 @@ table {
 }
 
 .home-intro {
-  margin: 0 0 2em;
+  display: flex;
+  gap: 1.4em;
+  align-items: flex-start;
+  margin: 0 0 2.25em;
+  padding: 1.15em 1.2em;
+  background: #202020;
+  border: 1px solid #333;
+  border-radius: 10px;
+}
+
+.home-photo {
+  flex: 0 0 7.5em;
+  width: 7.5em;
+  height: 7.5em;
+  object-fit: cover;
+  object-position: 50% 20%;
+  border-radius: 50%;
+  border: 2px solid #3a3a3a;
+  background: #2a2a2a;
+}
+
+.home-intro-body {
+  min-width: 0;
+}
+
+.home-kicker {
+  margin: 0 0 0.55em;
+  font-size: 0.78em;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: $grey-color;
 }
 
 .home-intro p {
-  margin: 0 0 1em;
-  max-width: 42em;
+  margin: 0 0 0.75em;
+}
+
+.home-intro p:last-child {
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 600px) {
+  .home-intro {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
 }
 
 // Desktop content indent (was duplicated in page/post <style> blocks).
