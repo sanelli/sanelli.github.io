@@ -6,29 +6,29 @@
   <thead>
     <tr>
       {%- if rated -%}
-      <th>Date</th>
-      <th data-sort-method="number">Rating</th>
+      <th><nobr>Date</nobr></th>
+      <th data-sort-method="number"><nobr>Rating</nobr></th>
       {%- endif -%}
       {%- if kind == "music" -%}
-      <th>Album</th>
+      <th><nobr>Album</nobr></th>
       {%- else -%}
-      <th>Title</th>
+      <th><nobr>Title</nobr></th>
       {%- endif -%}
       {%- if kind == "books" -%}
-      <th>Author(s)</th>
-      <th>Language</th>
+      <th><nobr>Author(s)</nobr></th>
+      <th><nobr>Language</nobr></th>
       {%- elsif kind == "games" -%}
-      <th>Developer(s)</th>
-      <th>Publisher(s)</th>
-      <th>Console</th>
+      <th><nobr>Developer(s)</nobr></th>
+      <th><nobr>Publisher(s)</nobr></th>
+      <th><nobr>Console</nobr></th>
       {%- elsif kind == "movies" -%}
-      <th>Directed <span class="media-or">- or -</span> <br/> Created by</th>
-      <th>Language</th>
+      <th>Directed <span class="media-or">- or -</span> <br/> <nobr>Created by</nobr></th>
+      <th><nobr>Language</nobr></th>
       {%- elsif kind == "music" -%}
-      <th>Artist</th>
+      <th><nobr>Artist</nobr></th>
       {%- endif -%}
-      <th data-sort-method="number">Year</th>
-      <th>Genre</th>
+      <th data-sort-method="number"><nobr>Year</nobr></th>
+      <th><nobr>Genre</nobr></th>
     </tr>
   </thead>
   <tbody>

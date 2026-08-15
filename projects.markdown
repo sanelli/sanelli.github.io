@@ -36,10 +36,8 @@ body_class: entries-page
 
 ### <span class="entry-title">🍎 Turing machine emulators</span> <span class="entry-meta">[[GitHub]](https://github.com/sanelli/turing)</span>
 <span class="entry-detail">*Suite of [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine) emulators implemented in various languages.*</span><br/>
-<span class="entry-detail">**Tags**: `c++`, `python`, `dotnet`, `go`, `csharp`, `pascal`, `ada`,</span><br/>
-<span class="entry-detail-cont">`c`, `d`, `rust`</span>
+<span class="entry-detail">**Tags**: `c++`, `python`, `dotnet`, `go`, `csharp`, `pascal`, `ada`, `c`, `d`, `rust`</span>
 
 ### <span class="entry-title">🧠 Brainfuck interpreters</span> <span class="entry-meta">[[GitHub]](https://github.com/sanelli/brainfuck)</span>
 <span class="entry-detail">*Suite of [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreters implemented in various languages.*</span><br/>
-<span class="entry-detail">**Tags**: `c++`, `python`, `dotnet`, `go`, `csharp`, `pascal`, `ada`,</span><br/>
-<span class="entry-detail-cont">`c`, `d`, `rust`, `erlang`</span>
+<span class="entry-detail">**Tags**: `c++`, `python`, `dotnet`, `go`, `csharp`, `pascal`, `ada`, `c`, `d`, `rust`, `erlang`</span>

@@ -246,11 +246,16 @@ table {
 
   .post-content > h3 + p {
     margin: 0 0 0.15em;
-    padding: 0.15em 1.15em 1em;
+    padding: 0.1em 1.15em 0.85em;
     background: #202020;
     border: 1px solid #333;
     border-top: 0;
     border-radius: 0 0 10px 10px;
+  }
+
+  .post-content > h3 + p br,
+  .post-content > h2 + p br {
+    display: none;
   }
 
   .post-content > h2 + p {
@@ -269,13 +274,13 @@ table {
   .entry-detail-cont {
     display: block;
     padding-left: 0;
-    margin: 0.15em 0;
-    line-height: 1.55;
+    margin: 0.12em 0 0;
+    line-height: 1.4;
   }
 
   .entry-detail:has(> em:first-child) {
-    margin-top: 0.85em;
-    padding-top: 0.7em;
+    margin-top: 0.65em;
+    padding-top: 0.55em;
     border-top: 1px solid #333;
   }
 
@@ -376,24 +381,24 @@ table.sortable th[role="columnheader"]:not([data-sort-method="none"]) {
   user-select: none;
 }
 
-table.sortable th[role="columnheader"]:not([data-sort-method="none"])::after {
-  display: inline-block;
+table.sortable th[role="columnheader"]:not([data-sort-method="none"]) nobr::after {
+  display: inline;
   margin-left: 0.35em;
   opacity: 0.35;
   font-size: 0.75em;
   content: "↕";
 }
 
-table.sortable th[aria-sort="ascending"]::after,
-table.sortable th[aria-sort="descending"]::after {
+table.sortable th[aria-sort="ascending"] nobr::after,
+table.sortable th[aria-sort="descending"] nobr::after {
   opacity: 0.8;
 }
 
-table.sortable th[aria-sort="ascending"]::after {
+table.sortable th[aria-sort="ascending"] nobr::after {
   content: "▲";
 }
 
-table.sortable th[aria-sort="descending"]::after {
+table.sortable th[aria-sort="descending"] nobr::after {
   content: "▼";
 }
 
