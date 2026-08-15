@@ -262,6 +262,10 @@ table {
 
 // Work / Projects: cards instead of indented heading hacks.
 .entries-page {
+  .post-header {
+    margin-bottom: 0.35em;
+  }
+
   .post-content > h3 {
     display: flex;
     flex-wrap: wrap;
@@ -553,12 +557,20 @@ table {
     margin-top: 2.1em;
   }
 
+  .post-content h2:first-child {
+    margin-top: 0.15em;
+  }
+
   .svg-icon {
     width: 1em;
     height: 1em;
     fill: $grey-color;
     vertical-align: -0.15em;
     margin-right: 0.25em;
+  }
+
+  .entry-detail .icon {
+    color: $grey-color;
   }
 
   .project-card {
