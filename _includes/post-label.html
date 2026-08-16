@@ -1,5 +1,6 @@
 {%- assign label_title = include.title -%}
 {%- assign label_project = include.project -%}
+{%- assign label_icon = include.icon -%}
 {%- if label_project -%}
   {%- if label_project.emoji -%}
     {%- assign label_title = label_title | replace: label_project.emoji, "" -%}
@@ -8,6 +9,9 @@
     {%- assign label_title = label_title | replace: label_project.emoji_alt, "" -%}
   {%- endif -%}
   {%- assign label_title = label_title | strip -%}
-  {%- include_cached icon.html name=label_project.icon -%}
+  {%- assign label_icon = label_project.icon -%}
+{%- endif -%}
+{%- if label_icon -%}
+  {%- include_cached icon.html name=label_icon -%}
 {%- endif -%}
 {{ label_title | escape }}
