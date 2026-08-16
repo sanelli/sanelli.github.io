@@ -51,6 +51,14 @@ plugins:
 
 repository: sanelli/sanelli.github.io
 
+sass:
+  quiet_deps: true
+  silence_deprecations:
+    - import
+    - global-builtin
+    - color-functions
+    - slash-div
+
 pagination:
   enabled: true
   debug: false
