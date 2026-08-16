@@ -1,6 +1,14 @@
 {%- assign kind = include.kind -%}
 {%- assign rated = false -%}
 {%- if include.mode == "logged" -%}{%- assign rated = true -%}{%- endif -%}
+{%- assign title_label = "Title" -%}
+{%- if kind == "music" -%}{%- assign title_label = "Album" -%}{%- endif -%}
+{%- assign people_label = "" -%}
+{%- if kind == "books" -%}{%- assign people_label = "Author(s)" -%}
+{%- elsif kind == "games" -%}{%- assign people_label = "Developer(s)" -%}
+{%- elsif kind == "movies" -%}{%- assign people_label = "Created by" -%}
+{%- elsif kind == "music" -%}{%- assign people_label = "Artist" -%}
+{%- endif -%}
 <div class="media-table-wrap">
 <table class="media-table media-table--{{ include.mode }} sortable">
   <thead>
@@ -36,25 +44,25 @@
     {%- include media-search.html item=item -%}
     <tr class="media-row" data-search="{{ media_search | downcase | strip | xml_escape }}"{% if item.rating %} data-rating="{{ item.rating }}"{% else %} data-rating=""{% endif %}>
       {%- if rated -%}
-      <td data-sort="{{ item.date }}">{%- if item.date -%}<span class="media-date" data-sort="{{ item.date }}"><nobr>{{ item.date }}</nobr></span>{%- endif -%}</td>
-      <td data-sort="{{ item.rating }}">{%- if item.rating -%}<span class="media-rating" data-sort="{{ item.rating }}">{%- for i in (1..item.rating) -%}⭐️{%- endfor -%}</span>{%- endif -%}</td>
+      <td data-label="Date" data-sort="{{ item.date }}">{%- if item.date -%}<span class="media-date" data-sort="{{ item.date }}"><nobr>{{ item.date }}</nobr></span>{%- endif -%}</td>
+      <td data-label="Rating" data-sort="{{ item.rating }}">{%- if item.rating -%}<span class="media-rating" data-sort="{{ item.rating }}">{%- for i in (1..item.rating) -%}⭐️{%- endfor -%}</span>{%- endif -%}</td>
       {%- endif -%}
-      <td>{%- include_cached media-title.html item=item -%}</td>
+      <td data-label="{{ title_label }}">{%- include_cached media-title.html item=item -%}</td>
       {%- if kind == "books" -%}
-      <td>{%- include_cached media-people.html people=item.authors -%}</td>
-      <td data-sort="{{ item.language }}">{%- include_cached media-language.html language=item.language -%}</td>
+      <td data-label="{{ people_label }}">{%- include_cached media-people.html people=item.authors -%}</td>
+      <td data-label="Language" data-sort="{{ item.language }}">{%- include_cached media-language.html language=item.language -%}</td>
       {%- elsif kind == "games" -%}
-      <td>{%- include_cached media-people.html people=item.developers -%}</td>
-      <td>{%- include_cached media-people.html people=item.publishers -%}</td>
-      <td>{%- if item.console -%}{%- include_cached media-link.html text=item.console.name url=item.console.url -%}{%- endif -%}</td>
+      <td data-label="{{ people_label }}">{%- include_cached media-people.html people=item.developers -%}</td>
+      <td data-label="Publisher(s)">{%- include_cached media-people.html people=item.publishers -%}</td>
+      <td data-label="Console">{%- if item.console -%}{%- include_cached media-link.html text=item.console.name url=item.console.url -%}{%- endif -%}</td>
       {%- elsif kind == "movies" -%}
-      <td>{%- include_cached media-people.html people=item.creators -%}</td>
-      <td data-sort="{{ item.language }}">{%- include_cached media-language.html language=item.language -%}</td>
+      <td data-label="{{ people_label }}">{%- include_cached media-people.html people=item.creators -%}</td>
+      <td data-label="Language" data-sort="{{ item.language }}">{%- include_cached media-language.html language=item.language -%}</td>
       {%- elsif kind == "music" -%}
-      <td>{%- include_cached media-people.html people=item.artists -%}</td>
+      <td data-label="{{ people_label }}">{%- include_cached media-people.html people=item.artists -%}</td>
       {%- endif -%}
-      <td>{{ item.year }}</td>
-      <td>{%- include_cached media-genres.html genres=item.genres -%}</td>
+      <td data-label="Year">{{ item.year }}</td>
+      <td data-label="Genre">{%- include_cached media-genres.html genres=item.genres -%}</td>
     </tr>
     {%- endfor -%}
   </tbody>
