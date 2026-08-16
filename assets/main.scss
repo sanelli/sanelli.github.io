@@ -836,6 +836,53 @@ table {
   color: var(--text-muted);
 }
 
+.post-list-more {
+  margin: 0.25em 0 0;
+}
+
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75em;
+  margin: 1.75em 0 0;
+  padding-top: 0.85em;
+  border-top: 1px solid var(--border-subtle);
+  font-size: 0.9em;
+}
+
+.pagination-pages {
+  display: flex;
+  align-items: center;
+  gap: 0.35em;
+}
+
+.pagination-link,
+.pagination-num {
+  display: inline-block;
+  padding: 0.2em 0.55em;
+  border: 1px solid var(--border-meta);
+  border-radius: 999px;
+  color: var(--text);
+}
+
+.pagination-link:hover,
+.pagination-num:hover {
+  color: var(--text-hover);
+  border-color: var(--border-chip-hover);
+}
+
+.pagination-link--disabled {
+  border-color: transparent;
+  color: var(--text-muted);
+  cursor: default;
+}
+
+.pagination-num--current {
+  background: var(--bg-chip);
+  color: var(--text-strong);
+}
+
 // Compact date / star columns on books, games, movies, and music tables.
 .media-count {
   font-size: .6em;

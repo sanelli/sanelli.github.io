@@ -1,0 +1,29 @@
+{%- if paginator.total_pages > 1 -%}
+<nav class="pagination" aria-label="Posts">
+  {%- if paginator.previous_page -%}
+  <a class="pagination-link" href="{{ paginator.previous_page_path | relative_url }}">Newer</a>
+  {%- else -%}
+  <span class="pagination-link pagination-link--disabled">Newer</span>
+  {%- endif -%}
+
+  <span class="pagination-pages">
+    {%- if paginator.page_trail -%}
+      {%- for trail in paginator.page_trail -%}
+        {%- if trail.num == paginator.page -%}
+        <span class="pagination-num pagination-num--current" aria-current="page">{{ trail.num }}</span>
+        {%- else -%}
+        <a class="pagination-num" href="{{ trail.path | replace: 'index.html', '' | relative_url }}">{{ trail.num }}</a>
+        {%- endif -%}
+      {%- endfor -%}
+    {%- else -%}
+    <span class="pagination-status">{{ paginator.page }} / {{ paginator.total_pages }}</span>
+    {%- endif -%}
+  </span>
+
+  {%- if paginator.next_page -%}
+  <a class="pagination-link" href="{{ paginator.next_page_path | relative_url }}">Older</a>
+  {%- else -%}
+  <span class="pagination-link pagination-link--disabled">Older</span>
+  {%- endif -%}
+</nav>
+{%- endif -%}

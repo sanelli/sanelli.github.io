@@ -9,6 +9,12 @@
     <path d="m16 7 4 5-4 5"/>
     <path d="m13 5-2 14"/>
   </symbol>
+  <symbol id="icon-posts" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/>
+    <path d="M14 3v5h5"/>
+    <path d="M9 13h6"/>
+    <path d="M9 17h4"/>
+  </symbol>
   <symbol id="icon-books" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
     <rect x="4" y="3" width="16" height="18" rx="2"/>
     <path d="M8 3v18"/>

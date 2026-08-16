@@ -6,25 +6,7 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
   <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-  <ul class="post-list">
-    {%- for post in site.posts -%}
-    {%- assign post_project = nil -%}
-    {%- for candidate in site.data.projects -%}
-      {%- if post.categories contains candidate.category -%}
-        {%- assign post_project = candidate -%}
-        {%- break -%}
-      {%- endif -%}
-    {%- endfor -%}
-    <li>
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      <span class="post-meta">{{ post.date | date: date_format }}</span>
-      <h3>
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {%- include_cached post-label.html title=post.title project=post_project -%}
-        </a>
-      </h3>
-    </li>
-    {%- endfor -%}
-  </ul>
+  {% include post-list.html posts=site.posts limit=5 %}
+  <p class="post-list-more"><a href="{{ '/posts/' | relative_url }}">All posts</a></p>
   {%- endif -%}
 </div>
