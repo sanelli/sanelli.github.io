@@ -1,0 +1,84 @@
+{%- assign kinds = "books,music,games,movies" | split: "," -%}
+{%- assign year_blob = "" -%}
+{%- assign extra_blob = "" -%}
+{%- for kind in kinds -%}
+  {%- for group in site.data[kind].years -%}
+    {%- assign year_num = group.label | plus: 0 -%}
+    {%- if year_num >= 1900 -%}
+      {%- unless year_blob contains group.label -%}
+        {%- assign year_blob = year_blob | append: group.label | append: " " -%}
+      {%- endunless -%}
+    {%- else -%}
+      {%- unless extra_blob contains group.label -%}
+        {%- assign extra_blob = extra_blob | append: group.label | append: " " -%}
+      {%- endunless -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endfor -%}
+{%- for post in site.posts -%}
+  {%- assign post_year = post.date | date: "%Y" -%}
+  {%- unless year_blob contains post_year -%}
+    {%- assign year_blob = year_blob | append: post_year | append: " " -%}
+  {%- endunless -%}
+{%- endfor -%}
+{%- assign years = year_blob | split: " " | compact | uniq | sort | reverse -%}
+{%- assign extras = extra_blob | split: " " | compact | uniq -%}
+{%- assign rows = years | concat: extras -%}
+
+{%- assign books_total = 0 -%}
+{%- assign music_total = 0 -%}
+{%- assign games_total = 0 -%}
+{%- assign movies_total = 0 -%}
+{%- for group in site.data.books.years -%}{%- assign books_total = books_total | plus: group.entries.size -%}{%- endfor -%}
+{%- for group in site.data.music.years -%}{%- assign music_total = music_total | plus: group.entries.size -%}{%- endfor -%}
+{%- for group in site.data.games.years -%}{%- assign games_total = games_total | plus: group.entries.size -%}{%- endfor -%}
+{%- for group in site.data.movies.years -%}{%- assign movies_total = movies_total | plus: group.entries.size -%}{%- endfor -%}
+
+<div class="media-table-wrap">
+<table class="media-table stats-table">
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Books read</th>
+      <th>Music listened</th>
+      <th>Games played</th>
+      <th>Movies watched</th>
+      <th>Posts</th>
+    </tr>
+  </thead>
+  <tbody>
+    {%- for year in rows -%}
+      {%- if year == "" -%}{%- continue -%}{%- endif -%}
+      {%- include stats-count.html data=site.data.books year=year -%}{%- assign books_n = stats_count -%}
+      {%- include stats-count.html data=site.data.music year=year -%}{%- assign music_n = stats_count -%}
+      {%- include stats-count.html data=site.data.games year=year -%}{%- assign games_n = stats_count -%}
+      {%- include stats-count.html data=site.data.movies year=year -%}{%- assign movies_n = stats_count -%}
+      {%- assign posts_n = 0 -%}
+      {%- for post in site.posts -%}
+        {%- assign post_year = post.date | date: "%Y" -%}
+        {%- if post_year == year -%}
+          {%- assign posts_n = posts_n | plus: 1 -%}
+        {%- endif -%}
+      {%- endfor -%}
+    <tr>
+      <td>{{ year }}</td>
+      <td>{{ books_n }}</td>
+      <td>{{ music_n }}</td>
+      <td>{{ games_n }}</td>
+      <td>{{ movies_n }}</td>
+      <td>{{ posts_n }}</td>
+    </tr>
+    {%- endfor -%}
+  </tbody>
+  <tfoot>
+    <tr>
+      <th>Total</th>
+      <th>{{ books_total }}</th>
+      <th>{{ music_total }}</th>
+      <th>{{ games_total }}</th>
+      <th>{{ movies_total }}</th>
+      <th>{{ site.posts.size }}</th>
+    </tr>
+  </tfoot>
+</table>
+</div>

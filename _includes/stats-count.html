@@ -1,0 +1,8 @@
+{%- assign stats_count = 0 -%}
+{%- assign want = include.year | append: "" -%}
+{%- for group in include.data.years -%}
+  {%- assign have = group.label | append: "" -%}
+  {%- if have == want -%}
+    {%- assign stats_count = group.entries.size -%}
+  {%- endif -%}
+{%- endfor -%}

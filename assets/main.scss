@@ -841,6 +841,20 @@ table {
   margin: 0.25em 0 0;
 }
 
+.home-stats-link {
+  margin: 2.5em 0 0;
+  text-align: right;
+  font-size: 0.8em;
+}
+
+.home-stats-link a {
+  color: var(--text-muted);
+}
+
+.home-stats-link a:hover {
+  color: var(--text-hover);
+}
+
 .pagination {
   display: flex;
   align-items: center;
@@ -885,9 +899,6 @@ table {
 }
 
 // Compact date / star columns on books, games, movies, and music tables.
-.media-count {
-  font-size: .6em;
-}
 
 .media-date {
   display: block;
@@ -959,6 +970,20 @@ table.media-table a {
 
 table.media-table {
   width: 100%;
+}
+
+table.stats-table {
+  width: auto;
+}
+
+.stats-table th,
+.stats-table td {
+  width: 1%;
+  padding-left: 0.55em;
+  padding-right: 0.55em;
+  font-size: 0.85em;
+  text-align: left;
+  white-space: nowrap;
 }
 
 // Sortable media tables (Tablesort)
