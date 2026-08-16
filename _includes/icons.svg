@@ -147,6 +147,10 @@
     <path d="m7 15 5 5 5-5"/>
     <path d="m7 9 5-5 5 5"/>
   </symbol>
+  <symbol id="icon-up" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 19V6"/>
+    <path d="m6 12 6-6 6 6"/>
+  </symbol>
   <symbol id="icon-sort-up" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
     <path d="m18 15-6-6-6 6"/>
   </symbol>
