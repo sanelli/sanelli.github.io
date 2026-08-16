@@ -82,17 +82,15 @@
         {%- assign logged_verb = "Played" -%}
       {%- endif -%}
       <td class="media-card">
+        {%- if item.language -%}
+        <span class="media-card-lang">{%- include_cached media-language.html language=item.language -%}</span>
+        {%- endif -%}
         <div class="media-card-body">
           <div class="media-card-cover">
             <img alt="{{ item.title | escape }}" width="96" height="96" data-cover-from="{{ item.url }}" decoding="async">
           </div>
           <div class="media-card-main">
-            <div class="media-card-top">
-              <p class="media-card-title">{%- include_cached media-title.html item=item -%}</p>
-              {%- if item.language -%}
-              <span class="media-card-lang">{%- include_cached media-language.html language=item.language -%}</span>
-              {%- endif -%}
-            </div>
+            <p class="media-card-title">{%- include_cached media-title.html item=item -%}</p>
             {%- if item.rating -%}<p class="media-card-rating">{%- for i in (1..item.rating) -%}⭐️{%- endfor -%}</p>{%- endif -%}
             {%- include_cached media-genres.html genres=item.genres -%}
             {%- if item.year or card_people -%}

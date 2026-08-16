@@ -1158,6 +1158,7 @@ table.media-table tbody tr.media-row[hidden] {
 }
 
 table.media-table td.media-card {
+  position: relative;
   display: block;
   width: 100%;
   border: 0;
@@ -1212,13 +1213,7 @@ table.media-table .media-card a {
 .media-card-main {
   min-width: 0;
   flex: 1 1 auto;
-}
-
-.media-card-top {
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: 0.55em;
+  padding-right: 1.7em;
 }
 
 .media-card-title {
@@ -1229,9 +1224,15 @@ table.media-table .media-card a {
   text-align: left;
 }
 
+.media-card-title nobr {
+  white-space: normal;
+}
+
 .media-card-lang {
-  flex: 0 0 auto;
-  margin-top: 0.2em;
+  position: absolute;
+  top: 0.7em;
+  right: 0.7em;
+  z-index: 1;
   line-height: 0;
 }
 
