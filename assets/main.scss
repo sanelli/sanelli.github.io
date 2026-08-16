@@ -179,6 +179,13 @@ blockquote {
 .icon.icon-connectfour { color: #facc15; }
 .icon.icon-turing { color: #ef4444; }
 .icon.icon-brainfuck { color: #e879f9; }
+.post-title .icon.icon-website,
+.post-link .icon.icon-website { color: #f43f5e; }
+.post-title .icon.icon-music,
+.post-link .icon.icon-music { color: #f472b6; }
+.icon.icon-spotify { color: #1ed760; }
+.icon.icon-youtube-music { color: #ff0033; }
+.icon.icon-apple-music { color: #fc3c44; }
 
 .site-title,
 .site-header .site-title,
@@ -214,6 +221,61 @@ blockquote {
 
 .layout-post .post-content {
   max-width: 40em;
+}
+
+.album-cover {
+  margin: 1.4em 0;
+  max-width: 18rem;
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+  }
+
+  figcaption {
+    margin-top: 0.5em;
+    font-size: 0.85em;
+    color: var(--text-muted);
+  }
+}
+
+.listen-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75em 1.25em;
+  margin: 1.2em 0 1.8em;
+}
+
+.listen-link {
+  display: inline-flex;
+  align-items: center;
+  font-weight: 600;
+}
+
+.album-facts {
+  margin: 1.6em 0;
+  padding: 0.85em 1em;
+  border: 1px solid var(--border-subtle);
+  background: var(--bg-elevated);
+  border-radius: 4px;
+  font-size: 0.82em;
+  line-height: 1.5;
+  color: var(--text-muted);
+
+  p {
+    margin: 0;
+  }
+}
+
+.album-facts-label {
+  margin-bottom: 0.45em;
+  font-size: 0.78em;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--text-muted);
 }
 
 .layout-page .post-content h2 {
