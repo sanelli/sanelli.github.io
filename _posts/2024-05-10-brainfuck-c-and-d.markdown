@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🧠 New Brainfuck interpreters implemented in C and D"
+title:  "New Brainfuck interpreters implemented in C and D"
 date:   2024-05-10 20:00:00 +0100
 categories: projects brainfuck interpreter c d dlang
 ---

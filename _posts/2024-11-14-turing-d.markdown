@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🍎 New Turing machine interpreter implemented in D"
+title:  "New Turing machine interpreter implemented in D"
 date:   2024-11-14 23:02:00 +0100
 categories: projects turing interpreter d
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🧠 New Brainfuck interpreter implemented in Rust"
+title:  "New Brainfuck interpreter implemented in Rust"
 date:   2024-05-14 22:57:00 +0100
 categories: projects brainfuck interpreter rust rust-lang
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🗺️ Mappa the source generator C# mapper"
+title:  "Mappa the source generator C# mapper"
 date:   2025-03-29 21:16:03 +0100
 categories: projects csharp nuget source-generator mappa
 ---

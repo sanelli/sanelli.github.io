@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🍎 New Turing machine interpreter implemented in Rust"
+title:  "New Turing machine interpreter implemented in Rust"
 date:   2025-01-30 23:03:00 +0100
 categories: projects turing interpreter rust
 ---

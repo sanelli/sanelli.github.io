@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "💭 Comment TODO analyzer v1.1.0"
+title:  "Comment TODO analyzer v1.1.0"
 date:   2025-09-26 18:55:00 +0100
 categories: projects csharp nuget todo analyzer comments
 ---

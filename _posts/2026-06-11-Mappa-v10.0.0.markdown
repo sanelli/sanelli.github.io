@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🗺️ Mappa v10.0.0"
+title:  "Mappa v10.0.0"
 date:   2026-06-11 22:01:00 +0100
 categories: projects csharp nuget source-generator mappa
 ---
