@@ -24,3 +24,5 @@ What changed:
 - Yearly counts live on a quiet **[/stats/](/stats/)** page (the "Stats for nerds" link at the bottom of the home page).
 
 None of this needed me to become a Ruby developer. Liquid, YAML, and a bit of CSS were enough. I should have opened the hood years ago. The default site was already good; the rest was sitting there waiting.
+
+{% include made-with-cursor.html %}

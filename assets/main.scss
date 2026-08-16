@@ -179,6 +179,7 @@ blockquote {
 .icon.icon-connectfour { color: #facc15; }
 .icon.icon-turing { color: #ef4444; }
 .icon.icon-brainfuck { color: #e879f9; }
+.icon.icon-website { color: #f43f5e; }
 .post-title .icon.icon-website,
 .post-link .icon.icon-website { color: #f43f5e; }
 .post-title .icon.icon-music,
@@ -903,18 +904,27 @@ table {
   margin: 0.25em 0 0;
 }
 
-.home-stats-link {
+.home-stats-link,
+.made-with {
   margin: 2.5em 0 0;
   text-align: right;
   font-size: 0.8em;
-}
-
-.home-stats-link a {
   color: var(--text-muted);
 }
 
-.home-stats-link a:hover {
+.home-stats-link a,
+.made-with a {
+  color: var(--text-muted);
+}
+
+.home-stats-link a:hover,
+.made-with a:hover {
   color: var(--text-hover);
+}
+
+.made-with .icon {
+  margin-right: 0.25em;
+  color: inherit;
 }
 
 .pagination {

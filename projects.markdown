@@ -9,6 +9,7 @@ body_class: entries-page
 
 {%- assign flagships = site.data.projects | where: "section", "flagship" -%}
 {%- assign libraries = site.data.projects | where: "section", "libraries" -%}
+{%- assign web = site.data.projects | where: "section", "web" -%}
 {%- assign games = site.data.projects | where: "section", "games" -%}
 {%- assign interpreters = site.data.projects | where: "section", "interpreters" -%}
 
@@ -19,6 +20,11 @@ body_class: entries-page
 
 ## Libraries
 {% for project in libraries %}
+{% include_cached project-card.html project=project %}
+{% endfor %}
+
+## Web
+{% for project in web %}
 {% include_cached project-card.html project=project %}
 {% endfor %}
 

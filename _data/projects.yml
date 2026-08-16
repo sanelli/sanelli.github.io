@@ -60,6 +60,24 @@
       url: https://www.nuget.org/packages/PrettyCode.StringBuilder
   tags: [C#, csharp, dotnet]
 
+- slug: website
+  section: web
+  category: website
+  icon: website
+  name: sanelli.github.io
+  why: The default Jekyll theme was already enough; this is the site after opening the hood.
+  description: >
+    This page. A [Jekyll](https://jekyllrb.com) site on GitHub Pages: YAML-driven
+    work, projects, and media lists, an SVG sprite, dark / light / system theme,
+    and a GitHub Actions build on Jekyll 4 so plugins like the sitemap, redirects,
+    cached includes, and pagination can run.
+  links:
+    - text: GitHub
+      url: https://github.com/sanelli/sanelli.github.io
+    - text: Site
+      url: https://sanelli.github.io
+  tags: [jekyll, liquid, sass, github-pages]
+
 - slug: blocchi
   section: games
   category: blocchi

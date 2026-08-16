@@ -33,3 +33,5 @@ I was not expecting to like [this album](https://it.wikipedia.org/wiki/Magia_bia
   <a class="listen-link" href="https://music.youtube.com/search?q=Magia+Bianca+Francesca+Michielin">{% include icon.html name="youtube-music" %}YouTube Music</a>
   <a class="listen-link" href="https://music.apple.com/album/magia-bianca/6771692760">{% include icon.html name="apple-music" %}Apple Music</a>
 </p>
+
+{% include made-with-cursor.html %}
