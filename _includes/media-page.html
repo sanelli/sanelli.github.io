@@ -1,6 +1,7 @@
 {%- assign kind = include.kind -%}
 {%- assign data = site.data[kind] -%}
 {%- include_cached media-toolbar.html -%}
+<p class="home-stats-link"><a href="{{ '/stats/' | relative_url }}">Stats for nerds</a></p>
 
 {%- if data.current and data.current.size > 0 -%}
 <div class="media-section">

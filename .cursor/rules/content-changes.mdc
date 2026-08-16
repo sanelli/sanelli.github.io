@@ -1,0 +1,64 @@
+---
+description: How to add posts, books, music, movies, games, projects, and icons on this Jekyll site.
+alwaysApply: true
+---
+
+# Content changes
+
+English, first person, plain. No emoji in titles. Do not invent credits, lyrics, dates, or ratings. Look them up. Do not commit unless asked.
+
+## Media lists
+
+Edit `_data/books.yml`, `music.yml`, `movies.yml`, or `games.yml`. Put the entry in the matching `years` group (`label: YYYY`), **newest date first**. Use `current:` only for in-progress books/games.
+
+Shared fields: `title`, Wikipedia `url` when it exists, `date` (YYYY-MM-DD, the day Stefano finished/listened/watched/played), `rating` (1–5), `year` (work year), `genres` (lowercase; quote keys like `"R&B"`).
+
+- Books: `authors: [{name, url}]`, `language`
+- Music: `artists: [{name, url}]`
+- Movies: `creators: [{name, url}]` (director), `language`
+- Games: `developers`, `publishers`, `console: {name, url}`
+
+Copy the surrounding YAML shape. Do not invent people or links.
+
+## Posts
+
+`_posts/YYYY-MM-DD-slug.markdown`. Filename date = front-matter date.
+
+```yaml
+layout: post
+title:  "Title without emoji"
+date:   YYYY-MM-DD HH:MM:SS +0100
+icon: name          # required if the post is not tied to a project
+categories: one-or-more
+```
+
+- Project write-up: `categories` must include that project's `category` (see `_data/projects.yml`). The project icon then wins via `post-label.html`.
+- Standalone post: set `icon:` (e.g. `music`, `website`).
+- Voice matches `_posts/2026-08-16-rebuilding-this-site.markdown` and `_posts/2026-07-03-magia-bianca.markdown`.
+- Cursor-authored posts end with `{% include made-with-cursor.html %}` (`— Made with [icon-cursor] Cursor`, muted, right-aligned). `icon-cursor` is the hexagon + arrow cutout, not a mouse pointer.
+
+### Album / listen post (see Magia Bianca)
+
+Order: personal opener → cover (`assets/images/posts/`, `.album-cover`) → Stefano's favorites → `<aside class="album-facts">` with label `Album information` (facts only, smaller muted text) → `.listen-links` (Spotify, YouTube Music, Apple Music) → made-with.
+
+Date = the `date` already in `music.yml` for that album. Quote published lyrics only. Verify streaming URLs; do not invent YouTube Music album IDs.
+
+## Projects
+
+Add a block to `_data/projects.yml`. If `section` is new, also add the `assign` + `##` heading in `projects.markdown`.
+
+Required: `slug`, `section` (`flagship` | `libraries` | `web` | `games` | `interpreters`), `category` (must match related posts), `icon`, `name`, `why` (one line), `description` (`>` markdown), `links`, `tags`. Optional: `screenshot`, `screenshot_alt`, `emoji`.
+
+Related posts are automatic when `post.categories` contains `project.category`.
+
+## Icons
+
+New mark: `<symbol id="icon-NAME" viewBox="0 0 24 24">` in `_includes/icons.svg`. Prefer the site stroke style (`currentColor`, width 1.75). Use `{% include icon.html name="NAME" %}`.
+
+Give it an unused color in `assets/main.scss` next to the other `.icon.icon-*` rules.
+
+Taken: mappa `#2dd4bf`, todo `#f4b942`, prettycode `#a78bfa`, blocchi `#60a5fa`, fifteen `#fb923c`, tictactoe `#fb7185`, connectfour `#facc15`, turing `#ef4444`, brainfuck `#e879f9`, website `#f43f5e`, music-in-posts `#f472b6`, spotify `#1ed760`, youtube-music `#ff0033`, apple-music `#fc3c44`.
+
+- Project / global: `.icon.icon-NAME { color: #...; }`
+- Post-only (keep nav brand): `.post-title .icon.icon-NAME, .post-link .icon.icon-NAME`
+- Music and website post icons: not green or blue

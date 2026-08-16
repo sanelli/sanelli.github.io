@@ -1145,6 +1145,14 @@ table.sortable th[aria-sort="descending"] .sort-icon {
   color: var(--text-muted);
 }
 
+.media-toolbar:has(+ .home-stats-link) {
+  margin-bottom: 0;
+}
+
+.media-toolbar + .home-stats-link {
+  margin: 0.15em 0 1.5em;
+}
+
 // 404 page
 .error-404 {
   margin: 10px auto;
