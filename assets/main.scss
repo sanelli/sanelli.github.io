@@ -1032,7 +1032,7 @@ table.media-table a {
   overflow: hidden;
 }
 
-.media-table td:has(.media-flag) {
+.media-table td:has(.media-flag):not(.media-card) {
   text-align: center;
 }
 
@@ -1163,6 +1163,7 @@ table.media-table td.media-card {
   border: 0;
   padding: 0;
   background: transparent;
+  text-align: left;
 }
 
 table.media-table .media-card a {
@@ -1213,17 +1214,37 @@ table.media-table .media-card a {
   flex: 1 1 auto;
 }
 
+.media-card-top {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 0.55em;
+}
+
 .media-card-title {
   margin: 0;
   font-size: 1.15em;
   font-weight: 700;
   line-height: 1.25;
+  text-align: left;
+}
+
+.media-card-lang {
+  flex: 0 0 auto;
+  margin-top: 0.2em;
+  line-height: 0;
+}
+
+.media-card-lang .media-flag {
+  width: 1.35rem;
+  height: 0.9rem;
 }
 
 .media-card-rating {
   margin: 0.25em 0 0;
   font-size: 0.78em;
   line-height: 1.2;
+  text-align: left;
 }
 
 .media-card .media-genres {
@@ -1234,6 +1255,7 @@ table.media-table .media-card a {
   margin: 0.45em 0 0;
   font-size: 0.9em;
   line-height: 1.4;
+  text-align: left;
 }
 
 .media-card-year {
