@@ -17,7 +17,7 @@
 
     Array.prototype.forEach.call(headerRow.cells, function (th) {
       var label = (th.textContent || "").trim().toLowerCase();
-      if (label === "year" || label === "rating") {
+      if (label === "rating" || label.indexOf("year") !== -1) {
         th.setAttribute("data-sort-method", "number");
       }
       if (!th.getAttribute("title") && th.getAttribute("data-sort-method") !== "none") {

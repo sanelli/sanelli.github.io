@@ -9,6 +9,8 @@
 {%- elsif kind == "movies" -%}{%- assign people_label = "Created by" -%}
 {%- elsif kind == "music" -%}{%- assign people_label = "Artist" -%}
 {%- endif -%}
+{%- assign year_label = "Release year" -%}
+{%- if kind == "books" -%}{%- assign year_label = "Published year" -%}{%- endif -%}
 <div class="media-table-wrap">
 <table class="media-table media-table--{{ include.mode }} sortable">
   <thead>
@@ -35,7 +37,7 @@
       {%- elsif kind == "music" -%}
       <th><nobr>Artist</nobr>{%- include_cached sort-icon.html -%}</th>
       {%- endif -%}
-      <th data-sort-method="number"><nobr>Year</nobr>{%- include_cached sort-icon.html -%}</th>
+      <th data-sort-method="number"><nobr>{{ year_label }}</nobr>{%- include_cached sort-icon.html -%}</th>
       <th><nobr>Genre</nobr>{%- include_cached sort-icon.html -%}</th>
     </tr>
   </thead>
@@ -61,7 +63,7 @@
       {%- elsif kind == "music" -%}
       <td data-label="{{ people_label }}">{%- include_cached media-people.html people=item.artists -%}</td>
       {%- endif -%}
-      <td data-label="Year">{{ item.year }}</td>
+      <td data-label="{{ year_label }}">{{ item.year }}</td>
       <td data-label="Genre">{%- include_cached media-genres.html genres=item.genres -%}</td>
     </tr>
     {%- endfor -%}
