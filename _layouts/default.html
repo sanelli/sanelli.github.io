@@ -4,9 +4,9 @@
   {%- include head.html -%}
 
   <body class="layout-{{ page.layout }}{% if page.body_class %} {{ page.body_class }}{% endif %}">
-    {%- include icons.svg -%}
+    {%- include_cached icons.svg -%}
 
-    {%- include header.html -%}
+    {%- include_cached header.html -%}
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
@@ -14,7 +14,7 @@
       </div>
     </main>
 
-    {%- include footer.html -%}
+    {%- include_cached footer.html -%}
 
     <script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
     {%- if page.sortable_tables -%}

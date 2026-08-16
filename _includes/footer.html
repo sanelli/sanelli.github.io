@@ -5,9 +5,9 @@
     <div class="footer-top">
       <h2 class="footer-heading">{{ site.title | escape }}</h2>
       <button type="button" class="theme-switch" data-theme-toggle aria-label="Color theme: Dark. Click to switch.">
-        {%- include icon.html name="theme-dark" -%}
-        {%- include icon.html name="theme-light" -%}
-        {%- include icon.html name="theme-system" -%}
+        {%- include_cached icon.html name="theme-dark" -%}
+        {%- include_cached icon.html name="theme-light" -%}
+        {%- include_cached icon.html name="theme-system" -%}
         <span class="theme-switch-label">Dark</span>
       </button>
     </div>
@@ -29,7 +29,7 @@
       </div>
 
       <div class="footer-col footer-col-2">
-        {%- include social.html -%}
+        {%- include_cached social.html -%}
       </div>
 
       <div class="footer-col footer-col-3">

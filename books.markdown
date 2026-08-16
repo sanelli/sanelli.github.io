@@ -7,4 +7,4 @@ permalink: /books/
 sortable_tables: true
 ---
 
-{% include media-page.html kind="books" current_heading="Reading" %}
+{% include_cached media-page.html kind="books" current_heading="Reading" %}

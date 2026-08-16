@@ -11,7 +11,7 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">{%- include post-label.html title=page.title project=project -%}</h1>
+    <h1 class="post-title p-name" itemprop="name headline">{%- include_cached post-label.html title=page.title project=project -%}</h1>
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -22,7 +22,7 @@ layout: default
       {%- endif -%}
     </p>
     {%- if project -%}
-    <p class="post-project">From the portfolio: <a href="{{ '/projects/' | relative_url }}#{{ project.slug }}">{%- include icon.html name=project.icon -%}{{ project.name }}</a></p>
+    <p class="post-project">From the portfolio: <a href="{{ '/projects/' | relative_url }}#{{ project.slug }}">{%- include_cached icon.html name=project.icon -%}{{ project.name }}</a></p>
     {%- endif -%}
   </header>
 

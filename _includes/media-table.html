@@ -6,29 +6,29 @@
   <thead>
     <tr>
       {%- if rated -%}
-      <th><nobr>Date</nobr>{%- include sort-icon.html -%}</th>
-      <th data-sort-method="number"><nobr>Rating</nobr>{%- include sort-icon.html -%}</th>
+      <th><nobr>Date</nobr>{%- include_cached sort-icon.html -%}</th>
+      <th data-sort-method="number"><nobr>Rating</nobr>{%- include_cached sort-icon.html -%}</th>
       {%- endif -%}
       {%- if kind == "music" -%}
-      <th><nobr>Album</nobr>{%- include sort-icon.html -%}</th>
+      <th><nobr>Album</nobr>{%- include_cached sort-icon.html -%}</th>
       {%- else -%}
-      <th><nobr>Title</nobr>{%- include sort-icon.html -%}</th>
+      <th><nobr>Title</nobr>{%- include_cached sort-icon.html -%}</th>
       {%- endif -%}
       {%- if kind == "books" -%}
-      <th><nobr>Author(s)</nobr>{%- include sort-icon.html -%}</th>
-      <th><nobr>Language</nobr>{%- include sort-icon.html -%}</th>
+      <th><nobr>Author(s)</nobr>{%- include_cached sort-icon.html -%}</th>
+      <th><nobr>Language</nobr>{%- include_cached sort-icon.html -%}</th>
       {%- elsif kind == "games" -%}
-      <th><nobr>Developer(s)</nobr>{%- include sort-icon.html -%}</th>
-      <th><nobr>Publisher(s)</nobr>{%- include sort-icon.html -%}</th>
-      <th><nobr>Console</nobr>{%- include sort-icon.html -%}</th>
+      <th><nobr>Developer(s)</nobr>{%- include_cached sort-icon.html -%}</th>
+      <th><nobr>Publisher(s)</nobr>{%- include_cached sort-icon.html -%}</th>
+      <th><nobr>Console</nobr>{%- include_cached sort-icon.html -%}</th>
       {%- elsif kind == "movies" -%}
-      <th>Directed <span class="media-or">- or -</span> <br/> <nobr>Created by</nobr>{%- include sort-icon.html -%}</th>
-      <th><nobr>Language</nobr>{%- include sort-icon.html -%}</th>
+      <th>Directed <span class="media-or">- or -</span> <br/> <nobr>Created by</nobr>{%- include_cached sort-icon.html -%}</th>
+      <th><nobr>Language</nobr>{%- include_cached sort-icon.html -%}</th>
       {%- elsif kind == "music" -%}
-      <th><nobr>Artist</nobr>{%- include sort-icon.html -%}</th>
+      <th><nobr>Artist</nobr>{%- include_cached sort-icon.html -%}</th>
       {%- endif -%}
-      <th data-sort-method="number"><nobr>Year</nobr>{%- include sort-icon.html -%}</th>
-      <th><nobr>Genre</nobr>{%- include sort-icon.html -%}</th>
+      <th data-sort-method="number"><nobr>Year</nobr>{%- include_cached sort-icon.html -%}</th>
+      <th><nobr>Genre</nobr>{%- include_cached sort-icon.html -%}</th>
     </tr>
   </thead>
   <tbody>
@@ -39,22 +39,22 @@
       <td data-sort="{{ item.date }}">{%- if item.date -%}<span class="media-date" data-sort="{{ item.date }}"><nobr>{{ item.date }}</nobr></span>{%- endif -%}</td>
       <td data-sort="{{ item.rating }}">{%- if item.rating -%}<span class="media-rating" data-sort="{{ item.rating }}">{%- for i in (1..item.rating) -%}⭐️{%- endfor -%}</span>{%- endif -%}</td>
       {%- endif -%}
-      <td>{%- include media-title.html item=item -%}</td>
+      <td>{%- include_cached media-title.html item=item -%}</td>
       {%- if kind == "books" -%}
-      <td>{%- include media-people.html people=item.authors -%}</td>
-      <td data-sort="{{ item.language }}">{%- include media-language.html language=item.language -%}</td>
+      <td>{%- include_cached media-people.html people=item.authors -%}</td>
+      <td data-sort="{{ item.language }}">{%- include_cached media-language.html language=item.language -%}</td>
       {%- elsif kind == "games" -%}
-      <td>{%- include media-people.html people=item.developers -%}</td>
-      <td>{%- include media-people.html people=item.publishers -%}</td>
-      <td>{%- if item.console -%}{%- include media-link.html text=item.console.name url=item.console.url -%}{%- endif -%}</td>
+      <td>{%- include_cached media-people.html people=item.developers -%}</td>
+      <td>{%- include_cached media-people.html people=item.publishers -%}</td>
+      <td>{%- if item.console -%}{%- include_cached media-link.html text=item.console.name url=item.console.url -%}{%- endif -%}</td>
       {%- elsif kind == "movies" -%}
-      <td>{%- include media-people.html people=item.creators -%}</td>
-      <td data-sort="{{ item.language }}">{%- include media-language.html language=item.language -%}</td>
+      <td>{%- include_cached media-people.html people=item.creators -%}</td>
+      <td data-sort="{{ item.language }}">{%- include_cached media-language.html language=item.language -%}</td>
       {%- elsif kind == "music" -%}
-      <td>{%- include media-people.html people=item.artists -%}</td>
+      <td>{%- include_cached media-people.html people=item.artists -%}</td>
       {%- endif -%}
       <td>{{ item.year }}</td>
-      <td>{%- include media-genres.html genres=item.genres -%}</td>
+      <td>{%- include_cached media-genres.html genres=item.genres -%}</td>
     </tr>
     {%- endfor -%}
   </tbody>

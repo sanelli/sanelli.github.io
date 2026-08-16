@@ -4,6 +4,9 @@ title: Work
 icon: work
 description: Work history — software engineering roles in C#, .NET, and cloud systems.
 permalink: /work/
+redirect_from:
+  - /cv/
+  - /cv.html
 body_class: entries-page
 ---
 
@@ -14,29 +17,29 @@ body_class: entries-page
 <span class="entry-detail">**Frameworks**: `ASP.NET`, `Kafka`, `Postgres`</span>
 
 ### <span class="entry-title"><img class="entry-logo" src="{{ '/assets/images/logos/unity.svg' | relative_url }}"/> Unity Technologies <span class="entry-meta"><a href="https://unity.com/products/asset-manager">Unity Asset Manager</a><a href="https://unity.com/products/unity-artengine">ArtEngine</a></span></span> <span class="entry-meta">[Jun 2020 – Jan 2026]</span>
-<span class="entry-products">{% include product-shot.html name="Unity Asset Manager" url="https://unity.com/products/asset-manager" image="asset-manager.png" %}{% include product-shot.html name="ArtEngine" url="https://unity.com/products/unity-artengine" image="artengine.jpg" %}</span>
+<span class="entry-products">{% include_cached product-shot.html name="Unity Asset Manager" url="https://unity.com/products/asset-manager" image="asset-manager.png" %}{% include_cached product-shot.html name="ArtEngine" url="https://unity.com/products/unity-artengine" image="artengine.jpg" %}</span>
 <span class="entry-detail">*Staff Software Engineer, Cloud Application Architect*</span> <span class="entry-meta-sm">[Oct 2025 – Jan 2026]</span><br/>
 <span class="entry-detail entry-blurb">Architecture design and review of key Asset Manager components; tech lead for product alignment, cross-team work, and office-hour support.</span>
 <span class="entry-detail">**Activities**: `architecture design`, `tech lead`, `product alignment`, `office-hour support`</span><br/>
 <span class="entry-detail">**Language**: `C#`</span><br/>
-<span class="entry-detail entry-chips">**Product**: {% include product-chip.html name="Unity Asset Manager" %}</span><br/>
+<span class="entry-detail entry-chips">**Product**: {% include_cached product-chip.html name="Unity Asset Manager" %}</span><br/>
 <span class="entry-detail">**Frameworks**: `ASP.NET`, `MongoDB`, `Elasticsearch`, `Redis`, `gRPC`, `ServiceBus`, `RabbitMQ`, `Azure`, `AWS`</span><br/><br/>
 <span class="entry-detail">*Senior Manager, Software Engineering*</span> <span class="entry-meta-sm">[Apr 2024 – Sep 2025]</span><br/>
 <span class="entry-detail entry-blurb">Grew the Asset Manager team (three promotions), planned delivery with product, and stayed tech lead on architecture and office-hour support.</span>
 <span class="entry-detail">**Activities**: `team growth`, `recruiting`, `mentoring`, `planning`, `architecture design`, `office-hour support`</span><br/>
-<span class="entry-detail entry-chips">**Product**: {% include product-chip.html name="Unity Asset Manager" %}</span><br/>
+<span class="entry-detail entry-chips">**Product**: {% include_cached product-chip.html name="Unity Asset Manager" %}</span><br/>
 <span class="entry-detail">**Frameworks**: `ASP.NET`, `MongoDB`, `Elasticsearch`, `Redis`, `gRPC`, `ServiceBus`, `TypeScript`, `React`, `Azure`, `AWS`</span><br/><br/>
 <span class="entry-detail">*Staff Software Engineer*</span> <span class="entry-meta-sm">[Jul 2023 – Mar 2024]</span><br/>
 <span class="entry-detail entry-blurb">Designed Asset Manager backend microservices and drove shared .NET standards with analysers, coverage reports, and performance work.</span>
 <span class="entry-detail">**Activities**: `software architecture`, `coding`, `defining standards`, `performance`, `mentoring`, `bug-fixing`</span><br/>
 <span class="entry-detail">**Language**: `C#`</span><br/>
-<span class="entry-detail entry-chips">**Product**: {% include product-chip.html name="Unity Asset Manager" %}</span><br/>
+<span class="entry-detail entry-chips">**Product**: {% include_cached product-chip.html name="Unity Asset Manager" %}</span><br/>
 <span class="entry-detail">**Frameworks**: `ASP.NET`, `MongoDB`, `Elasticsearch`, `Redis`, `gRPC`, `Event Hub`, `ServiceBus`, `PowerShell`, `Azure`</span><br/><br/>
 <span class="entry-detail">*Senior Software Engineer*</span> <span class="entry-meta-sm">[Jun 2020 – Jun 2023]</span><br/>
 <span class="entry-detail entry-blurb">Built Asset Manager backend microservices, then added ArtEngine licensing, SSO, anti-tamper, analytics, and a live Unity Editor preview.</span>
 <span class="entry-detail">**Activities**: `software architecture`, `coding`, `bug-fixing`</span><br/>
 <span class="entry-detail">**Languages**: `C#`, `C++`</span><br/>
-<span class="entry-detail entry-chips">**Product**: {% include product-chip.html name="Unity Asset Manager" %}{% include product-chip.html name="ArtEngine" %}</span><br/>
+<span class="entry-detail entry-chips">**Product**: {% include_cached product-chip.html name="Unity Asset Manager" %}{% include_cached product-chip.html name="ArtEngine" %}</span><br/>
 <span class="entry-detail">**Frameworks**: `ASP.NET`, `MongoDB`, `Elasticsearch`, `Kafka`, `Redis`, `gRPC`, `Event Hub`, `Keycloak`, `PowerShell`, `Unity`, `nuklear`, `GCP`, `Azure`</span>
 
 ### <span class="entry-title"><img class="entry-logo" src="{{ '/assets/images/logos/sig.jpg' | relative_url }}"/> Susquehanna International Group</span> <span class="entry-meta">[Oct 2016 – May 2020]</span>
@@ -58,16 +61,16 @@ body_class: entries-page
 <span class="entry-detail entry-blurb">Snap-ins and API tests for the Daon Engine, plus user documentation.</span>
 <span class="entry-detail">**Activities**: `coding`, `testing`, `documentation`, `bug-fixing`</span><br/>
 <span class="entry-detail">**Languages**: `C++`, `Java`</span><br/>
-<span class="entry-detail entry-chips">**Product**: {% include product-chip.html name="IdentityX" %}</span><br/>
+<span class="entry-detail entry-chips">**Product**: {% include_cached product-chip.html name="IdentityX" %}</span><br/>
 <span class="entry-detail">**Frameworks**: `Maven`, `Spring`, `Hibernate`, `MegaMatcher`, `Cognitec`</span>
 
 ### <span class="entry-title"><img class="entry-logo" src="{{ '/assets/images/logos/slb.svg' | relative_url }}"/> Schlumberger <span class="entry-meta"><a href="https://www.slb.com/products-and-services/delivering-digital-at-scale/software/petrel-subsurface-software/petrel/petrel-geophysics/petrel-multiphysics-plug-in">Petrel multiphysics plug-in</a></span></span> <span class="entry-meta">[Jun 2010 – Sep 2015]</span>
-<span class="entry-products">{% include product-shot.html name="Petrel multiphysics plug-in" url="https://www.slb.com/products-and-services/delivering-digital-at-scale/software/petrel-subsurface-software/petrel/petrel-geophysics/petrel-multiphysics-plug-in" image="petrel-multiphysics.jpg" %}</span>
+<span class="entry-products">{% include_cached product-shot.html name="Petrel multiphysics plug-in" url="https://www.slb.com/products-and-services/delivering-digital-at-scale/software/petrel-subsurface-software/petrel/petrel-geophysics/petrel-multiphysics-plug-in" image="petrel-multiphysics.jpg" %}</span>
 <span class="entry-detail">*Software engineer*</span><br/>
 <span class="entry-detail entry-blurb">Petrel plug-ins for seismic and non-seismic work; integrated legacy FORTRAN and C++ and wrote client Python utilities.</span>
 <span class="entry-detail">**Activities**: `software architecture`, `coding`, `bug-fixing`, `documentation`</span><br/>
 <span class="entry-detail">**Languages**: `C#`, `C++`, `C++/CLI`, `Python`</span><br/>
-<span class="entry-detail entry-chips">**Product**: {% include product-chip.html name="Petrel multiphysics plug-in" %}</span><br/>
+<span class="entry-detail entry-chips">**Product**: {% include_cached product-chip.html name="Petrel multiphysics plug-in" %}</span><br/>
 <span class="entry-detail">**Frameworks**: `NHibernate`, `NMath`, `Boost`, `Boost.Spirit`, `Open Inventor`, `GDI`, `Petrel`, `Ocean`</span>
 
 ### <span class="entry-title"><img class="entry-logo" src="{{ '/assets/images/logos/manthia.jpg' | relative_url }}"/> Manthia</span> <span class="entry-meta">[Apr 2009 – Jun 2010]</span>
@@ -77,9 +80,9 @@ body_class: entries-page
 <span class="entry-detail">**Languages**: `Java`, `SQL`</span><br/>
 <span class="entry-detail">**Frameworks**: `MySQL`, `JSP`</span>
 
-## {% include icon.html name="education" %} Education
+## {% include_cached icon.html name="education" %} Education
 ### <span class="entry-title"><img class="entry-logo" src="{{ '/assets/images/logos/polimi.png' | relative_url }}"/> Politecnico di Milano</span> <span class="entry-meta">[Sep 2003 – Jul 2009]</span>
-<span class="entry-products">{% include product-shot.html name="Master's dissertation" url="/assets/tesi.pdf" src="/assets/images/tesi.png" portrait=true %}</span>
+<span class="entry-products">{% include_cached product-shot.html name="Master's dissertation" url="/assets/tesi.pdf" src="/assets/images/tesi.png" portrait=true %}</span>
 <span class="entry-detail">*Master of Science in Computer Engineering*</span> <span class="entry-meta-sm">[Sep 2007 – Jul 2009]</span><br/>
 <span class="entry-detail">**Subjects**: `software architecture`, `OS`, `compilers`, `AI`, `cryptography`</span><br/>
 <span class="entry-detail entry-row">**Dissertation** <span class="entry-row-value">Method specialization for [CIL](https://en.wikipedia.org/wiki/Common_Intermediate_Language) in a dynamic compiler</span></span>
@@ -94,17 +97,17 @@ body_class: entries-page
 <span class="entry-detail">**Subjects**: `computer science`, `electronics`, `networking`, `databases`</span><br/>
 <span class="entry-detail entry-row">**Final project** <span class="entry-row-value">An SMTP/POP3 e-mail client written in Delphi</span></span>
 
-## {% include icon.html name="awards" %} Awards
+## {% include_cached icon.html name="awards" %} Awards
 <span class="entry-detail entry-row">**Olimpiadi Italiane di Informatica** <span class="entry-row-value">Bronze medal</span></span><br/>
 <span class="entry-detail entry-row">**ECDL** <span class="entry-row-value">Certification</span></span><br/>
 <span class="entry-detail entry-row">**TOEFL** <span class="entry-row-value">Certification</span></span>
 
-## {% include icon.html name="languages" %} Languages
-<span class="entry-detail entry-row">{% include media-language.html language="Italian" %} **Italian** <span class="entry-row-value">Native proficiency</span></span><br/>
-<span class="entry-detail entry-row">{% include media-language.html language="English" %} **English** <span class="entry-row-value">Full professional proficiency</span></span>
+## {% include_cached icon.html name="languages" %} Languages
+<span class="entry-detail entry-row">{% include_cached media-language.html language="Italian" %} **Italian** <span class="entry-row-value">Native proficiency</span></span><br/>
+<span class="entry-detail entry-row">{% include_cached media-language.html language="English" %} **English** <span class="entry-row-value">Full professional proficiency</span></span>
 
-## {% include icon.html name="links" %} Links
-<span class="entry-detail">{% include icon.html name="github" %} [GitHub](https://github.com/sanelli)</span><br/>
-<span class="entry-detail">{% include icon.html name="linkedin" %} [LinkedIn](https://linkedin.com/in/stefanoanelli/)</span><br/>
-<span class="entry-detail">{% include icon.html name="nuget" %} [NuGet](https://www.nuget.org/profiles/sanelli)</span><br/>
-<span class="entry-detail">{% include icon.html name="stackoverflow" %} [Stack Overflow](https://stackoverflow.com/users/1468832/sanelli)</span>
+## {% include_cached icon.html name="links" %} Links
+<span class="entry-detail">{% include_cached icon.html name="github" %} [GitHub](https://github.com/sanelli)</span><br/>
+<span class="entry-detail">{% include_cached icon.html name="linkedin" %} [LinkedIn](https://linkedin.com/in/stefanoanelli/)</span><br/>
+<span class="entry-detail">{% include_cached icon.html name="nuget" %} [NuGet](https://www.nuget.org/profiles/sanelli)</span><br/>
+<span class="entry-detail">{% include_cached icon.html name="stackoverflow" %} [Stack Overflow](https://stackoverflow.com/users/1468832/sanelli)</span>

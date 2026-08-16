@@ -7,4 +7,4 @@ permalink: /music/
 sortable_tables: true
 ---
 
-{% include media-page.html kind="music" %}
+{% include_cached media-page.html kind="music" %}

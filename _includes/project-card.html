@@ -2,7 +2,7 @@
 {%- assign related = site.posts | where_exp: "post", "post.categories contains project.category" -%}
 <article class="project-card{% if project.section == 'flagship' %} project-card--flagship{% endif %}" id="{{ project.slug }}">
   <h3>
-    <span class="entry-title">{%- include icon.html name=project.icon -%}{{ project.name }}</span>
+    <span class="entry-title">{%- include_cached icon.html name=project.icon -%}{{ project.name }}</span>
     <span class="entry-meta">
       {%- for link in project.links -%}
       <a href="{{ link.url }}">{{ link.text }}</a>
@@ -33,7 +33,7 @@
     <span class="chip-label">Posts</span>
     <span class="project-meta-values">
       {%- for post in related -%}
-      <a href="{{ post.url | relative_url }}">{%- include post-label.html title=post.title project=project -%}</a>
+      <a href="{{ post.url | relative_url }}">{%- include_cached post-label.html title=post.title project=project -%}</a>
       {%- endfor -%}
     </span>
   </p>

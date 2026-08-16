@@ -14,20 +14,20 @@ body_class: entries-page
 
 ## Flagship
 {% for project in flagships %}
-{% include project-card.html project=project %}
+{% include_cached project-card.html project=project %}
 {% endfor %}
 
 ## Libraries
 {% for project in libraries %}
-{% include project-card.html project=project %}
+{% include_cached project-card.html project=project %}
 {% endfor %}
 
 ## Games
 {% for project in games %}
-{% include project-card.html project=project %}
+{% include_cached project-card.html project=project %}
 {% endfor %}
 
 ## Interpreters
 {% for project in interpreters %}
-{% include project-card.html project=project %}
+{% include_cached project-card.html project=project %}
 {% endfor %}

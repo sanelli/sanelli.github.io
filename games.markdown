@@ -7,4 +7,4 @@ permalink: /games/
 sortable_tables: true
 ---
 
-{% include media-page.html kind="games" current_heading="Playing" %}
+{% include_cached media-page.html kind="games" current_heading="Playing" %}

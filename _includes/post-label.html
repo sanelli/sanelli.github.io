@@ -8,6 +8,6 @@
     {%- assign label_title = label_title | replace: label_project.emoji_alt, "" -%}
   {%- endif -%}
   {%- assign label_title = label_title | strip -%}
-  {%- include icon.html name=label_project.icon -%}
+  {%- include_cached icon.html name=label_project.icon -%}
 {%- endif -%}
 {{ label_title | escape }}
