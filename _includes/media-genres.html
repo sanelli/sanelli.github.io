@@ -1,8 +1,16 @@
 {%- assign genres = include.genres -%}
 {%- if genres and genres.size > 0 -%}
+{%- if include.format == "text" -%}
+{%- capture genre_text -%}
+{%- for genre in genres -%}{{ genre | replace: "-", " " }}{% unless forloop.last %}, {% endunless %}{%- endfor -%}
+{%- endcapture -%}
+<p class="media-card-genres">{{ genre_text | strip | capitalize }}</p>
+{%- else -%}
 <span class="media-genres">
 {%- for genre in genres -%}
 <span class="chip">{{ genre }}</span>
 {%- endfor -%}
 </span>
 {%- endif -%}
+{%- endif -%}
+

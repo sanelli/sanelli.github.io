@@ -1,0 +1,8 @@
+{%- assign filled = include.rating | plus: 0 -%}
+{%- if filled > 0 -%}
+<span class="media-stars" aria-label="{{ filled }} out of 5">
+{%- for i in (1..5) -%}
+{%- if i <= filled -%}{%- include icon.html name="star" -%}{%- else -%}{%- include icon.html name="star-empty" -%}{%- endif -%}
+{%- endfor -%}
+</span>
+{%- endif -%}
