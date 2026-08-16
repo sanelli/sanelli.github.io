@@ -22,7 +22,7 @@
   tags: [C#, source-generator, csharp, dotnet]
 
 - slug: todo-analyzer
-  section: flagship
+  section: libraries
   category: todo
   icon: todo
   emoji: "💭"
