@@ -789,6 +789,29 @@ table {
     font-size: 0.85em;
   }
 
+  .project-github-stats {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.7em;
+    margin: 0.1em 0 0.1em 0.55em;
+    color: var(--text-muted);
+    font-size: 0.85em;
+    white-space: nowrap;
+  }
+
+  .project-github-stat {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.28em;
+  }
+
+  .project-github-stat .icon {
+    width: 0.95em;
+    height: 0.95em;
+    margin: 0;
+    color: inherit;
+  }
+
   .entry-logo,
   .post-content h3 img {
     width: 1.2em;

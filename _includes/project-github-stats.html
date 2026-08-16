@@ -1,0 +1,29 @@
+{%- assign gh_nwo = nil -%}
+{%- for link in include.project.links -%}
+  {%- if link.url contains "github.com/" -%}
+    {%- assign gh_parts = link.url | split: "github.com/" | last | split: "/" -%}
+    {%- if gh_parts.size >= 2 -%}
+      {%- assign gh_nwo = gh_parts[0] | append: "/" | append: gh_parts[1] -%}
+    {%- endif -%}
+    {%- break -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign gh_repo = nil -%}
+{%- if gh_nwo and site.github.public_repositories -%}
+  {%- assign gh_want = gh_nwo | downcase -%}
+  {%- for repository in site.github.public_repositories -%}
+    {%- assign gh_have = repository.full_name | downcase -%}
+    {%- if gh_have == gh_want -%}
+      {%- assign gh_repo = repository -%}
+      {%- break -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+{%- if gh_repo -%}
+  {%- assign gh_stars = gh_repo.stargazers_count | default: gh_repo.stargazers | default: 0 | plus: 0 -%}
+  {%- assign gh_forks = gh_repo.forks_count | default: gh_repo.forks | default: 0 | plus: 0 -%}
+<span class="project-github-stats">
+  <span class="project-github-stat" title="{{ gh_stars }} star{% unless gh_stars == 1 %}s{% endunless %}">{%- include icon.html name="star" -%}<span>{{ gh_stars }}</span></span>
+  <span class="project-github-stat" title="{{ gh_forks }} fork{% unless gh_forks == 1 %}s{% endunless %}">{%- include icon.html name="fork" -%}<span>{{ gh_forks }}</span></span>
+</span>
+{%- endif -%}

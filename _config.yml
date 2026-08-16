@@ -47,6 +47,9 @@ plugins:
   - jekyll-include-cache
   - jekyll-target-blank
   - jekyll-paginate-v2
+  - jekyll-github-metadata
+
+repository: sanelli/sanelli.github.io
 
 pagination:
   enabled: true

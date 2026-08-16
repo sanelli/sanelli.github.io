@@ -7,6 +7,7 @@
       {%- for link in project.links -%}
       <a href="{{ link.url }}">{{ link.text }}</a>
       {%- endfor -%}
+      {%- include project-github-stats.html project=project -%}
     </span>
   </h3>
   {%- if project.why -%}
