@@ -675,6 +675,22 @@ table {
     color: var(--text-chip);
   }
 
+  .entry-awards {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    column-gap: 1.25em;
+    row-gap: 0.35em;
+    align-items: baseline;
+  }
+
+  .entry-awards .entry-row {
+    display: contents;
+  }
+
+  .entry-awards .entry-row > strong {
+    min-width: 0;
+  }
+
   .entry-chips a:hover {
     color: var(--text-hover);
     border-color: var(--border-chip-hover);

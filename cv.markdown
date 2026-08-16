@@ -101,9 +101,10 @@ body_class: entries-page
 <span class="entry-detail entry-row">**Final project** <span class="entry-row-value">An SMTP/POP3 e-mail client written in Delphi</span></span>
 
 ## {% include_cached icon.html name="awards" %} Awards
-<span class="entry-detail entry-row">**Olimpiadi Italiane di Informatica** <span class="entry-row-value">Bronze medal</span></span><br/>
+<span class="entry-detail entry-row">**Informatics Olympiad** <span class="entry-row-value">Bronze medal</span></span><br/>
 <span class="entry-detail entry-row">**ECDL** <span class="entry-row-value">Certification</span></span><br/>
 <span class="entry-detail entry-row">**TOEFL** <span class="entry-row-value">Certification</span></span>
+{: .entry-awards}
 
 ## {% include_cached icon.html name="languages" %} Languages
 <span class="entry-detail entry-row">{% include_cached media-language.html language="Italian" %} **Italian** <span class="entry-row-value">Native proficiency</span></span><br/>
