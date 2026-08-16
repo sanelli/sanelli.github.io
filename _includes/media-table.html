@@ -39,6 +39,7 @@
       {%- endif -%}
       <th data-sort-method="number"><nobr>{{ year_label }}</nobr>{%- include_cached sort-icon.html -%}</th>
       <th><nobr>Genre</nobr>{%- include_cached sort-icon.html -%}</th>
+      <th class="media-card-col" data-sort-method="none"></th>
     </tr>
   </thead>
   <tbody>
@@ -65,6 +66,39 @@
       {%- endif -%}
       <td data-label="{{ year_label }}">{{ item.year }}</td>
       <td data-label="Genre">{%- include_cached media-genres.html genres=item.genres -%}</td>
+      {%- assign card_people = nil -%}
+      {%- assign logged_verb = "Seen" -%}
+      {%- if kind == "books" -%}
+        {%- assign card_people = item.authors -%}
+        {%- assign logged_verb = "Read" -%}
+      {%- elsif kind == "music" -%}
+        {%- assign card_people = item.artists -%}
+        {%- assign logged_verb = "Listened" -%}
+      {%- elsif kind == "movies" -%}
+        {%- assign card_people = item.creators -%}
+        {%- assign logged_verb = "Seen" -%}
+      {%- elsif kind == "games" -%}
+        {%- assign card_people = item.developers -%}
+        {%- assign logged_verb = "Played" -%}
+      {%- endif -%}
+      <td class="media-card">
+        <div class="media-card-body">
+          <div class="media-card-cover">
+            <img alt="{{ item.title | escape }}" width="96" height="96" data-cover-from="{{ item.url }}" decoding="async">
+          </div>
+          <div class="media-card-main">
+            <p class="media-card-title">{%- include_cached media-title.html item=item -%}</p>
+            {%- if item.rating -%}<p class="media-card-rating">{%- for i in (1..item.rating) -%}⭐️{%- endfor -%}</p>{%- endif -%}
+            {%- include_cached media-genres.html genres=item.genres -%}
+            {%- if item.year or card_people -%}
+            <p class="media-card-credit">{%- if item.year -%}<span class="media-card-year">{{ item.year }}</span>{%- endif -%}{%- if card_people -%}{%- if item.year %} <span class="media-card-dot" aria-hidden="true">•</span> {% endif %}{% include media-people.html people=card_people join=", " %}{%- endif -%}</p>
+            {%- endif -%}
+          </div>
+        </div>
+        {%- if rated and item.date -%}
+        <p class="media-card-footer">{%- include icon.html name="calendar" -%}{{ logged_verb }} on {{ item.date | date: "%B %-d, %Y" }}</p>
+        {%- endif -%}
+      </td>
     </tr>
     {%- endfor -%}
   </tbody>

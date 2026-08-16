@@ -1018,6 +1018,10 @@ table.media-table a {
   white-space: nowrap;
 }
 
+.media-card-col {
+  display: none;
+}
+
 .media-flag {
   display: inline-block;
   width: 1.15rem;
@@ -1090,148 +1094,172 @@ table.sortable th[aria-sort="descending"] .sort-icon {
   .icon-sort-down { display: inline-block; opacity: 0.85; }
 }
 
-@media screen and (max-width: 800px) {
-  .media-table-wrap {
-    overflow: visible;
-    margin-left: 0;
-    margin-right: 0;
-    padding: 0;
+table.media-table,
+table.media-table thead,
+table.media-table tbody,
+table.media-table th,
+table.media-table td {
+  display: block;
+  width: 100%;
+  max-width: none;
+}
+
+table.media-table {
+  border: 0;
+}
+
+table.media-table thead tr {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35em;
+  margin: 0 0 0.85em;
+  background: transparent;
+}
+
+table.media-table thead th {
+  width: auto;
+  background: var(--bg-chip);
+  border: 1px solid var(--border-chip);
+  border-radius: 999px;
+  padding: 0.28em 0.65em;
+  font-size: 0.75em;
+  font-weight: 600;
+  white-space: nowrap;
+  line-height: 1.3;
+}
+
+table.media-table thead th br,
+table.media-table thead .media-or {
+  display: none;
+}
+
+table.media-table thead th.media-card-col,
+table.media-table td:not(.media-card) {
+  display: none;
+}
+
+table.media-table tbody tr.media-row {
+  display: block;
+  max-width: 36rem;
+  margin: 0 0 1.15em;
+  padding: 0;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+table.media-table tbody tr.media-row:nth-child(even) {
+  background: var(--bg-elevated);
+}
+
+table.media-table tbody tr.media-row[hidden] {
+  display: none;
+}
+
+table.media-table td.media-card {
+  display: block;
+  width: 100%;
+  border: 0;
+  padding: 0;
+  background: transparent;
+}
+
+table.media-table .media-card a {
+  white-space: normal;
+}
+
+.media-card-body {
+  display: flex;
+  gap: 0.85em;
+  padding: 0.85em 0.9em 0.75em;
+}
+
+.media-card-cover {
+  flex: 0 0 5.5rem;
+  width: 5.5rem;
+  height: 5.5rem;
+  border-radius: 8px;
+  background: var(--bg-chip);
+  overflow: hidden;
+}
+
+.media-card-cover img {
+  display: none;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.media-card-cover img[data-cover-state="ready"] {
+  display: block;
+}
+
+@media screen and (min-width: 700px) {
+  .media-card-cover {
+    flex-basis: 6.5rem;
+    width: 6.5rem;
+    height: 6.5rem;
   }
 
-  table.media-table,
-  table.media-table thead,
-  table.media-table tbody,
-  table.media-table th,
-  table.media-table td {
-    display: block;
-    width: 100%;
-    max-width: none;
+  table.media-table tbody tr.media-row {
+    max-width: 40rem;
+    margin-bottom: 1.35em;
   }
+}
 
-  table.media-table {
-    border: 0;
-  }
+.media-card-main {
+  min-width: 0;
+  flex: 1 1 auto;
+}
 
-  table.media-table thead tr {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.35em;
-    margin: 0 0 0.75em;
-    background: transparent;
-  }
+.media-card-title {
+  margin: 0;
+  font-size: 1.15em;
+  font-weight: 700;
+  line-height: 1.25;
+}
 
-  table.media-table thead th {
-    width: auto;
-    background: var(--bg-chip);
-    border: 1px solid var(--border-chip);
-    border-radius: 999px;
-    padding: 0.28em 0.65em;
-    font-size: 0.75em;
-    font-weight: 600;
-    white-space: nowrap;
-    line-height: 1.3;
-  }
+.media-card-rating {
+  margin: 0.25em 0 0;
+  font-size: 0.78em;
+  line-height: 1.2;
+}
 
-  table.media-table thead th br,
-  table.media-table thead .media-or {
-    display: none;
-  }
+.media-card .media-genres {
+  margin: 0.4em 0 0;
+}
 
-  table.media-table tbody tr {
-    position: relative;
-    display: flex;
-    flex-wrap: wrap;
-    background: var(--bg-elevated);
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    margin: 0 0 0.7em;
-    padding: 0.75em 0.9em 0.55em;
-  }
+.media-card-credit {
+  margin: 0.45em 0 0;
+  font-size: 0.9em;
+  line-height: 1.4;
+}
 
-  table.media-table tbody tr:nth-child(even) {
-    background: var(--bg-elevated);
-  }
+.media-card-year {
+  color: var(--text);
+  font-weight: 600;
+}
 
-  table.media-table tbody tr.media-row[hidden] {
-    display: none;
-  }
+.media-card-dot {
+  color: var(--text-muted);
+}
 
-  table.media-table td {
-    display: grid;
-    grid-template-columns: 7.2em 1fr;
-    gap: 0.45em 0.75em;
-    align-items: start;
-    width: 100%;
-    border: 0;
-    border-top: 1px solid var(--border-subtle);
-    padding: 0.4em 0;
-    text-align: left;
-    background: transparent;
-  }
+.media-card-footer {
+  display: flex;
+  align-items: center;
+  gap: 0.4em;
+  margin: 0;
+  padding: 0.55em 0.9em;
+  background: var(--bg-chip);
+  color: var(--text);
+  font-size: 0.82em;
+  border-top: 1px solid var(--border-subtle);
+}
 
-  table.media-table td::before {
-    content: attr(data-label);
-    color: var(--text-muted);
-    font-size: 0.75em;
-    font-weight: 600;
-    line-height: 1.45;
-  }
-
-  table.media-table td[data-label="Album"],
-  table.media-table td[data-label="Title"] {
-    display: block;
-    order: -2;
-    border-top: 0;
-    padding: 0 3.4em 0.45em 0;
-    font-size: 1.05em;
-    font-weight: 600;
-    line-height: 1.3;
-  }
-
-  table.media-table td[data-label="Album"]::before,
-  table.media-table td[data-label="Title"]::before {
-    display: none;
-  }
-
-  table.media-table td[data-label="Date"] {
-    order: -1;
-  }
-
-  table.media-table td[data-label="Rating"] {
-    position: absolute;
-    top: 0.75em;
-    right: 0.9em;
-    display: block;
-    width: auto;
-    border: 0;
-    padding: 0;
-    text-align: right;
-    line-height: 1;
-  }
-
-  table.media-table td[data-label="Rating"]::before {
-    display: none;
-  }
-
-  table.media-table td:has(.media-flag) {
-    text-align: left;
-  }
-
-  table.media-table a {
-    white-space: normal;
-  }
-
-  .media-date {
-    display: inline;
-    font-size: 1em;
-    text-align: left;
-  }
-
-  .media-rating {
-    display: inline;
-    font-size: 0.62em;
-    text-align: right;
-  }
+.media-card-footer .icon {
+  margin-right: 0.15em;
+  opacity: 0.8;
 }
 
 .media-toolbar {

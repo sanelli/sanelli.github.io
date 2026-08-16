@@ -73,5 +73,94 @@
     var ratingSelect = document.querySelector(".media-rating-filter");
     if (searchInput) searchInput.addEventListener("input", applyFilters);
     if (ratingSelect) ratingSelect.addEventListener("change", applyFilters);
+    observeCovers();
   });
+
+  function wikiImageEndpoint(pageUrl) {
+    try {
+      var parsed = new URL(pageUrl, window.location.href);
+      if (!/\.wikipedia\.org$/i.test(parsed.hostname)) return null;
+      var match = parsed.pathname.match(/\/wiki\/(.+)$/);
+      if (!match) return null;
+      var lang = parsed.hostname.split(".")[0];
+      var params = new URLSearchParams({
+        action: "query",
+        titles: decodeURIComponent(match[1]),
+        prop: "pageimages",
+        format: "json",
+        pithumbsize: "320",
+        pilicense: "any",
+        origin: "*"
+      });
+      return "https://" + lang + ".wikipedia.org/w/api.php?" + params.toString();
+    } catch (err) {
+      return null;
+    }
+  }
+
+  function thumbnailFromQuery(data) {
+    var pages = data && data.query && data.query.pages;
+    if (!pages) return null;
+    var keys = Object.keys(pages);
+    for (var i = 0; i < keys.length; i++) {
+      var thumb = pages[keys[i]] && pages[keys[i]].thumbnail;
+      if (thumb && thumb.source) return thumb.source;
+    }
+    return null;
+  }
+
+  function loadCover(img) {
+    if (!img || img.getAttribute("data-cover-state")) return;
+    img.setAttribute("data-cover-state", "loading");
+    var endpoint = wikiImageEndpoint(img.getAttribute("data-cover-from") || "");
+    if (!endpoint) {
+      img.setAttribute("data-cover-state", "empty");
+      return;
+    }
+    fetch(endpoint)
+      .then(function (res) {
+        return res.ok ? res.json() : null;
+      })
+      .then(function (data) {
+        var src = thumbnailFromQuery(data);
+        if (!src) {
+          img.setAttribute("data-cover-state", "empty");
+          return;
+        }
+        img.onload = function () {
+          img.setAttribute("data-cover-state", "ready");
+        };
+        img.onerror = function () {
+          img.setAttribute("data-cover-state", "empty");
+        };
+        img.src = src;
+      })
+      .catch(function () {
+        img.setAttribute("data-cover-state", "empty");
+      });
+  }
+
+  function observeCovers() {
+    var covers = document.querySelectorAll(".media-card-cover");
+    if (!covers.length) return;
+    if (!("IntersectionObserver" in window)) {
+      Array.prototype.forEach.call(covers, function (cover) {
+        loadCover(cover.querySelector("img"));
+      });
+      return;
+    }
+    var observer = new IntersectionObserver(
+      function (entries) {
+        entries.forEach(function (entry) {
+          if (!entry.isIntersecting) return;
+          observer.unobserve(entry.target);
+          loadCover(entry.target.querySelector("img"));
+        });
+      },
+      { rootMargin: "240px 0px" }
+    );
+    Array.prototype.forEach.call(covers, function (cover) {
+      observer.observe(cover);
+    });
+  }
 })();
