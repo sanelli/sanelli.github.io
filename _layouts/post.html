@@ -22,7 +22,7 @@ layout: default
       {%- endif -%}
     </p>
     {%- if project -%}
-    <p class="post-project">From the portfolio: <a href="{{ '/projects/' | relative_url }}#{{ project.slug }}">{%- include_cached icon.html name=project.icon -%}{{ project.name }}</a></p>
+    <p class="post-project">From the portfolio: <a href="{{ '/portfolio/' | relative_url }}#{{ project.slug }}">{%- include_cached icon.html name=project.icon -%}{{ project.name }}</a></p>
     {%- endif -%}
   </header>
 

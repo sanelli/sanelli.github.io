@@ -69,7 +69,7 @@ defaults:
 
 header_pages:
   - cv.markdown
-  - projects.markdown
+  - portfolio.markdown
   - posts.markdown
   - books.markdown
   - music.md

@@ -4,7 +4,7 @@
     <path d="M8 8V6a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/>
     <path d="M3 13h18"/>
   </symbol>
-  <symbol id="icon-projects" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+  <symbol id="icon-portfolio" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
     <path d="M8 7 4 12l4 5"/>
     <path d="m16 7 4 5-4 5"/>
     <path d="m13 5-2 14"/>

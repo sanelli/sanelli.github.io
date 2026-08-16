@@ -1,9 +1,12 @@
 ---
 layout: page
-title: Projects
-icon: projects
+title: Portfolio
+icon: portfolio
 description: Open-source .NET tools, source generators, analyzers, and small games.
-permalink: /projects/
+permalink: /portfolio/
+redirect_from:
+  - /projects/
+  - /projects.html
 body_class: entries-page
 ---
 

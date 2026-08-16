@@ -17,9 +17,9 @@ I was not expecting to like [this album](https://it.wikipedia.org/wiki/Magia_bia
 
 **Favorite intro.** *1484.* I am not sure what instrument opens it (probably the harpsichord she has talked about), but it puts me at the court of a king, listening to medieval music, eating roast turkey cooked on an open fire, while jesters sing, dance, and play.
 
-**Favorite lyrics.** "Servirebbe un incantesimo contro il tecnofeudalesimo," from *Feral Girl*. I am not sure what Francesca really wanted to say with that line. I heard she even thought of calling the album *Tecnofeudalesimo*. For me it strikes a chord because I am trying to use less technology, mainly to spend less time doomscrolling on the phone. These are the kind of lyrics I find myself humming on the way to work.
+**Favorite lyrics.** "Servirebbe un incantesimo contro il tecnofeudalesimo," from *Feral Girl*. I am not sure what Francesca really wanted to say with that line. I read somewhere that she even thought of calling the album *Tecnofeudalesimo*. For me it strikes a chord because I am trying to use less technology, mainly to spend less time doomscrolling on the phone. These are the kind of lyrics I find myself humming on the way to work.
 
-**Special mention.** *Litha.* The repetitive "Vieni vieni intorno al fuoco / scordati chi eri quando inizia il gioco / vieni vieni intorno al fuoco / mescola anche tu le lacrime all'alloro" makes me feel like a witch jumping around a bonfire, in silly clothes, throwing bay leaves into the fire, under a full moon. This song is very, very evocative.
+**Special mention.** *Litha.* The repetitive "Vieni vieni intorno al fuoco / scordati chi eri quando inizia il gioco / vieni vieni intorno al fuoco / mescola anche tu le lacrime all'alloro" makes me feel like a witch jumping around a bonfire, in silky clothes, throwing bay leaves into the fire, under a full moon. This song is very, very evocative.
 
 **The only one I cannot vibe with.** Weirdly enough, the song that appeals to me the least is *Magia bianca, magia nera*, the one that gives the album its name. I kind of understand the point of the lyrics, I think: you do not have to sit in the box of what other people call white magic or black magic; you can decide for yourself. Musically, though, it feels less connected to the rest of the album.
 
