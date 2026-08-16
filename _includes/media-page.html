@@ -4,7 +4,7 @@
 <p class="home-stats-link"><a href="{{ '/stats/' | relative_url }}">Stats for nerds</a></p>
 
 {%- if data.current and data.current.size > 0 -%}
-<div class="media-section">
+<div class="media-section media-section--current">
   <h2>{{ include.current_heading }}</h2>
   {% include_cached media-table.html kind=kind entries=data.current mode="plain" %}
 </div>

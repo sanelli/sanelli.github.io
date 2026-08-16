@@ -14,7 +14,7 @@ That was a mistake, or at least a missed chance. Once you start using data files
 
 What changed:
 
-- The **Work** page is a proper CV again: roles, product shots, chips for languages and frameworks, education, awards, and links.
+- The **Career** page is a proper CV again: roles, product shots, chips for languages and frameworks, education, awards, and links.
 - **Portfolio** items are cards driven from YAML, with the related posts hanging off each one.
 - **Books, music, movies, and games** moved out of hand-written tables into data files. The pages search, filter, and sort in the browser.
 - Emoji prefixes are gone. A single SVG sprite covers navigation, projects, and this post.

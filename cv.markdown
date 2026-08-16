@@ -1,16 +1,19 @@
 ---
 layout: page
-title: Work
+title: Career
 icon: work
-description: Work history — software engineering roles in C#, .NET, and cloud systems.
-permalink: /work/
+description: Career history — software engineering roles in C#, .NET, and cloud systems.
+permalink: /career/
 redirect_from:
+  - /work/
+  - /work.html
   - /cv/
   - /cv.html
 body_class: entries-page
 ---
 
 ### <span class="entry-title"><img class="entry-logo" src="{{ '/assets/images/logos/sig.jpg' | relative_url }}"/> Susquehanna International Group</span> <span class="entry-meta">[Apr 2026 – Now]</span>
+{: .entry-current}
 <span class="entry-detail">*Software engineer*</span><br/>
 <span class="entry-detail">**Activities**: `software architecture`, `coding`, `bug-fixing`, `2nd-level support`</span><br/>
 <span class="entry-detail">**Language**: `C#`</span><br/>

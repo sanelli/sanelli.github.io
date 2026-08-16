@@ -486,7 +486,7 @@ table {
   }
 }
 
-// Work / Portfolio: cards instead of indented heading hacks.
+// Career / Portfolio: cards instead of indented heading hacks.
 .entries-page {
   .post-header {
     margin-bottom: 0.35em;
@@ -513,6 +513,11 @@ table {
 
   .post-content > h3:first-child {
     margin-top: 0;
+  }
+
+  .post-content > h3.entry-current,
+  .post-content > h3.entry-current + p {
+    border-left: 3px solid var(--brand);
   }
 
   .post-content > h2 + h3 {
@@ -1155,6 +1160,10 @@ table.media-table tbody tr.media-row:nth-child(even) {
 
 table.media-table tbody tr.media-row[hidden] {
   display: none;
+}
+
+.media-section--current table.media-table tbody tr.media-row {
+  border-left: 3px solid var(--brand);
 }
 
 table.media-table td.media-card {
