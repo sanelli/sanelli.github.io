@@ -539,7 +539,8 @@ years:
         genres:
           - novel
       - title: Il giardino segreto
-        url: "https://www.criticaletteraria.org/2017/12/il-giardino-segreto-yoshimoto-feltrinelli.html"
+        cover: /assets/images/covers/banana-il-giardino-segreto.png
+        url: "https://www.feltrinellieditore.it/opera/il-giardino-segreto/"
         subtitles:
           - 王国 その3 ひみつの花園
         date: 2024-10-13
