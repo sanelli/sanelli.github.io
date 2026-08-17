@@ -1,6 +1,20 @@
 years:
   - label: 2026
     entries:
+      - title: "Once More, With Feeling"
+        url: "https://en.wikipedia.org/wiki/Once_More,_with_Feeling_(Buffy_the_Vampire_Slayer)"
+        subtitles:
+          - Soundtrack
+        date: 2026-08-17
+        rating: 5
+        artists:
+          - name: Buffy the Vampire Slayer
+            url: "https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer"
+        year: 2002
+        genres:
+          - jazz
+          - pop
+          - rock
       - title: No Strings Attached
         url: "https://en.wikipedia.org/wiki/No_Strings_Attached_(NSYNC_album)"
         date: 2026-08-14
