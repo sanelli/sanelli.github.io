@@ -28,6 +28,20 @@ current:
 years:
   - label: 2026
     entries:
+      - title: Pretty Guardian Sailor Moon Volume 9 (Act 40 - Act 44)
+        url: "https://en.wikipedia.org/wiki/Sailor_Moon"
+        subtitles:
+          - 美少女戦士セーラームーン
+        date: 2026-08-17
+        rating: 5
+        authors:
+          - name: Naoko Takeuchi
+            url: "https://en.wikipedia.org/wiki/Naoko_Takeuchi"
+        language: Italian
+        year: 1995
+        genres:
+          - magical girl
+          - manga
       - title: Paul Takes the Form of a Mortal Girl
         url: "https://en.wikipedia.org/wiki/Paul_Takes_the_Form_of_a_Mortal_Girl"
         date: 2026-08-15
