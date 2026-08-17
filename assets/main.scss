@@ -597,8 +597,7 @@ table {
   }
 
   .chip,
-  .entry-detail:has(code) code,
-  .entry-chips a {
+  .entry-detail:has(code) code {
     display: inline-block;
     margin: 0.12rem 0.28rem 0.12rem 0;
     padding: 0.18rem 0.6rem;
@@ -621,7 +620,6 @@ table {
 
   .chip-label,
   .entry-detail:has(code) > strong,
-  .entry-chips > strong,
   .entry-row > strong {
     display: inline-block;
     font-size: 0.7rem;
@@ -632,7 +630,6 @@ table {
   }
 
   .entry-detail:has(code) > strong,
-  .entry-chips > strong,
   .entry-row > strong {
     min-width: 6.4rem;
     margin-right: 0.35rem;
@@ -640,7 +637,6 @@ table {
   }
 
   .entry-detail:has(code),
-  .entry-chips,
   .entry-row {
     display: flex;
     flex-wrap: wrap;
@@ -648,15 +644,13 @@ table {
     line-height: 1.4;
   }
 
-  .entry-detail:has(code),
-  .entry-chips {
+  .entry-detail:has(code) {
     align-items: flex-start;
     padding-left: 6.75rem;
     font-size: 0;
   }
 
-  .entry-detail:has(code) > strong,
-  .entry-chips > strong {
+  .entry-detail:has(code) > strong {
     width: 6.4rem;
     margin-left: -6.75rem;
     padding-top: 0.22rem;
@@ -689,11 +683,6 @@ table {
 
   .entry-awards .entry-row > strong {
     min-width: 0;
-  }
-
-  .entry-chips a:hover {
-    color: var(--text-hover);
-    border-color: var(--border-chip-hover);
   }
 
   .entry-products {
