@@ -111,7 +111,7 @@
             <p class="media-card-title">
               {%- include_cached media-link.html text=item.title url=item.url -%}
               {%- if title_people -%}<span class="media-card-dash"> - </span>{%- include media-people.html people=title_people join=", " -%}{%- endif -%}
-              {%- if item.language -%}<span class="media-card-lang">{%- include_cached media-language.html language=item.language -%}</span>{%- endif -%}
+              {%- if item.language -%}<span class="chip media-card-lang">{%- include_cached media-language.html language=item.language -%}{{ item.language }}</span>{%- endif -%}
               {%- if item.subtitles -%}
               <br/><nobr class="media-subtitle">{%- for subtitle in item.subtitles -%}<strong>{{ subtitle | escape }}</strong>{%- unless forloop.last -%}<br/>{%- endunless -%}{%- endfor -%}</nobr>
               {%- endif -%}

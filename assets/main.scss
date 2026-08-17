@@ -1292,15 +1292,22 @@ table.media-table .media-card a {
 }
 
 .media-card-lang {
-  display: inline-block;
-  margin-left: 0.4em;
-  vertical-align: 0.12em;
-  line-height: 0;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  margin: 0 0 0 0.45em;
+  padding: 0.08em 0.5em;
+  vertical-align: middle;
+  font-size: 0.62em;
+  font-weight: 500;
+  line-height: 1.2;
 }
 
 .media-card-lang .media-flag {
-  width: 1.15rem;
-  height: 0.77rem;
+  width: 0.95rem;
+  height: 0.64rem;
+  margin: 0;
+  vertical-align: 0;
 }
 
 .media-card-byline {
