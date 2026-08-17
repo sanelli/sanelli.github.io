@@ -1193,6 +1193,43 @@ table.media-table tbody tr.media-row {
   overflow: hidden;
 }
 
+table.media-table--month-gaps tbody tr.media-row {
+  position: relative;
+  margin-bottom: 0.7em;
+  overflow: visible;
+}
+
+table.media-table--month-gaps tbody tr.media-row .media-card-body {
+  overflow: hidden;
+  border-radius: 15px;
+}
+
+table.media-table--month-gaps tbody tr.media-row--month-break {
+  margin-top: 1.8em;
+}
+
+table.media-table--month-gaps tbody tr.media-row--month-first {
+  margin-top: 1.1em;
+}
+
+.media-month-label {
+  display: none;
+  position: absolute;
+  right: 0.15em;
+  bottom: 100%;
+  margin: 0 0 0.85em;
+  color: var(--text-muted);
+  font-size: 0.72em;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: 0.02em;
+  pointer-events: none;
+}
+
+table.media-table--month-gaps tbody tr.media-row--month-break .media-month-label {
+  display: block;
+}
+
 table.media-table tbody tr.media-row:nth-child(even) {
   background: var(--bg-chip);
 }

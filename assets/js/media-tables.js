@@ -26,6 +26,22 @@
     });
   }
 
+  function refreshMonthBreaks() {
+    Array.prototype.forEach.call(document.querySelectorAll("table.media-table--month-gaps"), function (table) {
+      var prev = "";
+      Array.prototype.forEach.call(table.querySelectorAll("tr.media-row"), function (row) {
+        row.classList.remove("media-row--month-break", "media-row--month-first");
+        if (row.hidden) return;
+        var month = row.getAttribute("data-month") || "";
+        if (month && (!prev || month !== prev)) {
+          row.classList.add("media-row--month-break");
+          if (!prev) row.classList.add("media-row--month-first");
+        }
+        if (month) prev = month;
+      });
+    });
+  }
+
   function applyFilters() {
     var searchInput = document.querySelector(".media-search");
     var ratingSelect = document.querySelector(".media-rating-filter");
@@ -58,6 +74,8 @@
       status.hidden = !active;
       status.textContent = active ? visible + " of " + total + " rows match." : "";
     }
+
+    refreshMonthBreaks();
   }
 
   document.addEventListener("DOMContentLoaded", function () {
@@ -67,6 +85,7 @@
       promoteDataSort(table);
       markNumberColumns(table);
       new Tablesort(table);
+      table.addEventListener("afterSort", refreshMonthBreaks);
     });
 
     var searchInput = document.querySelector(".media-search");

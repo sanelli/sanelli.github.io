@@ -12,7 +12,7 @@
 {%- assign year_label = "Release year" -%}
 {%- if kind == "books" -%}{%- assign year_label = "Published year" -%}{%- endif -%}
 <div class="media-table-wrap">
-<table class="media-table media-table--{{ include.mode }} sortable">
+<table class="media-table media-table--{{ include.mode }} sortable{% if rated and kind != "games" %} media-table--month-gaps{% endif %}">
   <thead>
     <tr>
       {%- if rated -%}
@@ -43,9 +43,27 @@
     </tr>
   </thead>
   <tbody>
+    {%- assign prev_month = "" -%}
     {%- for item in include.entries -%}
     {%- include media-search.html item=item -%}
-    <tr class="media-row" data-search="{{ media_search | downcase | strip | xml_escape }}"{% if item.rating %} data-rating="{{ item.rating }}"{% else %} data-rating=""{% endif %}>
+    {%- assign month_break = false -%}
+    {%- assign month_first = false -%}
+    {%- assign item_month = "" -%}
+    {%- if item.date -%}
+      {%- assign item_month = item.date | date: "%Y-%m" -%}
+    {%- endif -%}
+    {%- if rated and kind != "games" and item_month != "" -%}
+      {%- if prev_month == "" -%}
+        {%- assign month_break = true -%}
+        {%- assign month_first = true -%}
+      {%- elsif prev_month != item_month -%}
+        {%- assign month_break = true -%}
+      {%- endif -%}
+    {%- endif -%}
+    {%- if item_month != "" -%}
+      {%- assign prev_month = item_month -%}
+    {%- endif -%}
+    <tr class="media-row{% if month_break %} media-row--month-break{% endif %}{% if month_first %} media-row--month-first{% endif %}"{% if item_month != "" %} data-month="{{ item_month }}"{% endif %} data-search="{{ media_search | downcase | strip | xml_escape }}"{% if item.rating %} data-rating="{{ item.rating }}"{% else %} data-rating=""{% endif %}>
       {%- if rated -%}
       <td data-label="Date" data-sort="{{ item.date }}">{%- if item.date -%}<span class="media-date" data-sort="{{ item.date }}"><nobr>{{ item.date }}</nobr></span>{%- endif -%}</td>
       <td data-label="Rating" data-sort="{{ item.rating }}">{%- if item.rating -%}<span class="media-rating" data-sort="{{ item.rating }}">{%- for i in (1..item.rating) -%}⭐️{%- endfor -%}</span>{%- endif -%}</td>
@@ -99,6 +117,9 @@
         {%- assign activity_icon = "gamepad" -%}
       {%- endif -%}
       <td class="media-card">
+        {%- if rated and kind != "games" and item.date -%}
+        <p class="media-month-label" aria-hidden="true">{{ item.date | date: "%B" }}</p>
+        {%- endif -%}
         <div class="media-card-body">
           <div class="media-card-cover">
             {%- if item.cover -%}
