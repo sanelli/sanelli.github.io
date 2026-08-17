@@ -101,7 +101,11 @@
       <td class="media-card">
         <div class="media-card-body">
           <div class="media-card-cover">
+            {%- if item.cover -%}
+            <img alt="{{ item.title | escape }}" width="96" height="96" src="{{ item.cover | relative_url }}" data-cover-state="ready" decoding="async">
+            {%- else -%}
             <img alt="{{ item.title | escape }}" width="96" height="96" data-cover-from="{{ item.url }}" decoding="async">
+            {%- endif -%}
           </div>
           <div class="media-card-main">
             <p class="media-card-title">

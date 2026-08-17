@@ -1,5 +1,6 @@
 current:
   - title: Sodomie in corpo 11
+    cover: /assets/images/covers/sodomie-in-corpo-11.png
     url: "https://it.wikipedia.org/wiki/Sodomie_in_corpo_11"
     subtitles:
       - Sodomies in Elevenpoint
@@ -12,7 +13,8 @@ current:
       - autobiography
       - travel
   - title: Hands-On Large Language Models
-    url: "https://books.google.ie/books/about/Hands_On_Large_Language_Models.html"
+    cover: /assets/images/covers/hands-on-large-language-models.png
+    url: "https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/"
     authors:
       - name: Jay Alammar
         url: "https://www.google.ie/search?tbo=p&tbm=bks&q=inauthor:%22Jay+Alammar%22"
@@ -160,6 +162,7 @@ years:
         genres:
           - gay
       - title: Accabadora
+        cover: /assets/images/covers/accabadora.png
         url: "https://it.wikipedia.org/wiki/Accabadora"
         date: 2026-04-21
         rating: 4
@@ -349,6 +352,7 @@ years:
   - label: 2025
     entries:
       - title: Building Event-Driven Microservices
+        cover: /assets/images/covers/building-event-driven-microservices.png
         url: "https://www.oreilly.com/library/view/building-event-driven-microservices/9781492057888/"
         date: 2025-11-24
         rating: 2
@@ -424,14 +428,14 @@ years:
           - horror
           - supernatural
       - title: Il postino di Neruda
-        url: "https://it.wikipedia.org/wiki/Il_postino_di_Neruda"
+        url: "https://en.wikipedia.org/wiki/Ardiente_paciencia"
         subtitles:
           - El cartero de Neruda
         date: 2025-09-20
         rating: 3
         authors:
           - name: Antonio Skármeta
-            url: "https://it.wikipedia.org/wiki/Antonio_Skármeta"
+            url: "https://en.wikipedia.org/wiki/Antonio_Skármeta"
         language: Italian
         year: 1986
         genres:
@@ -449,19 +453,20 @@ years:
           - gothic horror
           - philosophical fiction
       - title: Le intermittenze della morte
-        url: "https://it.wikipedia.org/wiki/Le_intermittenze_della_morte"
+        url: "https://en.wikipedia.org/wiki/Death_with_Interruptions"
         subtitles:
           - As intermitências da morte
         date: 2025-08-24
         rating: 4
         authors:
           - name: José Saramago
-            url: "https://it.wikipedia.org/wiki/José_Saramago"
+            url: "https://en.wikipedia.org/wiki/José_Saramago"
         language: Italian
         year: 2005
         genres:
           - novel
       - title: Evenings and Weekends
+        cover: /assets/images/covers/evenings-and-weekends.png
         url: "https://www.amazon.ie/Evenings-Weekends-book-summer-Dazed/dp/0008604177/ref=asc_df_0008604177"
         date: 2025-07-02
         rating: 4
@@ -495,6 +500,7 @@ years:
           - coming-of-age
           - gay novel
       - title: Programming Rust
+        cover: /assets/images/covers/programming-in-rust.png
         url: "https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/"
         subtitles:
           - Second edition
@@ -509,12 +515,12 @@ years:
         genres:
           - tech
       - title: La tregua
-        url: "https://it.wikipedia.org/wiki/La_tregua_(Primo_Levi)"
+        url: "https://en.wikipedia.org/wiki/The_Truce"
         date: 2025-01-02
         rating: 3
         authors:
           - name: Primo Levi
-            url: "https://it.wikipedia.org/wiki/Primo_Levi"
+            url: "https://en.wikipedia.org/wiki/Primo_Levi"
         language: Italian
         year: 1963
         genres:
@@ -557,7 +563,8 @@ years:
         genres:
           - epic science fiction
       - title: "What Is ChatGPT Doing... and Why Does It Work?"
-        url: "https://www.amazon.co.uk/What-ChatGPT-Doing-Does-Work/dp/1579550819"
+        cover: /assets/images/covers/what-is-chatgpt-doing-and-why-does-it-work.png
+        url: "https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/"
         date: 2024-09-21
         rating: 3
         authors:
@@ -568,7 +575,8 @@ years:
         genres:
           - tech
       - title: Programming Language Concepts
-        url: "https://www.amazon.co.uk/Programming-3e-Carlo-Ghezzi-dp-0471104264/dp/0471104264/ref=dp_ob_image_bk"
+        cover: /assets/images/covers/programming-language-concepts.png
+        url: "https://books.google.ie/books/about/Programming_Language_Concepts_3rd_Ed.html"
         date: 2024-07-14
         rating: 4
         authors:
@@ -581,12 +589,12 @@ years:
         genres:
           - tech
       - title: Il giardino dei Finzi-Contini
-        url: "https://it.wikipedia.org/wiki/Il_giardino_dei_Finzi-Contini"
+        url: "https://en.wikipedia.org/wiki/The_Garden_of_the_Finzi-Continis"
         date: 2024-07-08
         rating: 2
         authors:
           - name: Giorgio Bassani
-            url: "https://it.wikipedia.org/wiki/Giorgio_Bassani"
+            url: "https://en.wikipedia.org/wiki/Giorgio_Bassani"
         language: Italian
         year: 1962
         genres:
@@ -605,12 +613,12 @@ years:
         genres:
           - science fiction
       - title: Seta
-        url: "https://it.wikipedia.org/wiki/Seta_(romanzo)"
+        url: "https://en.wikipedia.org/wiki/Silk_(novel)"
         date: 2024-03-31
         rating: 5
         authors:
           - name: Alessandro Baricco
-            url: "https://it.wikipedia.org/wiki/Alessandro_Baricco"
+            url: "https://en.wikipedia.org/wiki/Alessandro_Baricco"
         language: Italian
         year: 1996
         genres:
@@ -627,7 +635,7 @@ years:
         genres:
           - novel
       - title: Lucertola
-        url: "https://it.wikipedia.org/wiki/Lucertola_(raccolta_di_racconti)"
+        url: "https://en.wikipedia.org/wiki/Lizard_(short_story_collection)"
         subtitles:
           - とかげ
         date: 2024-03-16
@@ -651,12 +659,12 @@ years:
         genres:
           - romantic comedy
       - title: Un amore
-        url: "https://it.wikipedia.org/wiki/Un_amore_(romanzo)"
+        url: "https://en.wikipedia.org/wiki/A_Love_Affair"
         date: 2024-02-03
         rating: 3
         authors:
           - name: Dino Buzzati
-            url: "https://it.wikipedia.org/wiki/Dino_Buzzati"
+            url: "https://en.wikipedia.org/wiki/Dino_Buzzati"
         language: Italian
         year: 1963
         genres:
@@ -719,7 +727,8 @@ years:
         genres:
           - science fiction
       - title: Effective Modern C++
-        url: "https://www.amazon.co.uk/Effective-Modern-Specific-Ways-Improve/dp/1491903996"
+        cover: /assets/images/covers/effective-modern-cpp.png
+        url: "https://www.oreilly.com/library/view/effective-modern-c/9781491908419/"
         date: 2023-10-01
         rating: 3
         authors:

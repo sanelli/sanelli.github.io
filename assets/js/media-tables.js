@@ -107,6 +107,7 @@
         format: "json",
         pithumbsize: "320",
         pilicense: "any",
+        redirects: "1",
         origin: "*"
       });
       return "https://" + lang + ".wikipedia.org/w/api.php?" + params.toString();

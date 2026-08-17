@@ -11,7 +11,7 @@ English, first person, plain. No emoji in titles. Do not invent credits, lyrics,
 
 Edit `_data/books.yml`, `music.yml`, `movies.yml`, or `games.yml`. Put the entry in the matching `years` group (`label: YYYY`), **newest date first**. Use `current:` only for in-progress books/games.
 
-Shared fields: `title`, Wikipedia `url` when it exists, `date` (YYYY-MM-DD, the day Stefano finished/listened/watched/played), `rating` (1–5), `year` (work year), `genres` (lowercase; quote keys like `"R&B"`).
+Shared fields: `title`, Wikipedia `url` when it exists, `date` (YYYY-MM-DD, the day Stefano finished/listened/watched/played), `rating` (1–5), `year` (work year), `genres` (lowercase; quote keys like `"R&B"`). Optional `cover:` when Wikipedia has no usable page image: a file under `assets/images/covers/` (e.g. `/assets/images/covers/isola-di-arturo.jpg`) or a full `https://` URL. Do not invent covers.
 
 - Books: `authors: [{name, url}]`, `language`
 - Music: `artists: [{name, url}]`
