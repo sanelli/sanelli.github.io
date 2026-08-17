@@ -1,15 +1,16 @@
 current:
-  - title: IT
-    url: "https://en.wikipedia.org/wiki/It_(novel)"
+  - title: Sodomie in corpo 11
+    url: "https://it.wikipedia.org/wiki/Sodomie_in_corpo_11"
+    subtitles:
+      - Sodomies in Elevenpoint
     authors:
-      - name: Stephen King
-        url: "https://en.wikipedia.org/wiki/Stephen_King"
-    language: English
-    year: 1986
+      - name: Aldo Busi
+        url: "https://en.wikipedia.org/wiki/Aldo_Busi"
+    language: Italian
+    year: 1988
     genres:
-      - coming-of-age story
-      - horror
-      - thriller
+      - autobiography
+      - travel
   - title: Hands-On Large Language Models
     url: "https://books.google.ie/books/about/Hands_On_Large_Language_Models.html"
     authors:
