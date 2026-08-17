@@ -1,0 +1,13 @@
+{%- assign day = include.date | date: "%-d" | plus: 0 -%}
+{%- assign suffix = "th" -%}
+{%- assign ones = day | modulo: 10 -%}
+{%- if day == 11 or day == 12 or day == 13 -%}
+  {%- assign suffix = "th" -%}
+{%- elsif ones == 1 -%}
+  {%- assign suffix = "st" -%}
+{%- elsif ones == 2 -%}
+  {%- assign suffix = "nd" -%}
+{%- elsif ones == 3 -%}
+  {%- assign suffix = "rd" -%}
+{%- endif -%}
+{{ include.date | date: "%B" }} {{ day }}{{ suffix }}

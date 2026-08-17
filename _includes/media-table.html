@@ -127,7 +127,7 @@
             {%- if show_year or show_logged -%}
             <p class="media-card-meta">
               {%- if show_year -%}<span class="media-card-meta-item">{%- include icon.html name="calendar" -%}From {{ item.year }}</span>{%- endif -%}
-              {%- if show_logged -%}<span class="media-card-meta-item">{%- include icon.html name=activity_icon -%}{{ logged_verb }} {{ item.date | date: "%b, %Y" }}</span>{%- endif -%}
+              {%- if show_logged -%}<span class="media-card-meta-item">{%- include icon.html name=activity_icon -%}{{ logged_verb }} {% include media-logged-date.html date=item.date %}</span>{%- endif -%}
             </p>
             {%- endif -%}
             {%- include_cached media-genres.html genres=item.genres format="text" -%}

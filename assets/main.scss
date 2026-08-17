@@ -495,7 +495,7 @@ table {
   .post-content > h3 {
     display: flex;
     flex-wrap: wrap;
-    align-items: baseline;
+    align-items: center;
     justify-content: space-between;
     gap: 0.35em 1em;
     margin: 1.25em 0 0;
@@ -553,12 +553,15 @@ table {
   .entry-title {
     display: inline-flex;
     flex-wrap: wrap;
-    align-items: baseline;
+    align-items: center;
     gap: 0.15em 0.2em;
     padding-left: 0;
   }
 
   .entry-title .entry-meta {
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: center;
     font-weight: 400;
   }
 
@@ -674,7 +677,7 @@ table {
     grid-template-columns: max-content 1fr;
     column-gap: 1.25em;
     row-gap: 0.35em;
-    align-items: baseline;
+    align-items: center;
   }
 
   .entry-awards .entry-row {
@@ -770,12 +773,20 @@ table {
   }
 
   .entry-meta a {
-    display: inline-block;
-    margin: 0.1em 0 0.1em 0.25em;
-    padding: 0.12em 0.5em;
+    display: inline-flex;
+    align-items: center;
+    margin: 0 0 0 0.25em;
+    padding: 0.08em 0.5em;
     border: 1px solid var(--border-meta);
     border-radius: 999px;
     font-size: 0.85em;
+    line-height: 1.2;
+  }
+
+  .project-card h3 .entry-meta {
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: center;
   }
 
   .project-github-stats {
@@ -848,7 +859,7 @@ table {
   .project-card h3 {
     display: flex;
     flex-wrap: wrap;
-    align-items: baseline;
+    align-items: center;
     justify-content: space-between;
     gap: 0.35em 0.75em;
     margin: 0 0 0.45em;
