@@ -12,7 +12,7 @@
 {%- assign year_label = "Release year" -%}
 {%- if kind == "books" -%}{%- assign year_label = "Published year" -%}{%- endif -%}
 <div class="media-table-wrap">
-<table class="media-table media-table--{{ include.mode }} sortable{% if rated and kind != "games" %} media-table--month-gaps{% endif %}">
+<table class="media-table media-table--{{ include.mode }} sortable{% if rated %} media-table--month-gaps{% endif %}">
   <thead>
     <tr>
       {%- if rated -%}
@@ -52,7 +52,7 @@
     {%- if item.date -%}
       {%- assign item_month = item.date | date: "%Y-%m" -%}
     {%- endif -%}
-    {%- if rated and kind != "games" and item_month != "" -%}
+    {%- if rated and item_month != "" -%}
       {%- if prev_month == "" -%}
         {%- assign month_break = true -%}
         {%- assign month_first = true -%}
@@ -113,11 +113,11 @@
           {%- assign byline_verb = "developed by" -%}
         {%- endif -%}
         {%- assign byline_icon = "computer" -%}
-        {%- assign logged_verb = "Played" -%}
+        {%- assign logged_verb = "Completed" -%}
         {%- assign activity_icon = "gamepad" -%}
       {%- endif -%}
       <td class="media-card">
-        {%- if rated and kind != "games" and item.date -%}
+        {%- if rated and item.date -%}
         <p class="media-month-label" aria-hidden="true">{{ item.date | date: "%B" }}</p>
         {%- endif -%}
         <div class="media-card-body">
