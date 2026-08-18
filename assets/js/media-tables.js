@@ -1,31 +1,4 @@
 (function () {
-  function promoteDataSort(table) {
-    Array.prototype.forEach.call(table.querySelectorAll("td"), function (td) {
-      if (td.hasAttribute("data-sort")) return;
-      var tagged = td.querySelector("[data-sort]");
-      if (tagged) {
-        td.setAttribute("data-sort", tagged.getAttribute("data-sort") || "");
-      }
-    });
-  }
-
-  function markNumberColumns(table) {
-    var headerRow = table.tHead
-      ? table.tHead.rows[table.tHead.rows.length - 1]
-      : table.rows[0];
-    if (!headerRow) return;
-
-    Array.prototype.forEach.call(headerRow.cells, function (th) {
-      var label = (th.textContent || "").trim().toLowerCase();
-      if (label === "rating" || label.indexOf("year") !== -1) {
-        th.setAttribute("data-sort-method", "number");
-      }
-      if (!th.getAttribute("title") && th.getAttribute("data-sort-method") !== "none") {
-        th.setAttribute("title", "Click to sort");
-      }
-    });
-  }
-
   function refreshMonthBreaks() {
     Array.prototype.forEach.call(document.querySelectorAll("table.media-table--month-gaps"), function (table) {
       var prev = "";
@@ -79,15 +52,6 @@
   }
 
   document.addEventListener("DOMContentLoaded", function () {
-    Array.prototype.forEach.call(document.querySelectorAll("table.media-table"), function (table) {
-      if (table.rows.length < 2) return;
-      table.classList.add("sortable");
-      promoteDataSort(table);
-      markNumberColumns(table);
-      new Tablesort(table);
-      table.addEventListener("afterSort", refreshMonthBreaks);
-    });
-
     var searchInput = document.querySelector(".media-search");
     var ratingSelect = document.querySelector(".media-rating-filter");
     if (searchInput) searchInput.addEventListener("input", applyFilters);
