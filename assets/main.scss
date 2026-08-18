@@ -826,9 +826,11 @@ table {
 
   .post-content h2 {
     margin-top: 2.1em;
+    scroll-margin-top: 0.8em;
   }
 
-  .post-content h2:first-child {
+  .post-content h2:first-child,
+  .portfolio-main > h2:first-child {
     margin-top: 0.15em;
   }
 
@@ -1530,6 +1532,108 @@ table.media-table .media-card a {
 
 .back-to-top[hidden] {
   display: none;
+}
+
+.portfolio-nav {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: max-content;
+  margin: 0 0 1em;
+  padding: 0.1em 0;
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+}
+
+.portfolio-nav::before {
+  content: "";
+  position: absolute;
+  top: 0.95em;
+  bottom: 0.95em;
+  left: 0.45rem;
+  width: 2px;
+  margin-left: -1px;
+  background: var(--border);
+  border-radius: 999px;
+}
+
+.entries-page .post-content:has(> .portfolio-nav) {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  align-items: start;
+}
+
+.portfolio-main {
+  min-width: 0;
+}
+
+@media screen and (min-width: 760px) {
+  .entries-page .post-content:has(> .portfolio-nav) {
+    grid-template-columns: minmax(0, 1fr) auto;
+    column-gap: 1.15rem;
+  }
+
+  .portfolio-main {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  .portfolio-nav {
+    grid-column: 2;
+    grid-row: 1;
+    position: sticky;
+    top: 0.85rem;
+    align-self: start;
+    z-index: 5;
+    margin: 0.2em 0 0;
+  }
+}
+
+.portfolio-nav a,
+.portfolio-nav a:visited {
+  position: relative;
+  display: grid;
+  grid-template-columns: 0.9rem 1fr;
+  column-gap: 0.55em;
+  align-items: center;
+  min-height: 1.85em;
+  margin: 0;
+  padding: 0.12em 0;
+  color: var(--text-muted);
+  font-size: 0.8em;
+  font-weight: 600;
+  line-height: 1.25;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.portfolio-nav a:hover {
+  color: var(--text-hover);
+  text-decoration: none;
+}
+
+.portfolio-nav a.is-current,
+.portfolio-nav a[aria-current="location"] {
+  color: var(--text-strong);
+}
+
+.portfolio-nav-dot {
+  position: relative;
+  z-index: 1;
+  width: 0.9rem;
+  height: 0.9rem;
+  border: 2px solid var(--border-chip);
+  border-radius: 50%;
+  background: var(--bg);
+  box-sizing: border-box;
+}
+
+.portfolio-nav a.is-current .portfolio-nav-dot,
+.portfolio-nav a[aria-current="location"] .portfolio-nav-dot {
+  border-color: var(--brand);
+  background: var(--brand);
 }
 
 // 404 page

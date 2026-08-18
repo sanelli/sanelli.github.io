@@ -17,6 +17,9 @@
     {%- include_cached footer.html -%}
 
     <script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
+    {%- if page.portfolio_nav -%}
+    <script src="{{ '/assets/js/portfolio-nav.js' | relative_url }}"></script>
+    {%- endif -%}
     {%- if page.sortable_tables -%}
     <script src="{{ '/assets/js/tablesort.min.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/tablesort.number.min.js' | relative_url }}"></script>
