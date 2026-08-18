@@ -47,7 +47,7 @@ Date = the `date` already in `music.yml` for that album. Quote published lyrics 
 
 Add a block to `_data/projects.yml`. If `section` is new, also add the `assign` + `##` heading in `portfolio.markdown`.
 
-Required: `slug`, `section` (`flagship` | `libraries` | `web` | `games` | `interpreters`), `category` (must match related posts), `icon`, `name`, `why` (one line), `description` (`>` markdown), `links`, `tags`. Optional: `screenshot`, `screenshot_alt`, `emoji`.
+Required: `slug`, `section` (`flagship` | `libraries` | `interpreters` | `web` | `games`), `category` (must match related posts), `icon`, `name`, `why` (one line), `description` (`>` markdown), `links`, `tags`. Optional: `screenshot`, `screenshot_alt`, `emoji`.
 
 Related posts are automatic when `post.categories` contains `project.category`.
 

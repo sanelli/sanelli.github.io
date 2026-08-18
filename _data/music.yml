@@ -1,6 +1,16 @@
 years:
   - label: 2026
     entries:
+      - title: Caterpillar
+        url: "https://en.wikipedia.org/wiki/Caterpillar_(Elisa_album)"
+        date: 2026-08-18
+        rating: 4
+        artists:
+          - name: Elisa
+            url: "https://en.wikipedia.org/wiki/Elisa_(Italian_singer)"
+        year: 2007
+        genres:
+          - pop rock
       - title: La tua ragazza sempre
         url: "https://it.wikipedia.org/wiki/La_tua_ragazza_sempre"
         subtitles:
@@ -11,16 +21,6 @@ years:
           - name: Irene Grandi
             url: "https://en.wikipedia.org/wiki/Irene_Grandi"
         year: 2000
-        genres:
-          - pop rock
-      - title: Caterpillar
-        url: "https://en.wikipedia.org/wiki/Caterpillar_(Elisa_album)"
-        date: 2026-08-18
-        rating: 5
-        artists:
-          - name: Elisa
-            url: "https://en.wikipedia.org/wiki/Elisa_(Italian_singer)"
-        year: 2007
         genres:
           - pop rock
       - title: "Once More, With Feeling"
