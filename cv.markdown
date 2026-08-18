@@ -10,10 +10,21 @@ redirect_from:
   - /cv/
   - /cv.html
 body_class: entries-page
+section_rail: true
 ---
 
+<div class="section-rail-layout">
+<nav class="section-rail" data-section-rail aria-label="Career sections">
+  {% include section-rail-link.html id="experience" label="Experience" %}
+  {% include section-rail-link.html id="education" label="Education" %}
+  {% include section-rail-link.html id="awards" label="Awards" %}
+  {% include section-rail-link.html id="languages" label="Languages" %}
+  {% include section-rail-link.html id="links" label="Links" %}
+</nav>
+<div class="section-rail-main" markdown="1">
+
 ### <span class="entry-title"><img class="entry-logo" src="{{ '/assets/images/logos/sig.jpg' | relative_url }}"/> Susquehanna International Group</span> <span class="entry-meta">[Apr 2026 – Now]</span>
-{: .entry-current}
+{: .entry-current #experience}
 <span class="entry-detail">*Software engineer*</span><br/>
 <span class="entry-detail">**Language**: `C#`</span><br/>
 <span class="entry-detail">**Frameworks**: `ASP.NET`, `Kafka`, `Postgres`</span>
@@ -68,6 +79,7 @@ body_class: entries-page
 <span class="entry-detail">**Frameworks**: `MySQL`, `JSP`</span>
 
 ## {% include_cached icon.html name="education" %} Education
+{: #education}
 ### <span class="entry-title"><img class="entry-logo" src="{{ '/assets/images/logos/polimi.png' | relative_url }}"/> Politecnico di Milano</span> <span class="entry-meta">[Sep 2003 – Jul 2009]</span>
 <span class="entry-products">{% include_cached product-shot.html name="Master's dissertation" url="/assets/tesi.pdf" src="/assets/images/tesi.png" portrait=true %}</span>
 <span class="entry-detail">*Master of Science in Computer Engineering*</span> <span class="entry-meta-sm">[Sep 2007 – Jul 2009]</span><br/>
@@ -85,17 +97,23 @@ body_class: entries-page
 <span class="entry-detail entry-row">**Final project** <span class="entry-row-value">An SMTP/POP3 e-mail client written in Delphi</span></span>
 
 ## {% include_cached icon.html name="awards" %} Awards
+{: #awards}
 <span class="entry-detail entry-row">**Informatics Olympiad** <span class="entry-row-value">Bronze medal</span></span><br/>
 <span class="entry-detail entry-row">**ECDL** <span class="entry-row-value">Certification</span></span><br/>
 <span class="entry-detail entry-row">**TOEFL** <span class="entry-row-value">Certification</span></span>
 {: .entry-awards}
 
 ## {% include_cached icon.html name="languages" %} Languages
+{: #languages}
 <span class="entry-detail entry-row">{% include_cached media-language.html language="Italian" %} **Italian** <span class="entry-row-value">Native proficiency</span></span><br/>
 <span class="entry-detail entry-row">{% include_cached media-language.html language="English" %} **English** <span class="entry-row-value">Full professional proficiency</span></span>
 
 ## {% include_cached icon.html name="links" %} Links
+{: #links}
 <span class="entry-detail">{% include_cached icon.html name="github" %} [GitHub](https://github.com/sanelli)</span><br/>
 <span class="entry-detail">{% include_cached icon.html name="linkedin" %} [LinkedIn](https://linkedin.com/in/stefanoanelli/)</span><br/>
 <span class="entry-detail">{% include_cached icon.html name="nuget" %} [NuGet](https://www.nuget.org/profiles/sanelli)</span><br/>
 <span class="entry-detail">{% include_cached icon.html name="stackoverflow" %} [Stack Overflow](https://stackoverflow.com/users/1468832/sanelli)</span>
+
+</div>
+</div>

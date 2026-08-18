@@ -1,27 +1,47 @@
 {%- assign kind = include.kind -%}
 {%- assign data = site.data[kind] -%}
+<div class="section-rail-layout">
+<div class="media-lead">
 {%- include_cached media-toolbar.html -%}
 <p class="home-stats-link"><a href="{{ '/stats/' | relative_url }}">Stats for nerds</a></p>
+</div>
+<nav class="section-rail" data-section-rail aria-label="Years">
+  {%- if data.current and data.current.size > 0 and include.current_heading -%}
+  {%- assign current_id = include.current_heading | slugify | prepend: "section-" -%}
+  {% include section-rail-link.html id=current_id label=include.current_heading %}
+  {%- endif -%}
+  {%- for group in data.years -%}
+  {%- assign year_id = group.label | append: "" | slugify | prepend: "year-" -%}
+  {% include section-rail-link.html id=year_id label=group.label %}
+  {%- endfor -%}
+  {%- if data.backlog and data.backlog.size > 0 -%}
+  {% include section-rail-link.html id="section-backlog" label="Backlog" %}
+  {%- endif -%}
+</nav>
 
+<div class="section-rail-main">
 {%- if data.current and data.current.size > 0 -%}
-<div class="media-section media-section--current">
+<div class="media-section media-section--current"{% if include.current_heading %} id="{{ include.current_heading | slugify | prepend: 'section-' }}"{% endif %}>
   <h2>{{ include.current_heading }}</h2>
   {% include_cached media-table.html kind=kind entries=data.current mode="plain" %}
 </div>
 {%- endif -%}
 
 {%- for group in data.years -%}
-<div class="media-section">
+{%- assign year_id = group.label | append: "" | slugify | prepend: "year-" -%}
+<div class="media-section" id="{{ year_id }}">
   <h2>{{ group.label }}</h2>
   {% include_cached media-table.html kind=kind entries=group.entries mode="logged" %}
 </div>
 {%- endfor -%}
 
 {%- if data.backlog and data.backlog.size > 0 -%}
-<div class="media-section">
+<div class="media-section" id="section-backlog">
   <h2>Backlog</h2>
   {% include_cached media-table.html kind=kind entries=data.backlog mode="plain" %}
 </div>
 {%- endif -%}
+</div>
+</div>
 
 <button type="button" class="back-to-top" data-back-to-top hidden aria-label="Go to top">{%- include icon.html name="up" -%}</button>

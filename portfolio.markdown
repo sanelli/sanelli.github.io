@@ -8,7 +8,7 @@ redirect_from:
   - /projects/
   - /projects.html
 body_class: entries-page
-portfolio_nav: true
+section_rail: true
 ---
 
 {%- assign flagships = site.data.projects | where: "section", "flagship" -%}
@@ -17,15 +17,16 @@ portfolio_nav: true
 {%- assign web = site.data.projects | where: "section", "web" -%}
 {%- assign games = site.data.projects | where: "section", "games" -%}
 
-<nav class="portfolio-nav" data-portfolio-nav aria-label="Portfolio sections">
-  <a href="#flagship"><span class="portfolio-nav-dot" aria-hidden="true"></span>Flagship</a>
-  <a href="#libraries"><span class="portfolio-nav-dot" aria-hidden="true"></span>Libraries</a>
-  <a href="#interpreters"><span class="portfolio-nav-dot" aria-hidden="true"></span>Interpreters</a>
-  <a href="#web"><span class="portfolio-nav-dot" aria-hidden="true"></span>Web</a>
-  <a href="#games"><span class="portfolio-nav-dot" aria-hidden="true"></span>Games</a>
+<div class="section-rail-layout">
+<nav class="section-rail" data-section-rail aria-label="Portfolio sections">
+  {% include section-rail-link.html id="flagship" label="Flagship" %}
+  {% include section-rail-link.html id="libraries" label="Libraries" %}
+  {% include section-rail-link.html id="interpreters" label="Interpreters" %}
+  {% include section-rail-link.html id="web" label="Web" %}
+  {% include section-rail-link.html id="games" label="Games" %}
 </nav>
 
-<div class="portfolio-main">
+<div class="section-rail-main">
 <h2 id="flagship">Flagship</h2>
 {% for project in flagships %}
 {% include_cached project-card.html project=project %}
@@ -50,4 +51,5 @@ portfolio_nav: true
 {% for project in games %}
 {% include_cached project-card.html project=project %}
 {% endfor %}
+</div>
 </div>

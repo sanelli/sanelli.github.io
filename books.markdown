@@ -5,6 +5,7 @@ icon: books
 description: Books I have read and am reading, with ratings, authors, and genres.
 permalink: /books/
 sortable_tables: true
+section_rail: true
 ---
 
 {% include_cached media-page.html kind="books" current_heading="Reading" %}
