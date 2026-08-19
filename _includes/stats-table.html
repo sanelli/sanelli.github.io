@@ -1,38 +1,17 @@
-{%- assign kinds = "books,music,games,movies" | split: "," -%}
+{%- assign current_year = site.time | date: "%Y" | plus: 0 -%}
 {%- assign year_blob = "" -%}
-{%- assign extra_blob = "" -%}
-{%- for kind in kinds -%}
-  {%- for group in site.data[kind].years -%}
-    {%- assign year_num = group.label | plus: 0 -%}
-    {%- if year_num >= 1900 -%}
-      {%- unless year_blob contains group.label -%}
-        {%- assign year_blob = year_blob | append: group.label | append: " " -%}
-      {%- endunless -%}
-    {%- else -%}
-      {%- unless extra_blob contains group.label -%}
-        {%- assign extra_blob = extra_blob | append: group.label | append: " " -%}
-      {%- endunless -%}
-    {%- endif -%}
-  {%- endfor -%}
+{%- for i in (0..9) -%}
+  {%- assign y = current_year | minus: i -%}
+  {%- assign year_blob = year_blob | append: y | append: " " -%}
 {%- endfor -%}
-{%- for post in site.posts -%}
-  {%- assign post_year = post.date | date: "%Y" -%}
-  {%- unless year_blob contains post_year -%}
-    {%- assign year_blob = year_blob | append: post_year | append: " " -%}
-  {%- endunless -%}
-{%- endfor -%}
-{%- assign years = year_blob | split: " " | compact | uniq | sort | reverse -%}
-{%- assign extras = extra_blob | split: " " | compact | uniq -%}
-{%- assign rows = years | concat: extras -%}
+{%- assign rows = year_blob | split: " " | compact -%}
 
 {%- assign books_total = 0 -%}
 {%- assign music_total = 0 -%}
 {%- assign games_total = 0 -%}
 {%- assign movies_total = 0 -%}
-{%- for group in site.data.books.years -%}{%- assign books_total = books_total | plus: group.entries.size -%}{%- endfor -%}
-{%- for group in site.data.music.years -%}{%- assign music_total = music_total | plus: group.entries.size -%}{%- endfor -%}
-{%- for group in site.data.games.years -%}{%- assign games_total = games_total | plus: group.entries.size -%}{%- endfor -%}
-{%- for group in site.data.movies.years -%}{%- assign movies_total = movies_total | plus: group.entries.size -%}{%- endfor -%}
+{%- assign travels_total = 0 -%}
+{%- assign posts_total = 0 -%}
 
 <div class="media-table-wrap">
 <table class="stats-table">
@@ -43,6 +22,7 @@
       <th>Music listened</th>
       <th>Games played</th>
       <th>Movies watched</th>
+      <th>Trips taken</th>
       <th>Posts</th>
     </tr>
   </thead>
@@ -53,6 +33,7 @@
       {%- include stats-count.html data=site.data.music year=year -%}{%- assign music_n = stats_count -%}
       {%- include stats-count.html data=site.data.games year=year -%}{%- assign games_n = stats_count -%}
       {%- include stats-count.html data=site.data.movies year=year -%}{%- assign movies_n = stats_count -%}
+      {%- include stats-count.html data=site.data.travels year=year -%}{%- assign travels_n = stats_count -%}
       {%- assign posts_n = 0 -%}
       {%- for post in site.posts -%}
         {%- assign post_year = post.date | date: "%Y" -%}
@@ -60,13 +41,20 @@
           {%- assign posts_n = posts_n | plus: 1 -%}
         {%- endif -%}
       {%- endfor -%}
+      {%- assign books_total = books_total | plus: books_n -%}
+      {%- assign music_total = music_total | plus: music_n -%}
+      {%- assign games_total = games_total | plus: games_n -%}
+      {%- assign movies_total = movies_total | plus: movies_n -%}
+      {%- assign travels_total = travels_total | plus: travels_n -%}
+      {%- assign posts_total = posts_total | plus: posts_n -%}
     <tr>
       <td>{{ year }}</td>
-      <td>{{ books_n }}</td>
-      <td>{{ music_n }}</td>
-      <td>{{ games_n }}</td>
-      <td>{{ movies_n }}</td>
-      <td>{{ posts_n }}</td>
+      <td>{%- if books_n > 0 -%}{{ books_n }}{%- endif -%}</td>
+      <td>{%- if music_n > 0 -%}{{ music_n }}{%- endif -%}</td>
+      <td>{%- if games_n > 0 -%}{{ games_n }}{%- endif -%}</td>
+      <td>{%- if movies_n > 0 -%}{{ movies_n }}{%- endif -%}</td>
+      <td>{%- if travels_n > 0 -%}{{ travels_n }}{%- endif -%}</td>
+      <td>{%- if posts_n > 0 -%}{{ posts_n }}{%- endif -%}</td>
     </tr>
     {%- endfor -%}
   </tbody>
@@ -77,7 +65,8 @@
       <th>{{ music_total }}</th>
       <th>{{ games_total }}</th>
       <th>{{ movies_total }}</th>
-      <th>{{ site.posts.size }}</th>
+      <th>{{ travels_total }}</th>
+      <th>{{ posts_total }}</th>
     </tr>
   </tfoot>
 </table>
