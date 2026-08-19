@@ -1,0 +1,45 @@
+{%- assign travel_countries_pipe = "|" -%}
+{%- for group in site.data.travels.years -%}
+  {%- for entry in group.entries -%}
+    {%- for place in entry.places -%}
+      {%- if place.country -%}
+        {%- assign country = place.country -%}
+        {%- if country == "Scotland" -%}{%- assign country = "United Kingdom" -%}{%- endif -%}
+        {%- assign token = "|" | append: country | append: "|" -%}
+        {%- unless travel_countries_pipe contains token -%}
+          {%- assign travel_countries_pipe = travel_countries_pipe | append: country | append: "|" -%}
+        {%- endunless -%}
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endfor -%}
+{%- endfor -%}
+{%- if site.data.travels.current -%}
+  {%- for entry in site.data.travels.current -%}
+    {%- for place in entry.places -%}
+      {%- if place.country -%}
+        {%- assign country = place.country -%}
+        {%- if country == "Scotland" -%}{%- assign country = "United Kingdom" -%}{%- endif -%}
+        {%- assign token = "|" | append: country | append: "|" -%}
+        {%- unless travel_countries_pipe contains token -%}
+          {%- assign travel_countries_pipe = travel_countries_pipe | append: country | append: "|" -%}
+        {%- endunless -%}
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endfor -%}
+{%- endif -%}
+{%- if site.data.travels.backlog -%}
+  {%- for entry in site.data.travels.backlog -%}
+    {%- for place in entry.places -%}
+      {%- if place.country -%}
+        {%- assign country = place.country -%}
+        {%- if country == "Scotland" -%}{%- assign country = "United Kingdom" -%}{%- endif -%}
+        {%- assign token = "|" | append: country | append: "|" -%}
+        {%- unless travel_countries_pipe contains token -%}
+          {%- assign travel_countries_pipe = travel_countries_pipe | append: country | append: "|" -%}
+        {%- endunless -%}
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endfor -%}
+{%- endif -%}
+{%- assign travel_countries_parts = travel_countries_pipe | split: "|" -%}
+{%- assign travel_countries_visited = travel_countries_parts.size | minus: 2 -%}

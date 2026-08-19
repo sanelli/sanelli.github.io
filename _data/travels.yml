@@ -131,13 +131,13 @@ years:
         places:
           - name: New York
             url: "https://en.wikipedia.org/wiki/New_York_City"
-            country: United States
+            country: United States of America
           - name: Boston
             url: "https://en.wikipedia.org/wiki/Boston"
-            country: United States
+            country: United States of America
           - name: Philadelphia
             url: "https://en.wikipedia.org/wiki/Philadelphia"
-            country: United States
+            country: United States of America
         date: 2024-08-01
         date_end: 2024-08-12
         rating: 5
@@ -312,7 +312,7 @@ years:
         places:
           - name: New York
             url: "https://en.wikipedia.org/wiki/New_York_City"
-            country: United States
+            country: United States of America
         date: 2018-05-18
         date_end: 2018-05-25
         rating: 5
@@ -463,25 +463,25 @@ years:
         places:
           - name: San Francisco
             url: "https://en.wikipedia.org/wiki/San_Francisco"
-            country: United States
+            country: United States of America
           - name: Grand Canyon
             url: "https://en.wikipedia.org/wiki/Grand_Canyon"
-            country: United States
+            country: United States of America
           - name: Death Valley
             url: "https://en.wikipedia.org/wiki/Death_Valley"
-            country: United States
+            country: United States of America
           - name: San Diego
             url: "https://en.wikipedia.org/wiki/San_Diego"
-            country: United States
+            country: United States of America
           - name: Golden Coast
             url: "https://en.wikipedia.org/wiki/Central_Coast_(California)"
-            country: United States
+            country: United States of America
           - name: Route 101
             url: "https://en.wikipedia.org/wiki/U.S._Route_101"
-            country: United States
+            country: United States of America
           - name: Malibu
             url: "https://en.wikipedia.org/wiki/Malibu,_California"
-            country: United States
+            country: United States of America
         date: 2014-12-26
         date_end: 2015-01-07
         rating: 5
@@ -754,7 +754,7 @@ years:
         places:
           - name: Houston
             url: "https://en.wikipedia.org/wiki/Houston"
-            country: United States
+            country: United States of America
         date: 2010-07-19
         date_end: 2010-07-25
         rating: 3

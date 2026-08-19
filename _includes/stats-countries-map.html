@@ -1,0 +1,25 @@
+{%- include travel-countries-visited.html -%}
+{%- assign sorted_countries = travel_countries_pipe | split: "|" | sort -%}
+<div class="stats-countries-map-wrap">
+  <div id="stats-countries-map" class="stats-countries-map" role="region" aria-label="Map of visited countries" data-world-url="{{ '/assets/data/world-countries.geojson' | relative_url }}" data-extra-url="{{ '/assets/data/travel-country-extra.geojson' | relative_url }}"></div>
+  <ul class="stats-countries-legend" aria-label="Visited countries">
+    {%- assign color_index = 0 -%}
+    {%- for country in sorted_countries -%}
+      {%- if country == "" -%}{%- continue -%}{%- endif -%}
+      <li><span class="stats-countries-legend-swatch" data-color-index="{{ color_index }}"></span>{{ country | escape }}</li>
+      {%- assign color_index = color_index | plus: 1 -%}
+    {%- endfor -%}
+  </ul>
+</div>
+<script type="application/json" id="stats-countries-map-data">[
+{%- assign first = true -%}
+{%- assign color_index = 0 -%}
+{%- for country in sorted_countries -%}
+  {%- if country == "" -%}{%- continue -%}{%- endif -%}
+  {%- unless first -%},{%- endunless -%}
+  {%- assign first = false -%}
+  {%- assign geo_name = site.data.travel_country_geo[country] | default: country -%}
+  {"label":{{ country | jsonify }},"geoName":{{ geo_name | jsonify }},"colorIndex":{{ color_index }}}
+  {%- assign color_index = color_index | plus: 1 -%}
+{%- endfor -%}
+]</script>
