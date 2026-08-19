@@ -3,11 +3,13 @@
 {%- if include.mode == "logged" -%}{%- assign rated = true -%}{%- endif -%}
 {%- assign title_label = "Title" -%}
 {%- if kind == "music" -%}{%- assign title_label = "Album" -%}{%- endif -%}
+{%- if kind == "travels" -%}{%- assign title_label = "Trip" -%}{%- endif -%}
 {%- assign people_label = "" -%}
 {%- if kind == "books" -%}{%- assign people_label = "Author(s)" -%}
 {%- elsif kind == "games" -%}{%- assign people_label = "Developer(s)" -%}
 {%- elsif kind == "movies" -%}{%- assign people_label = "Created by" -%}
 {%- elsif kind == "music" -%}{%- assign people_label = "Artist" -%}
+{%- elsif kind == "travels" -%}{%- assign people_label = "Place(s)" -%}
 {%- endif -%}
 {%- assign year_label = "Release year" -%}
 {%- if kind == "books" -%}{%- assign year_label = "Published year" -%}{%- endif -%}
@@ -52,9 +54,13 @@
       <td data-label="Language" data-sort="{{ item.language }}">{%- include_cached media-language.html language=item.language -%}</td>
       {%- elsif kind == "music" -%}
       <td data-label="{{ people_label }}">{%- include_cached media-people.html people=item.artists -%}</td>
+      {%- elsif kind == "travels" -%}
+      <td data-label="{{ people_label }}">{%- include_cached media-places.html places=item.places join=", " -%}</td>
       {%- endif -%}
+      {%- unless kind == "travels" -%}
       <td data-label="{{ year_label }}">{{ item.year }}</td>
       <td data-label="Genre">{%- include_cached media-genres.html genres=item.genres -%}</td>
+      {%- endunless -%}
       {%- assign title_people = nil -%}
       {%- assign byline_people = nil -%}
       {%- assign byline_verb = "" -%}
@@ -86,6 +92,12 @@
         {%- assign byline_icon = "computer" -%}
         {%- assign logged_verb = "Completed" -%}
         {%- assign activity_icon = "gamepad" -%}
+      {%- elsif kind == "travels" -%}
+        {%- assign byline_people = item.places -%}
+        {%- assign byline_verb = "in" -%}
+        {%- assign byline_icon = "travels" -%}
+        {%- assign logged_verb = "Visited" -%}
+        {%- assign activity_icon = "travels" -%}
       {%- endif -%}
       <td class="media-card">
         {%- if rated and item.date -%}
@@ -101,15 +113,27 @@
           </div>
           <div class="media-card-main">
             <p class="media-card-title">
+              {%- if kind == "travels" and item.places.size == 1 and item.title == item.places[0].name -%}
+              {%- include media-places.html places=item.places -%}
+              {%- else -%}
               {%- include_cached media-link.html text=item.title url=item.url -%}
               {%- if title_people -%}<span class="media-card-dash"> - </span>{%- include media-people.html people=title_people join=", " -%}{%- endif -%}
+              {%- endif -%}
               {%- if item.language -%}<span class="chip media-card-lang">{%- include_cached media-language.html language=item.language -%}{{ item.language }}</span>{%- endif -%}
               {%- if item.subtitles -%}
               <br/><nobr class="media-subtitle">{%- for subtitle in item.subtitles -%}<strong>{{ subtitle | escape }}</strong>{%- unless forloop.last -%}<br/>{%- endunless -%}{%- endfor -%}</nobr>
               {%- endif -%}
             </p>
+            {%- assign show_byline = false -%}
             {%- if byline_people -%}
-            <p class="media-card-byline"><span class="media-card-meta-item">{%- include icon.html name=byline_icon -%}{{ byline_verb }} {% include media-people.html people=byline_people join=", " %}</span></p>
+              {%- if kind != "travels" -%}
+                {%- assign show_byline = true -%}
+              {%- elsif byline_people.size > 1 -%}
+                {%- assign show_byline = true -%}
+              {%- endif -%}
+            {%- endif -%}
+            {%- if show_byline -%}
+            <p class="media-card-byline"><span class="media-card-meta-item">{%- include icon.html name=byline_icon -%}{{ byline_verb }} {% include media-places.html places=byline_people join=", " %}</span></p>
             {%- endif -%}
             {%- if item.rating -%}<div class="media-card-rating">{%- include media-stars.html rating=item.rating -%}</div>{%- endif -%}
             {%- assign show_year = false -%}
@@ -119,10 +143,12 @@
             {%- if show_year or show_logged -%}
             <p class="media-card-meta">
               {%- if show_year -%}<span class="media-card-meta-item">{%- include icon.html name="calendar" -%}From {{ item.year }}</span>{%- endif -%}
-              {%- if show_logged -%}<span class="media-card-meta-item">{%- include icon.html name=activity_icon -%}{{ logged_verb }} {% include media-logged-date.html date=item.date %}</span>{%- endif -%}
+              {%- if show_logged -%}<span class="media-card-meta-item">{%- include icon.html name=activity_icon -%}{{ logged_verb }} {% if kind == "travels" %}{% include media-travel-dates.html date=item.date date_end=item.date_end %}{% else %}{% include media-logged-date.html date=item.date %}{% endif %}</span>{%- endif -%}
             </p>
             {%- endif -%}
+            {%- unless kind == "travels" -%}
             {%- include_cached media-genres.html genres=item.genres format="text" -%}
+            {%- endunless -%}
           </div>
         </div>
       </td>

@@ -1,0 +1,21 @@
+{%- assign start = include.date -%}
+{%- assign end = include.date_end -%}
+{%- if end -%}
+{%- assign start_month = start | date: "%B" -%}
+{%- assign end_month = end | date: "%B" -%}
+{%- assign start_year = start | date: "%Y" -%}
+{%- assign end_year = end | date: "%Y" -%}
+{%- assign start_day = start | date: "%-d" -%}
+{%- assign end_day = end | date: "%-d" -%}
+{%- if start == end -%}
+{{ start_month }} {{ start_day }}, {{ start_year }}
+{%- elsif start_year == end_year and start_month == end_month -%}
+{{ start_month }} {{ start_day }}–{{ end_day }}, {{ start_year }}
+{%- elsif start_year == end_year -%}
+{{ start_month }} {{ start_day }} – {{ end_month }} {{ end_day }}, {{ start_year }}
+{%- else -%}
+{{ start_month }} {{ start_day }}, {{ start_year }} – {{ end_month }} {{ end_day }}, {{ end_year }}
+{%- endif -%}
+{%- else -%}
+{%- include media-logged-date.html date=start -%}, {{ start | date: "%Y" }}
+{%- endif -%}

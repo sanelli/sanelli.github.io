@@ -22,7 +22,7 @@ title: Stefano Anelli
 email: stefano.anelli (at) gmail.com
 description: >-
   Millennial software engineer from Italy, living in Ireland.
-  C# and .NET, open-source tools, and lists of books, games, movies, and music.
+  C# and .NET, open-source tools, and lists of books, games, movies, music, and travels.
 lang: en
 author: Stefano Anelli
 logo: /assets/images/stefano.jpg
@@ -86,6 +86,7 @@ header_pages:
   - music.md
   - movies.markdown
   - games.markdown
+  - travels.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.

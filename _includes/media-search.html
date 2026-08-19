@@ -7,6 +7,7 @@
 {%- for person in item.publishers %} {{ person.name }}{% endfor -%}
 {%- for person in item.creators %} {{ person.name }}{% endfor -%}
 {%- for person in item.artists %} {{ person.name }}{% endfor -%}
+{%- for place in item.places %} {{ place.name }}{% if place.country %} {{ place.country }}{% endif %}{% endfor -%}
 {%- if item.console %} {{ item.console.name }}{% endif -%}
 {%- if item.language %} {{ item.language }}{% endif -%}
 {%- if item.year %} {{ item.year }}{% endif -%}

@@ -1,0 +1,630 @@
+years:
+  - label: 2026
+    entries:
+      - title: Brussels
+        url: "https://en.wikipedia.org/wiki/Brussels"
+        places:
+          - name: Brussels
+            url: "https://en.wikipedia.org/wiki/Brussels"
+            country: Belgium
+        date: 2026-06-22
+        date_end: 2026-06-28
+        rating: 5
+      - title: Maspalomas, Gran Canaria
+        url: "https://en.wikipedia.org/wiki/Maspalomas"
+        places:
+          - name: Maspalomas
+            url: "https://en.wikipedia.org/wiki/Maspalomas"
+            country: Spain
+          - name: Gran Canaria
+            url: "https://en.wikipedia.org/wiki/Gran_Canaria"
+            country: Spain
+        date: 2026-03-09
+        date_end: 2026-03-15
+        rating: 4
+      - title: Berlin
+        url: "https://en.wikipedia.org/wiki/Berlin"
+        places:
+          - name: Berlin
+            url: "https://en.wikipedia.org/wiki/Berlin"
+            country: Germany
+        date: 2026-02-19
+        date_end: 2026-02-22
+        rating: 2
+      - title: London
+        url: "https://en.wikipedia.org/wiki/London"
+        places:
+          - name: London
+            url: "https://en.wikipedia.org/wiki/London"
+            country: United Kingdom
+        date: 2026-01-31
+        date_end: 2026-02-03
+        rating: 4
+  - label: 2025
+    entries:
+      - title: Dungarvan
+        url: "https://en.wikipedia.org/wiki/Dungarvan"
+        places:
+          - name: Dungarvan
+            url: "https://en.wikipedia.org/wiki/Dungarvan"
+            country: Ireland
+        date: 2025-11-14
+        date_end: 2025-11-16
+        rating: 3
+      - title: Brighton
+        url: "https://en.wikipedia.org/wiki/Brighton"
+        places:
+          - name: Brighton
+            url: "https://en.wikipedia.org/wiki/Brighton"
+            country: United Kingdom
+        date: 2025-07-24
+        date_end: 2025-07-27
+        rating: 5
+      - title: Mallorca
+        url: "https://en.wikipedia.org/wiki/Majorca"
+        places:
+          - name: Mallorca
+            url: "https://en.wikipedia.org/wiki/Majorca"
+            country: Spain
+        date: 2025-06-29
+        date_end: 2025-07-05
+        rating: 4
+      - title: Manchester
+        url: "https://en.wikipedia.org/wiki/Manchester"
+        places:
+          - name: Manchester
+            url: "https://en.wikipedia.org/wiki/Manchester"
+            country: United Kingdom
+        date: 2025-03-01
+        date_end: 2025-03-02
+        rating: 4
+  - label: 2024
+    entries:
+      - title: Dungarvan
+        url: "https://en.wikipedia.org/wiki/Dungarvan"
+        places:
+          - name: Dungarvan
+            url: "https://en.wikipedia.org/wiki/Dungarvan"
+            country: Ireland
+        date: 2024-11-08
+        date_end: 2024-11-10
+        rating: 3
+      - title: Bristol
+        url: "https://en.wikipedia.org/wiki/Bristol"
+        places:
+          - name: Bristol
+            url: "https://en.wikipedia.org/wiki/Bristol"
+            country: United Kingdom
+        date: 2024-08-15
+        date_end: 2024-08-18
+        rating: 4
+      - title: New York, Boston and Philadelphia
+        url: "https://en.wikipedia.org/wiki/New_York_City"
+        places:
+          - name: New York
+            url: "https://en.wikipedia.org/wiki/New_York_City"
+            country: United States
+          - name: Boston
+            url: "https://en.wikipedia.org/wiki/Boston"
+            country: United States
+          - name: Philadelphia
+            url: "https://en.wikipedia.org/wiki/Philadelphia"
+            country: United States
+        date: 2024-08-01
+        date_end: 2024-08-12
+        rating: 5
+      - title: Ireland roadtrip
+        url: "https://en.wikipedia.org/wiki/Ireland"
+        places:
+          - name: Ireland
+            url: "https://en.wikipedia.org/wiki/Ireland"
+            country: Ireland
+        date: 2024-04-09
+        date_end: 2024-04-13
+        rating: 5
+  - label: 2023
+    entries:
+      - title: Montreal
+        url: "https://en.wikipedia.org/wiki/Montreal"
+        places:
+          - name: Montreal
+            url: "https://en.wikipedia.org/wiki/Montreal"
+            country: Canada
+        date: 2023-07-17
+        date_end: 2023-07-24
+        rating: 5
+      - title: Morocco
+        url: "https://en.wikipedia.org/wiki/Morocco"
+        places:
+          - name: Morocco
+            url: "https://en.wikipedia.org/wiki/Morocco"
+            country: Morocco
+        date: 2023-06-22
+        date_end: 2023-07-01
+        rating: 2
+      - title: Bologna
+        url: "https://en.wikipedia.org/wiki/Bologna"
+        places:
+          - name: Bologna
+            url: "https://en.wikipedia.org/wiki/Bologna"
+            country: Italy
+        date: 2023-06-14
+        date_end: 2023-06-18
+        rating: 4
+      - title: London
+        url: "https://en.wikipedia.org/wiki/London"
+        places:
+          - name: London
+            url: "https://en.wikipedia.org/wiki/London"
+            country: United Kingdom
+        date: 2023-03-25
+        date_end: 2023-03-27
+        rating: 4
+  - label: 2022
+    entries:
+      - title: Scotland
+        url: "https://en.wikipedia.org/wiki/Scotland"
+        places:
+          - name: Inverness
+            url: "https://en.wikipedia.org/wiki/Inverness"
+            country: Scotland
+          - name: Isle of Skye
+            url: "https://en.wikipedia.org/wiki/Isle_of_Skye"
+            country: Scotland
+          - name: Edinburgh
+            url: "https://en.wikipedia.org/wiki/Edinburgh"
+            country: Scotland
+        date: 2022-08-02
+        date_end: 2022-08-07
+        rating: 5
+      - title: Turin
+        url: "https://en.wikipedia.org/wiki/Turin"
+        places:
+          - name: Turin
+            url: "https://en.wikipedia.org/wiki/Turin"
+            country: Italy
+        date: 2022-05-13
+        rating: 4
+  - label: 2019
+    entries:
+      - title: Castle Leslie, Monaghan
+        url: "https://en.wikipedia.org/wiki/Castle_Leslie"
+        places:
+          - name: Castle Leslie
+            url: "https://en.wikipedia.org/wiki/Castle_Leslie"
+            country: Ireland
+          - name: County Monaghan
+            url: "https://en.wikipedia.org/wiki/County_Monaghan"
+            country: Ireland
+        date: 2019-11-14
+        date_end: 2019-11-16
+        rating: 4
+      - title: Copenhagen
+        url: "https://en.wikipedia.org/wiki/Copenhagen"
+        places:
+          - name: Copenhagen
+            url: "https://en.wikipedia.org/wiki/Copenhagen"
+            country: Denmark
+        date: 2019-09-27
+        date_end: 2019-09-30
+        rating: 3
+      - title: Groppallo
+        url: "https://en.wikipedia.org/wiki/Groppallo"
+        places:
+          - name: Groppallo
+            url: "https://en.wikipedia.org/wiki/Groppallo"
+            country: Italy
+        date: 2019-08-15
+        rating: 3
+      - title: London
+        url: "https://en.wikipedia.org/wiki/London"
+        places:
+          - name: London
+            url: "https://en.wikipedia.org/wiki/London"
+            country: United Kingdom
+        date: 2019-03-30
+        rating: 4
+  - label: 2018
+    entries:
+      - title: New York
+        url: "https://en.wikipedia.org/wiki/New_York_City"
+        places:
+          - name: New York
+            url: "https://en.wikipedia.org/wiki/New_York_City"
+            country: United States
+        date: 2018-05-18
+        date_end: 2018-05-25
+        rating: 5
+  - label: 2017
+    entries:
+      - title: Prague
+        url: "https://en.wikipedia.org/wiki/Prague"
+        places:
+          - name: Prague
+            url: "https://en.wikipedia.org/wiki/Prague"
+            country: Czech Republic
+        date: 2017-11-11
+        date_end: 2017-11-14
+        rating: 3
+      - title: Sicily
+        url: "https://en.wikipedia.org/wiki/Sicily"
+        places:
+          - name: Syracuse
+            url: "https://en.wikipedia.org/wiki/Syracuse,_Sicily"
+            country: Italy
+          - name: Fontane Bianche
+            url: "https://en.wikipedia.org/wiki/Syracuse,_Sicily"
+            country: Italy
+        date: 2017-07-17
+        date_end: 2017-07-27
+        rating: 5
+      - title: Amsterdam
+        url: "https://en.wikipedia.org/wiki/Amsterdam"
+        places:
+          - name: Amsterdam
+            url: "https://en.wikipedia.org/wiki/Amsterdam"
+            country: Netherlands
+        date: 2017-05-13
+        date_end: 2017-05-15
+        rating: 3
+      - title: Glasgow
+        url: "https://en.wikipedia.org/wiki/Glasgow"
+        places:
+          - name: Glasgow
+            url: "https://en.wikipedia.org/wiki/Glasgow"
+            country: United Kingdom
+        date: 2017-03-31
+        date_end: 2017-04-02
+        rating: 4
+      - title: Manchester
+        url: "https://en.wikipedia.org/wiki/Manchester"
+        places:
+          - name: Manchester
+            url: "https://en.wikipedia.org/wiki/Manchester"
+            country: United Kingdom
+        date: 2017-02-17
+        date_end: 2017-02-19
+        rating: 4
+  - label: 2016
+    entries:
+      - title: Belfast
+        url: "https://en.wikipedia.org/wiki/Belfast"
+        places:
+          - name: Belfast
+            url: "https://en.wikipedia.org/wiki/Belfast"
+            country: United Kingdom
+        date: 2016-10-18
+        date_end: 2016-10-20
+        rating: 3
+      - title: London
+        url: "https://en.wikipedia.org/wiki/London"
+        places:
+          - name: London
+            url: "https://en.wikipedia.org/wiki/London"
+            country: United Kingdom
+        date: 2016-10-14
+        date_end: 2016-10-16
+        rating: 4
+      - title: Edinburgh
+        url: "https://en.wikipedia.org/wiki/Edinburgh"
+        places:
+          - name: Edinburgh
+            url: "https://en.wikipedia.org/wiki/Edinburgh"
+            country: United Kingdom
+        date: 2016-06-10
+        date_end: 2016-06-12
+        rating: 5
+      - title: Newcastle
+        url: "https://en.wikipedia.org/wiki/Newcastle_upon_Tyne"
+        places:
+          - name: Newcastle upon Tyne
+            url: "https://en.wikipedia.org/wiki/Newcastle_upon_Tyne"
+            country: United Kingdom
+        date: 2016-01-22
+        date_end: 2016-01-24
+        rating: 4
+  - label: 2014
+    entries:
+      - title: California, Nevada and Arizona
+        url: "https://en.wikipedia.org/wiki/California"
+        places:
+          - name: San Francisco
+            url: "https://en.wikipedia.org/wiki/San_Francisco"
+            country: United States
+          - name: Grand Canyon
+            url: "https://en.wikipedia.org/wiki/Grand_Canyon"
+            country: United States
+          - name: Death Valley
+            url: "https://en.wikipedia.org/wiki/Death_Valley"
+            country: United States
+          - name: San Diego
+            url: "https://en.wikipedia.org/wiki/San_Diego"
+            country: United States
+          - name: Golden Coast
+            url: "https://en.wikipedia.org/wiki/Central_Coast_(California)"
+            country: United States
+          - name: Route 101
+            url: "https://en.wikipedia.org/wiki/U.S._Route_101"
+            country: United States
+          - name: Malibu
+            url: "https://en.wikipedia.org/wiki/Malibu,_California"
+            country: United States
+        date: 2014-12-26
+        date_end: 2015-01-07
+        rating: 5
+      - title: Berlin
+        url: "https://en.wikipedia.org/wiki/Berlin"
+        places:
+          - name: Berlin
+            url: "https://en.wikipedia.org/wiki/Berlin"
+            country: Germany
+        date: 2014-09-25
+        date_end: 2014-09-28
+        rating: 3
+      - title: Gallipoli
+        url: "https://en.wikipedia.org/wiki/Gallipoli,_Apulia"
+        places:
+          - name: Gallipoli
+            url: "https://en.wikipedia.org/wiki/Gallipoli,_Apulia"
+            country: Italy
+        date: 2014-07-25
+        date_end: 2014-08-02
+        rating: 3
+      - title: Barcelona
+        url: "https://en.wikipedia.org/wiki/Barcelona"
+        places:
+          - name: Barcelona
+            url: "https://en.wikipedia.org/wiki/Barcelona"
+            country: Spain
+        date: 2014-05-05
+        date_end: 2014-05-10
+        rating: 5
+  - label: 2013
+    entries:
+      - title: Brussels
+        url: "https://en.wikipedia.org/wiki/Brussels"
+        places:
+          - name: Brussels
+            url: "https://en.wikipedia.org/wiki/Brussels"
+            country: Belgium
+        date: 2013-12-06
+        date_end: 2013-12-08
+        rating: 3
+      - title: Bobbio
+        url: "https://en.wikipedia.org/wiki/Bobbio"
+        places:
+          - name: Bobbio
+            url: "https://en.wikipedia.org/wiki/Bobbio"
+            country: Italy
+        date: 2013-09-07
+        rating: 4
+      - title: Cape Verde
+        url: "https://en.wikipedia.org/wiki/Cape_Verde"
+        places:
+          - name: Cape Verde
+            url: "https://en.wikipedia.org/wiki/Cape_Verde"
+            country: Cape Verde
+        date: 2013-06-23
+        date_end: 2013-06-30
+        rating: 4
+      - title: Brussels + Bruges + Antwerp
+        url: "https://en.wikipedia.org/wiki/Brussels"
+        places:
+          - name: Brussels
+            url: "https://en.wikipedia.org/wiki/Brussels"
+            country: Belgium
+          - name: Bruges
+            url: "https://en.wikipedia.org/wiki/Bruges"
+            country: Belgium
+          - name: Antwerp
+            url: "https://en.wikipedia.org/wiki/Antwerp"
+            country: Belgium
+        date: 2013-04-23
+        date_end: 2013-04-25
+        rating: 5
+      - title: Perugia + Assisi + Passignano
+        url: "https://en.wikipedia.org/wiki/Perugia"
+        places:
+          - name: Perugia
+            url: "https://en.wikipedia.org/wiki/Perugia"
+            country: Italy
+          - name: Assisi
+            url: "https://en.wikipedia.org/wiki/Assisi"
+            country: Italy
+          - name: Passignano sul Trasimeno
+            url: "https://en.wikipedia.org/wiki/Passignano_sul_Trasimeno"
+            country: Italy
+        date: 2013-03-30
+        date_end: 2013-04-01
+        rating: 4
+      - title: Vigevano
+        url: "https://en.wikipedia.org/wiki/Vigevano"
+        places:
+          - name: Vigevano
+            url: "https://en.wikipedia.org/wiki/Vigevano"
+            country: Italy
+        date: 2013-02-03
+        rating: 4
+      - title: London
+        url: "https://en.wikipedia.org/wiki/London"
+        places:
+          - name: London
+            url: "https://en.wikipedia.org/wiki/London"
+            country: United Kingdom
+        date: 2013-01-24
+        date_end: 2013-01-27
+        rating: 4
+  - label: 2012
+    entries:
+      - title: Zaragoza + Poblet + Tarragona
+        url: "https://en.wikipedia.org/wiki/Zaragoza"
+        places:
+          - name: Zaragoza
+            url: "https://en.wikipedia.org/wiki/Zaragoza"
+            country: Spain
+          - name: Poblet Monastery
+            url: "https://en.wikipedia.org/wiki/Poblet_Monastery"
+            country: Spain
+          - name: Tarragona
+            url: "https://en.wikipedia.org/wiki/Tarragona"
+            country: Spain
+        date: 2012-10-13
+        date_end: 2012-10-16
+        rating: 4
+      - title: Grazzano Visconti
+        url: "https://en.wikipedia.org/wiki/Grazzano_Visconti"
+        places:
+          - name: Grazzano Visconti
+            url: "https://en.wikipedia.org/wiki/Grazzano_Visconti"
+            country: Italy
+        date: 2012-09-08
+        rating: 4
+      - title: Budapest + Vienna + Bratislava
+        url: "https://en.wikipedia.org/wiki/Budapest"
+        places:
+          - name: Budapest
+            url: "https://en.wikipedia.org/wiki/Budapest"
+            country: Hungary
+          - name: Vienna
+            url: "https://en.wikipedia.org/wiki/Vienna"
+            country: Austria
+          - name: Bratislava
+            url: "https://en.wikipedia.org/wiki/Bratislava"
+            country: Slovakia
+        date: 2012-08-26
+        date_end: 2012-09-02
+        rating: 5
+      - title: Valleve
+        url: "https://en.wikipedia.org/wiki/Valleve"
+        places:
+          - name: Valleve
+            url: "https://en.wikipedia.org/wiki/Valleve"
+            country: Italy
+        date: 2012-08-20
+        date_end: 2012-08-22
+        rating: 3
+      - title: Cremona
+        url: "https://en.wikipedia.org/wiki/Cremona"
+        places:
+          - name: Cremona
+            url: "https://en.wikipedia.org/wiki/Cremona"
+            country: Italy
+        date: 2012-07-30
+        rating: 4
+      - title: Abingdon
+        url: "https://en.wikipedia.org/wiki/Abingdon-on-Thames"
+        places:
+          - name: Abingdon-on-Thames
+            url: "https://en.wikipedia.org/wiki/Abingdon-on-Thames"
+            country: United Kingdom
+        date: 2012-05-13
+        date_end: 2012-05-18
+        rating: 2
+      - title: Mantua
+        url: "https://en.wikipedia.org/wiki/Mantua"
+        places:
+          - name: Mantua
+            url: "https://en.wikipedia.org/wiki/Mantua"
+            country: Italy
+        date: 2012-04-25
+        rating: 5
+      - title: Valencia
+        url: "https://en.wikipedia.org/wiki/Valencia,_Spain"
+        places:
+          - name: Valencia
+            url: "https://en.wikipedia.org/wiki/Valencia,_Spain"
+            country: Spain
+        date: 2012-03-31
+        date_end: 2012-04-03
+        rating: 5
+  - label: 2011
+    entries:
+      - title: Marsa Alam
+        url: "https://en.wikipedia.org/wiki/Marsa_Alam"
+        places:
+          - name: Marsa Alam
+            url: "https://en.wikipedia.org/wiki/Marsa_Alam"
+            country: Egypt
+        date: 2011-12-10
+        date_end: 2011-12-17
+        rating: 4
+      - title: Porto + Coimbra + Lisbon + Cabo da Roca + Madrid
+        url: "https://en.wikipedia.org/wiki/Porto"
+        places:
+          - name: Porto
+            url: "https://en.wikipedia.org/wiki/Porto"
+            country: Portugal
+          - name: Coimbra
+            url: "https://en.wikipedia.org/wiki/Coimbra"
+            country: Portugal
+          - name: Lisbon
+            url: "https://en.wikipedia.org/wiki/Lisbon"
+            country: Portugal
+          - name: Cabo da Roca
+            url: "https://en.wikipedia.org/wiki/Cabo_da_Roca"
+            country: Portugal
+          - name: Madrid
+            url: "https://en.wikipedia.org/wiki/Madrid"
+            country: Spain
+        date: 2011-08-28
+        date_end: 2011-09-04
+        rating: 5
+      - title: Montpellier
+        url: "https://en.wikipedia.org/wiki/Montpellier"
+        places:
+          - name: Montpellier
+            url: "https://en.wikipedia.org/wiki/Montpellier"
+            country: France
+        date: 2011-05-30
+        date_end: 2011-06-09
+        rating: 5
+      - title: Abingdon
+        url: "https://en.wikipedia.org/wiki/Abingdon-on-Thames"
+        places:
+          - name: Abingdon-on-Thames
+            url: "https://en.wikipedia.org/wiki/Abingdon-on-Thames"
+            country: United Kingdom
+        date: 2011-05-15
+        rating: 2
+      - title: Paris
+        url: "https://en.wikipedia.org/wiki/Paris"
+        places:
+          - name: Paris
+            url: "https://en.wikipedia.org/wiki/Paris"
+            country: France
+        date: 2011-03-20
+        date_end: 2012-02-02
+        rating: 4
+  - label: 2010
+    entries:
+      - title: Sacro Monte di Oropa + Biella
+        url: "https://en.wikipedia.org/wiki/Sacro_Monte_di_Oropa"
+        places:
+          - name: Sacro Monte di Oropa
+            url: "https://en.wikipedia.org/wiki/Sacro_Monte_di_Oropa"
+            country: Italy
+          - name: Biella
+            url: "https://en.wikipedia.org/wiki/Biella"
+            country: Italy
+        date: 2010-07-31
+        rating: 3
+      - title: Houston
+        url: "https://en.wikipedia.org/wiki/Houston"
+        places:
+          - name: Houston
+            url: "https://en.wikipedia.org/wiki/Houston"
+            country: United States
+        date: 2010-07-19
+        date_end: 2010-07-25
+        rating: 3
+  - label: 2009
+    entries:
+      - title: Rome
+        url: "https://en.wikipedia.org/wiki/Rome"
+        places:
+          - name: Rome
+            url: "https://en.wikipedia.org/wiki/Rome"
+            country: Italy
+        date: 2009-12-12
+        date_end: 2009-12-13
+        rating: 5

@@ -1,0 +1,13 @@
+{%- assign places = include.places -%}
+{%- assign places_join = include.join -%}
+{%- for place in places -%}
+{%- capture place_label -%}
+{%- if place.country and place.country != place.name -%}
+{{ place.name }}, {{ place.country }}
+{%- else -%}
+{{ place.name }}
+{%- endif -%}
+{%- endcapture -%}
+{%- include_cached media-link.html text=place_label url=place.url -%}
+{%- unless forloop.last -%}{%- if places_join -%}{{ places_join }}{%- else -%}<br/>{%- endif -%}{%- endunless -%}
+{%- endfor -%}
