@@ -328,6 +328,12 @@ blockquote {
   border-bottom-color: var(--border-subtle);
 }
 
+@media screen and (min-width: 600px) {
+  .site-nav {
+    transform: translateX(-30%);
+  }
+}
+
 .site-footer {
   border-top-color: var(--border-subtle);
 }
