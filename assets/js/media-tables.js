@@ -49,6 +49,9 @@
     }
 
     refreshMonthBreaks();
+    if (typeof window.applyTravelsMapFilter === "function") {
+      window.applyTravelsMapFilter();
+    }
   }
 
   document.addEventListener("DOMContentLoaded", function () {

@@ -107,13 +107,14 @@
   });
 
   var dublin = L.latLng(53.3498, -6.2603);
-  var bounds = L.latLngBounds([]);
-  bounds.extend(dublin);
+  var markersByPlace = {};
+  var allBounds = L.latLngBounds([]);
+  allBounds.extend(dublin);
   Object.keys(groups).forEach(function (place) {
     var point = coords[place];
     if (!point || point.lat == null || point.lng == null) return;
     var latLng = L.latLng(point.lat, point.lng);
-    bounds.extend(latLng);
+    allBounds.extend(latLng);
 
     var periods = groups[place]
       .map(function (visit) {
@@ -127,12 +128,12 @@
       '<ul class="travels-map-popup-periods">' + periods + "</ul>" +
       "</div>";
 
-    L.marker(latLng, { icon: pinIcon })
+    markersByPlace[place] = L.marker(latLng, { icon: pinIcon })
       .addTo(map)
       .bindPopup(popup, { className: "travels-map-popup-wrap", maxWidth: 260 });
   });
 
-  L.marker(dublin, { icon: homeIcon, zIndexOffset: 1000 })
+  var homeMarker = L.marker(dublin, { icon: homeIcon, zIndexOffset: 1000 })
     .addTo(map)
     .bindPopup(
       '<div class="travels-map-popup">' +
@@ -142,8 +143,46 @@
       { className: "travels-map-popup-wrap", maxWidth: 260 }
     );
 
-  if (bounds.isValid()) {
-    map.fitBounds(bounds.pad(0.12));
+  function applyTravelsMapFilter() {
+    var searchInput = document.querySelector(".media-search");
+    var ratingSelect = document.querySelector(".media-rating-filter");
+    var query = searchInput ? searchInput.value.trim().toLowerCase() : "";
+    var minRating = ratingSelect && ratingSelect.value ? parseInt(ratingSelect.value, 10) : 0;
+    var filtered = Boolean(query || minRating);
+    var visiblePlaces = Object.create(null);
+
+    if (filtered) {
+      Array.prototype.forEach.call(document.querySelectorAll("tr.media-row"), function (row) {
+        if (row.hidden) return;
+        (row.getAttribute("data-places") || "").split("|").forEach(function (name) {
+          if (name) visiblePlaces[name] = true;
+        });
+      });
+    }
+
+    var fitBounds = L.latLngBounds([]);
+    Object.keys(markersByPlace).forEach(function (place) {
+      var marker = markersByPlace[place];
+      var show = !filtered || visiblePlaces[place];
+      if (show) {
+        if (!map.hasLayer(marker)) marker.addTo(map);
+        fitBounds.extend(marker.getLatLng());
+      } else if (map.hasLayer(marker)) {
+        map.removeLayer(marker);
+      }
+    });
+
+    if (filtered && fitBounds.isValid()) {
+      map.fitBounds(fitBounds.pad(0.15));
+    } else if (!filtered && allBounds.isValid()) {
+      map.fitBounds(allBounds.pad(0.12));
+    }
+  }
+
+  window.applyTravelsMapFilter = applyTravelsMapFilter;
+
+  if (allBounds.isValid()) {
+    map.fitBounds(allBounds.pad(0.12));
   } else {
     map.setView([30, 0], 2);
   }

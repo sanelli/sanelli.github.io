@@ -36,7 +36,11 @@
     {%- if item_month != "" -%}
       {%- assign prev_month = item_month -%}
     {%- endif -%}
-    <tr class="media-row{% if month_break %} media-row--month-break{% endif %}{% if month_first %} media-row--month-first{% endif %}"{% if item_month != "" %} data-month="{{ item_month }}"{% endif %} data-search="{{ media_search | downcase | strip | xml_escape }}"{% if item.rating %} data-rating="{{ item.rating }}"{% else %} data-rating=""{% endif %}>
+    {%- assign row_places = "" -%}
+    {%- if kind == "travels" -%}
+      {%- capture row_places -%}{%- for place in item.places -%}{%- unless forloop.first -%}|{%- endunless -%}{{ place.name }}{%- endfor -%}{%- endcapture -%}
+    {%- endif -%}
+    <tr class="media-row{% if month_break %} media-row--month-break{% endif %}{% if month_first %} media-row--month-first{% endif %}"{% if item_month != "" %} data-month="{{ item_month }}"{% endif %} data-search="{{ media_search | downcase | strip | xml_escape }}"{% if item.rating %} data-rating="{{ item.rating }}"{% else %} data-rating=""{% endif %}{% if row_places != "" %} data-places="{{ row_places | strip | xml_escape }}"{% endif %}>
       {%- if rated -%}
       <td data-label="Date" data-sort="{{ item.date }}">{%- if item.date -%}<span class="media-date" data-sort="{{ item.date }}"><nobr>{{ item.date }}</nobr></span>{%- endif -%}</td>
       <td data-label="Rating" data-sort="{{ item.rating }}">{%- if item.rating -%}<span class="media-rating" data-sort="{{ item.rating }}">{%- for i in (1..item.rating) -%}⭐️{%- endfor -%}</span>{%- endif -%}</td>
