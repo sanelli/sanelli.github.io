@@ -92,12 +92,43 @@
     maxZoom: 19
   }).addTo(map);
 
-  var pinIcon = L.divIcon({
-    className: "travels-map-pin",
-    html: "<span></span>",
-    iconSize: [10, 10],
-    iconAnchor: [5, 5]
-  });
+  function visitTimestamp(iso) {
+    if (!iso) return NaN;
+    return Date.parse(iso + "T12:00:00");
+  }
+
+  function visitOpacityRange() {
+    var minMs = Infinity;
+    var maxMs = -Infinity;
+    visits.forEach(function (visit) {
+      var ms = visitTimestamp(visit.start);
+      if (isNaN(ms)) return;
+      if (ms < minMs) minMs = ms;
+      if (ms > maxMs) maxMs = ms;
+    });
+    if (!isFinite(minMs) || !isFinite(maxMs)) {
+      return { minMs: 0, maxMs: 0 };
+    }
+    return { minMs: minMs, maxMs: maxMs };
+  }
+
+  function opacityForVisit(iso, range) {
+    var ms = visitTimestamp(iso);
+    if (isNaN(ms) || range.maxMs <= range.minMs) return 1;
+    var t = (ms - range.minMs) / (range.maxMs - range.minMs);
+    return 0.3 + t * 0.7;
+  }
+
+  function pinIconForOpacity(opacity) {
+    return L.divIcon({
+      className: "travels-map-pin",
+      html: '<span style="opacity:' + opacity.toFixed(3) + '"></span>',
+      iconSize: [10, 10],
+      iconAnchor: [5, 5]
+    });
+  }
+
+  var opacityRange = visitOpacityRange();
 
   var homeIcon = L.divIcon({
     className: "travels-map-home",
@@ -128,7 +159,9 @@
       '<ul class="travels-map-popup-periods">' + periods + "</ul>" +
       "</div>";
 
-    markersByPlace[place] = L.marker(latLng, { icon: pinIcon })
+    markersByPlace[place] = L.marker(latLng, {
+      icon: pinIconForOpacity(opacityForVisit(groups[place][0].start, opacityRange))
+    })
       .addTo(map)
       .bindPopup(popup, { className: "travels-map-popup-wrap", maxWidth: 260 });
   });
