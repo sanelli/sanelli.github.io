@@ -1,6 +1,6 @@
 {%- assign people = include.people -%}
 {%- assign people_join = include.join -%}
 {%- for person in people -%}
-{%- include_cached media-link.html text=person.name url=person.url -%}
-{%- unless forloop.last -%}{%- if people_join -%}{{ people_join }}{%- else -%}<br/>{%- endif -%}{%- endunless -%}
+{%- include_cached media-link.html text=person.name url=person.url inline=true -%}
+{%- unless forloop.last -%}{%- if people_join -%}<span class="media-inline-sep">{{ people_join }}</span>{%- else -%}<br/>{%- endif -%}{%- endunless -%}
 {%- endfor -%}

@@ -1,0 +1,15 @@
+{%- assign country = include.country -%}
+{%- assign label = include.label -%}
+{%- assign url = include.url -%}
+{%- if label == nil or label == "" -%}
+  {%- if country == "United States" -%}
+    {%- assign label = "U.S.A" -%}
+  {%- else -%}
+    {%- assign label = country -%}
+  {%- endif -%}
+{%- endif -%}
+{%- if url == nil or url == "" -%}
+  {%- capture country_slug -%}{{ country | replace: " ", "_" }}{%- endcapture -%}
+  {%- assign url = "https://en.wikipedia.org/wiki/" | append: country_slug -%}
+{%- endif -%}
+{%- include_cached media-link.html text=label url=url inline=true -%}

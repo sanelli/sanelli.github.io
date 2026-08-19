@@ -1,1 +1,5 @@
+{%- if include.inline -%}
+{%- if include.url -%}<a href="{{ include.url | escape }}">{{ include.text | escape }}</a>{%- else -%}{{ include.text | escape }}{%- endif -%}
+{%- else -%}
 <nobr>{%- if include.url -%}<a href="{{ include.url | escape }}">{{ include.text | escape }}</a>{%- else -%}{{ include.text | escape }}{%- endif -%}</nobr>
+{%- endif -%}

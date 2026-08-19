@@ -249,6 +249,9 @@ years:
       - title: Sicily
         url: "https://en.wikipedia.org/wiki/Sicily"
         places:
+          - name: Sicily
+            url: "https://en.wikipedia.org/wiki/Sicily"
+            country: Italy
           - name: Syracuse
             url: "https://en.wikipedia.org/wiki/Syracuse,_Sicily"
             country: Italy

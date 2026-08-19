@@ -1,13 +1,12 @@
 {%- assign places = include.places -%}
 {%- assign places_join = include.join -%}
+{%- assign names_only = include.names_only -%}
 {%- for place in places -%}
-{%- capture place_label -%}
+{%- include_cached media-link.html text=place.name url=place.url inline=true -%}
+{%- unless names_only -%}
 {%- if place.country and place.country != place.name -%}
-{{ place.name }}, {{ place.country }}
-{%- else -%}
-{{ place.name }}
+<span class="media-place-sep"> - </span>{%- include media-country-link.html country=place.country label=place.country_label url=place.country_url -%}
 {%- endif -%}
-{%- endcapture -%}
-{%- include_cached media-link.html text=place_label url=place.url -%}
-{%- unless forloop.last -%}{%- if places_join -%}{{ places_join }}{%- else -%}<br/>{%- endif -%}{%- endunless -%}
+{%- endunless -%}
+{%- unless forloop.last -%}{%- if places_join -%}<span class="media-inline-sep">{{ places_join }}</span>{%- else -%}<br/>{%- endif -%}{%- endunless -%}
 {%- endfor -%}
