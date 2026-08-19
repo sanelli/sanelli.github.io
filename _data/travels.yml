@@ -458,17 +458,26 @@ years:
         rating: 2
   - label: 2014
     entries:
-      - title: California, Nevada and Arizona
-        url: "https://en.wikipedia.org/wiki/California"
+      - title: West coast roadtrip
+        url: "https://en.wikipedia.org/wiki/West_Coast_of_the_United_States"
         places:
           - name: San Francisco
             url: "https://en.wikipedia.org/wiki/San_Francisco"
             country: United States of America
+          - name: Merced
+            url: "https://en.wikipedia.org/wiki/Merced,_California"
+            country: United States of America
           - name: Grand Canyon
             url: "https://en.wikipedia.org/wiki/Grand_Canyon"
             country: United States of America
+          - name: Flagstaff
+            url: "https://en.wikipedia.org/wiki/Flagstaff,_Arizona"
+            country: United States of America
           - name: Death Valley
             url: "https://en.wikipedia.org/wiki/Death_Valley"
+            country: United States of America
+          - name: Las Vegas
+            url: "https://en.wikipedia.org/wiki/Las_Vegas"
             country: United States of America
           - name: San Diego
             url: "https://en.wikipedia.org/wiki/San_Diego"
@@ -546,11 +555,11 @@ years:
             country: Italy
         date: 2013-09-07
         rating: 4
-      - title: Cape Verde
-        url: "https://en.wikipedia.org/wiki/Cape_Verde"
+      - title: Ilha do Sal
+        url: "https://en.wikipedia.org/wiki/Sal,_Cape_Verde"
         places:
-          - name: Cape Verde
-            url: "https://en.wikipedia.org/wiki/Cape_Verde"
+          - name: Ilha do Sal
+            url: "https://en.wikipedia.org/wiki/Sal,_Cape_Verde"
             country: Cape Verde
         date: 2013-06-23
         date_end: 2013-06-30

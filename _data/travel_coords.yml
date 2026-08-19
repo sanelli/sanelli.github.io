@@ -133,6 +133,9 @@ Fes:
 Fontane Bianche:
   lat: 36.9617
   lng: 15.2808
+Flagstaff:
+  lat: 35.1983
+  lng: -111.6513
 Gallipoli:
   lat: 40.057
   lng: 17.9896
@@ -160,6 +163,9 @@ Gropparello:
 Houston:
   lat: 29.7604
   lng: -95.3698
+Ilha do Sal:
+  lat: 16.7196
+  lng: -22.9375
 Innsbruck:
   lat: 47.2692
   lng: 11.4041
@@ -190,6 +196,9 @@ Lecce:
 Lisbon:
   lat: 38.7223
   lng: -9.1393
+Las Vegas:
+  lat: 36.1699
+  lng: -115.1398
 London:
   lat: 51.5074
   lng: -0.1278
@@ -205,6 +214,9 @@ Marrakech:
 Malibu:
   lat: 34.0259
   lng: -118.7798
+Merced:
+  lat: 37.3022
+  lng: -120.483
 Mallorca:
   lat: 39.6953
   lng: 3.0176
