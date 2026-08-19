@@ -1,0 +1,222 @@
+Abingdon-on-Thames:
+  lat: 51.6711
+  lng: -1.2828
+Amsterdam:
+  lat: 52.3676
+  lng: 4.9041
+Antwerp:
+  lat: 51.2194
+  lng: 4.4025
+Assisi:
+  lat: 43.0707
+  lng: 12.6196
+Barcelona:
+  lat: 41.3874
+  lng: 2.1686
+Belfast:
+  lat: 54.5973
+  lng: -5.9301
+Berlin:
+  lat: 52.52
+  lng: 13.405
+Biella:
+  lat: 45.5668
+  lng: 8.0545
+Bobbio:
+  lat: 44.7697
+  lng: 9.3867
+Bologna:
+  lat: 44.4949
+  lng: 11.3426
+Boston:
+  lat: 42.3601
+  lng: -71.0589
+Bratislava:
+  lat: 48.1486
+  lng: 17.1077
+Brighton:
+  lat: 50.8225
+  lng: -0.1372
+Bruges:
+  lat: 51.2093
+  lng: 3.2247
+Brussels:
+  lat: 50.8503
+  lng: 4.3517
+Bristol:
+  lat: 51.4545
+  lng: -2.5879
+Budapest:
+  lat: 47.4979
+  lng: 19.0402
+Cabo da Roca:
+  lat: 38.7804
+  lng: -9.4989
+Cape Verde:
+  lat: 14.933
+  lng: -23.5133
+Castle Leslie:
+  lat: 54.1361
+  lng: -6.8917
+Coimbra:
+  lat: 40.2033
+  lng: -8.4103
+Copenhagen:
+  lat: 55.6761
+  lng: 12.5683
+County Monaghan:
+  lat: 54.2492
+  lng: -6.9683
+Cremona:
+  lat: 45.1333
+  lng: 10.0227
+Death Valley:
+  lat: 36.5323
+  lng: -116.9325
+Dungarvan:
+  lat: 52.0889
+  lng: -7.6253
+Edinburgh:
+  lat: 55.9533
+  lng: -3.1883
+Fontane Bianche:
+  lat: 36.9617
+  lng: 15.2808
+Gallipoli:
+  lat: 40.057
+  lng: 17.9896
+Glasgow:
+  lat: 55.8642
+  lng: -4.2518
+Golden Coast:
+  lat: 36.7783
+  lng: -119.4179
+Gran Canaria:
+  lat: 28.0997
+  lng: -15.4134
+Grand Canyon:
+  lat: 36.1069
+  lng: -112.1129
+Grazzano Visconti:
+  lat: 45.0167
+  lng: 9.4833
+Groppallo:
+  lat: 44.3167
+  lng: 9.3167
+Houston:
+  lat: 29.7604
+  lng: -95.3698
+Inverness:
+  lat: 57.4778
+  lng: -4.2247
+Ireland:
+  lat: 53.4129
+  lng: -8.2439
+Isle of Skye:
+  lat: 57.4127
+  lng: -6.194
+Lisbon:
+  lat: 38.7223
+  lng: -9.1393
+London:
+  lat: 51.5074
+  lng: -0.1278
+Madrid:
+  lat: 40.4168
+  lng: -3.7038
+Malibu:
+  lat: 34.0259
+  lng: -118.7798
+Mallorca:
+  lat: 39.6953
+  lng: 3.0176
+Manchester:
+  lat: 53.4808
+  lng: -2.2426
+Mantua:
+  lat: 45.1564
+  lng: 10.7914
+Marsa Alam:
+  lat: 25.0676
+  lng: 34.8789
+Maspalomas:
+  lat: 27.7606
+  lng: -15.586
+Montpellier:
+  lat: 43.6108
+  lng: 3.8767
+Montreal:
+  lat: 45.5017
+  lng: -73.5673
+Morocco:
+  lat: 31.7917
+  lng: -7.0926
+New York:
+  lat: 40.7128
+  lng: -74.006
+Newcastle upon Tyne:
+  lat: 54.9783
+  lng: -1.6178
+Paris:
+  lat: 48.8566
+  lng: 2.3522
+Passignano sul Trasimeno:
+  lat: 43.1911
+  lng: 12.1369
+Perugia:
+  lat: 43.1107
+  lng: 12.3908
+Philadelphia:
+  lat: 39.9526
+  lng: -75.1652
+Poblet Monastery:
+  lat: 41.3797
+  lng: 1.0839
+Porto:
+  lat: 41.1579
+  lng: -8.6291
+Prague:
+  lat: 50.0755
+  lng: 14.4378
+Rome:
+  lat: 41.9028
+  lng: 12.4964
+Route 101:
+  lat: 34.4208
+  lng: -119.6982
+Sacro Monte di Oropa:
+  lat: 45.6186
+  lng: 7.9833
+San Diego:
+  lat: 32.7157
+  lng: -117.1611
+San Francisco:
+  lat: 37.7749
+  lng: -122.4194
+Sicily:
+  lat: 37.5999
+  lng: 14.0154
+Syracuse:
+  lat: 37.0755
+  lng: 15.2866
+Tarragona:
+  lat: 41.1189
+  lng: 1.2445
+Turin:
+  lat: 45.0703
+  lng: 7.6869
+Valencia:
+  lat: 39.4699
+  lng: -0.3763
+Valleve:
+  lat: 45.9667
+  lng: 9.7167
+Vienna:
+  lat: 48.2082
+  lng: 16.3738
+Vigevano:
+  lat: 45.3144
+  lng: 8.8578
+Zaragoza:
+  lat: 41.6488
+  lng: -0.8891

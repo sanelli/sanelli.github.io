@@ -2,6 +2,9 @@
 {%- assign data = site.data[kind] -%}
 <div class="section-rail-layout">
 <div class="media-lead">
+{%- if kind == "travels" -%}
+{%- include travels-map.html -%}
+{%- endif -%}
 {%- include_cached media-toolbar.html -%}
 <p class="home-stats-link"><a href="{{ '/stats/' | relative_url }}">Stats for nerds</a></p>
 </div>

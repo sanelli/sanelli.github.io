@@ -1,0 +1,15 @@
+<div class="travels-map-wrap">
+  <div id="travels-map" class="travels-map" role="region" aria-label="Map of visited places"></div>
+</div>
+<script type="application/json" id="travels-map-visits">[
+{%- assign visit_sep = "" -%}
+{%- for group in site.data.travels.years -%}
+{%- for entry in group.entries -%}
+{%- for place in entry.places -%}
+{{ visit_sep }}{"place":{{ place.name | jsonify }},"start":{{ entry.date | jsonify }},"end":{{ entry.date_end | jsonify }}}
+{%- assign visit_sep = "," -%}
+{%- endfor -%}
+{%- endfor -%}
+{%- endfor -%}
+]</script>
+<script type="application/json" id="travels-map-coords">{{ site.data.travel_coords | jsonify }}</script>
