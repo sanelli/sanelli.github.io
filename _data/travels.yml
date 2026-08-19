@@ -500,6 +500,13 @@ years:
           - name: Gallipoli
             url: "https://en.wikipedia.org/wiki/Gallipoli,_Apulia"
             country: Italy
+          - name: Lecce
+            url: "https://en.wikipedia.org/wiki/Lecce"
+            country: Italy
+          - name: Baia Verde
+            country: Italy
+          - name: Torre Suda
+            country: Italy
         date: 2014-07-25
         date_end: 2014-08-02
         rating: 3
@@ -785,6 +792,15 @@ years:
             country: Italy
         date: 2009-08-22
         date_end: 2009-08-29
+      - title: Assisi
+        url: "https://en.wikipedia.org/wiki/Assisi"
+        places:
+          - name: Assisi
+            url: "https://en.wikipedia.org/wiki/Assisi"
+            country: Italy
+        date: 2009-05-01
+        date_end: 2009-05-03
+        rating: 4
   - label: 2008
     entries:
       - title: Rimini
@@ -795,3 +811,185 @@ years:
             country: Italy
         date: 2008-08-23
         date_end: 2008-08-30
+  - label: 2007
+    entries:
+      - title: Alba Adriatica
+        url: "https://en.wikipedia.org/wiki/Alba_Adriatica"
+        places:
+          - name: Alba Adriatica
+            url: "https://en.wikipedia.org/wiki/Alba_Adriatica"
+            country: Italy
+        date: 2007-08-01
+        date_end: 2007-08-15
+        rating: 4
+  - label: 2006
+    entries:
+      - title: Canazei
+        url: "https://en.wikipedia.org/wiki/Canazei"
+        places:
+          - name: Canazei
+            url: "https://en.wikipedia.org/wiki/Canazei"
+            country: Italy
+        date: 2006-06-25
+        date_end: 2006-07-02
+        rating: 5
+      - title: Laghi Gemelli and Rifugio Calvi
+        url: "https://en.wikipedia.org/wiki/Branzi"
+        places:
+          - name: Laghi Gemelli
+            country: Italy
+          - name: Rifugio Calvi
+            country: Italy
+        date: 2006-06-02
+        date_end: 2006-06-03
+        rating: 4
+  - label: 2005
+    entries:
+      - title: Gargano Camping
+        url: "https://en.wikipedia.org/wiki/Gargano"
+        places:
+          - name: Peschici
+            url: "https://en.wikipedia.org/wiki/Peschici"
+            country: Italy
+          - name: San Giovanni Rotondo
+            url: "https://en.wikipedia.org/wiki/San_Giovanni_Rotondo"
+            country: Italy
+        date: 2005-08-06
+        date_end: 2005-08-21
+  - label: 2004
+    entries:
+      - title: Val Martello
+        url: "https://en.wikipedia.org/wiki/Martell,_South_Tyrol"
+        places:
+          - name: Val Martello
+            url: "https://en.wikipedia.org/wiki/Martell,_South_Tyrol"
+            country: Italy
+        date: 2004-08-01
+        rating: 4
+  - label: 2003
+    entries:
+      - title: Assisi
+        url: "https://en.wikipedia.org/wiki/Assisi"
+        places:
+          - name: Assisi
+            url: "https://en.wikipedia.org/wiki/Assisi"
+            country: Italy
+        date: 2003-08-01
+        rating: 4
+  - label: 2002
+    entries:
+      - title: Vipiteno
+        url: "https://en.wikipedia.org/wiki/Vipiteno"
+        places:
+          - name: Vipiteno
+            url: "https://en.wikipedia.org/wiki/Vipiteno"
+            country: Italy
+        date: 2002-01-02
+        date_end: 2002-01-05
+        rating: 4
+  - label: 2001
+    entries:
+      - title: Canazei
+        url: "https://en.wikipedia.org/wiki/Canazei"
+        places:
+          - name: Canazei
+            url: "https://en.wikipedia.org/wiki/Canazei"
+            country: Italy
+          - name: Rifugio Micheluzzi
+            country: Italy
+          - name: Passo San Nicolò
+            country: Italy
+          - name: Torri del Violet
+            url: "https://en.wikipedia.org/wiki/Vajolet_Towers"
+            country: Italy
+        date: 2001-06-25
+        date_end: 2001-06-29
+        rating: 5
+  - label: 2000
+    entries:
+      - title: Canazei
+        url: "https://en.wikipedia.org/wiki/Canazei"
+        places:
+          - name: Canazei
+            url: "https://en.wikipedia.org/wiki/Canazei"
+            country: Italy
+          - name: Le Selle
+            country: Italy
+          - name: Micheluzzi
+            country: Italy
+          - name: Contrin
+            country: Italy
+          - name: Sasso Piatto
+            url: "https://en.wikipedia.org/wiki/Sasso_Piatto"
+            country: Italy
+          - name: Sasso Lungo
+            url: "https://en.wikipedia.org/wiki/Sassolungo"
+            country: Italy
+          - name: Col Rodella
+            country: Italy
+          - name: Monzoni
+            country: Italy
+        date: 2000-06-25
+        date_end: 2000-06-27
+        rating: 5
+      - title: Vipiteno and Innsbruck
+        url: "https://en.wikipedia.org/wiki/Vipiteno"
+        places:
+          - name: Vipiteno
+            url: "https://en.wikipedia.org/wiki/Vipiteno"
+            country: Italy
+          - name: Innsbruck
+            url: "https://en.wikipedia.org/wiki/Innsbruck"
+            country: Austria
+        date: 2000-01-02
+        date_end: 2000-01-05
+        rating: 4
+  - label: 1999
+    entries:
+      - title: Vipiteno
+        url: "https://en.wikipedia.org/wiki/Vipiteno"
+        places:
+          - name: Vipiteno
+            url: "https://en.wikipedia.org/wiki/Vipiteno"
+            country: Italy
+        date: 1999-01-01
+        date_end: 1999-01-05
+        rating: 4
+  - label: 1998
+    entries:
+      - title: Campitello
+        url: "https://en.wikipedia.org/wiki/Campitello_di_Fassa"
+        places:
+          - name: Campitello
+            url: "https://en.wikipedia.org/wiki/Campitello_di_Fassa"
+            country: Italy
+          - name: Rifugio Contrin
+            country: Italy
+          - name: Torri del Violet
+            url: "https://en.wikipedia.org/wiki/Vajolet_Towers"
+            country: Italy
+          - name: Lago di Carezza
+            url: "https://en.wikipedia.org/wiki/Karersee"
+            country: Italy
+        date: 1998-06-01
+        rating: 5
+  - label: 1997
+    entries:
+      - title: Campitello
+        url: "https://en.wikipedia.org/wiki/Campitello_di_Fassa"
+        places:
+          - name: Campitello
+            url: "https://en.wikipedia.org/wiki/Campitello_di_Fassa"
+            country: Italy
+        date: 1997-08-17
+        date_end: 1997-08-20
+        rating: 5
+      - title: Canazei
+        url: "https://en.wikipedia.org/wiki/Canazei"
+        places:
+          - name: Canazei
+            url: "https://en.wikipedia.org/wiki/Canazei"
+            country: Italy
+        date: 1997-06-25
+        date_end: 1997-06-29
+        rating: 5

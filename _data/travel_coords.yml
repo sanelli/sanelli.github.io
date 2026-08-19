@@ -1,6 +1,9 @@
 Abingdon-on-Thames:
   lat: 51.6711
   lng: -1.2828
+Alba Adriatica:
+  lat: 42.827
+  lng: 13.928
 Amsterdam:
   lat: 52.3676
   lng: 4.9041
@@ -16,6 +19,9 @@ Assisi:
 Bangor:
   lat: 54.653
   lng: -5.668
+Baia Verde:
+  lat: 40.0417
+  lng: 18.0188
 Barcelona:
   lat: 41.3874
   lng: 2.1686
@@ -64,6 +70,12 @@ Cabo da Roca:
 Cahersiveen:
   lat: 51.9486
   lng: -10.2542
+Campitello:
+  lat: 46.4756
+  lng: 11.7544
+Canazei:
+  lat: 46.4767
+  lng: 11.7697
 Cape Verde:
   lat: 14.933
   lng: -23.5133
@@ -148,6 +160,9 @@ Gropparello:
 Houston:
   lat: 29.7604
   lng: -95.3698
+Innsbruck:
+  lat: 47.2692
+  lng: 11.4041
 Inverness:
   lat: 57.4778
   lng: -4.2247
@@ -166,6 +181,12 @@ Isle of Skye:
 Kylemore Abbey:
   lat: 53.5486
   lng: -9.8889
+Laghi Gemelli:
+  lat: 45.993
+  lng: 9.8035
+Lecce:
+  lat: 40.35
+  lng: 18.167
 Lisbon:
   lat: 38.7223
   lng: -9.1393
@@ -235,6 +256,9 @@ Passignano sul Trasimeno:
 Perugia:
   lat: 43.1107
   lng: 12.3908
+Peschici:
+  lat: 41.949
+  lng: 16.011
 Philadelphia:
   lat: 39.9526
   lng: -75.1652
@@ -250,12 +274,15 @@ Prague:
 Rabat:
   lat: 34.0209
   lng: -6.8416
-Rome:
-  lat: 41.9028
-  lng: 12.4964
+Rifugio Calvi:
+  lat: 46.0236
+  lng: 9.8769
 Rimini:
   lat: 44.0678
   lng: 12.5695
+Rome:
+  lat: 41.9028
+  lng: 12.4964
 Route 101:
   lat: 34.4208
   lng: -119.6982
@@ -271,6 +298,9 @@ San Diego:
 San Francisco:
   lat: 37.7749
   lng: -122.4194
+San Giovanni Rotondo:
+  lat: 41.7064
+  lng: 15.7277
 Sicily:
   lat: 37.5999
   lng: 14.0154
@@ -280,9 +310,15 @@ Syracuse:
 Tarragona:
   lat: 41.1189
   lng: 1.2445
+Torre Suda:
+  lat: 40.0194
+  lng: 17.9783
 Turin:
   lat: 45.0703
   lng: 7.6869
+Val Martello:
+  lat: 46.55
+  lng: 10.783
 Valencia:
   lat: 39.4699
   lng: -0.3763
@@ -304,6 +340,9 @@ Waterville:
 Vigevano:
   lat: 45.3144
   lng: 8.8578
+Vipiteno:
+  lat: 46.896
+  lng: 11.431
 Zaragoza:
   lat: 41.6488
   lng: -0.8891
