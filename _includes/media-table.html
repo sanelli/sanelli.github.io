@@ -155,16 +155,7 @@
               {%- endif -%}
             {%- endif -%}
             {%- if show_byline -%}
-            <p class="media-card-byline">
-              <span class="media-card-byline-lead">{%- include icon.html name=byline_icon -%}{{ byline_verb }}</span>
-              <span class="media-inline-links">
-                {%- if kind == "travels" -%}
-                {%- include media-places.html places=byline_people join=", " names_only=true -%}
-                {%- else -%}
-                {%- include media-people.html people=byline_people join=", " -%}
-                {%- endif -%}
-              </span>
-            </p>
+            <p class="media-card-byline"><span class="media-card-byline-lead">{%- include icon.html name=byline_icon -%}{{ byline_verb }}</span><span class="media-card-byline-places"><span class="media-inline-sep"> </span>{%- if kind == "travels" -%}{%- include media-places.html places=byline_people join=", " names_only=true -%}{%- else -%}{%- include media-people.html people=byline_people join=", " -%}{%- endif -%}</span></p>
             {%- endif -%}
             {%- if item.rating -%}<div class="media-card-rating">{%- include media-stars.html rating=item.rating -%}</div>{%- endif -%}
             {%- assign show_year = false -%}

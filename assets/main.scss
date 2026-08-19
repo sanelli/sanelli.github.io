@@ -1242,7 +1242,7 @@ table.media-table--month-gaps tbody tr.media-row {
 }
 
 table.media-table--month-gaps tbody tr.media-row .media-card-body {
-  overflow: hidden;
+  overflow: visible;
   border-radius: 15px;
 }
 
@@ -1392,8 +1392,10 @@ table.media-table .media-card a {
 .media-card-byline {
   grid-area: byline;
   display: flex;
-  align-items: flex-start;
-  gap: 0.35em;
+  flex-wrap: nowrap;
+  align-items: baseline;
+  min-width: 0;
+  max-width: 100%;
   margin: 0.2em 0 0;
   color: var(--text-muted);
   font-size: 0.82em;
@@ -1402,15 +1404,14 @@ table.media-table .media-card a {
 }
 
 .media-card-byline-lead {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.35em;
   flex: 0 0 auto;
+  white-space: nowrap;
 }
 
-.media-inline-links {
-  min-width: 0;
+.media-card-byline-places {
   flex: 1 1 auto;
+  min-width: 0;
+  overflow-wrap: break-word;
 }
 
 .media-inline-sep {
@@ -1431,10 +1432,11 @@ table.media-table .media-card a {
 }
 
 .media-card-byline .icon {
+  display: inline-block;
   width: 0.95em;
   height: 0.95em;
-  margin: 0;
-  flex: 0 0 auto;
+  margin: 0 0.35em 0 0;
+  vertical-align: -0.12em;
 }
 
 .media-card-meta {
@@ -1509,6 +1511,8 @@ table.media-table .media-card a {
       "meta"
       "genres";
     align-items: start;
+    min-width: 0;
+    max-width: 100%;
   }
 
   .media-card-rating {
