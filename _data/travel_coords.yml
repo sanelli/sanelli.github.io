@@ -10,6 +10,9 @@ Antwerp:
 Assisi:
   lat: 43.0707
   lng: 12.6196
+Bangor:
+  lat: 54.653
+  lng: -5.668
 Barcelona:
   lat: 41.3874
   lng: 2.1686
@@ -52,18 +55,36 @@ Budapest:
 Cabo da Roca:
   lat: 38.7804
   lng: -9.4989
+Cahersiveen:
+  lat: 51.9486
+  lng: -10.2542
 Cape Verde:
   lat: 14.933
   lng: -23.5133
+Casablanca:
+  lat: 33.5731
+  lng: -7.5898
 Castle Leslie:
   lat: 54.1361
   lng: -6.8917
+Clifden:
+  lat: 53.4891
+  lng: -10.021
+Cliffs of Moher:
+  lat: 52.9715
+  lng: -9.4309
+Cobh:
+  lat: 51.8503
+  lng: -8.2943
 Coimbra:
   lat: 40.2033
   lng: -8.4103
 Copenhagen:
   lat: 55.6761
   lng: 12.5683
+Cork:
+  lat: 51.8985
+  lng: -8.4756
 County Monaghan:
   lat: 54.2492
   lng: -6.9683
@@ -76,9 +97,15 @@ Death Valley:
 Dungarvan:
   lat: 52.0889
   lng: -7.6253
+Dingle:
+  lat: 52.1409
+  lng: -10.2686
 Edinburgh:
   lat: 55.9533
   lng: -3.1883
+Fes:
+  lat: 34.0181
+  lng: -5.0078
 Fontane Bianche:
   lat: 36.9617
   lng: 15.2808
@@ -109,12 +136,21 @@ Houston:
 Inverness:
   lat: 57.4778
   lng: -4.2247
+Kenmare:
+  lat: 51.8796
+  lng: -9.5839
+Killorglin:
+  lat: 52.1069
+  lng: -9.785
 Ireland:
   lat: 53.4129
   lng: -8.2439
 Isle of Skye:
   lat: 57.4127
   lng: -6.194
+Kylemore Abbey:
+  lat: 53.5486
+  lng: -9.8889
 Lisbon:
   lat: 38.7223
   lng: -9.1393
@@ -124,6 +160,9 @@ London:
 Madrid:
   lat: 40.4168
   lng: -3.7038
+Marrakech:
+  lat: 31.6295
+  lng: -7.9811
 Malibu:
   lat: 34.0259
   lng: -118.7798
@@ -142,6 +181,9 @@ Marsa Alam:
 Maspalomas:
   lat: 27.7606
   lng: -15.586
+Meknes:
+  lat: 33.8935
+  lng: -5.5473
 Montpellier:
   lat: 43.6108
   lng: 3.8767
@@ -181,6 +223,9 @@ Porto:
 Prague:
   lat: 50.0755
   lng: 14.4378
+Rabat:
+  lat: 34.0209
+  lng: -6.8416
 Rome:
   lat: 41.9028
   lng: 12.4964
@@ -190,6 +235,9 @@ Route 101:
 Sacro Monte di Oropa:
   lat: 45.6186
   lng: 7.9833
+Sneem:
+  lat: 51.8383
+  lng: -9.8986
 San Diego:
   lat: 32.7157
   lng: -117.1611
@@ -214,9 +262,18 @@ Valencia:
 Valleve:
   lat: 45.9667
   lng: 9.7167
+Westport:
+  lat: 53.8008
+  lng: -9.5218
+White Strand:
+  lat: 51.949
+  lng: -10.242
 Vienna:
   lat: 48.2082
   lng: 16.3738
+Waterville:
+  lat: 51.8274
+  lng: -10.1722
 Vigevano:
   lat: 45.3144
   lng: 8.8578

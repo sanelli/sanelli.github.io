@@ -125,9 +125,50 @@ years:
       - title: Ireland roadtrip
         url: "https://en.wikipedia.org/wiki/Ireland"
         places:
-          - name: Ireland
-            url: "https://en.wikipedia.org/wiki/Ireland"
+          - name: Cobh
+            url: "https://en.wikipedia.org/wiki/Cobh"
             country: Ireland
+          - name: Cork
+            url: "https://en.wikipedia.org/wiki/Cork_(city)"
+            country: Ireland
+          - name: Kenmare
+            url: "https://en.wikipedia.org/wiki/Kenmare"
+            country: Ireland
+          - name: Sneem
+            url: "https://en.wikipedia.org/wiki/Sneem"
+            country: Ireland
+          - name: White Strand
+            country: Ireland
+          - name: Waterville
+            url: "https://en.wikipedia.org/wiki/Waterville,_County_Kerry"
+            country: Ireland
+          - name: Cahersiveen
+            url: "https://en.wikipedia.org/wiki/Cahersiveen"
+            country: Ireland
+          - name: Killorglin
+            url: "https://en.wikipedia.org/wiki/Killorglin"
+            country: Ireland
+          - name: Dingle
+            url: "https://en.wikipedia.org/wiki/Dingle"
+            country: Ireland
+          - name: Cliffs of Moher
+            url: "https://en.wikipedia.org/wiki/Cliffs_of_Moher"
+            country: Ireland
+          - name: Clifden
+            url: "https://en.wikipedia.org/wiki/Clifden"
+            country: Ireland
+          - name: Kylemore Abbey
+            url: "https://en.wikipedia.org/wiki/Kylemore_Abbey"
+            country: Ireland
+          - name: Westport
+            url: "https://en.wikipedia.org/wiki/Westport,_County_Mayo"
+            country: Ireland
+          - name: Bangor
+            url: "https://en.wikipedia.org/wiki/Bangor,_County_Down"
+            country: United Kingdom
+          - name: Belfast
+            url: "https://en.wikipedia.org/wiki/Belfast"
+            country: United Kingdom
         date: 2024-04-09
         date_end: 2024-04-13
         rating: 5
@@ -145,8 +186,20 @@ years:
       - title: Morocco
         url: "https://en.wikipedia.org/wiki/Morocco"
         places:
-          - name: Morocco
-            url: "https://en.wikipedia.org/wiki/Morocco"
+          - name: Fes
+            url: "https://en.wikipedia.org/wiki/Fez,_Morocco"
+            country: Morocco
+          - name: Meknes
+            url: "https://en.wikipedia.org/wiki/Meknes"
+            country: Morocco
+          - name: Marrakech
+            url: "https://en.wikipedia.org/wiki/Marrakesh"
+            country: Morocco
+          - name: Casablanca
+            url: "https://en.wikipedia.org/wiki/Casablanca"
+            country: Morocco
+          - name: Rabat
+            url: "https://en.wikipedia.org/wiki/Rabat"
             country: Morocco
         date: 2023-06-22
         date_end: 2023-07-01
