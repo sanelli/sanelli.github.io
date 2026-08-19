@@ -339,6 +339,10 @@ html[data-theme="system"] .theme-switch .icon-theme-system {
 }
 
 @media screen and (max-width: 600px) {
+  .site-header {
+    z-index: 25;
+  }
+
   .site-nav {
     background-color: var(--bg);
     border-color: var(--border-subtle);
@@ -1576,10 +1580,12 @@ table.media-table .media-card a {
 }
 
 .section-rail {
+  --section-rail-dot: 0.9rem;
+  --section-rail-pad-x: 0;
   position: relative;
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  align-items: stretch;
   width: max-content;
   max-height: none;
   margin: 0 0 1em;
@@ -1594,11 +1600,37 @@ table.media-table .media-card a {
   position: absolute;
   top: 0.95em;
   bottom: 0.95em;
-  left: 0.45rem;
+  left: calc(var(--section-rail-pad-x) + var(--section-rail-dot) / 2 - 1px);
   width: 2px;
-  margin-left: -1px;
   background: var(--border);
   border-radius: 999px;
+}
+
+@media screen and (max-width: 759px) {
+  .section-rail {
+    --section-rail-pad-x: 0.4em;
+    position: fixed;
+    top: 5.5rem;
+    right: max(0.45rem, env(safe-area-inset-right));
+    left: auto;
+    z-index: 15;
+    max-width: calc(100vw - 1rem);
+    max-height: min(70vh, calc(100vh - 6rem));
+    margin: 0;
+    padding: 0.45em var(--section-rail-pad-x);
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    background: color-mix(in srgb, var(--bg-elevated) 68%, transparent);
+    border: 1px solid color-mix(in srgb, var(--border) 50%, transparent);
+    border-radius: 12px;
+    box-shadow: 0 2px 14px rgba(0, 0, 0, 0.16);
+    backdrop-filter: blur(6px);
+  }
+
+  .section-rail::before {
+    left: auto;
+    right: calc(var(--section-rail-pad-x) + var(--section-rail-dot) / 2 - 1px);
+  }
 }
 
 @media screen and (min-width: 760px) {
@@ -1619,6 +1651,7 @@ table.media-table .media-card a {
     top: 0.85rem;
     align-self: start;
     z-index: 5;
+    width: 100%;
     max-height: calc(100vh - 1.7rem);
     margin: 0.2em 0 0;
     overflow-y: auto;
@@ -1639,9 +1672,10 @@ table.media-table .media-card a {
 .section-rail a:visited {
   position: relative;
   display: grid;
-  grid-template-columns: 0.9rem 1fr;
+  grid-template-columns: var(--section-rail-dot) 1fr;
   column-gap: 0.55em;
   align-items: center;
+  width: 100%;
   min-height: 1.85em;
   margin: 0;
   padding: 0.12em 0;
@@ -1651,6 +1685,25 @@ table.media-table .media-card a {
   line-height: 1.25;
   text-decoration: none;
   white-space: nowrap;
+}
+
+.section-rail-dot {
+  position: relative;
+  z-index: 1;
+  grid-column: 1;
+  grid-row: 1;
+  justify-self: center;
+  width: var(--section-rail-dot);
+  height: var(--section-rail-dot);
+  border: 2px solid var(--border-chip);
+  border-radius: 50%;
+  background: var(--bg);
+  box-sizing: border-box;
+}
+
+.section-rail-label {
+  grid-column: 2;
+  grid-row: 1;
 }
 
 .section-rail a[hidden] {
@@ -1667,21 +1720,26 @@ table.media-table .media-card a {
   color: var(--text-strong);
 }
 
-.section-rail-dot {
-  position: relative;
-  z-index: 1;
-  width: 0.9rem;
-  height: 0.9rem;
-  border: 2px solid var(--border-chip);
-  border-radius: 50%;
-  background: var(--bg);
-  box-sizing: border-box;
-}
-
 .section-rail a.is-current .section-rail-dot,
 .section-rail a[aria-current="location"] .section-rail-dot {
   border-color: var(--brand);
   background: var(--brand);
+}
+
+@media screen and (max-width: 759px) {
+  .section-rail a,
+  .section-rail a:visited {
+    grid-template-columns: 1fr var(--section-rail-dot);
+  }
+
+  .section-rail-dot {
+    grid-column: 2;
+  }
+
+  .section-rail-label {
+    grid-column: 1;
+    text-align: right;
+  }
 }
 
 .media-section {

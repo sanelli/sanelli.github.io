@@ -117,3 +117,5 @@ section_rail: true
 
 </div>
 </div>
+
+{% include back-to-top.html %}

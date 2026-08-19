@@ -17,6 +17,9 @@
     {%- include_cached footer.html -%}
 
     <script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
+    {%- if page.sortable_tables or page.section_rail -%}
+    <script src="{{ '/assets/js/back-to-top.js' | relative_url }}"></script>
+    {%- endif -%}
     {%- if page.sortable_tables -%}
     <script src="{{ '/assets/js/media-tables.js' | relative_url }}"></script>
     {%- endif -%}

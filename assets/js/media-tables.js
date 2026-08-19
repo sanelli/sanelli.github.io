@@ -57,24 +57,7 @@
     if (searchInput) searchInput.addEventListener("input", applyFilters);
     if (ratingSelect) ratingSelect.addEventListener("change", applyFilters);
     observeCovers();
-    setupBackToTop();
   });
-
-  function setupBackToTop() {
-    var button = document.querySelector("[data-back-to-top]");
-    if (!button) return;
-
-    function sync() {
-      button.hidden = window.scrollY < 320;
-    }
-
-    window.addEventListener("scroll", sync, { passive: true });
-    sync();
-    button.addEventListener("click", function () {
-      var reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-      window.scrollTo({ top: 0, behavior: reduceMotion ? "auto" : "smooth" });
-    });
-  }
 
   function wikiImageEndpoint(pageUrl) {
     try {
