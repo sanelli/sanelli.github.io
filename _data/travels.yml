@@ -446,6 +446,16 @@ years:
         date: 2016-01-22
         date_end: 2016-01-24
         rating: 4
+  - label: 2015
+    entries:
+      - title: Asker
+        url: "https://en.wikipedia.org/wiki/Asker"
+        places:
+          - name: Asker
+            url: "https://en.wikipedia.org/wiki/Asker"
+            country: Norway
+        date: 2015-03-25
+        rating: 2
   - label: 2014
     entries:
       - title: California, Nevada and Arizona
