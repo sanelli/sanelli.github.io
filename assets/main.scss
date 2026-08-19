@@ -1643,6 +1643,18 @@ table.media-table .media-card a {
     left: auto;
     right: calc(var(--section-rail-pad-x) + var(--section-rail-dot) / 2 - 1px);
   }
+
+  .section-rail-links {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    width: 100%;
+  }
+
+  .section-rail a,
+  .section-rail a:visited {
+    width: 100%;
+  }
 }
 
 @media screen and (min-width: 760px) {
@@ -1662,11 +1674,17 @@ table.media-table .media-card a {
     position: sticky;
     top: 0.85rem;
     align-self: start;
+    align-items: flex-start;
     z-index: 5;
-    width: 100%;
+    width: max-content;
+    max-width: 100%;
     max-height: calc(100vh - 1.7rem);
     margin: 0.2em 0 0;
     overflow-y: auto;
+  }
+
+  .section-rail::before {
+    left: calc(var(--section-rail-dot) / 2 - 1px);
   }
 
   .section-rail-toggle {
@@ -1695,7 +1713,7 @@ table.media-table .media-card a {
   grid-template-columns: var(--section-rail-dot) 1fr;
   column-gap: 0.55em;
   align-items: center;
-  width: 100%;
+  width: auto;
   min-height: 1.85em;
   margin: 0;
   padding: 0.12em 0;
@@ -1724,13 +1742,6 @@ table.media-table .media-card a {
 .section-rail-label {
   grid-column: 2;
   grid-row: 1;
-}
-
-.section-rail-links {
-  display: flex;
-  flex-direction: column;
-  align-items: stretch;
-  width: 100%;
 }
 
 .section-rail-toggle {
