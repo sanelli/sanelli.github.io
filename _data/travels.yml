@@ -629,10 +629,10 @@ years:
         date_end: 2012-10-16
         rating: 4
       - title: Grazzano Visconti
-        url: "https://en.wikipedia.org/wiki/Grazzano_Visconti"
+        url: "https://it.wikipedia.org/wiki/Castello_di_Grazzano_Visconti"
         places:
           - name: Grazzano Visconti
-            url: "https://en.wikipedia.org/wiki/Grazzano_Visconti"
+            url: "https://it.wikipedia.org/wiki/Castello_di_Grazzano_Visconti"
             country: Italy
         date: 2012-09-08
         rating: 4
