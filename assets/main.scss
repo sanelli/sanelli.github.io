@@ -211,6 +211,45 @@ blockquote {
   letter-spacing: -0.02em;
 }
 
+.post-header--travels {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.35em 1em;
+}
+
+.post-header--travels .post-title {
+  margin-bottom: 0;
+}
+
+.travels-countries-summary {
+  margin: 0;
+  font-size: 0.82em;
+  color: var(--text-muted);
+  white-space: nowrap;
+  text-align: right;
+}
+
+@media screen and (min-width: 760px) {
+  body:has(.section-rail-layout) .post-header--travels {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 9.5rem;
+    column-gap: 1.15rem;
+    align-items: baseline;
+  }
+
+  body:has(.section-rail-layout) .post-header--travels .post-title,
+  body:has(.section-rail-layout) .post-header--travels .travels-countries-summary {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  body:has(.section-rail-layout) .post-header--travels .travels-countries-summary {
+    justify-self: end;
+  }
+}
+
 .layout-post .post-title {
   font-size: 2.15em;
   letter-spacing: -0.025em;
