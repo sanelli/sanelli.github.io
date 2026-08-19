@@ -18,7 +18,7 @@ section_rail: true
 {%- assign games = site.data.projects | where: "section", "games" -%}
 
 <div class="section-rail-layout">
-<nav class="section-rail" data-section-rail aria-label="Portfolio sections">
+<nav class="section-rail" data-section-rail data-section-rail-collapsible aria-label="Portfolio sections">
   {% include section-rail-link.html id="flagship" label="Flagship" %}
   {% include section-rail-link.html id="libraries" label="Libraries" %}
   {% include section-rail-link.html id="interpreters" label="Interpreters" %}

@@ -14,7 +14,7 @@ section_rail: true
 ---
 
 <div class="section-rail-layout">
-<nav class="section-rail" data-section-rail aria-label="Career sections">
+<nav class="section-rail" data-section-rail data-section-rail-collapsible aria-label="Career sections">
   {% include section-rail-link.html id="experience" label="Experience" %}
   {% include section-rail-link.html id="education" label="Education" %}
   {% include section-rail-link.html id="awards" label="Awards" %}
