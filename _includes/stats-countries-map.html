@@ -1,5 +1,6 @@
 {%- include travel-countries-visited.html -%}
 {%- assign sorted_countries = travel_countries_pipe | split: "|" | sort -%}
+<h2 class="stats-countries-heading">{%- include icon.html name="travels" -%} Countries I visited</h2>
 <div class="stats-countries-map-wrap">
   <div id="stats-countries-map" class="stats-countries-map" role="region" aria-label="Map of visited countries" data-world-url="{{ '/assets/data/world-countries.geojson' | relative_url }}" data-extra-url="{{ '/assets/data/travel-country-extra.geojson' | relative_url }}"></div>
   <ul class="stats-countries-legend" aria-label="Visited countries">

@@ -555,6 +555,10 @@ table {
     max-width: 1100px;
   }
 
+  body.stats-page .page-content .wrapper {
+    max-width: calc(890px - 30px * 2 + 9.5rem + 1.15rem);
+  }
+
   body:has(.section-rail-layout) .page-content .wrapper {
     max-width: calc(890px - 30px * 2 + 9.5rem + 1.15rem);
   }
@@ -1179,8 +1183,16 @@ table.stats-table {
   width: auto;
 }
 
+.stats-countries-heading {
+  margin-bottom: 0.65em;
+
+  .icon.icon-travels {
+    color: #38bdf8;
+  }
+}
+
 .stats-countries-map-wrap {
-  margin: 1.5em 0 0;
+  margin: 0;
   padding: 0.65em;
   background: var(--bg-elevated);
   border: 1px solid var(--border);
@@ -1880,6 +1892,16 @@ table.media-table .media-card a {
 }
 
 @media screen and (min-width: 760px) {
+  .stats-page .media-table-wrap,
+  .stats-page .stats-countries-heading,
+  .stats-page .stats-countries-map-wrap {
+    max-width: calc(890px - 30px * 2);
+  }
+
+  .stats-page table.stats-table {
+    width: 100%;
+  }
+
   .section-rail-layout {
     grid-template-columns: minmax(0, 1fr) 9.5rem;
     column-gap: 1.15rem;
