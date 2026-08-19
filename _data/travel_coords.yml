@@ -37,6 +37,9 @@ Boston:
 Bratislava:
   lat: 48.1486
   lng: 17.1077
+Bray:
+  lat: 53.2028
+  lng: -6.1084
 Brighton:
   lat: 50.8225
   lng: -0.1372
@@ -67,6 +70,9 @@ Casablanca:
 Castle Leslie:
   lat: 54.1361
   lng: -6.8917
+Carlow:
+  lat: 52.8309
+  lng: -6.9265
 Clifden:
   lat: 53.4891
   lng: -10.021
@@ -97,6 +103,9 @@ Death Valley:
 Dungarvan:
   lat: 52.0889
   lng: -7.6253
+Dun Laoghaire:
+  lat: 53.2939
+  lng: -6.1359
 Dingle:
   lat: 52.1409
   lng: -10.2686
@@ -118,6 +127,9 @@ Glasgow:
 Golden Coast:
   lat: 36.7783
   lng: -119.4179
+Greystones:
+  lat: 53.1442
+  lng: -6.0633
 Gran Canaria:
   lat: 28.0997
   lng: -15.4134
@@ -127,9 +139,9 @@ Grand Canyon:
 Grazzano Visconti:
   lat: 45.0167
   lng: 9.4833
-Groppallo:
-  lat: 44.3167
-  lng: 9.3167
+Gropparello:
+  lat: 44.833
+  lng: 9.733
 Houston:
   lat: 29.7604
   lng: -95.3698
@@ -160,6 +172,9 @@ London:
 Madrid:
   lat: 40.4168
   lng: -3.7038
+Malahide:
+  lat: 53.4509
+  lng: -6.1501
 Marrakech:
   lat: 31.6295
   lng: -7.9811
@@ -229,6 +244,9 @@ Rabat:
 Rome:
   lat: 41.9028
   lng: 12.4964
+Rimini:
+  lat: 44.0678
+  lng: 12.5695
 Route 101:
   lat: 34.4208
   lng: -119.6982

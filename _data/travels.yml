@@ -10,6 +10,14 @@ years:
         date: 2026-06-22
         date_end: 2026-06-28
         rating: 5
+      - title: Carlow
+        url: "https://en.wikipedia.org/wiki/Carlow"
+        places:
+          - name: Carlow
+            url: "https://en.wikipedia.org/wiki/Carlow"
+            country: Ireland
+        date: 2026-03-28
+        rating: 3
       - title: Maspalomas, Gran Canaria
         url: "https://en.wikipedia.org/wiki/Maspalomas"
         places:
@@ -59,6 +67,17 @@ years:
             country: United Kingdom
         date: 2025-07-24
         date_end: 2025-07-27
+        rating: 5
+      - title: Bray and Greystones
+        url: "https://en.wikipedia.org/wiki/Bray,_County_Wicklow"
+        places:
+          - name: Bray
+            url: "https://en.wikipedia.org/wiki/Bray,_County_Wicklow"
+            country: Ireland
+          - name: Greystones
+            url: "https://en.wikipedia.org/wiki/Greystones"
+            country: Ireland
+        date: 2025-07-19
         rating: 5
       - title: Mallorca
         url: "https://en.wikipedia.org/wiki/Majorca"
@@ -203,7 +222,7 @@ years:
             country: Morocco
         date: 2023-06-22
         date_end: 2023-07-01
-        rating: 2
+        rating: 1
       - title: Bologna
         url: "https://en.wikipedia.org/wiki/Bologna"
         places:
@@ -270,11 +289,11 @@ years:
         date: 2019-09-27
         date_end: 2019-09-30
         rating: 3
-      - title: Groppallo
-        url: "https://en.wikipedia.org/wiki/Groppallo"
+      - title: Gropparello
+        url: "https://en.wikipedia.org/wiki/Gropparello"
         places:
-          - name: Groppallo
-            url: "https://en.wikipedia.org/wiki/Groppallo"
+          - name: Gropparello
+            url: "https://en.wikipedia.org/wiki/Gropparello"
             country: Italy
         date: 2019-08-15
         rating: 3
@@ -332,6 +351,14 @@ years:
         date: 2017-05-13
         date_end: 2017-05-15
         rating: 3
+      - title: Dun Laoghaire
+        url: "https://en.wikipedia.org/wiki/D%C3%BAn_Laoghaire"
+        places:
+          - name: Dun Laoghaire
+            url: "https://en.wikipedia.org/wiki/D%C3%BAn_Laoghaire"
+            country: Ireland
+        date: 2017-04-22
+        rating: 4
       - title: Glasgow
         url: "https://en.wikipedia.org/wiki/Glasgow"
         places:
@@ -352,6 +379,26 @@ years:
         rating: 4
   - label: 2016
     entries:
+      - title: Bray and Greystones
+        url: "https://en.wikipedia.org/wiki/Bray,_County_Wicklow"
+        places:
+          - name: Bray
+            url: "https://en.wikipedia.org/wiki/Bray,_County_Wicklow"
+            country: Ireland
+          - name: Greystones
+            url: "https://en.wikipedia.org/wiki/Greystones"
+            country: Ireland
+        date: 2016-10-29
+        date_end: 2016-11-02
+        rating: 5
+      - title: Malahide
+        url: "https://en.wikipedia.org/wiki/Malahide"
+        places:
+          - name: Malahide
+            url: "https://en.wikipedia.org/wiki/Malahide"
+            country: Ireland
+        date: 2016-10-23
+        rating: 4
       - title: Belfast
         url: "https://en.wikipedia.org/wiki/Belfast"
         places:
@@ -378,6 +425,17 @@ years:
             country: United Kingdom
         date: 2016-06-10
         date_end: 2016-06-12
+        rating: 5
+      - title: Bray and Greystones
+        url: "https://en.wikipedia.org/wiki/Bray,_County_Wicklow"
+        places:
+          - name: Bray
+            url: "https://en.wikipedia.org/wiki/Bray,_County_Wicklow"
+            country: Ireland
+          - name: Greystones
+            url: "https://en.wikipedia.org/wiki/Greystones"
+            country: Ireland
+        date: 2016-05-15
         rating: 5
       - title: Newcastle
         url: "https://en.wikipedia.org/wiki/Newcastle_upon_Tyne"
@@ -472,7 +530,7 @@ years:
         date: 2013-06-23
         date_end: 2013-06-30
         rating: 4
-      - title: Brussels + Bruges + Antwerp
+      - title: Belgium Road Trip
         url: "https://en.wikipedia.org/wiki/Brussels"
         places:
           - name: Brussels
@@ -487,7 +545,7 @@ years:
         date: 2013-04-23
         date_end: 2013-04-25
         rating: 5
-      - title: Perugia + Assisi + Passignano
+      - title: Umbria Road trip
         url: "https://en.wikipedia.org/wiki/Perugia"
         places:
           - name: Perugia
@@ -521,7 +579,7 @@ years:
         rating: 4
   - label: 2012
     entries:
-      - title: Zaragoza + Poblet + Tarragona
+      - title: Spain Road Trip
         url: "https://en.wikipedia.org/wiki/Zaragoza"
         places:
           - name: Zaragoza
@@ -544,7 +602,7 @@ years:
             country: Italy
         date: 2012-09-08
         rating: 4
-      - title: Budapest + Vienna + Bratislava
+      - title: Budapest, Vienna and Bratislava
         url: "https://en.wikipedia.org/wiki/Budapest"
         places:
           - name: Budapest
@@ -613,7 +671,7 @@ years:
         date: 2011-12-10
         date_end: 2011-12-17
         rating: 4
-      - title: Porto + Coimbra + Lisbon + Cabo da Roca + Madrid
+      - title: Portugal and Spain
         url: "https://en.wikipedia.org/wiki/Porto"
         places:
           - name: Porto
@@ -684,6 +742,14 @@ years:
         rating: 3
   - label: 2009
     entries:
+      - title: Rimini
+        url: "https://en.wikipedia.org/wiki/Rimini"
+        places:
+          - name: Rimini
+            url: "https://en.wikipedia.org/wiki/Rimini"
+            country: Italy
+        date: 2009-08-22
+        date_end: 2009-08-29
       - title: Rome
         url: "https://en.wikipedia.org/wiki/Rome"
         places:
@@ -693,3 +759,13 @@ years:
         date: 2009-12-12
         date_end: 2009-12-13
         rating: 5
+  - label: 2008
+    entries:
+      - title: Rimini
+        url: "https://en.wikipedia.org/wiki/Rimini"
+        places:
+          - name: Rimini
+            url: "https://en.wikipedia.org/wiki/Rimini"
+            country: Italy
+        date: 2008-08-23
+        date_end: 2008-08-30
