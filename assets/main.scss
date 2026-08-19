@@ -350,6 +350,26 @@ html[data-theme="system"] .theme-switch .icon-theme-system {
   }
 }
 
+@media screen and (max-width: 759px) {
+  .site-header {
+    position: relative;
+    z-index: 40;
+  }
+
+  .site-nav .trigger {
+    z-index: 41;
+  }
+
+  .travels-map-wrap {
+    position: relative;
+    z-index: 0;
+  }
+
+  .section-rail {
+    z-index: 15;
+  }
+}
+
 ::selection {
   background-color: var(--bg-selection);
   color: var(--text-selection);

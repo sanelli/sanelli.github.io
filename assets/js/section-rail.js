@@ -95,14 +95,26 @@
         return;
       }
 
-      var header = document.querySelector(".post-header");
       var gap = 10;
       var floor = 12;
       var top = floor;
 
-      if (header) {
-        var bottom = header.getBoundingClientRect().bottom;
-        top = Math.max(floor, bottom + gap);
+      var siteHeader = document.querySelector(".site-header");
+      if (siteHeader) {
+        top = Math.max(top, siteHeader.getBoundingClientRect().bottom + gap);
+      }
+
+      var pageHeader = document.querySelector(".post-header");
+      if (pageHeader) {
+        top = Math.max(top, pageHeader.getBoundingClientRect().bottom + gap);
+      }
+
+      var searchToolbar = document.querySelector(".media-toolbar");
+      if (searchToolbar) {
+        var searchTop = searchToolbar.getBoundingClientRect().top;
+        if (searchTop > floor) {
+          top = Math.max(top, searchTop);
+        }
       }
 
       nav.style.top = top + "px";
