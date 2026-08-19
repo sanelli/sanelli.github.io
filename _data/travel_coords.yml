@@ -199,6 +199,9 @@ Maspalomas:
 Meknes:
   lat: 33.8935
   lng: -5.5473
+Modena:
+  lat: 44.6471
+  lng: 10.9252
 Montpellier:
   lat: 43.6108
   lng: 3.8767
@@ -220,6 +223,9 @@ Newcastle upon Tyne:
 Paris:
   lat: 48.8566
   lng: 2.3522
+Parma:
+  lat: 44.8015
+  lng: 10.3279
 Passignano sul Trasimeno:
   lat: 43.1911
   lng: 12.1369

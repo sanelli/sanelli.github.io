@@ -513,6 +513,14 @@ years:
         date: 2013-12-06
         date_end: 2013-12-08
         rating: 3
+      - title: Parma
+        url: "https://en.wikipedia.org/wiki/Parma"
+        places:
+          - name: Parma
+            url: "https://en.wikipedia.org/wiki/Parma"
+            country: Italy
+        date: 2013-09-21
+        rating: 4
       - title: Bobbio
         url: "https://en.wikipedia.org/wiki/Bobbio"
         places:
@@ -742,14 +750,6 @@ years:
         rating: 3
   - label: 2009
     entries:
-      - title: Rimini
-        url: "https://en.wikipedia.org/wiki/Rimini"
-        places:
-          - name: Rimini
-            url: "https://en.wikipedia.org/wiki/Rimini"
-            country: Italy
-        date: 2009-08-22
-        date_end: 2009-08-29
       - title: Rome
         url: "https://en.wikipedia.org/wiki/Rome"
         places:
@@ -759,6 +759,22 @@ years:
         date: 2009-12-12
         date_end: 2009-12-13
         rating: 5
+      - title: Modena
+        url: "https://en.wikipedia.org/wiki/Modena"
+        places:
+          - name: Modena
+            url: "https://en.wikipedia.org/wiki/Modena"
+            country: Italy
+        date: 2009-11-22
+        rating: 4
+      - title: Rimini
+        url: "https://en.wikipedia.org/wiki/Rimini"
+        places:
+          - name: Rimini
+            url: "https://en.wikipedia.org/wiki/Rimini"
+            country: Italy
+        date: 2009-08-22
+        date_end: 2009-08-29
   - label: 2008
     entries:
       - title: Rimini
