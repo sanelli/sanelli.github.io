@@ -1,6 +1,18 @@
 years:
   - label: 2026
     entries:
+      - title: Both Sides Now
+        url: "https://en.wikipedia.org/wiki/Both_Sides_Now_(Joni_Mitchell_album)"
+        date: 2026-08-20
+        rating: 5
+        artists:
+          - name: Joni Mitchell
+            url: "https://en.wikipedia.org/wiki/Joni_Mitchell"
+        year: 2000
+        genres:
+          - pop
+          - rock
+          - jazz
       - title: Irek
         url: "https://it.wikipedia.org/wiki/Irek"
         date: 2026-08-19
