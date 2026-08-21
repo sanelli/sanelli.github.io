@@ -1,6 +1,15 @@
 years:
   - label: 2026
     entries:
+      - title: Mi Vida Es Cantar
+        date: 2026-08-21
+        rating: 3
+        artists:
+          - name: Celia Cruz
+            url: "https://en.wikipedia.org/wiki/Celia_Cruz"
+        year: 1998
+        genres:
+          - salsa
       - title: La Flaca
         url: "https://en.wikipedia.org/wiki/La_Flaca_(Jarabe_de_Palo_album)"
         date: 2026-08-21
