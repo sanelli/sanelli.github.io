@@ -1,6 +1,17 @@
 years:
   - label: 2026
     entries:
+      - title: La Flaca
+        url: "https://en.wikipedia.org/wiki/La_Flaca_(Jarabe_de_Palo_album)"
+        date: 2026-08-21
+        rating: 5
+        artists:
+          - name: Jarabe de Palo
+            url: "https://en.wikipedia.org/wiki/Jarabe_de_Palo"
+        year: 1996
+        genres:
+          - latin rock
+          - rock
       - title: Both Sides Now
         url: "https://en.wikipedia.org/wiki/Both_Sides_Now_(Joni_Mitchell_album)"
         date: 2026-08-20
