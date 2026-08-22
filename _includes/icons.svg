@@ -116,6 +116,13 @@
     <path d="M8 8a4 4 0 0 1 8 0 3.5 3.5 0 0 1 2 3 3 3 0 0 1-1 5.8V18a1 1 0 0 1-1 1h-8a1 1 0 0 1-1-1v-1.2A3 3 0 0 1 6 11a3.5 3.5 0 0 1 2-3z"/>
     <path d="M10 13h4M10 16h2"/>
   </symbol>
+  <symbol id="icon-eml" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="6.5" r="2.25"/>
+    <circle cx="7" cy="17.5" r="2.25"/>
+    <circle cx="17" cy="17.5" r="2.25"/>
+    <path d="M10.5 8.2 8.2 15.3"/>
+    <path d="M13.5 8.2 15.8 15.3"/>
+  </symbol>
   <symbol id="icon-education" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
     <path d="m3 10 9-5 9 5-9 5-9-5z"/>
     <path d="M7 12.5v5L12 20l5-2.5v-5"/>

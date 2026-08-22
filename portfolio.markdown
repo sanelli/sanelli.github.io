@@ -21,7 +21,7 @@ section_rail: true
 <nav class="section-rail" data-section-rail data-section-rail-collapsible aria-label="Portfolio sections">
   {% include section-rail-link.html id="flagship" label="Flagship" %}
   {% include section-rail-link.html id="libraries" label="Libraries" %}
-  {% include section-rail-link.html id="interpreters" label="Interpreters" %}
+  {% include section-rail-link.html id="interpreters" label="Compilers & Interpreters" %}
   {% include section-rail-link.html id="web" label="Web" %}
   {% include section-rail-link.html id="games" label="Games" %}
 </nav>
@@ -37,7 +37,7 @@ section_rail: true
 {% include_cached project-card.html project=project %}
 {% endfor %}
 
-<h2 id="interpreters">Interpreters</h2>
+<h2 id="interpreters">Compilers &amp; Interpreters</h2>
 {% for project in interpreters %}
 {% include_cached project-card.html project=project %}
 {% endfor %}

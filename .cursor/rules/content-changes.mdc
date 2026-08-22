@@ -57,7 +57,7 @@ New mark: `<symbol id="icon-NAME" viewBox="0 0 24 24">` in `_includes/icons.svg`
 
 Give it an unused color in `assets/main.scss` next to the other `.icon.icon-*` rules.
 
-Taken: mappa `#2dd4bf`, todo `#f4b942`, prettycode `#a78bfa`, blocchi `#60a5fa`, fifteen `#fb923c`, tictactoe `#fb7185`, connectfour `#facc15`, turing `#ef4444`, brainfuck `#e879f9`, website `#f43f5e`, music-in-posts `#f472b6`, spotify `#1ed760`, youtube-music `#ff0033`, apple-music `#fc3c44`.
+Taken: mappa `#2dd4bf`, todo `#f4b942`, prettycode `#a78bfa`, blocchi `#60a5fa`, fifteen `#fb923c`, tictactoe `#fb7185`, connectfour `#facc15`, turing `#ef4444`, brainfuck `#e879f9`, eml `#34d399`, website `#f43f5e`, music-in-posts `#f472b6`, spotify `#1ed760`, youtube-music `#ff0033`, apple-music `#fc3c44`.
 
 - Project / global: `.icon.icon-NAME { color: #...; }`
 - Post-only (keep nav brand): `.post-title .icon.icon-NAME, .post-link .icon.icon-NAME`

@@ -148,6 +148,26 @@
       url: https://github.com/sanelli/connect-four
   tags: [go, SDL, SDL2, game]
 
+- slug: eml
+  section: interpreters
+  category: eml
+  icon: eml
+  name: EML
+  why: Math expressions down to a two-opcode stack IR, then run or emit JS and C.
+  description: >
+    An [Ada](https://ada-lang.io) compiler and interpreter for EML, a tiny
+    language built around `eml(x, y) = exp(x) − ln(y)` over complex numbers.
+    Front ends cover math source (`.mxeml`), nested trees (`.teml`), textual
+    stack IR (`.eml`), and packed binary (`.beml`). Pipelines preprocess,
+    tokenize, parse, compile, and run; compile targets include `.eml` / `.beml`
+    IR, browser JavaScript (math.js), and C (`long double complex`, plus a
+    library form with a companion header). Built with
+    [Alire](https://alire.ada.dev).
+  links:
+    - text: GitHub
+      url: https://github.com/sanelli/eml
+  tags: [ada, Alire, compiler, interpreter, eml, math]
+
 - slug: turing
   section: interpreters
   category: turing
