@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "An EML compiler"
+title:  "EML: an exp-minus-log compiler and interpreter"
 date:   2026-08-22 23:20:00 +0100
 categories: projects eml ada compiler interpreter
 ---
