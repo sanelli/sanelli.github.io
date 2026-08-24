@@ -1,6 +1,34 @@
 years:
   - label: 2026
     entries:
+      - title: Odiare
+        subtitles:
+          - Single
+        date: 2026-08-24
+        rating: 5
+        artists:
+          - name: Syria
+            url: "https://en.wikipedia.org/wiki/Syria_(singer)"
+        year: 2014
+        genres:
+          - pop
+      - title: Nero Bali
+        url: "https://en.wikipedia.org/wiki/Nero_Bali"
+        subtitles:
+          - Single
+        date: 2026-08-24
+        rating: 5
+        artists:
+          - name: Elodie
+            url: "https://en.wikipedia.org/wiki/Elodie_(singer)"
+          - name: Michele Bravi
+            url: "https://en.wikipedia.org/wiki/Michele_Bravi"
+          - name: Guè
+            url: "https://en.wikipedia.org/wiki/Gu%C3%A8"
+        year: 2018
+        genres:
+          - dance pop
+          - dancehall reggae
       - title: Eterno Agosto
         url: "https://en.wikipedia.org/wiki/Eterno_agosto"
         date: 2026-08-24
