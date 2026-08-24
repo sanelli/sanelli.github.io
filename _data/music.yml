@@ -1,6 +1,17 @@
 years:
   - label: 2026
     entries:
+      - title: Un día normal
+        url: "https://en.wikipedia.org/wiki/Un_D%C3%ADa_Normal"
+        date: 2026-08-24
+        rating: 4
+        artists:
+          - name: Juanes
+            url: "https://en.wikipedia.org/wiki/Juanes"
+        year: 2002
+        genres:
+          - alternative rock
+          - latin rock
       - title: Mi Vida Es Cantar
         date: 2026-08-21
         rating: 3
