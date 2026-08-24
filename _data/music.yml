@@ -1,6 +1,17 @@
 years:
   - label: 2026
     entries:
+      - title: Eterno Agosto
+        url: "https://en.wikipedia.org/wiki/Eterno_agosto"
+        date: 2026-08-24
+        rating: 4
+        artists:
+          - name: Álvaro Soler
+            url: "https://en.wikipedia.org/wiki/%C3%81lvaro_Soler"
+        year: 2015
+        genres:
+          - folk pop
+          - latin pop
       - title: Limón y Sal
         url: "https://en.wikipedia.org/wiki/Lim%C3%B3n_y_Sal"
         date: 2026-08-24
