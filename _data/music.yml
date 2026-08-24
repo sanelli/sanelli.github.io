@@ -1,6 +1,16 @@
 years:
   - label: 2026
     entries:
+      - title: Limón y Sal
+        url: "https://en.wikipedia.org/wiki/Lim%C3%B3n_y_Sal"
+        date: 2026-08-24
+        rating: 3
+        artists:
+          - name: Julieta Venegas
+            url: "https://en.wikipedia.org/wiki/Julieta_Venegas"
+        year: 2006
+        genres:
+          - latin pop
       - title: Un día normal
         url: "https://en.wikipedia.org/wiki/Un_D%C3%ADa_Normal"
         date: 2026-08-24
