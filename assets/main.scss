@@ -186,6 +186,8 @@ blockquote {
 .post-link .icon.icon-website { color: #f43f5e; }
 .post-title .icon.icon-music,
 .post-link .icon.icon-music { color: #f472b6; }
+.post-title .icon.icon-pencil,
+.post-link .icon.icon-pencil { color: #e07a5f; }
 .icon.icon-spotify { color: #1ed760; }
 .icon.icon-youtube-music { color: #ff0033; }
 .icon.icon-apple-music { color: #fc3c44; }
@@ -283,7 +285,8 @@ blockquote {
   word-break: keep-all;
 }
 
-.album-cover {
+.album-cover,
+.book-cover {
   margin: 1.4em 0;
   max-width: 18rem;
 
@@ -298,6 +301,29 @@ blockquote {
     margin-top: 0.5em;
     font-size: 0.85em;
     color: var(--text-muted);
+  }
+}
+
+.book-cover {
+  max-width: 12.5rem;
+}
+
+.with-book-cover {
+  overflow: auto;
+
+  .book-cover {
+    float: left;
+    margin: 0.15em 1.35em 0.85em 0;
+    max-width: 10.5rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .with-book-cover .book-cover {
+    float: none;
+    display: block;
+    margin: 1em auto 1.2em;
+    max-width: 12.5rem;
   }
 }
 
