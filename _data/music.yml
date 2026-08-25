@@ -1,6 +1,17 @@
 years:
   - label: 2026
     entries:
+      - title: Il ballo della vita
+        url: "https://en.wikipedia.org/wiki/Il_ballo_della_vita"
+        date: 2026-08-25
+        rating: 4
+        artists:
+          - name: Måneskin
+            url: "https://en.wikipedia.org/wiki/M%C3%A5neskin"
+        year: 2018
+        genres:
+          - funk rock
+          - pop rock
       - title: Odiare
         subtitles:
           - Single
