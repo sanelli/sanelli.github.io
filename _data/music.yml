@@ -1,6 +1,18 @@
 years:
   - label: 2026
     entries:
+      - title: The Age of Consent
+        url: "https://en.wikipedia.org/wiki/The_Age_of_Consent_(album)"
+        date: 2026-08-26
+        rating: 5
+        artists:
+          - name: Bronski Beat
+            url: "https://en.wikipedia.org/wiki/Bronski_Beat"
+        year: 1984
+        genres:
+          - disco
+          - "hi-NRG"
+          - synth-pop
       - title: Il ballo della vita
         url: "https://en.wikipedia.org/wiki/Il_ballo_della_vita"
         date: 2026-08-25
