@@ -1,6 +1,37 @@
 years:
   - label: 2026
     entries:
+      - title: Canto d'amore
+        url: "https://it.wikipedia.org/wiki/Canto_d'amore_(singolo)"
+        subtitles:
+          - Single
+        date: 2026-08-26
+        rating: 3
+        artists:
+          - name: Marco Mengoni
+            url: "https://en.wikipedia.org/wiki/Marco_Mengoni"
+          - name: Angelina Mango
+            url: "https://en.wikipedia.org/wiki/Angelina_Mango"
+        year: 2026
+        genres:
+          - pop
+          - urban
+      - title: The Girl Is Mine
+        url: "https://en.wikipedia.org/wiki/The_Girl_Is_Mine_(99_Souls_song)"
+        subtitles:
+          - Single
+        date: 2026-08-26
+        rating: 4
+        artists:
+          - name: 99 Souls
+            url: "https://en.wikipedia.org/wiki/99_Souls"
+          - name: "Destiny's Child"
+            url: "https://en.wikipedia.org/wiki/Destiny%27s_Child"
+          - name: Brandy
+            url: "https://en.wikipedia.org/wiki/Brandy_Norwood"
+        year: 2015
+        genres:
+          - house
       - title: The Age of Consent
         url: "https://en.wikipedia.org/wiki/The_Age_of_Consent_(album)"
         date: 2026-08-26
