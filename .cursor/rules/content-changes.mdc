@@ -14,9 +14,9 @@ Edit `_data/books.yml`, `music.yml`, `movies.yml`, or `games.yml`. Put the entry
 Shared fields: `title`, Wikipedia `url` when it exists, `date` (YYYY-MM-DD, the day Stefano finished/listened/watched/played), `rating` (1–5), `year` (work year), `genres` (lowercase; quote keys like `"R&B"`). Optional `cover:` when Wikipedia has no usable page image: a file under `assets/images/covers/` (e.g. `/assets/images/covers/isola-di-arturo.jpg`) or a full `https://` URL. Do not invent covers.
 
 - Books: `authors: [{name, url}]`, `language`
-- Music: `artists: [{name, url}]`
+- Music: `artists: [{name, url}]`. Mark singles with `subtitles: [Single]` (shown on the list, skipped in yearly stats).
 - Movies: `creators: [{name, url}]` (director), `language`
-- Games: `developers`, `publishers`, `console: {name, url}`
+- Games: `developers`, `publishers`, `console: {name, url}`. Same title with ending names in `subtitles` counts as one game in stats. Give DLC its own title (or `subtitles: [DLC]`) so it counts as a different game.
 
 Copy the surrounding YAML shape. Do not invent people or links.
 

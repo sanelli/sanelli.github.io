@@ -3,6 +3,34 @@
 {%- for group in include.data.years -%}
   {%- assign have = group.label | append: "" -%}
   {%- if have == want -%}
-    {%- assign stats_count = group.entries.size -%}
+    {%- if include.skip_subtitle or include.unique_key -%}
+      {%- assign seen = "||" -%}
+      {%- for entry in group.entries -%}
+        {%- assign skip = false -%}
+        {%- if include.skip_subtitle and entry.subtitles -%}
+          {%- if entry.subtitles contains include.skip_subtitle -%}
+            {%- assign skip = true -%}
+          {%- endif -%}
+        {%- endif -%}
+        {%- unless skip -%}
+          {%- if include.unique_key == "title" -%}
+            {%- assign marker = entry.title -%}
+            {%- if entry.subtitles and entry.subtitles contains "DLC" -%}
+              {%- assign dlc_subs = entry.subtitles | join: "::" -%}
+              {%- assign marker = marker | append: "::DLC::" | append: dlc_subs -%}
+            {%- endif -%}
+            {%- assign marker = marker | append: "||" -%}
+            {%- unless seen contains marker -%}
+              {%- assign seen = seen | append: marker -%}
+              {%- assign stats_count = stats_count | plus: 1 -%}
+            {%- endunless -%}
+          {%- else -%}
+            {%- assign stats_count = stats_count | plus: 1 -%}
+          {%- endif -%}
+        {%- endunless -%}
+      {%- endfor -%}
+    {%- else -%}
+      {%- assign stats_count = group.entries.size -%}
+    {%- endif -%}
   {%- endif -%}
 {%- endfor -%}
