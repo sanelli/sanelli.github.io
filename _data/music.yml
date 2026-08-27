@@ -1,6 +1,17 @@
 years:
   - label: 2026
     entries:
+      - title: "."
+        url: "https://it.wikipedia.org/wiki/Punto_(album)"
+        date: 2026-08-27
+        rating: 3
+        artists:
+          - name: Myss Keta
+            url: "https://en.wikipedia.org/wiki/Myss_Keta"
+        year: 2025
+        genres:
+          - hip house
+          - pop rap
       - title: Una vita in Capslock
         url: "https://it.wikipedia.org/wiki/Una_vita_in_Capslock"
         date: 2026-08-27
