@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Stefano Anelli
-email: stefano.anelli (at) gmail.com
+email: projects@stefano.ie
 description: >-
   Millennial software engineer from Italy, living in Ireland.
   C# and .NET, open-source tools, and lists of books, games, movies, music, and travels.
@@ -27,10 +27,10 @@ lang: en
 author: Stefano Anelli
 logo: /assets/images/stefano.jpg
 baseurl: /
-url: https://sanelli.github.io
+url: https://stefano.ie
 github_username:  sanelli
 linkedin_username: stefanoanelli
-domain: sanelli.github.io
+domain: stefano.ie
 un_member_states: 193
 social:
   name: Stefano Anelli

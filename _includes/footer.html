@@ -23,7 +23,7 @@
             {%- endif -%}
           </li>
           {%- if site.email -%}
-          <li>{{ site.email }}</li>
+          <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
           {%- endif -%}
         </ul>
       </div>

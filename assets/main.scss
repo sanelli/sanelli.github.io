@@ -286,7 +286,8 @@ blockquote {
 }
 
 .album-cover,
-.book-cover {
+.book-cover,
+.post-photo {
   margin: 1.4em 0;
   max-width: 18rem;
 
@@ -308,18 +309,25 @@ blockquote {
   max-width: 12.5rem;
 }
 
-.with-book-cover {
+.with-book-cover,
+.with-post-photo {
   overflow: auto;
 
-  .book-cover {
+  .book-cover,
+  .post-photo {
     float: left;
     margin: 0.15em 1.35em 0.85em 0;
     max-width: 10.5rem;
   }
 }
 
+.with-post-photo .post-photo {
+  max-width: 12.5rem;
+}
+
 @media screen and (max-width: 600px) {
-  .with-book-cover .book-cover {
+  .with-book-cover .book-cover,
+  .with-post-photo .post-photo {
     float: none;
     display: block;
     margin: 1em auto 1.2em;
