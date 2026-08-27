@@ -1,6 +1,17 @@
 years:
   - label: 2026
     entries:
+      - title: Furèsta
+        url: "https://it.wikipedia.org/wiki/Fur%C3%A8sta"
+        date: 2026-08-27
+        rating: 5
+        artists:
+          - name: La Niña
+            url: "https://en.wikipedia.org/wiki/La_Ni%C3%B1a_(singer)"
+        year: 2025
+        genres:
+          - canzone napoletana
+          - folk
       - title: Canto d'amore
         url: "https://it.wikipedia.org/wiki/Canto_d'amore_(singolo)"
         subtitles:
