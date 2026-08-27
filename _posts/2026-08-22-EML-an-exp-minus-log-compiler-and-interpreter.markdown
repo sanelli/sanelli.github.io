@@ -7,7 +7,7 @@ categories: projects eml ada compiler interpreter
 
 This post, and the work it describes, was done with [Cursor](https://cursor.com). I wanted to build a small compiler from scratch and see how far that would go, but I also wanted the problem to stay small enough that I would still hit every stage: preprocessor, tokenizer, parser, IR, interpreter, emitters.
 
-The result is [eml](https://github.com/sanelli/eml), an [Ada](https://ada-lang.io) compiler and interpreter built with [Alire](https://alire.ada.dev). Math goes in, a two-opcode stack IR comes out, and you can run that IR or emit JavaScript and C.
+The result is [eml](https://github.com/sanelli/eml), an [Ada](https://ada-lang.io) compiler and interpreter built with [Alire](https://alire.ada.dev). Math goes in, a two-opcode stack IR comes out, and you can run that IR or emit JavaScript and C. The tree this write-up matches is commit [`567d7ad`](https://github.com/sanelli/eml/commit/567d7ada539c5dc3cfd8694daf09ea50b266c010).
 
 ## The eml function
 
@@ -88,6 +88,95 @@ Diagnostics print as `[ID] line:column description` (five-digit IDs). Unused `--
 | `help` | — | Usage on stdout (`eml help` or `eml help <command>`). |
 
 Same-format compile is rejected (`eml` → `eml`, `beml` → `beml`).
+
+## Examples
+
+A few typical invocations. `--no-logo` keeps the banner off stdout so you can pipe the dump.
+
+```powershell
+./bin/eml --no-logo compile -i samples/t01_e.teml -of eml
+./bin/eml --no-logo compile -i samples/t01_e.teml -of js
+./bin/eml compile -i samples/t01_e.teml -of js -o e.js
+./bin/eml --no-logo compile -i samples/t01_e.teml -of c
+./bin/eml compile -i samples/t01_e.teml -of c -o e.c
+./bin/eml compile -i samples/t01_e.teml -of clib -o e.c
+./bin/eml --no-logo parse -if mxeml -of svg   # stdin: eml(1, 1)
+./bin/eml --no-logo run -i samples/t01_e.teml
+```
+
+`samples/t01_e.teml` is `eml(1, 1)`, the paper's *e*. With `-o e.js` the compiler also writes `e.html`. With `-o e.c` and `-of clib` it also writes `e.h`. `run` prints one compact complex value and does not take `-o`. The SVG below is `parse -of svg` on the same expression as mxeml, because `.teml` parse dumps the IR tree rather than the math AST.
+
+Stack IR (`-of eml`):
+
+```
+-- Source: samples/t01_e.teml
+-- Compiler: eml
+-- Version: 0.1.0-dev
+-- Date: 2026-08-27 21:17:32 UTC
+ONE
+ONE
+EML  -- eml
+```
+
+`ONE` pushes 1; `EML` pops Y then X and pushes `eml(X, Y)`. Two ones and one `EML` is exactly `eml(1, 1)`.
+
+AST (`parse -of svg`, mxeml source `eml(1, 1)`):
+
+<figure class="eml-tree-dump">
+  <svg xmlns="http://www.w3.org/2000/svg" width="152" height="136" role="img" aria-label="Parse SVG dump of eml(1, 1): an eml node with two children labelled 1">
+    <line x1="76" y1="48" x2="44" y2="88" stroke="black"/>
+    <line x1="76" y1="48" x2="108" y2="88" stroke="black"/>
+    <rect x="52" y="20" width="48" height="28" fill="white" stroke="black"/>
+    <text x="76" y="38" text-anchor="middle" font-family="sans-serif" font-size="12">eml</text>
+    <rect x="20" y="88" width="48" height="28" fill="white" stroke="black"/>
+    <text x="44" y="106" text-anchor="middle" font-family="sans-serif" font-size="12">1</text>
+    <rect x="84" y="88" width="48" height="28" fill="white" stroke="black"/>
+    <text x="108" y="106" text-anchor="middle" font-family="sans-serif" font-size="12">1</text>
+  </svg>
+</figure>
+
+JavaScript (`-of js`):
+
+```javascript
+// Source: samples/t01_e.teml
+// Compiler: eml
+// Version: 0.1.0-dev
+// Date: 2026-08-27 21:12:20 UTC
+
+function eml(x, y) {
+  return math.subtract(math.exp(x), math.log(y));
+}
+
+function main() {
+  return eml(math.complex(1, 0), math.complex(1, 0));
+}
+```
+
+C (`-of c`):
+
+```c
+/* Source: samples/t01_e.teml */
+/* Compiler: eml */
+/* Version: 0.1.0-dev */
+/* Date: 2026-08-27 21:12:20 UTC */
+
+#include <complex.h>
+#include <stdio.h>
+
+static long double complex eml(long double complex x, long double complex y)
+{
+  return cexpl(x) - clogl(y);
+}
+
+int main(void)
+{
+  long double complex z = eml((1.0L + 0.0L * I), (1.0L + 0.0L * I));
+  printf("%Lf%+Lfi\n", creall(z), cimagl(z));
+  return 0;
+}
+```
+
+Both walk the IR as nested `eml(...)` calls. The JavaScript file expects [math.js](https://mathjs.org/) (`math.exp` / `math.log`); the companion HTML loads a pinned CDN bundle. The C file is standalone.
 
 ## What went well
 
