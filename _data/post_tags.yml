@@ -2,11 +2,11 @@ blog:
   label: Blog
 dublin:
   label: Dublin
-software:
-  label: Software
+games:
+  label: Games
 music:
   label: Music
 project:
   label: Project
-games:
-  label: Games
+software:
+  label: Software
