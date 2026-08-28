@@ -1,6 +1,19 @@
 years:
   - label: 2026
     entries:
+      - title: Modjo
+        url: "https://en.wikipedia.org/wiki/Modjo_(album)"
+        date: 2026-08-28
+        rating: 4
+        artists:
+          - name: Modjo
+            url: "https://en.wikipedia.org/wiki/Modjo"
+        year: 2001
+        genres:
+          - dance-pop
+          - french house
+          - house
+          - nu-disco
       - title: "."
         url: "https://it.wikipedia.org/wiki/Punto_(album)"
         date: 2026-08-27
