@@ -1936,6 +1936,10 @@ table.media-table .media-card a {
   border-radius: 16px;
 }
 
+.leaflet-container.map-tiles-dark .leaflet-tile-pane {
+  filter: invert(1) hue-rotate(180deg) brightness(0.95) contrast(0.92);
+}
+
 .travels-map {
   width: 100%;
   height: min(52vh, 420px);

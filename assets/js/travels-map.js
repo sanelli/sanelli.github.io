@@ -74,10 +74,8 @@
     return window.matchMedia("(prefers-color-scheme: dark)").matches;
   }
 
-  function tileUrl() {
-    return isDarkTheme()
-      ? "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png"
-      : "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png";
+  function syncTileTheme() {
+    mapEl.classList.toggle("map-tiles-dark", isDarkTheme());
   }
 
   var groups = groupedVisits();
@@ -86,11 +84,11 @@
     worldCopyJump: true
   });
 
-  var tileLayer = L.tileLayer(tileUrl(), {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>',
-    subdomains: "abcd",
+  L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
     maxZoom: 19
   }).addTo(map);
+  syncTileTheme();
 
   function visitTimestamp(iso) {
     if (!iso) return NaN;
@@ -231,7 +229,7 @@
   if (themeButton) {
     themeButton.addEventListener("click", function () {
       window.setTimeout(function () {
-        tileLayer.setUrl(tileUrl());
+        syncTileTheme();
       }, 0);
     });
   }
