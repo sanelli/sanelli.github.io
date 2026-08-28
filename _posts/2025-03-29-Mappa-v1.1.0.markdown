@@ -3,6 +3,7 @@ layout: post
 title:  "Mappa v1.1.0"
 date:   2025-04-21 21:25:03 +0100
 categories: projects csharp nuget source-generator mappa
+tags: [project]
 ---
 
 A new version of [Mappa](https://github.com/sanelli/Mappa) (v1.1.0) has been released.

@@ -4,6 +4,7 @@ title:  "Rebuilding this site"
 date:   2026-08-16 10:00:00 +0100
 icon: website
 categories: website
+tags: [project]
 ---
 
 This post, and the work it describes, was done with [Cursor](https://cursor.com). I sat down to tidy a stock Jekyll site and came out the other side with something that actually feels like mine.

@@ -3,6 +3,7 @@ layout: post
 title:  "Brainfuck interpreters implemented in C#, C++, Python and Go"
 date:   2023-10-30 21:32:03 +0100
 categories: projects brainfuck interpreter dotnet csharp cpp python go
+tags: [project]
 ---
 
 Released a [suite of Brainfuck interpreters](https://github.com/sanelli/turing).

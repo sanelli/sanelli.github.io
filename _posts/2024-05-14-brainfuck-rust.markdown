@@ -3,6 +3,7 @@ layout: post
 title:  "New Brainfuck interpreter implemented in Rust"
 date:   2024-05-14 22:57:00 +0100
 categories: projects brainfuck interpreter rust rust-lang
+tags: [project]
 ---
 
 Added the [Rust](https://github.com/sanelli/brainfuck/tree/main/rust) implementation to the [suite of Brainfuck interpreters](https://github.com/sanelli/brainfuck).

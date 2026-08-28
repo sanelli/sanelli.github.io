@@ -3,6 +3,7 @@ layout: post
 title:  "EML: compiling to C#, F#, VB, and .NET binaries"
 date:   2026-08-27 22:00:00 +0100
 categories: projects eml ada compiler interpreter
+tags: [project]
 ---
 
 This post, and the work it describes, was done with [Cursor](https://cursor.com). A few days after I [wrote up the first version of eml]({% post_url 2026-08-22-EML-an-exp-minus-log-compiler-and-interpreter %}), the compiler can emit C#, F#, Visual Basic, and CIL, and it can ask the .NET SDK to turn generated C# into a DLL or a host-native executable.

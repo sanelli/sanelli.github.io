@@ -3,6 +3,7 @@ layout: post
 title:  "New Turing machine interpreter implemented in Ada"
 date:   2024-04-21 09:55:00 +0100
 categories: projects turing interpreter ada
+tags: [project]
 ---
 
 Added the [Ada](https://github.com/sanelli/turing/tree/main/ada) implementation to the [suite of Turing machine interpreters](https://github.com/sanelli/turing).

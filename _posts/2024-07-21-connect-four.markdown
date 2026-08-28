@@ -3,6 +3,7 @@ layout: post
 title:  "Connect Four"
 date:   2024-07-21 00:45:00 +0100
 categories: projects connect-four SDL go go-lang sdl2 game
+tags: [project, games]
 redirect_from:
   - /2024/07/21/connct-four.html
   - /2024/07/21/connct-four/

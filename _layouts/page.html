@@ -3,8 +3,11 @@ layout: default
 ---
 <article class="post">
 
-  <header class="post-header{% if page.travels_map %} post-header--travels{% endif %}">
+  <header class="post-header{% if page.travels_map %} post-header--travels{% endif %}{% if page.layout == 'posts-index' %} post-header--with-tag-filter{% endif %}">
     <h1 class="post-title">{%- include_cached icon.html name=page.icon -%}{{ page.title | escape }}</h1>
+    {%- if page.layout == 'posts-index' -%}
+    {% include post-tag-filter.html %}
+    {%- endif -%}
     {%- if page.travels_map -%}
     {%- include_cached travels-countries-summary.html -%}
     {%- endif -%}

@@ -30,8 +30,10 @@ title:  "Title without emoji"
 date:   YYYY-MM-DD HH:MM:SS +0100
 icon: name          # required if the post is not tied to a project
 categories: one-or-more
+tags: [blog]        # one or more of: blog, dublin, software, music, project, games
 ```
 
+- Tags: `blog`, `dublin`, `software`, `music`, `project`, `games`.
 - Project write-up: `categories` must include that project's `category` (see `_data/projects.yml`). The project icon then wins via `post-label.html`.
 - Standalone post: set `icon:` (e.g. `music`, `website`).
 - Thought / opinion post: `icon: pencil`, `categories: thoughts`. Do not also add a project category, or the project icon wins.

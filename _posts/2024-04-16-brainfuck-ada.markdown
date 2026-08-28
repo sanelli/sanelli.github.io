@@ -3,6 +3,7 @@ layout: post
 title:  "New Brainfuck interpreter implemented in Ada"
 date:   2024-04-16 23:19:00 +0100
 categories: projects brainfuck interpreter ada
+tags: [project]
 ---
 
 Added the [Ada](https://github.com/sanelli/brainfuck/tree/main/ada) implementation to the [suite of Brainfuck interpreters](https://github.com/sanelli/brainfuck).

@@ -4,6 +4,7 @@ title:  "Adding a travels section"
 date:   2026-08-19 22:00:00 +0100
 icon: website
 categories: website
+tags: [project]
 ---
 
 This post, and the work it describes, was done with [Cursor](https://cursor.com). After rebuilding the site around lists of books, music, movies, and games, I wanted the same treatment for places I have been.

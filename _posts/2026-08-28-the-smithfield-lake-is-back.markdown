@@ -4,6 +4,7 @@ title:  "The Smithfield Lake is back!"
 date:   2026-08-28 22:00:00 +0100
 icon: pencil
 categories: thoughts
+tags: [dublin, blog]
 ---
 
 After a few weeks of little to no rain, the kind that left [Uisce Éireann talking about stretching the hosepipe ban](https://www.rte.ie/news/ireland/2026/0811/1587475-uisce-eireann-hosepipe/) past the original 26 August deadline, last night the sky finally remembered how rain works. It remembered a little too well. [Torrential downpours](https://www.thejournal.ie/flooding-ireland-kerry-dublin-7144929-Aug2026/) flooded parts of Kerry and Dublin; Phoenix Park apparently took more water in two hours than it had in the previous two months, which is the sort of statistic that only makes sense in an Irish summer.

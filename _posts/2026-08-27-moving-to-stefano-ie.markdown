@@ -4,6 +4,7 @@ title:  "Moving to stefano.ie"
 date:   2026-08-27 18:30:00 +0100
 icon: website
 categories: website
+tags: [project, blog]
 ---
 
 <div class="with-post-photo" markdown="1">

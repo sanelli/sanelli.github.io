@@ -1,0 +1,16 @@
+{%- assign current_tag = page.pagination.tag | default: "" -%}
+{%- assign all_href = "/posts/" | relative_url -%}
+<div class="post-tag-filter">
+  <select class="post-tag-filter-select" data-posts-tag-filter aria-label="Filter posts by tag">
+    <option value="{{ all_href }}"{% if current_tag == "" %} selected{% endif %}>All</option>
+    {%- for item in site.data.post_tags -%}
+      {%- assign slug = item[0] -%}
+      {%- assign label = item[1].label -%}
+      {%- assign tagged = site.tags[slug] -%}
+      {%- if tagged and tagged.size > 0 -%}
+        {%- assign tag_href = "/posts/" | append: slug | append: "/" | relative_url -%}
+        <option value="{{ tag_href }}"{% if current_tag == slug %} selected{% endif %}>{{ label }}</option>
+      {%- endif -%}
+    {%- endfor -%}
+  </select>
+</div>

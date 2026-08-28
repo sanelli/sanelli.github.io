@@ -20,6 +20,15 @@ layout: default
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author | escape }}</span></span>
       {%- endif -%}
+      {%- if page.tags and page.tags.size > 0 -%}
+      <span class="post-tags">
+        {%- for tag in page.tags -%}
+          {%- assign tag_meta = site.data.post_tags[tag] -%}
+          {%- assign tag_label = tag_meta.label | default: tag -%}
+          <a class="chip" href="{{ '/posts/' | append: tag | append: '/' | relative_url }}">{{ tag_label }}</a>
+        {%- endfor -%}
+      </span>
+      {%- endif -%}
     </p>
     {%- if project -%}
     <p class="post-project">From the portfolio: <a href="{{ '/portfolio/' | relative_url }}#{{ project.slug }}">{%- include_cached icon.html name=project.icon -%}{{ project.name }}</a></p>

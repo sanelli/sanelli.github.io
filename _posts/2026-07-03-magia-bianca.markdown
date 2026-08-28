@@ -4,6 +4,7 @@ title:  "Magia Bianca – Francesca Michielin"
 date:   2026-07-03 20:00:00 +0100
 icon: music
 categories: music
+tags: [music, blog]
 ---
 
 I was not expecting to like [this album](https://it.wikipedia.org/wiki/Magia_bianca_(album)) so much. Finally a record that is not only about love love love. I am a guy, so I cannot really totally understand how it feels to be a woman, but I think *Magia Bianca* gave me a glimpse. I will probably listen to this over and over and over.

@@ -1,0 +1,12 @@
+blog:
+  label: Blog
+dublin:
+  label: Dublin
+software:
+  label: Software
+music:
+  label: Music
+project:
+  label: Project
+games:
+  label: Games

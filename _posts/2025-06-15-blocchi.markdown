@@ -3,6 +3,7 @@ layout: post
 title:  "Blocchi"
 date:   2025-06-15 10:07:00 +0100
 categories: projects blocchi tetris tetromino rust bevy game
+tags: [project, games]
 ---
 
 Released [Blocchi](https://github.com/sanelli/blocchi).

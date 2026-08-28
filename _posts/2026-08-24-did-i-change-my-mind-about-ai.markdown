@@ -4,6 +4,7 @@ title:  "Did I change my mind about AI? Yes, yes I did."
 date:   2026-08-24 21:20:00 +0100
 icon: pencil
 categories: thoughts
+tags: [blog, software]
 ---
 
 The first time I thought about artificial intelligence I was a kid, watching films like [*Terminator*](https://en.wikipedia.org/wiki/The_Terminator) and [*Robocop*](https://en.wikipedia.org/wiki/RoboCop). I do not think my taste in movies has improved much since.

@@ -3,6 +3,7 @@ layout: post
 title:  "EML: an exp-minus-log compiler and interpreter"
 date:   2026-08-22 23:20:00 +0100
 categories: projects eml ada compiler interpreter
+tags: [project, software, blog]
 ---
 
 This post, and the work it describes, was done with [Cursor](https://cursor.com). I wanted to build a small compiler from scratch and see how far that would go, but I also wanted the problem to stay small enough that I would still hit every stage: preprocessor, tokenizer, parser, IR, interpreter, emitters.

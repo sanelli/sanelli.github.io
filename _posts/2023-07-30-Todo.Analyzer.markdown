@@ -3,6 +3,7 @@ layout: post
 title:  "Comment TODO analyzer"
 date:   2023-07-30 16:21:03 +0100
 categories: projects csharp nuget todo analyzer comments
+tags: [project]
 ---
 
 [Comment TODO Analyzer](https://github.com/sanelli/Todo.Analyzer) is a .NET analyzer for C#; it ensures that all TODO comments in your code respect the same standards.
