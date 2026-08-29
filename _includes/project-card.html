@@ -34,7 +34,7 @@
     <span class="chip-label">Posts</span>
     <span class="project-meta-values">
       {%- for post in related -%}
-      <a href="{{ post.url | relative_url }}">{%- include_cached post-label.html title=post.title project=project -%}</a>
+      <a href="{{ post.url | relative_url }}">{%- include_cached post-label.html title=post.title project=project project_icon=true -%}</a>
       {%- endfor -%}
     </span>
   </p>

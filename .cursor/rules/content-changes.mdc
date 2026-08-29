@@ -34,7 +34,7 @@ tags: [blog]        # one or more of: blog, dublin, software, music, project, ga
 ```
 
 - Tags: `blog`, `dublin`, `software`, `music`, `project`, `games`.
-- Project write-up: `categories` must include that project's `category` (see `_data/projects.yml`). The project icon then wins via `post-label.html`.
+- Project write-up: `categories` must include that project's `category` (see `_data/projects.yml`). The post then uses the green portfolio icon via `post-label.html`. Project-specific icons stay on the portfolio page.
 - Standalone post: set `icon:` (e.g. `music`, `website`).
 - Thought / opinion post: `icon: pencil`, `categories: thoughts`. Do not also add a project category, or the project icon wins.
 - Voice matches `_posts/2026-08-16-rebuilding-this-site.markdown` and `_posts/2026-07-03-magia-bianca.markdown`.
@@ -60,7 +60,7 @@ New mark: `<symbol id="icon-NAME" viewBox="0 0 24 24">` in `_includes/icons.svg`
 
 Give it an unused color in `assets/main.scss` next to the other `.icon.icon-*` rules.
 
-Taken: mappa `#2dd4bf`, todo `#f4b942`, prettycode `#a78bfa`, blocchi `#60a5fa`, fifteen `#fb923c`, tictactoe `#fb7185`, connectfour `#facc15`, turing `#ef4444`, brainfuck `#e879f9`, eml `#34d399`, website `#f43f5e`, music-in-posts `#f472b6`, pencil-in-posts `#e07a5f`, spotify `#1ed760`, youtube-music `#ff0033`, apple-music `#fc3c44`.
+Taken: mappa `#2dd4bf`, todo `#f4b942`, prettycode `#a78bfa`, blocchi `#60a5fa`, fifteen `#fb923c`, tictactoe `#fb7185`, connectfour `#facc15`, turing `#ef4444`, brainfuck `#e879f9`, eml `#34d399`, website `#f43f5e`, portfolio-in-posts `#22c55e`, music-in-posts `#f472b6`, pencil-in-posts `#e07a5f`, spotify `#1ed760`, youtube-music `#ff0033`, apple-music `#fc3c44`.
 
 - Project / global: `.icon.icon-NAME { color: #...; }`
 - Post-only (keep nav brand): `.post-title .icon.icon-NAME, .post-link .icon.icon-NAME`

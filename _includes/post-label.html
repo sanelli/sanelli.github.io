@@ -9,7 +9,11 @@
     {%- assign label_title = label_title | replace: label_project.emoji_alt, "" -%}
   {%- endif -%}
   {%- assign label_title = label_title | strip -%}
-  {%- assign label_icon = label_project.icon -%}
+  {%- if include.project_icon -%}
+    {%- assign label_icon = label_project.icon -%}
+  {%- else -%}
+    {%- assign label_icon = "portfolio" -%}
+  {%- endif -%}
 {%- endif -%}
 {%- if label_icon -%}
   {%- include_cached icon.html name=label_icon -%}
