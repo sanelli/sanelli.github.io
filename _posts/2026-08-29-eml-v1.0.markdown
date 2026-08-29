@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "EML v1.0!"
+date:   2026-08-29 21:50:00 +0100
+categories: projects eml ada compiler interpreter
+tags: [project]
+---
+
+This post, and the work it describes, was done with [Cursor](https://cursor.com). A couple of days after I [wrote about the .NET backends]({% post_url 2026-08-27-eml-dotnet-backends %}), I am calling [eml](https://github.com/sanelli/eml) 1.0.
+
+The tree this write-up matches is commit [`a68cb67`](https://github.com/sanelli/eml/commit/a68cb67b84827830b56e551fbf74e7884644f8cf).
+
+## Native binaries, the lazy way
+
+The last post left native code on the list as "use LLVM instead of shelling out to `dotnet publish`." What actually landed is less romantic and, I think, better: three new compile targets, `exe`, `lib`, and `dynamiclib`, which emit the C we already knew how to emit and then ask a C compiler to finish the job.
+
+I did not pull LLVM into Ada. I generate a C source file, drop it in a temp directory, and spawn clang, or gcc, or `cl.exe` on Windows, the same way `csharpexe` already spawns `dotnet publish`. The shape is deliberately familiar. `-of exe` needs `-o` with a `.exe` suffix on Windows and no extension on Linux and macOS; `-of lib` wants `.a` or `.lib`; `-of dynamiclib` wants `.so`, `.dylib`, or `.dll`, plus a companion header, because a library without a prototype is just a dare. If none of those compilers is on `PATH`, you get a diagnostic and no output file, which is the honest answer.
+
+The difference that actually matters is the type. `csharpexe` still goes through `System.Numerics.Complex`, which is `double`, and that is how you end up printing `NaN+NaNi` for expressions that Ada and C handle without drama. C gives me `long double complex`, `cexpl`, and `clogl` from `<complex.h>`, and that extra width is enough for the intermediate infinities this operator likes to produce. I could have spent a month wrapping LLVM from Ada so I could pretend I had a "real" backend. I went the boring route instead, and the numbers came out better.
+
+```powershell
+./bin/eml compile -i samples/t01_e.teml -of exe -o e
+./bin/eml compile -i samples/t01_e.teml -of lib -o e.a
+./bin/eml compile -i samples/t01_e.teml -of dynamiclib -o e.dylib
+```
+
+On Windows those last two would be `e.lib` and `e.dll`, and the executable would be `e.exe`. You still need a C compiler on `PATH`. You do not need LLVM, and you do not need the .NET SDK unless you still want `csharpexe`.
+
+{% include eml-pipeline-native.html %}
+
+## What I took off the list
+
+Calling something 1.0 is also a good moment to admit what you are not going to do.
+
+The old `-of binary` slot, the LLVM native executable, is gone. It turned into `exe` / `lib` / `dynamiclib`. I looked at pushing LLVM bindings through Ada and decided it was not worth the effort: the crate would stop being "no third-party libraries," the build would grow a personality, and at the end I would still be calling `exp` and `log` on complex numbers, which C already does.
+
+Java and bytecode came off for a more specific reason. Java has no native complex numeric type worth using, so that backend would have meant an external library, another set of infinities that do not quite match, and a class file I would not trust for the same expressions I can already run in Ada. I like compilers that emit bytecode in principle. I do not like them when the host language cannot count.
+
+WAT and WASM would have been the easy ones. Emitting a `.wat` file is not a deep problem, and from there a `wasm` blob is mostly a toolchain step. The catch is that WebAssembly still needs a runtime for complex `exp` and `log`, and the obvious place to find one is the same kind of JavaScript library the `-of js` backend already leans on. I already know how that story ends in Safari: `Infinity + Infinityi` for `1 + 2 * 3`. Shipping a second, slower version of that joke did not feel like a feature.
+
+The VS Code extension is gone too. Syntax highlighting for a language whose entire closed grammar is `1` and `eml(S, S)` is a nice afternoon, and it would not have helped anyone, including me. I write the samples in a normal editor, I run `eml`, and I move on. A plugin for a language this small is how you pretend a hobby is a product.
+
+So 1.0 is the compiler I actually use: four front ends, an interpreter, JavaScript and C source, .NET source and binaries if you have `dotnet`, and now a host-native executable or library if you have a C compiler. The rest was a to-do list I was keeping out of habit.
+
+{% include made-with-cursor.html %}

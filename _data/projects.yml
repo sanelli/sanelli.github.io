@@ -146,7 +146,7 @@
   category: eml
   icon: eml
   name: EML
-  why: Math expressions down to a two-opcode stack IR, then run or emit JS, C, and .NET.
+  why: Math expressions down to a two-opcode stack IR, then run or emit JS, C, native binaries, and .NET.
   description: >
     An [Ada](https://ada-lang.io) compiler and interpreter for EML
     ([All elementary functions from a single operator](https://arxiv.org/html/2603.21852v2)),
@@ -156,6 +156,7 @@
     preprocess, tokenize, parse, compile, and run; compile targets include
     `.eml` / `.beml` IR, browser JavaScript (math.js), C
     (`long double complex`, plus a library form with a companion header),
+    native executables and libraries via that C (`exe` / `lib` / `dynamiclib`),
     C# / F# / Visual Basic / IL, and .NET DLLs or a host-native publish when
     the `dotnet` SDK is installed. Built with [Alire](https://alire.ada.dev).
   links:
