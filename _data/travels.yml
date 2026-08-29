@@ -801,6 +801,14 @@ years:
             country: Italy
         date: 2009-08-22
         date_end: 2009-08-29
+      - title: Marsa Alam
+        url: "https://en.wikipedia.org/wiki/Marsa_Alam"
+        places:
+          - name: Marsa Alam
+            url: "https://en.wikipedia.org/wiki/Marsa_Alam"
+            country: Egypt
+        date: 2009-08-08
+        date_end: 2009-08-15
       - title: Assisi
         url: "https://en.wikipedia.org/wiki/Assisi"
         places:
