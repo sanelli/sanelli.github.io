@@ -4,7 +4,7 @@ title:  "Partially Total Solar Eclipse"
 date:   2026-08-12 21:30:00 +0100
 icon: pencil
 categories: thoughts
-tags: [blog, dublin]
+tags: [blog, dublin, music]
 ---
 
 No, it was not a [total eclipse of the heart](https://music.youtube.com/search?q=Total+Eclipse+of+the+Heart+Bonnie+Tyler). Bonnie Tyler can keep that one. What we got in Dublin was still a very emotional affair, even if the Moon politely declined to finish the job.
@@ -31,6 +31,73 @@ While talking with friends during the day I realised I was not entirely sure how
 The other thing that struck me, once I started reading, is how ordinary eclipses are in the universe and how strange ours still are. Whenever a moon passes in front of its star or its planet, you get an eclipse; Jupiter, with its crowd of moons, has them all the time, and binary stars eclipse one another constantly. What Earth gets, for now, is the theatrical version, the one that can hide the Sun so neatly that the corona appears. [Our Sun is about 400 times wider than the Moon, and also about 400 times farther away](https://www.youtube.com/shorts/NvGomtqSoy4), so they look almost the same size in the sky. Most moons in the solar system are too small, or too far, or they cover too much. We are in a window where the match is almost perfect, which is a ridiculous piece of luck to live inside and then treat as a Tuesday.
 
 The next total solar eclipse visible from Europe is on 2 August 2027, from southern Spain. On 26 January 2028, Portugal and Spain get an annular eclipse, a ring of fire, with a partial view across the rest of Europe. I still have to sit with the difference: in a total eclipse the Moon is close enough, or large enough in the sky, to cover the Sun completely; in an annular one it is a little too far away, so a bright ring remains. I will probably need another napkin.
+
+Of course all this Moon talk sent me back to songs. Here are a few I love, in no particular order except the one that opened this post.
+
+<ul class="song-list">
+{% include song-listen.html
+  title="Total Eclipse of the Heart"
+  artist="Bonnie Tyler"
+  spotify="https://open.spotify.com/track/1VrfLrBviw9A6JzRoo3t2C"
+  youtube="https://music.youtube.com/search?q=Total+Eclipse+of+the+Heart+Bonnie+Tyler"
+  apple="https://music.apple.com/album/total-eclipse-of-the-heart/1504111277?i=1504111288" %}
+{% include song-listen.html
+  title="Luna"
+  artist="Gianni Togni"
+  spotify="https://open.spotify.com/track/10C0K5SdzsidSadUQdiaeC"
+  youtube="https://music.youtube.com/search?q=Luna+Gianni+Togni"
+  apple="https://music.apple.com/album/luna-remastered/802854216?i=802854272" %}
+{% include song-listen.html
+  title="Sailor Moon e il mistero dei sogni"
+  artist="Cristina D'Avena"
+  note="The Italian opening for SuperS, the season where the Dead Moon Circus arrives with an eclipse."
+  spotify="https://open.spotify.com/search/Sailor%20Moon%20e%20il%20mistero%20dei%20sogni%20Cristina%20D%27Avena"
+  youtube="https://music.youtube.com/search?q=Sailor+Moon+e+il+mistero+dei+sogni+Cristina+D%27Avena"
+  apple="https://music.apple.com/search?term=Sailor%20Moon%20e%20il%20mistero%20dei%20sogni%20Cristina%20D%27Avena" %}
+{% include song-listen.html
+  title="Dancing in the Moonlight"
+  artist="Toploader"
+  spotify="https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od"
+  youtube="https://music.youtube.com/search?q=Dancing+in+the+Moonlight+Toploader"
+  apple="https://music.apple.com/album/dancing-in-the-moonlight/273399881?i=273400021" %}
+{% include song-listen.html
+  title="Guarda che luna"
+  artist="Fred Buscaglione"
+  spotify="https://open.spotify.com/track/5rNKH10TJxIj7Dvl4mU0s1"
+  youtube="https://music.youtube.com/search?q=Guarda+che+luna+Fred+Buscaglione"
+  apple="https://music.apple.com/album/guarda-che-luna/309742868?i=309743269" %}
+{% include song-listen.html
+  title="To the Moon and Back"
+  artist="Savage Garden"
+  spotify="https://open.spotify.com/track/1usIChy4rUEzOMPYiB8AjY"
+  youtube="https://music.youtube.com/search?q=To+the+Moon+and+Back+Savage+Garden"
+  apple="https://music.apple.com/album/to-the-moon-back/157485058?i=157485079" %}
+{% include song-listen.html
+  title="...e la luna bussò"
+  artist="Loredana Bertè"
+  spotify="https://open.spotify.com/track/3kccpXjDqsTV7pRDBjRdyr"
+  youtube="https://music.youtube.com/search?q=E+la+luna+buss%C3%B2+Loredana+Bert%C3%A8"
+  apple="https://music.apple.com/album/e-la-luna-buss%C3%B2/41256810?i=41256831" %}
+{% include song-listen.html
+  title="Fly Me to the Moon"
+  artist="Frank Sinatra"
+  note="I first met this song as the Evangelion ending, which is a pile of covers. The recording I keep going back to is Sinatra with Count Basie."
+  spotify="https://open.spotify.com/search/Fly%20Me%20to%20the%20Moon%20Frank%20Sinatra%20Count%20Basie"
+  youtube="https://music.youtube.com/search?q=Fly+Me+to+the+Moon+Frank+Sinatra+Count+Basie"
+  apple="https://music.apple.com/album/fly-me-to-the-moon-feat-count-basie-and-his-orchestra/1440858119?i=1440858129" %}
+{% include song-listen.html
+  title="Vengo dalla Luna"
+  artist="Caparezza"
+  spotify="https://open.spotify.com/track/424BQDJzOJqfJCZusTvAZP"
+  youtube="https://music.youtube.com/search?q=Vengo+dalla+Luna+Caparezza"
+  apple="https://music.apple.com/album/vengo-dalla-luna/724280680?i=724281252" %}
+{% include song-listen.html
+  title="Spunta la luna dal monte"
+  artist="Pierangelo Bertoli ft. Tazenda"
+  spotify="https://open.spotify.com/track/6JtaCdNMua1BZls3mK4UYU"
+  youtube="https://music.youtube.com/search?q=Spunta+la+luna+dal+monte+Bertoli+Tazenda"
+  apple="https://music.apple.com/album/spunta-la-luna-dal-monte-disamparados/273935584?i=273936048" %}
+</ul>
 
 I hope one day to stand in the path of totality. Never say never.
 

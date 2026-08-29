@@ -1,0 +1,13 @@
+<li class="song-listen">
+  <div class="song-listen-row">
+    <span class="song-listen-copy"><em>{{ include.title }}</em> — {{ include.artist }}</span>
+    <span class="listen-links listen-links-compact">
+      <a class="listen-link listen-link-icon" href="{{ include.spotify }}" aria-label="Spotify">{% include icon.html name="spotify" %}</a>
+      <a class="listen-link listen-link-icon" href="{{ include.youtube }}" aria-label="YouTube Music">{% include icon.html name="youtube-music" %}</a>
+      <a class="listen-link listen-link-icon" href="{{ include.apple }}" aria-label="Apple Music">{% include icon.html name="apple-music" %}</a>
+    </span>
+  </div>
+  {%- if include.note -%}
+  <span class="song-listen-note">{{ include.note }}</span>
+  {%- endif -%}
+</li>

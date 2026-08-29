@@ -353,6 +353,51 @@ blockquote {
   font-weight: 600;
 }
 
+.song-list {
+  list-style: disc;
+  padding-left: 2.4em;
+  margin: 0.8em 0 1.4em 0.6em;
+}
+
+.song-listen {
+  margin: 0.15em 0;
+}
+
+.song-listen-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35em 0.7em;
+}
+
+.song-listen-copy {
+  min-width: 0;
+}
+
+.listen-links-compact {
+  display: inline-flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 0.35em;
+  margin: 0;
+}
+
+.listen-link-icon {
+  font-weight: 400;
+  line-height: 1;
+
+  .icon {
+    margin-right: 0;
+  }
+}
+
+.song-listen-note {
+  display: block;
+  margin-top: 0.2em;
+  font-size: 0.9em;
+  color: var(--text-muted);
+}
+
 .album-facts {
   margin: 1.6em 0;
   padding: 0.85em 1em;
