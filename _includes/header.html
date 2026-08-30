@@ -18,8 +18,17 @@
       <div class="trigger">
         {%- for path in page_paths -%}
           {%- assign my_page = site.pages | where: "path", path | first -%}
+          {%- unless my_page -%}
+            {%- assign header_slug = path | split: "/" | last | split: "." | first -%}
+            {%- assign header_url = "/" | append: header_slug | append: "/" -%}
+            {%- assign header_url_index = header_url | append: "index.html" -%}
+            {%- assign my_page = site.pages | where: "url", header_url | first -%}
+            {%- unless my_page -%}
+              {%- assign my_page = site.pages | where: "url", header_url_index | first -%}
+            {%- endunless -%}
+          {%- endunless -%}
           {%- if my_page.title -%}
-          <a class="page-link" href="{{ my_page.url | relative_url }}">{%- include_cached icon.html name=my_page.icon -%}{{ my_page.title | escape }}</a>
+          <a class="page-link" href="{{ my_page.url | replace: 'index.html', '' | relative_url }}">{%- include_cached icon.html name=my_page.icon -%}{{ my_page.title | escape }}</a>
           {%- endif -%}
         {%- endfor -%}
       </div>

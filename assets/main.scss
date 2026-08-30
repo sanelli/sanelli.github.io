@@ -526,6 +526,18 @@ blockquote {
 @media screen and (min-width: 600px) {
   .site-nav {
     transform: translateX(-30%);
+
+    .page-link {
+      font-size: 0.9em;
+    }
+
+    .page-link:not(:last-child) {
+      margin-right: 10px;
+    }
+
+    .icon {
+      margin-right: 0.22em;
+    }
   }
 }
 
