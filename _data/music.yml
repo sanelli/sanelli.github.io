@@ -1,6 +1,18 @@
 years:
   - label: 2026
     entries:
+      - title: Life in Cartoon Motion
+        url: "https://en.wikipedia.org/wiki/Life_in_Cartoon_Motion"
+        date: 2026-08-30
+        rating: 5
+        artists:
+          - name: Mika
+            url: "https://en.wikipedia.org/wiki/Mika_(singer)"
+        year: 2007
+        genres:
+          - dance-pop
+          - disco
+          - glam rock
       - title: Fragile - Nesliving Vol. 2
         url: "https://it.wikipedia.org/wiki/Fragile_-_Nesliving_Vol._2"
         date: 2026-08-28
