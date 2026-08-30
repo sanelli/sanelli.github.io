@@ -529,7 +529,7 @@ blockquote {
     transform: translateX(-30%);
 
     .page-link {
-      font-size: 0.9em;
+      font-size: 0.95em;
     }
 
     .page-link:not(:last-child) {
@@ -600,6 +600,10 @@ html[data-theme="system"] .theme-switch .icon-theme-system {
   .site-nav {
     background-color: var(--bg);
     border-color: var(--border-subtle);
+
+    .page-link {
+      font-size: 1.05em;
+    }
   }
 }
 
