@@ -3,7 +3,7 @@
     var nav = document.querySelector("[data-section-rail]");
     if (!nav) return;
 
-    var mobileQuery = window.matchMedia("(max-width: 759px)");
+    var mobileQuery = window.matchMedia("(max-width: 1023px)");
     var collapsible = nav.hasAttribute("data-section-rail-collapsible");
     var storageKey = "section-rail-open:" + location.pathname;
     var links = Array.prototype.slice.call(nav.querySelectorAll("a[href^='#']"));
