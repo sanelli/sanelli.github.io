@@ -1,6 +1,19 @@
 years:
   - label: 2026
     entries:
+      - title: Materia (Terra)
+        url: "https://en.wikipedia.org/wiki/Materia_(Terra)"
+        date: 2026-08-31
+        rating: 4
+        artists:
+          - name: Marco Mengoni
+            url: "https://en.wikipedia.org/wiki/Marco_Mengoni"
+        year: 2021
+        genres:
+          - blues
+          - pop
+          - "R&B"
+          - soul
       - title: Come Thelma & Louise
         url: "https://en.wikipedia.org/wiki/Come_Thelma_%26_Louise"
         date: 2026-08-31
