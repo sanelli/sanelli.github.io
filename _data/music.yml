@@ -1,6 +1,18 @@
 years:
   - label: 2026
     entries:
+      - title: Come Thelma & Louise
+        url: "https://en.wikipedia.org/wiki/Come_Thelma_%26_Louise"
+        date: 2026-08-31
+        rating: 3
+        artists:
+          - name: Giorgia
+            url: "https://en.wikipedia.org/wiki/Giorgia_(singer)"
+        year: 1995
+        genres:
+          - pop
+          - "R&B"
+          - soul
       - title: Life in Cartoon Motion
         url: "https://en.wikipedia.org/wiki/Life_in_Cartoon_Motion"
         date: 2026-08-30
