@@ -1,6 +1,16 @@
 years:
   - label: 2026
     entries:
+      - title: Nali
+        url: "https://en.wikipedia.org/wiki/Nali_(album)"
+        date: 2026-09-01
+        rating: 4
+        artists:
+          - name: Annalisa
+            url: "https://en.wikipedia.org/wiki/Annalisa"
+        year: 2011
+        genres:
+          - pop
       - title: Materia (Terra)
         url: "https://en.wikipedia.org/wiki/Materia_(Terra)"
         date: 2026-08-31
