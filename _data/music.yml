@@ -1,6 +1,18 @@
 years:
   - label: 2026
     entries:
+      - title: American Idiot
+        url: "https://en.wikipedia.org/wiki/American_Idiot"
+        date: 2026-09-01
+        rating: 4
+        artists:
+          - name: Green Day
+            url: "https://en.wikipedia.org/wiki/Green_Day"
+        year: 2004
+        genres:
+          - alternative rock
+          - pop-punk
+          - punk rock
       - title: Nali
         url: "https://en.wikipedia.org/wiki/Nali_(album)"
         date: 2026-09-01
