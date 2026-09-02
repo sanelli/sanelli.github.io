@@ -1,6 +1,17 @@
 years:
   - label: 2026
     entries:
+      - title: Still Not Getting Any...
+        url: "https://en.wikipedia.org/wiki/Still_Not_Getting_Any..."
+        date: 2026-09-02
+        rating: 4
+        artists:
+          - name: Simple Plan
+            url: "https://en.wikipedia.org/wiki/Simple_Plan"
+        year: 2004
+        genres:
+          - alternative rock
+          - pop-punk
       - title: Americana
         url: "https://en.wikipedia.org/wiki/Americana_(The_Offspring_album)"
         date: 2026-09-02
