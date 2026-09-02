@@ -1,6 +1,18 @@
 years:
   - label: 2026
     entries:
+      - title: Americana
+        url: "https://en.wikipedia.org/wiki/Americana_(The_Offspring_album)"
+        date: 2026-09-02
+        rating: 5
+        artists:
+          - name: The Offspring
+            url: "https://en.wikipedia.org/wiki/The_Offspring"
+        year: 1998
+        genres:
+          - pop-punk
+          - punk rock
+          - skate punk
       - title: American Idiot
         url: "https://en.wikipedia.org/wiki/American_Idiot"
         date: 2026-09-01
