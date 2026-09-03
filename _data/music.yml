@@ -1,6 +1,18 @@
 years:
   - label: 2026
     entries:
+      - title: "Alright, Still"
+        url: "https://en.wikipedia.org/wiki/Alright,_Still"
+        date: 2026-09-03
+        rating: 4
+        artists:
+          - name: Lily Allen
+            url: "https://en.wikipedia.org/wiki/Lily_Allen"
+        year: 2006
+        genres:
+          - pop
+          - "R&B"
+          - reggae
       - title: Falling into You
         url: "https://en.wikipedia.org/wiki/Falling_into_You"
         date: 2026-09-03
