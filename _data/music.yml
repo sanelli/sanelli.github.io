@@ -1,6 +1,16 @@
 years:
   - label: 2026
     entries:
+      - title: Falling into You
+        url: "https://en.wikipedia.org/wiki/Falling_into_You"
+        date: 2026-09-03
+        rating: 4
+        artists:
+          - name: Céline Dion
+            url: "https://en.wikipedia.org/wiki/Celine_Dion"
+        year: 1996
+        genres:
+          - pop
       - title: Still Not Getting Any...
         url: "https://en.wikipedia.org/wiki/Still_Not_Getting_Any..."
         date: 2026-09-02
