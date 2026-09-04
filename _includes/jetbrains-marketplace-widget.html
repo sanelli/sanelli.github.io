@@ -1,0 +1,8 @@
+{%- if include.mode and include.plugin_id and include.element_id -%}
+<div
+  id="{{ include.element_id }}"
+  class="jetbrains-marketplace-widget jetbrains-marketplace-widget--{{ include.mode }}"
+  data-marketplace-widget="{{ include.mode }}"
+  data-marketplace-plugin="{{ include.plugin_id }}"
+></div>
+{%- endif -%}

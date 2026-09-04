@@ -2,7 +2,7 @@
 layout: page
 title: Portfolio
 icon: portfolio
-description: Open-source .NET tools, source generators, analyzers, and small games.
+description: Open-source tools, source generators, analyzers, plugins, and small games.
 permalink: /portfolio/
 redirect_from:
   - /projects/
@@ -13,6 +13,7 @@ section_rail: true
 
 {%- assign flagships = site.data.projects | where: "section", "flagship" -%}
 {%- assign libraries = site.data.projects | where: "section", "libraries" -%}
+{%- assign plugins = site.data.projects | where: "section", "plugin" -%}
 {%- assign interpreters = site.data.projects | where: "section", "interpreters" -%}
 {%- assign web = site.data.projects | where: "section", "web" -%}
 {%- assign games = site.data.projects | where: "section", "games" -%}
@@ -21,6 +22,7 @@ section_rail: true
 <nav class="section-rail" data-section-rail data-section-rail-collapsible aria-label="Portfolio sections">
   {% include section-rail-link.html id="flagship" label="Flagship" %}
   {% include section-rail-link.html id="libraries" label="Libraries" %}
+  {% include section-rail-link.html id="plugin" label="Plugin" %}
   {% include section-rail-link.html id="interpreters" label="Compilers & Interpreters" %}
   {% include section-rail-link.html id="web" label="Web" %}
   {% include section-rail-link.html id="games" label="Games" %}
@@ -34,6 +36,11 @@ section_rail: true
 
 <h2 id="libraries">Libraries</h2>
 {% for project in libraries %}
+{% include_cached project-card.html project=project %}
+{% endfor %}
+
+<h2 id="plugin">Plugin</h2>
+{% for project in plugins %}
 {% include_cached project-card.html project=project %}
 {% endfor %}
 

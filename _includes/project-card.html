@@ -4,6 +4,9 @@
   <h3>
     <span class="entry-title">{%- include_cached icon.html name=project.icon -%}{{ project.name }}</span>
     <span class="entry-meta">
+      {%- if project.version -%}
+      <span class="project-version">{{ project.version }}</span>
+      {%- endif -%}
       {%- for link in project.links -%}
       <a href="{{ link.url }}">{{ link.text }}</a>
       {%- endfor -%}
@@ -15,6 +18,14 @@
   {%- endif -%}
   {%- if project.description -%}
   <div class="project-blurb">{{ project.description | markdownify }}</div>
+  {%- endif -%}
+  {%- if project.marketplace_plugin_id -%}
+  {%- capture marketplace_element_id -%}{{ project.slug }}-marketplace{%- endcapture -%}
+  {%- assign marketplace_mode = project.marketplace_widget | default: "install" -%}
+  {% include jetbrains-marketplace-widget.html
+     mode=marketplace_mode
+     plugin_id=project.marketplace_plugin_id
+     element_id=marketplace_element_id %}
   {%- endif -%}
   {%- if project.screenshot -%}
   <img class="project-shot" src="{{ project.screenshot }}" alt="{{ project.screenshot_alt | default: project.name | escape }}">

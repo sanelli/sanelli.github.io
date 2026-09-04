@@ -34,6 +34,17 @@
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
     <script src="{{ '/assets/js/stats-countries-map.js' | relative_url }}"></script>
     {%- endif -%}
+    {%- if page.lightbox -%}
+    <script src="{{ '/assets/js/lightbox.js' | relative_url }}"></script>
+    {%- endif -%}
+    {%- assign marketplace_projects = site.data.projects | where_exp: "p", "p.marketplace_plugin_id" -%}
+    {%- if page.jetbrains_marketplace -%}
+    <script src="https://plugins.jetbrains.com/assets/scripts/mp-widget.js"></script>
+    <script src="{{ '/assets/js/jetbrains-marketplace.js' | relative_url }}"></script>
+    {%- elsif page.permalink == '/portfolio/' and marketplace_projects.size > 0 -%}
+    <script src="https://plugins.jetbrains.com/assets/scripts/mp-widget.js"></script>
+    <script src="{{ '/assets/js/jetbrains-marketplace.js' | relative_url }}"></script>
+    {%- endif -%}
 
   </body>
 

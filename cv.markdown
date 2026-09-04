@@ -113,6 +113,7 @@ section_rail: true
 <span class="entry-detail">{% include_cached icon.html name="github" %} [GitHub](https://github.com/sanelli)</span><br/>
 <span class="entry-detail">{% include_cached icon.html name="linkedin" %} [LinkedIn](https://linkedin.com/in/stefanoanelli/)</span><br/>
 <span class="entry-detail">{% include_cached icon.html name="nuget" %} [NuGet](https://www.nuget.org/profiles/sanelli)</span><br/>
+<span class="entry-detail">{% include_cached icon.html name="jetbrains" %} [JetBrains Marketplace](https://plugins.jetbrains.com/vendor/sanelli)</span><br/>
 <span class="entry-detail">{% include_cached icon.html name="stackoverflow" %} [Stack Overflow](https://stackoverflow.com/users/1468832/sanelli)</span>
 
 </div>

@@ -18,6 +18,8 @@
       url: https://github.com/sanelli/Mappa
     - text: NuGet
       url: https://www.nuget.org/packages/Mappa
+    - text: Release 10.2.0
+      url: https://github.com/sanelli/Mappa/releases/tag/v10.2.0
   tags: [C#, source-generator, csharp, dotnet]
 
 - slug: todo-analyzer
@@ -38,6 +40,8 @@
       url: https://github.com/sanelli/Todo.Analyzer
     - text: NuGet
       url: https://www.nuget.org/packages/Comment.Todo.Analyzer
+    - text: Release 1.2.0
+      url: https://github.com/sanelli/Todo.Analyzer/releases/tag/v1.2.0
   tags: [C#, analyzer, csharp, dotnet]
 
 - slug: prettycode
@@ -55,7 +59,33 @@
       url: https://github.com/sanelli/PrettyCode.StringBuilder
     - text: NuGet
       url: https://www.nuget.org/packages/PrettyCode.StringBuilder
+    - text: Release 1.0.0
+      url: https://github.com/sanelli/PrettyCode.StringBuilder/releases/tag/v1.0.0
   tags: [C#, csharp, dotnet]
+
+- slug: treeshade
+  section: plugin
+  category: treeshade
+  icon: treeshade
+  name: Tree Shade
+  marketplace_plugin_id: 34097
+  marketplace_widget: install
+  why: Rider's File System and Solution explorers stay readable when build output and editor folders stay hidden.
+  description: >
+    A [JetBrains Rider](https://www.jetbrains.com/rider/) plugin that hides
+    folders and files by exact name in the File System and Solution explorers,
+    then sorts what remains folders first, then files, each group alphabetically
+    (case-insensitive). Defaults hide `bin`, `obj`, `lib`, `.vscode`, `.idea`,
+    and `.DS_Store`. Configure per project under Settings → Tools → Tree Shade;
+    names match the entry only, and settings persist in `treeshade.xml`.
+  links:
+    - text: GitHub
+      url: https://github.com/sanelli/TreeShade
+    - text: Marketplace
+      url: https://plugins.jetbrains.com/plugin/34097-tree-shade/
+    - text: Release 1.0.0
+      url: https://github.com/sanelli/TreeShade/releases/tag/1.0.0
+  tags: [kotlin, rider, jetbrains, plugin]
 
 - slug: website
   section: web
@@ -162,6 +192,8 @@
   links:
     - text: GitHub
       url: https://github.com/sanelli/eml
+    - text: Release 1.0.0
+      url: https://github.com/sanelli/eml/releases/tag/v1.0.0
   tags: [ada, Alire, compiler, interpreter, eml, math]
 
 - slug: turing
