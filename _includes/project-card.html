@@ -20,12 +20,37 @@
   <div class="project-blurb">{{ project.description | markdownify }}</div>
   {%- endif -%}
   {%- if project.marketplace_plugin_id -%}
-  {%- capture marketplace_element_id -%}{{ project.slug }}-marketplace{%- endcapture -%}
   {%- assign marketplace_mode = project.marketplace_widget | default: "install" -%}
+  {%- if marketplace_mode == "install" -%}
+  {%- assign marketplace_url = nil -%}
+  {%- for link in project.links -%}
+    {%- if link.text == "Marketplace" -%}
+      {%- assign marketplace_url = link.url -%}
+      {%- break -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- unless marketplace_url -%}
+    {%- capture marketplace_url -%}https://plugins.jetbrains.com/plugin/{{ project.marketplace_plugin_id }}{%- endcapture -%}
+  {%- endunless -%}
+  <p class="project-marketplace">
+    <a class="marketplace-get-btn" href="{{ marketplace_url }}">
+      <span class="marketplace-get-btn-label">Get from Marketplace</span>
+      <span class="marketplace-get-btn-mark" aria-hidden="true">
+        <svg viewBox="0 0 40 40" focusable="false">
+          <path fill="#FC801D" d="M0 0h20L0 40z"/>
+          <path fill="#F04E98" d="M20 0 40 0 0 40z"/>
+          <path fill="#6B57FF" d="M40 0v40L0 40z"/>
+        </svg>
+      </span>
+    </a>
+  </p>
+  {%- else -%}
+  {%- capture marketplace_element_id -%}{{ project.slug }}-marketplace{%- endcapture -%}
   {% include jetbrains-marketplace-widget.html
      mode=marketplace_mode
      plugin_id=project.marketplace_plugin_id
      element_id=marketplace_element_id %}
+  {%- endif -%}
   {%- endif -%}
   {%- if project.screenshot -%}
   <img class="project-shot" src="{{ project.screenshot }}" alt="{{ project.screenshot_alt | default: project.name | escape }}">

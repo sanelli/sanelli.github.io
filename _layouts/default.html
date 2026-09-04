@@ -38,10 +38,11 @@
     <script src="{{ '/assets/js/lightbox.js' | relative_url }}"></script>
     {%- endif -%}
     {%- assign marketplace_projects = site.data.projects | where_exp: "p", "p.marketplace_plugin_id" -%}
+    {%- assign marketplace_cards = marketplace_projects | where: "marketplace_widget", "card" -%}
     {%- if page.jetbrains_marketplace -%}
     <script src="https://plugins.jetbrains.com/assets/scripts/mp-widget.js"></script>
     <script src="{{ '/assets/js/jetbrains-marketplace.js' | relative_url }}"></script>
-    {%- elsif page.permalink == '/portfolio/' and marketplace_projects.size > 0 -%}
+    {%- elsif page.permalink == '/portfolio/' and marketplace_cards.size > 0 -%}
     <script src="https://plugins.jetbrains.com/assets/scripts/mp-widget.js"></script>
     <script src="{{ '/assets/js/jetbrains-marketplace.js' | relative_url }}"></script>
     {%- endif -%}

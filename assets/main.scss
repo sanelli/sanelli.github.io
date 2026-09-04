@@ -2415,6 +2415,65 @@ table.media-table .media-card a {
   margin-top: 0.15em;
 }
 
+.project-marketplace {
+  margin: 0.75em 0 0.35em;
+}
+
+.marketplace-get-btn {
+  display: inline-flex;
+  align-items: stretch;
+  height: 2.75rem;
+  max-width: 100%;
+  padding: 0;
+  border: 1px solid color-mix(in srgb, var(--text) 18%, transparent);
+  border-radius: 999px;
+  background: #111;
+  color: #fff;
+  text-decoration: none;
+  overflow: hidden;
+  line-height: 1;
+  box-shadow: none;
+}
+
+.marketplace-get-btn:hover,
+.marketplace-get-btn:focus {
+  color: #fff;
+  text-decoration: none;
+  filter: brightness(1.08);
+}
+
+.marketplace-get-btn-label {
+  display: inline-flex;
+  align-items: center;
+  padding: 0 1rem 0 1.15rem;
+  font-size: 0.92rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  white-space: nowrap;
+}
+
+.marketplace-get-btn-mark {
+  display: block;
+  width: 2.65rem;
+  flex: 0 0 2.65rem;
+
+  svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+html[data-theme="light"] .marketplace-get-btn {
+  border-color: transparent;
+}
+
+@media (prefers-color-scheme: light) {
+  html[data-theme="system"] .marketplace-get-btn {
+    border-color: transparent;
+  }
+}
+
 .screenshot-gallery {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
