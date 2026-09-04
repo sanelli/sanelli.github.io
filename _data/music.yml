@@ -1,6 +1,19 @@
 years:
   - label: 2026
     entries:
+      - title: Songs About Jane
+        url: "https://en.wikipedia.org/wiki/Songs_About_Jane"
+        date: 2026-09-04
+        rating: 4
+        artists:
+          - name: Maroon 5
+            url: "https://en.wikipedia.org/wiki/Maroon_5"
+        year: 2002
+        genres:
+          - alternative rock
+          - blue-eyed soul
+          - funk rock
+          - pop rock
       - title: Under My Skin
         url: "https://en.wikipedia.org/wiki/Under_My_Skin_(Avril_Lavigne_album)"
         date: 2026-09-04
