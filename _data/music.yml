@@ -1,6 +1,20 @@
 years:
   - label: 2026
     entries:
+      - title: Stardust
+        url: "https://en.wikipedia.org/wiki/Stardust_(Mika_song)"
+        subtitles:
+          - Single
+        date: 2026-09-07
+        rating: 5
+        artists:
+          - name: Mika
+            url: "https://en.wikipedia.org/wiki/Mika_(singer)"
+          - name: Chiara
+            url: "https://en.wikipedia.org/wiki/Chiara_(Italian_singer)"
+        year: 2013
+        genres:
+          - pop
       - title: Flowers
         url: "https://en.wikipedia.org/wiki/Flowers_(Miley_Cyrus_song)"
         subtitles:
