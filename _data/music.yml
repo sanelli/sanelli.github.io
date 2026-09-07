@@ -1,6 +1,19 @@
 years:
   - label: 2026
     entries:
+      - title: Wanted on Voyage
+        url: "https://en.wikipedia.org/wiki/Wanted_On_Voyage"
+        date: 2026-09-07
+        rating: 4
+        artists:
+          - name: George Ezra
+            url: "https://en.wikipedia.org/wiki/George_Ezra"
+        year: 2014
+        genres:
+          - pop rock
+          - folk rock
+          - americana
+          - blues
       - title: Songs About Jane
         url: "https://en.wikipedia.org/wiki/Songs_About_Jane"
         date: 2026-09-04
