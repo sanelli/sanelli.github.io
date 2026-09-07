@@ -1,6 +1,89 @@
 years:
   - label: 2026
     entries:
+      - title: Flowers
+        url: "https://en.wikipedia.org/wiki/Flowers_(Miley_Cyrus_song)"
+        subtitles:
+          - Single
+        date: 2026-09-07
+        rating: 4
+        artists:
+          - name: Miley Cyrus
+            url: "https://en.wikipedia.org/wiki/Miley_Cyrus"
+        year: 2023
+        genres:
+          - disco
+          - funk
+          - pop rock
+      - title: Oggi sono io
+        url: "https://en.wikipedia.org/wiki/Oggi_sono_io"
+        subtitles:
+          - Single
+        date: 2026-09-07
+        rating: 5
+        artists:
+          - name: Mina
+            url: "https://en.wikipedia.org/wiki/Mina_(Italian_singer)"
+        year: 2001
+        genres:
+          - pop
+      - title: Taki Taki
+        url: "https://en.wikipedia.org/wiki/Taki_Taki"
+        subtitles:
+          - Single
+        date: 2026-09-07
+        rating: 3
+        artists:
+          - name: DJ Snake
+            url: "https://en.wikipedia.org/wiki/DJ_Snake"
+          - name: Selena Gomez
+            url: "https://en.wikipedia.org/wiki/Selena_Gomez"
+          - name: Ozuna
+            url: "https://en.wikipedia.org/wiki/Ozuna"
+          - name: Cardi B
+            url: "https://en.wikipedia.org/wiki/Cardi_B"
+        year: 2018
+        genres:
+          - moombahton
+          - reggaeton
+          - dance-pop
+      - title: Quando una stella muore
+        url: "https://en.wikipedia.org/wiki/Quando_una_stella_muore"
+        subtitles:
+          - Single
+        date: 2026-09-07
+        rating: 5
+        artists:
+          - name: Giorgia
+            url: "https://en.wikipedia.org/wiki/Giorgia_(singer)"
+        year: 2013
+        genres:
+          - pop soul
+      - title: Tell Me Why
+        url: "https://en.wikipedia.org/wiki/Tell_Me_Why_(Supermode_song)"
+        subtitles:
+          - Single
+        date: 2026-09-07
+        rating: 4
+        artists:
+          - name: Supermode
+            url: "https://en.wikipedia.org/wiki/Tell_Me_Why_(Supermode_song)"
+        year: 2006
+        genres:
+          - progressive house
+          - dance
+      - title: Penny & Me
+        url: "https://en.wikipedia.org/wiki/Penny_%26_Me"
+        subtitles:
+          - Single
+        date: 2026-09-07
+        rating: 4
+        artists:
+          - name: Hanson
+            url: "https://en.wikipedia.org/wiki/Hanson_(band)"
+        year: 2004
+        genres:
+          - rock
       - title: Wanted on Voyage
         url: "https://en.wikipedia.org/wiki/Wanted_On_Voyage"
         date: 2026-09-07
