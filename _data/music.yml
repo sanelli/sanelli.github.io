@@ -1,6 +1,18 @@
 years:
   - label: 2026
     entries:
+      - title: "21"
+        url: "https://en.wikipedia.org/wiki/21_(Adele_album)"
+        date: 2026-09-08
+        rating: 5
+        artists:
+          - name: Adele
+            url: "https://en.wikipedia.org/wiki/Adele"
+        year: 2011
+        genres:
+          - pop
+          - soul
+          - "R&B"
       - title: Stardust
         url: "https://en.wikipedia.org/wiki/Stardust_(Mika_song)"
         subtitles:
