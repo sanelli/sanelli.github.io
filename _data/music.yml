@@ -1,6 +1,17 @@
 years:
   - label: 2026
     entries:
+      - title: Stars of CCTV
+        url: "https://en.wikipedia.org/wiki/Stars_of_CCTV"
+        date: 2026-09-09
+        rating: 2
+        artists:
+          - name: Hard-Fi
+            url: "https://en.wikipedia.org/wiki/Hard-Fi"
+        year: 2005
+        genres:
+          - indie rock
+          - post-punk revival
       - title: Bones
         url: "https://en.wikipedia.org/wiki/Bones_(Imagine_Dragons_song)"
         subtitles:
