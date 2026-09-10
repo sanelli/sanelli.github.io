@@ -1903,7 +1903,7 @@ table.media-table .media-card a {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 0.35em;
+  gap: 0.3em 0.4em;
   margin: 0.2em 0 0;
   color: var(--text-muted);
   font-size: 0.82em;
@@ -1915,6 +1915,21 @@ table.media-table .media-card a {
   align-items: center;
   gap: 0.35em;
   flex: 0 0 auto;
+}
+
+.media-card-genres-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25em;
+  min-width: 0;
+}
+
+.media-card-genres .chip {
+  margin: 0;
+  padding: 0.08rem 0.42rem;
+  font-size: 0.62rem;
+  line-height: 1.25;
 }
 
 .media-card-genres .icon {
