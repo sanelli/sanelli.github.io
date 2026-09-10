@@ -1,6 +1,19 @@
 years:
   - label: 2026
     entries:
+      - title: Tracy Chapman
+        url: "https://en.wikipedia.org/wiki/Tracy_Chapman_(album)"
+        date: 2026-09-10
+        rating: 5
+        artists:
+          - name: Tracy Chapman
+            url: "https://en.wikipedia.org/wiki/Tracy_Chapman"
+        year: 1988
+        genres:
+          - contemporary folk
+          - folk rock
+          - roots rock
+          - heartland rock
       - title: Stars of CCTV
         url: "https://en.wikipedia.org/wiki/Stars_of_CCTV"
         date: 2026-09-09
