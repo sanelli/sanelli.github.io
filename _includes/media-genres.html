@@ -4,7 +4,7 @@
 {%- capture genre_text -%}
 {%- for genre in genres -%}{{ genre | replace: "-", " " }}{% unless forloop.last %}, {% endunless %}{%- endfor -%}
 {%- endcapture -%}
-<p class="media-card-genres">{{ genre_text | strip | capitalize }}</p>
+<p class="media-card-genres"><span class="media-card-genres-lead">{%- include icon.html name="tag" -%}{% if genres.size == 1 %}Genre{% else %}Genres{% endif %}</span> {{ genre_text | strip | capitalize }}</p>
 {%- else -%}
 <span class="media-genres">
 {%- for genre in genres -%}
