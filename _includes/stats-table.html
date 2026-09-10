@@ -29,7 +29,7 @@
   <tbody>
     {%- for year in rows -%}
       {%- if year == "" -%}{%- continue -%}{%- endif -%}
-      {%- include stats-count.html data=site.data.books year=year -%}{%- assign books_n = stats_count -%}
+      {%- include stats-count.html data=site.data.books year=year unique_key="title" -%}{%- assign books_n = stats_count -%}
       {%- include stats-count.html data=site.data.music year=year skip_subtitle="Single" -%}{%- assign music_n = stats_count -%}
       {%- include stats-count.html data=site.data.games year=year unique_key="title" -%}{%- assign games_n = stats_count -%}
       {%- include stats-count.html data=site.data.movies year=year -%}{%- assign movies_n = stats_count -%}
