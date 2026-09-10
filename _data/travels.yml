@@ -782,6 +782,9 @@ years:
           - name: Rome
             url: "https://en.wikipedia.org/wiki/Rome"
             country: Italy
+          - name: Vatican City
+            url: "https://en.wikipedia.org/wiki/Vatican_City"
+            country: Vatican City
         date: 2009-12-12
         date_end: 2009-12-13
         rating: 5
@@ -801,6 +804,7 @@ years:
             country: Italy
         date: 2009-08-22
         date_end: 2009-08-29
+        rating: 3
       - title: Marsa Alam
         url: "https://en.wikipedia.org/wiki/Marsa_Alam"
         places:
@@ -809,6 +813,7 @@ years:
             country: Egypt
         date: 2009-08-08
         date_end: 2009-08-15
+        rating: 4
       - title: Assisi
         url: "https://en.wikipedia.org/wiki/Assisi"
         places:
@@ -828,6 +833,7 @@ years:
             country: Italy
         date: 2008-08-23
         date_end: 2008-08-30
+        rating: 2
   - label: 2007
     entries:
       - title: Alba Adriatica
@@ -850,6 +856,18 @@ years:
         date: 2006-06-25
         date_end: 2006-07-02
         rating: 5
+      - title: Santa Teresa di Gallura, Sardinia
+        url: "https://en.wikipedia.org/wiki/Santa_Teresa_Gallura"
+        places:
+          - name: Santa Teresa di Gallura
+            url: "https://en.wikipedia.org/wiki/Santa_Teresa_Gallura"
+            country: Italy
+          - name: Sardinia
+            url: "https://en.wikipedia.org/wiki/Sardinia"
+            country: Italy
+        date: 2006-06-12
+        date_end: 2006-06-22
+        rating: 4
       - title: Laghi Gemelli and Rifugio Calvi
         url: "https://en.wikipedia.org/wiki/Branzi"
         places:
@@ -873,6 +891,7 @@ years:
             country: Italy
         date: 2005-08-06
         date_end: 2005-08-21
+        rating: 4
   - label: 2004
     entries:
       - title: Val Martello

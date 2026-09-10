@@ -313,6 +313,12 @@ San Francisco:
 San Giovanni Rotondo:
   lat: 41.7064
   lng: 15.7277
+Santa Teresa di Gallura:
+  lat: 41.2386
+  lng: 9.1887
+Sardinia:
+  lat: 40.1209
+  lng: 9.0129
 Sicily:
   lat: 37.5999
   lng: 14.0154
@@ -337,6 +343,9 @@ Valencia:
 Valleve:
   lat: 45.9667
   lng: 9.7167
+Vatican City:
+  lat: 41.9029
+  lng: 12.4534
 Westport:
   lat: 53.8008
   lng: -9.5218
