@@ -16,6 +16,9 @@ Asker:
 Assisi:
   lat: 43.0707
   lng: 12.6196
+Avignon:
+  lat: 43.9483
+  lng: 4.8089
 Bangor:
   lat: 54.653
   lng: -5.668
@@ -238,6 +241,9 @@ Meknes:
 Modena:
   lat: 44.6471
   lng: 10.9252
+Monaco:
+  lat: 43.7384
+  lng: 7.4246
 Montpellier:
   lat: 43.6108
   lng: 3.8767
@@ -313,6 +319,9 @@ San Francisco:
 San Giovanni Rotondo:
   lat: 41.7064
   lng: 15.7277
+San Marino:
+  lat: 43.9367
+  lng: 12.4464
 Santa Teresa di Gallura:
   lat: 41.2386
   lng: 9.1887

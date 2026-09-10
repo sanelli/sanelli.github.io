@@ -912,6 +912,31 @@ years:
             country: Italy
         date: 2003-08-01
         rating: 4
+      - title: High School trip
+        url: "https://en.wikipedia.org/wiki/Avignon"
+        places:
+          - name: Avignon
+            url: "https://en.wikipedia.org/wiki/Avignon"
+            country: France
+          - name: Barcelona
+            url: "https://en.wikipedia.org/wiki/Barcelona"
+            country: Spain
+          - name: Monaco
+            url: "https://en.wikipedia.org/wiki/Monaco"
+            country: Monaco
+        date: 2003-05-01
+        rating: 4
+      - title: Olimpiadi Italiane di Informatica
+        url: "https://olimpiadi-informatica.it/"
+        places:
+          - name: Rimini
+            url: "https://en.wikipedia.org/wiki/Rimini"
+            country: Italy
+          - name: San Marino
+            url: "https://en.wikipedia.org/wiki/San_Marino"
+            country: San Marino
+        date: 2003-03-01
+        rating: 4
   - label: 2002
     entries:
       - title: Vipiteno
