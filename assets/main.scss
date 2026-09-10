@@ -2198,6 +2198,7 @@ table.media-table .media-card a {
     max-height: min(70vh, calc(100vh - 6rem));
     margin: 0;
     padding: 0.45em var(--section-rail-pad-x);
+    overflow-x: hidden;
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
     background: color-mix(in srgb, var(--bg-elevated) 68%, transparent);
@@ -2249,7 +2250,7 @@ table.media-table .media-card a {
   }
 
   .section-rail-layout {
-    grid-template-columns: minmax(0, 1fr) 9.5rem;
+    grid-template-columns: minmax(0, 1fr) 11.5rem;
     column-gap: 1.15rem;
   }
 
@@ -2264,12 +2265,13 @@ table.media-table .media-card a {
     position: sticky;
     top: 0.85rem;
     align-self: start;
-    align-items: flex-start;
+    align-items: stretch;
     z-index: 5;
-    width: max-content;
+    width: 100%;
     max-width: 100%;
     max-height: calc(100vh - 1.7rem);
     margin: 0.2em 0 0;
+    overflow-x: hidden;
     overflow-y: auto;
   }
 
@@ -2300,10 +2302,10 @@ table.media-table .media-card a {
 .section-rail a:visited {
   position: relative;
   display: grid;
-  grid-template-columns: var(--section-rail-dot) 1fr;
+  grid-template-columns: var(--section-rail-dot) minmax(0, 1fr);
   column-gap: 0.55em;
   align-items: center;
-  width: auto;
+  width: 100%;
   min-height: 1.85em;
   margin: 0;
   padding: 0.12em 0;
@@ -2312,7 +2314,8 @@ table.media-table .media-card a {
   font-weight: 600;
   line-height: 1.25;
   text-decoration: none;
-  white-space: nowrap;
+  white-space: normal;
+  overflow-wrap: anywhere;
 }
 
 .section-rail-dot {
@@ -2332,6 +2335,7 @@ table.media-table .media-card a {
 .section-rail-label {
   grid-column: 2;
   grid-row: 1;
+  min-width: 0;
 }
 
 .section-rail-toggle {
@@ -2408,7 +2412,7 @@ table.media-table .media-card a {
 @media screen and (max-width: $on-palm) {
   .section-rail a,
   .section-rail a:visited {
-    grid-template-columns: 1fr var(--section-rail-dot);
+    grid-template-columns: minmax(0, 1fr) var(--section-rail-dot);
   }
 
   .section-rail-dot {
