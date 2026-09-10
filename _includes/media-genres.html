@@ -5,16 +5,25 @@
   <span class="media-card-genres-lead">{%- include icon.html name="tag" -%}{% if genres.size == 1 %}Genre{% else %}Genres{% endif %}</span>
   <span class="media-card-genres-list">
     {%- for genre in genres -%}
-    <span class="chip">{{ genre | replace: "-", " " }}</span>
+      {%- assign genre_label = genre | replace: "-", " " -%}
+      {%- assign genre_url = site.data.genre_urls[genre] -%}
+      {%- unless genre_url -%}
+        {%- capture genre_url -%}https://en.wikipedia.org/wiki/Special:Search?search={{ genre_label | uri_escape }}&go=Go{%- endcapture -%}
+      {%- endunless -%}
+    <a class="chip" href="{{ genre_url }}">{{ genre_label }}</a>
     {%- endfor -%}
   </span>
 </p>
 {%- else -%}
 <span class="media-genres">
 {%- for genre in genres -%}
-<span class="chip">{{ genre }}</span>
+  {%- assign genre_label = genre | replace: "-", " " -%}
+  {%- assign genre_url = site.data.genre_urls[genre] -%}
+  {%- unless genre_url -%}
+    {%- capture genre_url -%}https://en.wikipedia.org/wiki/Special:Search?search={{ genre_label | uri_escape }}&go=Go{%- endcapture -%}
+  {%- endunless -%}
+<a class="chip" href="{{ genre_url }}">{{ genre_label }}</a>
 {%- endfor -%}
 </span>
 {%- endif -%}
 {%- endif -%}
-

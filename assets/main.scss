@@ -1471,6 +1471,13 @@ table {
   margin: 0;
   padding: 0.08rem 0.42rem;
   font-size: 0.62rem;
+  text-decoration: none;
+}
+
+.media-genres a.chip:hover {
+  border-color: var(--border-chip-hover);
+  color: var(--text-hover);
+  text-decoration: none;
 }
 
 table.media-table a {
@@ -1930,6 +1937,13 @@ table.media-table .media-card a {
   padding: 0.08rem 0.42rem;
   font-size: 0.62rem;
   line-height: 1.25;
+  text-decoration: none;
+}
+
+.media-card-genres a.chip:hover {
+  border-color: var(--border-chip-hover);
+  color: var(--text-hover);
+  text-decoration: none;
 }
 
 .media-card-genres .icon {

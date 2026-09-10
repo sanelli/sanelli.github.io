@@ -11,7 +11,7 @@ English, first person, plain. No emoji in titles. Do not invent credits, lyrics,
 
 Edit `_data/books.yml`, `music.yml`, `movies.yml`, or `games.yml`. Put the entry in the matching `years` group (`label: YYYY`), **newest date first**. Use `current:` only for in-progress books/games.
 
-Shared fields: `title`, Wikipedia `url` when it exists, `date` (YYYY-MM-DD, the day Stefano finished/listened/watched/played), `rating` (1–5), `year` (work year), `genres` (lowercase; quote keys like `"R&B"`). Optional `cover:` when Wikipedia has no usable page image: a file under `assets/images/covers/` (e.g. `/assets/images/covers/isola-di-arturo.jpg`) or a full `https://` URL. Do not invent covers.
+Shared fields: `title`, Wikipedia `url` when it exists, `date` (YYYY-MM-DD, the day Stefano finished/listened/watched/played), `rating` (1–5), `year` (work year), `genres` (lowercase; quote keys like `"R&B"`). Genre chips link via `_data/genre_urls.yml` (exact key → Wikipedia article); unlisted genres fall back to a Wikipedia search. Optional `cover:` when Wikipedia has no usable page image: a file under `assets/images/covers/` (e.g. `/assets/images/covers/isola-di-arturo.jpg`) or a full `https://` URL. Do not invent covers.
 
 - Books: `authors: [{name, url}]`, `language`. Manga (and other multi-volume series): same `title` for every volume, volume label in `subtitles` (e.g. Sailor Moon, Magic Knight Rayearth). Same title counts as one book in yearly stats.
 - Music: `artists: [{name, url}]`. Mark singles with `subtitles: [Single]` (shown on the list, skipped in yearly stats).
