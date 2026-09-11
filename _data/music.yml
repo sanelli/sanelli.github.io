@@ -1,6 +1,17 @@
 years:
   - label: 2026
     entries:
+      - title: Crossroads
+        url: "https://en.wikipedia.org/wiki/Crossroads_(Tracy_Chapman_album)"
+        date: 2026-09-11
+        rating: 4
+        artists:
+          - name: Tracy Chapman
+            url: "https://en.wikipedia.org/wiki/Tracy_Chapman"
+        year: 1989
+        genres:
+          - contemporary folk
+          - folk rock
       - title: Tracy Chapman
         url: "https://en.wikipedia.org/wiki/Tracy_Chapman_(album)"
         date: 2026-09-10
