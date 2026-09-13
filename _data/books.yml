@@ -1,13 +1,16 @@
 current:
-  - title: The Commitments
-    url: "https://en.wikipedia.org/wiki/The_Commitments_(novel)"
+  - title: I lupi del Calla
+    url: "https://en.wikipedia.org/wiki/The_Dark_Tower_V:_Wolves_of_the_Calla"
+    subtitles:
+      - "The Dark Tower V: Wolves of the Calla"
     authors:
-      - name: Roddy Doyle
-        url: "https://en.wikipedia.org/wiki/Roddy_Doyle"
-    language: English
-    year: 1987
+      - name: Stephen King
+        url: "https://en.wikipedia.org/wiki/Stephen_King"
+    language: Italian
+    year: 2003
     genres:
-      - comedy
+      - dark fantasy
+      - science fiction
   - title: Hands-On Large Language Models
     cover: /assets/images/covers/hands-on-large-language-models.png
     url: "https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/"
@@ -24,6 +27,17 @@ current:
 years:
   - label: 2026
     entries:
+      - title: The Commitments
+        url: "https://en.wikipedia.org/wiki/The_Commitments_(novel)"
+        date: 2026-09-13
+        rating: 5
+        authors:
+          - name: Roddy Doyle
+            url: "https://en.wikipedia.org/wiki/Roddy_Doyle"
+        language: English
+        year: 1987
+        genres:
+          - comedy
       - title: Sodomie in corpo 11
         cover: /assets/images/covers/sodomie-in-corpo-11.png
         url: "https://it.wikipedia.org/wiki/Sodomie_in_corpo_11"
