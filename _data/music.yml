@@ -1,6 +1,19 @@
 years:
   - label: 2026
     entries:
+      - title: Absolution
+        url: "https://en.wikipedia.org/wiki/Absolution_(album)"
+        date: 2026-09-14
+        rating: 3
+        artists:
+          - name: Muse
+            url: "https://en.wikipedia.org/wiki/Muse_(band)"
+        year: 2003
+        genres:
+          - alternative rock
+          - progressive rock
+          - art rock
+          - hard rock
       - title: Crossroads
         url: "https://en.wikipedia.org/wiki/Crossroads_(Tracy_Chapman_album)"
         date: 2026-09-11
