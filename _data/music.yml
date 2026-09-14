@@ -14,6 +14,17 @@ years:
           - progressive rock
           - art rock
           - hard rock
+      - title: Non so ballare
+        url: "https://en.wikipedia.org/wiki/Non_so_ballare"
+        date: 2026-09-14
+        rating: 3
+        artists:
+          - name: Annalisa
+            url: "https://en.wikipedia.org/wiki/Annalisa"
+        year: 2013
+        genres:
+          - pop
+          - jazz
       - title: Crossroads
         url: "https://en.wikipedia.org/wiki/Crossroads_(Tracy_Chapman_album)"
         date: 2026-09-11
