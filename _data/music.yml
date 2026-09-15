@@ -1,6 +1,16 @@
 years:
   - label: 2026
     entries:
+      - title: Tongue Tied
+        date: 2026-09-15
+        rating: 4
+        artists:
+          - name: Earl
+            url: "https://en.wikipedia.org/wiki/Kate_Earl"
+        year: 2017
+        genres:
+          - pop
+          - electro swing
       - title: Absolution
         url: "https://en.wikipedia.org/wiki/Absolution_(album)"
         date: 2026-09-14
