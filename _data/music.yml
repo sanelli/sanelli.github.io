@@ -1,6 +1,17 @@
 years:
   - label: 2026
     entries:
+      - title: "Mr. Bad Guy"
+        url: "https://en.wikipedia.org/wiki/Mr._Bad_Guy"
+        date: 2026-09-16
+        rating: 3
+        artists:
+          - name: Freddie Mercury
+            url: "https://en.wikipedia.org/wiki/Freddie_Mercury"
+        year: 1985
+        genres:
+          - synth-pop
+          - post-disco
       - title: Tongue Tied
         date: 2026-09-15
         rating: 4
