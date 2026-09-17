@@ -1,0 +1,55 @@
+<script type="application/json" id="stats-release-data">[
+{%- assign first_entry = true -%}
+{%- for group in site.data.books.years -%}
+  {%- for entry in group.entries -%}
+    {%- unless entry.year -%}{%- continue -%}{%- endunless -%}
+    {%- unless first_entry -%},{%- endunless -%}{%- assign first_entry = false -%}
+    {"kind":"Books","year":{{ entry.year }},"title":{{ entry.title | jsonify }}{%- if entry.subtitles -%},"subtitles":{{ entry.subtitles | jsonify }}{%- endif -%},"unique":"title"}
+  {%- endfor -%}
+{%- endfor -%}
+{%- for group in site.data.music.years -%}
+  {%- for entry in group.entries -%}
+    {%- unless entry.year -%}{%- continue -%}{%- endunless -%}
+    {%- if entry.subtitles and entry.subtitles contains "Single" -%}{%- continue -%}{%- endif -%}
+    {%- unless first_entry -%},{%- endunless -%}{%- assign first_entry = false -%}
+    {"kind":"Music","year":{{ entry.year }},"title":{{ entry.title | jsonify }}{%- if entry.subtitles -%},"subtitles":{{ entry.subtitles | jsonify }}{%- endif -%}}
+  {%- endfor -%}
+{%- endfor -%}
+{%- for group in site.data.games.years -%}
+  {%- for entry in group.entries -%}
+    {%- unless entry.year -%}{%- continue -%}{%- endunless -%}
+    {%- unless first_entry -%},{%- endunless -%}{%- assign first_entry = false -%}
+    {"kind":"Games","year":{{ entry.year }},"title":{{ entry.title | jsonify }}{%- if entry.subtitles -%},"subtitles":{{ entry.subtitles | jsonify }}{%- endif -%},"unique":"title"}
+  {%- endfor -%}
+{%- endfor -%}
+{%- for group in site.data.movies.years -%}
+  {%- for entry in group.entries -%}
+    {%- unless entry.year -%}{%- continue -%}{%- endunless -%}
+    {%- unless first_entry -%},{%- endunless -%}{%- assign first_entry = false -%}
+    {"kind":"Movies","year":{{ entry.year }},"title":{{ entry.title | jsonify }}{%- if entry.subtitles -%},"subtitles":{{ entry.subtitles | jsonify }}{%- endif -%}}
+  {%- endfor -%}
+{%- endfor -%}
+]</script>
+
+<h2 class="stats-release-heading">Release years</h2>
+<div class="stats-chart-wrap stats-chart-wrap--release" data-stats-release-chart>
+  <figure class="stats-chart" aria-labelledby="stats-release-chart-caption">
+    <div class="stats-chart-header">
+      <figcaption id="stats-release-chart-caption" class="stats-chart-caption">Counts by work release year</figcaption>
+      <label class="stats-chart-group">
+        <span class="stats-chart-group-label">Group by</span>
+        <select class="stats-chart-group-select" data-stats-release-group aria-label="Group release years">
+          <option value="1">1 year</option>
+          <option value="5" selected>5 years</option>
+          <option value="10">10 years</option>
+          <option value="25">25 years</option>
+          <option value="50">50 years</option>
+        </select>
+      </label>
+    </div>
+    <div class="stats-chart-scroll">
+      <div class="stats-chart-canvas stats-chart-canvas--bars" role="img" aria-label="Stacked bar chart of books, music, games, and movies by release year"></div>
+    </div>
+    <ul class="stats-chart-legend" aria-label="Toggle categories"></ul>
+  </figure>
+</div>

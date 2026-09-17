@@ -13,8 +13,16 @@
 {%- assign travels_total = 0 -%}
 {%- assign posts_total = 0 -%}
 
+<div class="stats-chart-wrap" data-stats-chart>
+  <figure class="stats-chart" aria-labelledby="stats-chart-caption">
+    <figcaption id="stats-chart-caption" class="stats-chart-caption">Yearly counts</figcaption>
+    <div class="stats-chart-canvas" role="img" aria-label="Line chart of yearly counts by category"></div>
+    <ul class="stats-chart-legend" aria-label="Toggle categories"></ul>
+  </figure>
+</div>
+
 <div class="media-table-wrap">
-<table class="stats-table">
+<table class="stats-table" data-stats-table>
   <thead>
     <tr>
       <th>Year</th>

@@ -34,6 +34,10 @@
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
     <script src="{{ '/assets/js/stats-countries-map.js' | relative_url }}"></script>
     {%- endif -%}
+    {%- if page.stats_chart -%}
+    <script src="{{ '/assets/js/stats-chart.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/stats-release-chart.js' | relative_url }}"></script>
+    {%- endif -%}
     {%- if page.lightbox -%}
     <script src="{{ '/assets/js/lightbox.js' | relative_url }}"></script>
     {%- endif -%}
