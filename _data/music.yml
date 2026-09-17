@@ -1,6 +1,22 @@
 years:
   - label: 2026
     entries:
+      - title: Disco Paradise
+        url: "https://en.wikipedia.org/wiki/Disco_Paradise"
+        subtitles:
+          - Single
+        date: 2026-09-17
+        rating: 5
+        artists:
+          - name: Annalisa
+            url: "https://en.wikipedia.org/wiki/Annalisa"
+          - name: Fedez
+            url: "https://en.wikipedia.org/wiki/Fedez"
+          - name: Articolo 31
+            url: "https://en.wikipedia.org/wiki/Articolo_31"
+        year: 2023
+        genres:
+          - dance-pop
       - title: "Body Talk Pt. 1"
         url: "https://en.wikipedia.org/wiki/Body_Talk_Pt._1"
         date: 2026-09-17
