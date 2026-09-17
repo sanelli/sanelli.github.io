@@ -12,6 +12,18 @@ years:
         genres:
           - synth-pop
           - dance-pop
+      - title: "25"
+        url: "https://en.wikipedia.org/wiki/25_(Adele_album)"
+        date: 2026-09-17
+        rating: 4
+        artists:
+          - name: Adele
+            url: "https://en.wikipedia.org/wiki/Adele"
+        year: 2015
+        genres:
+          - pop
+          - soul
+          - British pop
       - title: "Mr. Bad Guy"
         url: "https://en.wikipedia.org/wiki/Mr._Bad_Guy"
         date: 2026-09-16
