@@ -8,7 +8,7 @@
 {%- include_cached media-toolbar.html -%}
 <p class="home-stats-link"><a href="{{ '/stats/' | relative_url }}">Stats for nerds</a></p>
 </div>
-<nav class="section-rail" data-section-rail aria-label="Years">
+<nav class="section-rail" data-section-rail data-section-rail-collapsible aria-label="Years">
   {%- if data.current and data.current.size > 0 and include.current_heading -%}
   {%- assign current_id = include.current_heading | slugify | prepend: "section-" -%}
   {% include section-rail-link.html id=current_id label=include.current_heading %}
