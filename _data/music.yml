@@ -17,6 +17,17 @@ years:
         year: 2023
         genres:
           - dance-pop
+      - title: di20are
+        url: "https://en.wikipedia.org/wiki/di20"
+        date: 2026-09-17
+        rating: 4
+        artists:
+          - name: Francesca Michielin
+            url: "https://en.wikipedia.org/wiki/Francesca_Michielin"
+        year: 2016
+        genres:
+          - pop
+          - synth-pop
       - title: "Body Talk Pt. 1"
         url: "https://en.wikipedia.org/wiki/Body_Talk_Pt._1"
         date: 2026-09-17
