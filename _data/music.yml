@@ -1,6 +1,18 @@
 years:
   - label: 2026
     entries:
+      - title: Comunisti col Rolex
+        url: "https://en.wikipedia.org/wiki/Comunisti_col_Rolex"
+        date: 2026-09-21
+        rating: 3
+        artists:
+          - name: J-Ax
+            url: "https://en.wikipedia.org/wiki/J-Ax"
+          - name: Fedez
+            url: "https://en.wikipedia.org/wiki/Fedez"
+        year: 2017
+        genres:
+          - pop rap
       - title: di20are
         url: "https://en.wikipedia.org/wiki/di20"
         date: 2026-09-17
