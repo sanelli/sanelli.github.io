@@ -1,6 +1,18 @@
 years:
   - label: 2026
     entries:
+      - title: Bitter Sweet Symphony
+        url: "https://en.wikipedia.org/wiki/Bitter_Sweet_Symphony"
+        date: 2026-09-24
+        rating: 3
+        artists:
+          - name: The Verve
+            url: "https://en.wikipedia.org/wiki/The_Verve"
+        year: 1997
+        genres:
+          - britpop
+          - alternative rock
+          - pop rock
       - title: Comunisti col Rolex
         url: "https://en.wikipedia.org/wiki/Comunisti_col_Rolex"
         date: 2026-09-21
