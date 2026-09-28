@@ -1,6 +1,20 @@
 years:
   - label: 2026
     entries:
+      - title: "Somethin' Stupid"
+        url: "https://en.wikipedia.org/wiki/Somethin%27_Stupid"
+        subtitles:
+          - Single
+        date: 2026-09-28
+        rating: 5
+        artists:
+          - name: Robbie Williams
+            url: "https://en.wikipedia.org/wiki/Robbie_Williams"
+          - name: Nicole Kidman
+            url: "https://en.wikipedia.org/wiki/Nicole_Kidman"
+        year: 2001
+        genres:
+          - orchestral pop
       - title: Bitter Sweet Symphony
         url: "https://en.wikipedia.org/wiki/Bitter_Sweet_Symphony"
         date: 2026-09-24
