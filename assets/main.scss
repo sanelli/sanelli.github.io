@@ -793,8 +793,9 @@ table {
     max-width: calc(890px - 30px * 2 + 9.5rem + 1.15rem);
   }
 
-  // Music has no year rail; keep the card column as wide as books/movies/games.
-  body:has(.section-rail-layout[data-month-page-size]) .page-content .wrapper {
+  // Music/travels/books have no year rail; keep the card column as wide as books/movies/games.
+  body:has(.section-rail-layout[data-month-page-size]) .page-content .wrapper,
+  body:has(.section-rail-layout[data-year-page-size]) .page-content .wrapper {
     max-width: calc(890px - 30px * 2 - 2rem);
   }
 }

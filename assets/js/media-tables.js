@@ -1,8 +1,9 @@
 (function () {
-  var monthPage = 0;
-  var months = [];
-  var monthPageSize = 0;
-  var monthPagination = null;
+  var pageIndex = 0;
+  var pageUnits = [];
+  var pageSize = 0;
+  var pageMode = ""; // "month" | "year"
+  var pagePagination = null;
 
   function refreshMonthBreaks() {
     Array.prototype.forEach.call(document.querySelectorAll("table.media-table--month-gaps"), function (table) {
@@ -32,39 +33,61 @@
     return date.toLocaleString("en-US", { month: "long", year: "numeric" });
   }
 
-  function collectMonths() {
+  function formatUnitLabel(unit) {
+    if (pageMode === "year") return unit;
+    return formatMonthLabel(unit);
+  }
+
+  function rowUnit(row) {
+    var month = row.getAttribute("data-month") || "";
+    if (!month) return "";
+    if (pageMode === "year") return month.slice(0, 4);
+    return month;
+  }
+
+  function collectPageUnits() {
     var seen = {};
     Array.prototype.forEach.call(document.querySelectorAll("tr.media-row[data-month]"), function (row) {
-      var month = row.getAttribute("data-month") || "";
-      if (month) seen[month] = true;
+      var unit = rowUnit(row);
+      if (unit) seen[unit] = true;
     });
-    months = Object.keys(seen).sort().reverse();
+    pageUnits = Object.keys(seen).sort().reverse();
   }
 
   function pageCount() {
-    if (!monthPageSize || !months.length) return 0;
-    return Math.ceil(months.length / monthPageSize);
+    if (!pageSize || !pageUnits.length) return 0;
+    return Math.ceil(pageUnits.length / pageSize);
   }
 
-  function monthsForPage() {
-    if (!monthPageSize) return months;
-    var start = monthPage * monthPageSize;
-    return months.slice(start, start + monthPageSize);
+  function unitsForPage() {
+    if (!pageSize) return pageUnits;
+    var start = pageIndex * pageSize;
+    return pageUnits.slice(start, start + pageSize);
   }
 
-  function ensureMonthPagination() {
-    if (!monthPageSize || monthPagination) return;
-    var layout = document.querySelector(".section-rail-layout[data-month-page-size]");
+  function paginationLayout() {
+    if (pageMode === "month") {
+      return document.querySelector(".section-rail-layout[data-month-page-size]");
+    }
+    if (pageMode === "year") {
+      return document.querySelector(".section-rail-layout[data-year-page-size]");
+    }
+    return null;
+  }
+
+  function ensurePagePagination() {
+    if (!pageSize || pagePagination) return;
+    var layout = paginationLayout();
     if (!layout) return;
 
     var nav = document.createElement("nav");
-    nav.className = "pagination media-month-pagination";
-    nav.setAttribute("aria-label", "Months");
+    nav.className = "pagination media-page-pagination";
+    nav.setAttribute("aria-label", pageMode === "year" ? "Years" : "Months");
     nav.hidden = true;
     nav.innerHTML =
-      '<button type="button" class="pagination-link" data-month-dir="newer">Newer</button>' +
-      '<span class="pagination-pages"><span class="pagination-status" data-month-status></span></span>' +
-      '<button type="button" class="pagination-link" data-month-dir="older">Older</button>';
+      '<button type="button" class="pagination-link" data-page-dir="newer">Newer</button>' +
+      '<span class="pagination-pages"><span class="pagination-status" data-page-status></span></span>' +
+      '<button type="button" class="pagination-link" data-page-dir="older">Older</button>';
 
     var main = layout.querySelector(".section-rail-main");
     if (main) {
@@ -74,50 +97,50 @@
     }
 
     nav.addEventListener("click", function (event) {
-      var button = event.target.closest("[data-month-dir]");
+      var button = event.target.closest("[data-page-dir]");
       if (!button || button.disabled || button.classList.contains("pagination-link--disabled")) return;
-      var dir = button.getAttribute("data-month-dir");
+      var dir = button.getAttribute("data-page-dir");
       var total = pageCount();
-      if (dir === "older" && monthPage < total - 1) monthPage += 1;
-      if (dir === "newer" && monthPage > 0) monthPage -= 1;
+      if (dir === "older" && pageIndex < total - 1) pageIndex += 1;
+      if (dir === "newer" && pageIndex > 0) pageIndex -= 1;
       applyFilters();
       window.scrollTo({ top: 0, behavior: "smooth" });
     });
 
-    monthPagination = nav;
+    pagePagination = nav;
   }
 
-  function updateMonthPagination(filtering) {
-    ensureMonthPagination();
-    if (!monthPagination) return;
+  function updatePagePagination(filtering) {
+    ensurePagePagination();
+    if (!pagePagination) return;
 
     var total = pageCount();
-    var show = monthPageSize > 0 && !filtering && total > 1;
-    monthPagination.hidden = !show;
+    var show = pageSize > 0 && !filtering && total > 1;
+    pagePagination.hidden = !show;
     if (!show) return;
 
-    var pageMonths = monthsForPage();
-    var status = monthPagination.querySelector("[data-month-status]");
+    var currentUnits = unitsForPage();
+    var status = pagePagination.querySelector("[data-page-status]");
     if (status) {
-      if (pageMonths.length === 0) {
+      if (currentUnits.length === 0) {
         status.textContent = "";
-      } else if (pageMonths.length === 1) {
-        status.textContent = formatMonthLabel(pageMonths[0]);
+      } else if (currentUnits.length === 1) {
+        status.textContent = formatUnitLabel(currentUnits[0]);
       } else {
         status.textContent =
-          formatMonthLabel(pageMonths[0]) + " – " + formatMonthLabel(pageMonths[pageMonths.length - 1]);
+          formatUnitLabel(currentUnits[0]) + " – " + formatUnitLabel(currentUnits[currentUnits.length - 1]);
       }
     }
 
-    var newer = monthPagination.querySelector('[data-month-dir="newer"]');
-    var older = monthPagination.querySelector('[data-month-dir="older"]');
+    var newer = pagePagination.querySelector('[data-page-dir="newer"]');
+    var older = pagePagination.querySelector('[data-page-dir="older"]');
     if (newer) {
-      newer.disabled = monthPage <= 0;
-      newer.classList.toggle("pagination-link--disabled", monthPage <= 0);
+      newer.disabled = pageIndex <= 0;
+      newer.classList.toggle("pagination-link--disabled", pageIndex <= 0);
     }
     if (older) {
-      older.disabled = monthPage >= total - 1;
-      older.classList.toggle("pagination-link--disabled", monthPage >= total - 1);
+      older.disabled = pageIndex >= total - 1;
+      older.classList.toggle("pagination-link--disabled", pageIndex >= total - 1);
     }
   }
 
@@ -204,24 +227,32 @@
     var filtering = Boolean(query || ratings.length);
     var visible = 0;
     var total = 0;
-    var allowedMonths = null;
+    var allowedUnits = null;
 
-    if (monthPageSize > 0) {
-      if (filtering) monthPage = 0;
-      allowedMonths = filtering ? null : monthsForPage();
+    if (pageSize > 0) {
+      if (filtering) pageIndex = 0;
+      allowedUnits = filtering ? null : unitsForPage();
     }
 
     Array.prototype.forEach.call(document.querySelectorAll(".media-section"), function (section) {
       var anyVisible = false;
+      var isCurrentSection = section.classList.contains("media-section--current");
       Array.prototype.forEach.call(section.querySelectorAll("tr.media-row"), function (row) {
         total += 1;
         var haystack = (row.getAttribute("data-search") || "").toLowerCase();
         var rating = parseInt(row.getAttribute("data-rating") || "", 10);
-        var month = row.getAttribute("data-month") || "";
+        var unit = rowUnit(row);
         var matchesQuery = !query || haystack.indexOf(query) !== -1;
         var matchesRating = !ratings.length || (!isNaN(rating) && ratings.indexOf(rating) !== -1);
-        var matchesMonth = !allowedMonths || (month && allowedMonths.indexOf(month) !== -1);
-        var show = matchesQuery && matchesRating && matchesMonth;
+        var matchesPage = true;
+        if (allowedUnits) {
+          if (isCurrentSection) {
+            matchesPage = pageIndex === 0;
+          } else {
+            matchesPage = Boolean(unit && allowedUnits.indexOf(unit) !== -1);
+          }
+        }
+        var show = matchesQuery && matchesRating && matchesPage;
         row.hidden = !show;
         if (show) {
           anyVisible = true;
@@ -236,7 +267,7 @@
       status.textContent = filtering ? visible + " of " + total + " rows match." : "";
     }
 
-    updateMonthPagination(filtering);
+    updatePagePagination(filtering);
     refreshMonthBreaks();
     notifyVisibilityChange();
     if (typeof window.applyTravelsMapFilter === "function") {
@@ -247,18 +278,23 @@
   window.getMediaRatingFilter = selectedRatings;
 
   document.addEventListener("DOMContentLoaded", function () {
-    var layout = document.querySelector(".section-rail-layout[data-month-page-size]");
-    if (layout) {
-      monthPageSize = parseInt(layout.getAttribute("data-month-page-size") || "", 10) || 0;
-      if (monthPageSize > 0) collectMonths();
+    var monthLayout = document.querySelector(".section-rail-layout[data-month-page-size]");
+    var yearLayout = document.querySelector(".section-rail-layout[data-year-page-size]");
+    if (monthLayout) {
+      pageMode = "month";
+      pageSize = parseInt(monthLayout.getAttribute("data-month-page-size") || "", 10) || 0;
+    } else if (yearLayout) {
+      pageMode = "year";
+      pageSize = parseInt(yearLayout.getAttribute("data-year-page-size") || "", 10) || 0;
     }
+    if (pageSize > 0) collectPageUnits();
 
     var searchInput = document.querySelector(".media-search");
     if (searchInput) searchInput.addEventListener("input", applyFilters);
     initRatingCombo();
     observeCovers();
 
-    if (monthPageSize > 0) applyFilters();
+    if (pageSize > 0) applyFilters();
   });
 
   function wikiImageEndpoint(pageUrl) {

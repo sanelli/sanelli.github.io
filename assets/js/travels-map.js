@@ -187,6 +187,7 @@
             .filter(function (value) {
               return !isNaN(value);
             });
+    // Pagination may hide list rows; only search/rating should shrink the map.
     var filtered = Boolean(query || ratings.length);
     var visiblePlaces = Object.create(null);
 

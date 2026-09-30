@@ -41,6 +41,10 @@
   </div>
   {%- if include.kind == "music" -%}
   <p class="media-toolbar-hint">Showing the latest two months. Search or rating shows matches across every year.</p>
+  {%- elsif include.kind == "travels" -%}
+  <p class="media-toolbar-hint">Showing the latest five years. Search or rating shows matches across every year. The map always shows every trip unless you filter.</p>
+  {%- elsif include.kind == "books" -%}
+  <p class="media-toolbar-hint">Showing currently reading plus the latest two years. Search or rating shows matches across every year.</p>
   {%- else -%}
   <p class="media-toolbar-hint">Search and rating apply across every year.</p>
   {%- endif -%}
