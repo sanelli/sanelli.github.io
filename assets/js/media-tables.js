@@ -4,6 +4,7 @@
   var pageSize = 0;
   var pageMode = ""; // "month" | "year"
   var pagePagination = null;
+  var hasBacklogPage = false;
 
   function refreshMonthBreaks() {
     Array.prototype.forEach.call(document.querySelectorAll("table.media-table--month-gaps"), function (table) {
@@ -34,7 +35,12 @@
   }
 
   function formatUnitLabel(unit) {
-    if (pageMode === "year") return unit;
+    if (pageMode === "year") {
+      var section = document.getElementById("year-" + unit);
+      var heading = section && section.querySelector("h2");
+      if (heading) return heading.textContent.trim();
+      return unit;
+    }
     return formatMonthLabel(unit);
   }
 
@@ -46,6 +52,19 @@
   }
 
   function collectPageUnits() {
+    if (pageMode === "year") {
+      var numeric = [];
+      var other = [];
+      Array.prototype.forEach.call(document.querySelectorAll(".media-section[id^='year-']"), function (section) {
+        var label = section.id.replace(/^year-/, "");
+        if (!label || label === "backlog") return;
+        if (/^\d{4}$/.test(label)) numeric.push(label);
+        else other.push(label);
+      });
+      pageUnits = numeric.sort().reverse().concat(other.sort());
+      return;
+    }
+
     var seen = {};
     Array.prototype.forEach.call(document.querySelectorAll("tr.media-row[data-month]"), function (row) {
       var unit = rowUnit(row);
@@ -54,13 +73,29 @@
     pageUnits = Object.keys(seen).sort().reverse();
   }
 
-  function pageCount() {
+  function sectionUnit(section) {
+    var id = section.id || "";
+    if (id.indexOf("year-") === 0) return id.slice(5);
+    return "";
+  }
+
+  function yearPageCount() {
     if (!pageSize || !pageUnits.length) return 0;
     return Math.ceil(pageUnits.length / pageSize);
   }
 
+  function pageCount() {
+    var years = yearPageCount();
+    if (!years && !hasBacklogPage) return 0;
+    return years + (hasBacklogPage ? 1 : 0);
+  }
+
+  function isBacklogPage() {
+    return hasBacklogPage && pageIndex === pageCount() - 1;
+  }
+
   function unitsForPage() {
-    if (!pageSize) return pageUnits;
+    if (!pageSize || isBacklogPage()) return [];
     var start = pageIndex * pageSize;
     return pageUnits.slice(start, start + pageSize);
   }
@@ -76,7 +111,7 @@
   }
 
   function ensurePagePagination() {
-    if (!pageSize || pagePagination) return;
+    if ((!pageSize && !hasBacklogPage) || pagePagination) return;
     var layout = paginationLayout();
     if (!layout) return;
 
@@ -115,20 +150,24 @@
     if (!pagePagination) return;
 
     var total = pageCount();
-    var show = pageSize > 0 && !filtering && total > 1;
+    var show = (pageSize > 0 || hasBacklogPage) && !filtering && total > 1;
     pagePagination.hidden = !show;
     if (!show) return;
 
-    var currentUnits = unitsForPage();
     var status = pagePagination.querySelector("[data-page-status]");
     if (status) {
-      if (currentUnits.length === 0) {
-        status.textContent = "";
-      } else if (currentUnits.length === 1) {
-        status.textContent = formatUnitLabel(currentUnits[0]);
+      if (isBacklogPage()) {
+        status.textContent = "Backlog";
       } else {
-        status.textContent =
-          formatUnitLabel(currentUnits[0]) + " – " + formatUnitLabel(currentUnits[currentUnits.length - 1]);
+        var currentUnits = unitsForPage();
+        if (currentUnits.length === 0) {
+          status.textContent = "";
+        } else if (currentUnits.length === 1) {
+          status.textContent = formatUnitLabel(currentUnits[0]);
+        } else {
+          status.textContent =
+            formatUnitLabel(currentUnits[0]) + " – " + formatUnitLabel(currentUnits[currentUnits.length - 1]);
+        }
       }
     }
 
@@ -227,16 +266,22 @@
     var filtering = Boolean(query || ratings.length);
     var visible = 0;
     var total = 0;
-    var allowedUnits = null;
+    var pageView = null;
 
-    if (pageSize > 0) {
-      if (filtering) pageIndex = 0;
-      allowedUnits = filtering ? null : unitsForPage();
+    if (filtering) pageIndex = 0;
+
+    if ((pageSize > 0 || hasBacklogPage) && !filtering) {
+      if (isBacklogPage()) {
+        pageView = { type: "backlog" };
+      } else if (pageSize > 0) {
+        pageView = { type: "years", units: unitsForPage() };
+      }
     }
 
     Array.prototype.forEach.call(document.querySelectorAll(".media-section"), function (section) {
       var anyVisible = false;
       var isCurrentSection = section.classList.contains("media-section--current");
+      var isBacklogSection = section.id === "section-backlog";
       Array.prototype.forEach.call(section.querySelectorAll("tr.media-row"), function (row) {
         total += 1;
         var haystack = (row.getAttribute("data-search") || "").toLowerCase();
@@ -245,11 +290,18 @@
         var matchesQuery = !query || haystack.indexOf(query) !== -1;
         var matchesRating = !ratings.length || (!isNaN(rating) && ratings.indexOf(rating) !== -1);
         var matchesPage = true;
-        if (allowedUnits) {
-          if (isCurrentSection) {
+        if (pageView) {
+          if (pageView.type === "backlog") {
+            matchesPage = isBacklogSection;
+          } else if (isBacklogSection) {
+            matchesPage = false;
+          } else if (isCurrentSection) {
             matchesPage = pageIndex === 0;
+          } else if (pageMode === "year") {
+            var year = sectionUnit(section);
+            matchesPage = Boolean(year && pageView.units.indexOf(year) !== -1);
           } else {
-            matchesPage = Boolean(unit && allowedUnits.indexOf(unit) !== -1);
+            matchesPage = Boolean(unit && pageView.units.indexOf(unit) !== -1);
           }
         }
         var show = matchesQuery && matchesRating && matchesPage;
@@ -287,6 +339,7 @@
       pageMode = "year";
       pageSize = parseInt(yearLayout.getAttribute("data-year-page-size") || "", 10) || 0;
     }
+    hasBacklogPage = Boolean(document.getElementById("section-backlog"));
     if (pageSize > 0) collectPageUnits();
 
     var searchInput = document.querySelector(".media-search");
@@ -294,7 +347,7 @@
     initRatingCombo();
     observeCovers();
 
-    if (pageSize > 0) applyFilters();
+    if (pageSize > 0 || hasBacklogPage) applyFilters();
   });
 
   function wikiImageEndpoint(pageUrl) {

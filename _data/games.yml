@@ -761,6 +761,21 @@ years:
           - kart racing
 
 backlog:
+  - title: "Castlevania: Belmont's Curse"
+    url: "https://en.wikipedia.org/wiki/Castlevania:_Belmont%27s_Curse"
+    developers:
+      - name: Evil Empire
+        url: "https://en.wikipedia.org/wiki/Evil_Empire_(company)"
+    publishers:
+      - name: Konami
+        url: "https://en.wikipedia.org/wiki/Konami"
+    console:
+      name: Nintendo Switch
+      url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+    year: 2026
+    genres:
+      - action-adventure
+      - metroidvania
   - title: Cyberpunk 2077
     url: "https://en.wikipedia.org/wiki/Cyberpunk_2077"
     developers:

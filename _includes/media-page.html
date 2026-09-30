@@ -1,8 +1,8 @@
 {%- assign kind = include.kind -%}
 {%- assign data = site.data[kind] -%}
 {%- assign show_year_rail = true -%}
-{%- if kind == "music" or kind == "travels" or kind == "books" -%}{%- assign show_year_rail = false -%}{%- endif -%}
-<div class="section-rail-layout"{% if kind == "music" %} data-month-page-size="2"{% elsif kind == "travels" %} data-year-page-size="5"{% elsif kind == "books" %} data-year-page-size="2"{% endif %}>
+{%- if kind == "music" or kind == "travels" or kind == "books" or kind == "games" -%}{%- assign show_year_rail = false -%}{%- endif -%}
+<div class="section-rail-layout"{% if kind == "music" %} data-month-page-size="2"{% elsif kind == "travels" %} data-year-page-size="5"{% elsif kind == "books" %} data-year-page-size="2"{% elsif kind == "games" %} data-year-page-size="5"{% endif %}>
 <div class="media-lead">
 {%- if kind == "travels" -%}
 {%- include travels-map.html -%}
