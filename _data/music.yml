@@ -1,6 +1,16 @@
 years:
   - label: 2026
     entries:
+      - title: "19"
+        url: "https://en.wikipedia.org/wiki/19_(Adele_album)"
+        date: 2026-09-30
+        rating: 3
+        artists:
+          - name: Adele
+            url: "https://en.wikipedia.org/wiki/Adele"
+        year: 2008
+        genres:
+          - blue-eyed soul
       - title: Laura Pausini
         url: "https://en.wikipedia.org/wiki/Laura_Pausini_(1993_album)"
         date: 2026-09-29
