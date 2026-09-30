@@ -761,6 +761,21 @@ years:
           - kart racing
 
 backlog:
+  - title: Guacamelee!
+    url: "https://en.wikipedia.org/wiki/Guacamelee!"
+    developers:
+      - name: DrinkBox Studios
+        url: "https://en.wikipedia.org/wiki/DrinkBox_Studios"
+    publishers:
+      - name: DrinkBox Studios
+        url: "https://en.wikipedia.org/wiki/DrinkBox_Studios"
+    console:
+      name: Nintendo Switch
+      url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+    year: 2013
+    genres:
+      - metroidvania
+      - platformer
   - title: "Castlevania: Belmont's Curse"
     url: "https://en.wikipedia.org/wiki/Castlevania:_Belmont%27s_Curse"
     developers:

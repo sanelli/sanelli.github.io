@@ -120,9 +120,15 @@
     nav.setAttribute("aria-label", pageMode === "year" ? "Years" : "Months");
     nav.hidden = true;
     nav.innerHTML =
+      '<span class="pagination-nav-group">' +
+      '<button type="button" class="pagination-link" data-page-dir="first">First</button>' +
       '<button type="button" class="pagination-link" data-page-dir="newer">Newer</button>' +
+      "</span>" +
       '<span class="pagination-pages"><span class="pagination-status" data-page-status></span></span>' +
-      '<button type="button" class="pagination-link" data-page-dir="older">Older</button>';
+      '<span class="pagination-nav-group">' +
+      '<button type="button" class="pagination-link" data-page-dir="older">Older</button>' +
+      '<button type="button" class="pagination-link" data-page-dir="last">Last</button>' +
+      "</span>";
 
     var main = layout.querySelector(".section-rail-main");
     if (main) {
@@ -136,8 +142,11 @@
       if (!button || button.disabled || button.classList.contains("pagination-link--disabled")) return;
       var dir = button.getAttribute("data-page-dir");
       var total = pageCount();
-      if (dir === "older" && pageIndex < total - 1) pageIndex += 1;
-      if (dir === "newer" && pageIndex > 0) pageIndex -= 1;
+      if (dir === "first") pageIndex = 0;
+      else if (dir === "last") pageIndex = Math.max(0, total - 1);
+      else if (dir === "older" && pageIndex < total - 1) pageIndex += 1;
+      else if (dir === "newer" && pageIndex > 0) pageIndex -= 1;
+      else return;
       applyFilters();
       window.scrollTo({ top: 0, behavior: "smooth" });
     });
@@ -171,16 +180,19 @@
       }
     }
 
-    var newer = pagePagination.querySelector('[data-page-dir="newer"]');
-    var older = pagePagination.querySelector('[data-page-dir="older"]');
-    if (newer) {
-      newer.disabled = pageIndex <= 0;
-      newer.classList.toggle("pagination-link--disabled", pageIndex <= 0);
-    }
-    if (older) {
-      older.disabled = pageIndex >= total - 1;
-      older.classList.toggle("pagination-link--disabled", pageIndex >= total - 1);
-    }
+    var atFirst = pageIndex <= 0;
+    var atLast = pageIndex >= total - 1;
+    [
+      ['[data-page-dir="first"]', atFirst],
+      ['[data-page-dir="newer"]', atFirst],
+      ['[data-page-dir="older"]', atLast],
+      ['[data-page-dir="last"]', atLast]
+    ].forEach(function (entry) {
+      var button = pagePagination.querySelector(entry[0]);
+      if (!button) return;
+      button.disabled = entry[1];
+      button.classList.toggle("pagination-link--disabled", entry[1]);
+    });
   }
 
   function selectedRatings() {
