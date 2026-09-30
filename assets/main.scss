@@ -1400,6 +1400,10 @@ table {
   font-size: 0.9em;
 }
 
+.pagination[hidden] {
+  display: none;
+}
+
 .pagination-pages {
   display: flex;
   align-items: center;
