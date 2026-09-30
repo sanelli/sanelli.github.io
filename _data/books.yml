@@ -27,6 +27,22 @@ current:
 years:
   - label: 2026
     entries:
+      - title: YuYu Hakusho
+        url: "https://en.wikipedia.org/wiki/YuYu_Hakusho"
+        subtitles:
+          - Volume 1 (chapters 1 - 8)
+          - 幽☆遊☆白書
+        date: 2026-09-30
+        rating: 4
+        authors:
+          - name: Yoshihiro Togashi
+            url: "https://en.wikipedia.org/wiki/Yoshihiro_Togashi"
+        language: English
+        year: 1991
+        genres:
+          - adventure
+          - supernatural
+          - manga
       - title: The Commitments
         url: "https://en.wikipedia.org/wiki/The_Commitments_(novel)"
         date: 2026-09-13
