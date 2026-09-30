@@ -1,6 +1,19 @@
 years:
   - label: 2026
     entries:
+      - title: La mia ragazza
+        url: "https://it.wikipedia.org/wiki/La_mia_ragazza_(Francesca_Michielin)"
+        subtitles:
+          - Single
+        date: 2026-09-30
+        rating: 4
+        artists:
+          - name: Francesca Michielin
+            url: "https://en.wikipedia.org/wiki/Francesca_Michielin"
+        year: 2026
+        genres:
+          - pop rock
+          - alternative rock
       - title: "19"
         url: "https://en.wikipedia.org/wiki/19_(Adele_album)"
         date: 2026-09-30
