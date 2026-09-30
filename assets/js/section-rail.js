@@ -206,6 +206,7 @@
     var ratingSelect = document.querySelector(".media-rating-filter");
     if (searchInput) searchInput.addEventListener("input", sync);
     if (ratingSelect) ratingSelect.addEventListener("change", sync);
+    document.addEventListener("media-visibility-change", sync);
 
     onViewportChange();
   }

@@ -1,4 +1,9 @@
 (function () {
+  var monthPage = 0;
+  var months = [];
+  var monthPageSize = 0;
+  var monthPagination = null;
+
   function refreshMonthBreaks() {
     Array.prototype.forEach.call(document.querySelectorAll("table.media-table--month-gaps"), function (table) {
       var prev = "";
@@ -15,14 +20,122 @@
     });
   }
 
+  function notifyVisibilityChange() {
+    document.dispatchEvent(new Event("media-visibility-change"));
+  }
+
+  function formatMonthLabel(ym) {
+    var parts = ym.split("-");
+    if (parts.length < 2) return ym;
+    var date = new Date(parseInt(parts[0], 10), parseInt(parts[1], 10) - 1, 1);
+    if (isNaN(date.getTime())) return ym;
+    return date.toLocaleString("en-US", { month: "long", year: "numeric" });
+  }
+
+  function collectMonths() {
+    var seen = {};
+    Array.prototype.forEach.call(document.querySelectorAll("tr.media-row[data-month]"), function (row) {
+      var month = row.getAttribute("data-month") || "";
+      if (month) seen[month] = true;
+    });
+    months = Object.keys(seen).sort().reverse();
+  }
+
+  function pageCount() {
+    if (!monthPageSize || !months.length) return 0;
+    return Math.ceil(months.length / monthPageSize);
+  }
+
+  function monthsForPage() {
+    if (!monthPageSize) return months;
+    var start = monthPage * monthPageSize;
+    return months.slice(start, start + monthPageSize);
+  }
+
+  function ensureMonthPagination() {
+    if (!monthPageSize || monthPagination) return;
+    var layout = document.querySelector(".section-rail-layout[data-month-page-size]");
+    if (!layout) return;
+
+    var nav = document.createElement("nav");
+    nav.className = "pagination media-month-pagination";
+    nav.setAttribute("aria-label", "Months");
+    nav.hidden = true;
+    nav.innerHTML =
+      '<button type="button" class="pagination-link" data-month-dir="newer">Newer</button>' +
+      '<span class="pagination-pages"><span class="pagination-status" data-month-status></span></span>' +
+      '<button type="button" class="pagination-link" data-month-dir="older">Older</button>';
+
+    var main = layout.querySelector(".section-rail-main");
+    if (main) {
+      main.appendChild(nav);
+    } else {
+      layout.appendChild(nav);
+    }
+
+    nav.addEventListener("click", function (event) {
+      var button = event.target.closest("[data-month-dir]");
+      if (!button || button.disabled || button.classList.contains("pagination-link--disabled")) return;
+      var dir = button.getAttribute("data-month-dir");
+      var total = pageCount();
+      if (dir === "older" && monthPage < total - 1) monthPage += 1;
+      if (dir === "newer" && monthPage > 0) monthPage -= 1;
+      applyFilters();
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    });
+
+    monthPagination = nav;
+  }
+
+  function updateMonthPagination(filtering) {
+    ensureMonthPagination();
+    if (!monthPagination) return;
+
+    var total = pageCount();
+    var show = monthPageSize > 0 && !filtering && total > 1;
+    monthPagination.hidden = !show;
+    if (!show) return;
+
+    var pageMonths = monthsForPage();
+    var status = monthPagination.querySelector("[data-month-status]");
+    if (status) {
+      if (pageMonths.length === 0) {
+        status.textContent = "";
+      } else if (pageMonths.length === 1) {
+        status.textContent = formatMonthLabel(pageMonths[0]);
+      } else {
+        status.textContent =
+          formatMonthLabel(pageMonths[0]) + " – " + formatMonthLabel(pageMonths[pageMonths.length - 1]);
+      }
+    }
+
+    var newer = monthPagination.querySelector('[data-month-dir="newer"]');
+    var older = monthPagination.querySelector('[data-month-dir="older"]');
+    if (newer) {
+      newer.disabled = monthPage <= 0;
+      newer.classList.toggle("pagination-link--disabled", monthPage <= 0);
+    }
+    if (older) {
+      older.disabled = monthPage >= total - 1;
+      older.classList.toggle("pagination-link--disabled", monthPage >= total - 1);
+    }
+  }
+
   function applyFilters() {
     var searchInput = document.querySelector(".media-search");
     var ratingSelect = document.querySelector(".media-rating-filter");
     var status = document.querySelector(".media-filter-status");
     var query = searchInput ? searchInput.value.trim().toLowerCase() : "";
     var minRating = ratingSelect && ratingSelect.value ? parseInt(ratingSelect.value, 10) : 0;
+    var filtering = Boolean(query || minRating);
     var visible = 0;
     var total = 0;
+    var allowedMonths = null;
+
+    if (monthPageSize > 0) {
+      if (filtering) monthPage = 0;
+      allowedMonths = filtering ? null : monthsForPage();
+    }
 
     Array.prototype.forEach.call(document.querySelectorAll(".media-section"), function (section) {
       var anyVisible = false;
@@ -30,9 +143,11 @@
         total += 1;
         var haystack = (row.getAttribute("data-search") || "").toLowerCase();
         var rating = parseInt(row.getAttribute("data-rating") || "", 10);
+        var month = row.getAttribute("data-month") || "";
         var matchesQuery = !query || haystack.indexOf(query) !== -1;
         var matchesRating = !minRating || (!isNaN(rating) && rating >= minRating);
-        var show = matchesQuery && matchesRating;
+        var matchesMonth = !allowedMonths || (month && allowedMonths.indexOf(month) !== -1);
+        var show = matchesQuery && matchesRating && matchesMonth;
         row.hidden = !show;
         if (show) {
           anyVisible = true;
@@ -43,23 +158,32 @@
     });
 
     if (status) {
-      var active = Boolean(query || minRating);
-      status.hidden = !active;
-      status.textContent = active ? visible + " of " + total + " rows match." : "";
+      status.hidden = !filtering;
+      status.textContent = filtering ? visible + " of " + total + " rows match." : "";
     }
 
+    updateMonthPagination(filtering);
     refreshMonthBreaks();
+    notifyVisibilityChange();
     if (typeof window.applyTravelsMapFilter === "function") {
       window.applyTravelsMapFilter();
     }
   }
 
   document.addEventListener("DOMContentLoaded", function () {
+    var layout = document.querySelector(".section-rail-layout[data-month-page-size]");
+    if (layout) {
+      monthPageSize = parseInt(layout.getAttribute("data-month-page-size") || "", 10) || 0;
+      if (monthPageSize > 0) collectMonths();
+    }
+
     var searchInput = document.querySelector(".media-search");
     var ratingSelect = document.querySelector(".media-rating-filter");
     if (searchInput) searchInput.addEventListener("input", applyFilters);
     if (ratingSelect) ratingSelect.addEventListener("change", applyFilters);
     observeCovers();
+
+    if (monthPageSize > 0) applyFilters();
   });
 
   function wikiImageEndpoint(pageUrl) {

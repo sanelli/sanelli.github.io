@@ -788,8 +788,14 @@ table {
     max-width: calc(890px - 30px * 2 + 9.5rem + 1.15rem);
   }
 
-  body:has(.section-rail-layout) .page-content .wrapper {
+  // With a year rail, widen the wrapper to fit the sticky column.
+  body:has(.section-rail-layout > .section-rail) .page-content .wrapper {
     max-width: calc(890px - 30px * 2 + 9.5rem + 1.15rem);
+  }
+
+  // Music has no year rail; keep the card column as wide as books/movies/games.
+  body:has(.section-rail-layout[data-month-page-size]) .page-content .wrapper {
+    max-width: calc(890px - 30px * 2 - 2rem);
   }
 }
 
@@ -1406,6 +1412,11 @@ table {
   border: 1px solid var(--border-meta);
   border-radius: 999px;
   color: var(--text);
+  background: transparent;
+  font: inherit;
+  line-height: inherit;
+  cursor: pointer;
+  text-decoration: none;
 }
 
 .pagination-link:hover,
@@ -1414,10 +1425,12 @@ table {
   border-color: var(--border-chip-hover);
 }
 
-.pagination-link--disabled {
+.pagination-link--disabled,
+.pagination-link:disabled {
   border-color: transparent;
   color: var(--text-muted);
   cursor: default;
+  pointer-events: none;
 }
 
 .pagination-num--current {
@@ -2422,12 +2435,12 @@ table.media-table .media-card a {
     width: 100%;
   }
 
-  .section-rail-layout {
+  .section-rail-layout:has(> .section-rail) {
     grid-template-columns: minmax(0, 1fr) 11.5rem;
     column-gap: 1.15rem;
   }
 
-  .section-rail-main {
+  .section-rail-layout:has(> .section-rail) > .section-rail-main {
     grid-column: 1;
     grid-row: 1;
   }
@@ -2460,13 +2473,13 @@ table.media-table .media-card a {
     display: contents;
   }
 
-  .section-rail-layout:has(> .media-lead) > .media-lead {
+  .section-rail-layout:has(> .media-lead):has(> .section-rail) > .media-lead {
     grid-column: 1;
     grid-row: 1;
   }
 
-  .section-rail-layout:has(> .media-lead) > .section-rail-main,
-  .section-rail-layout:has(> .media-lead) > .section-rail {
+  .section-rail-layout:has(> .media-lead):has(> .section-rail) > .section-rail-main,
+  .section-rail-layout:has(> .media-lead):has(> .section-rail) > .section-rail {
     grid-row: 2;
   }
 }

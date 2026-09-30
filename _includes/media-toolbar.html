@@ -13,6 +13,10 @@
       <option value="2">⭐️⭐️ and up</option>
     </select>
   </label>
+  {%- if include.kind == "music" -%}
+  <p class="media-toolbar-hint">Showing the latest two months. Search or rating shows matches across every year.</p>
+  {%- else -%}
   <p class="media-toolbar-hint">Search and rating apply across every year.</p>
+  {%- endif -%}
   <p class="media-filter-status" hidden></p>
 </div>
