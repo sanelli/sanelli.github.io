@@ -1,6 +1,17 @@
 years:
   - label: 2026
     entries:
+      - title: "T'innamorerai"
+        url: "https://it.wikipedia.org/wiki/T'innamorerai"
+        cover: /assets/images/covers/t-innamorerai.jpeg
+        date: 2026-09-30
+        rating: 5
+        artists:
+          - name: Marco Masini
+            url: "https://en.wikipedia.org/wiki/Marco_Masini"
+        year: 1993
+        genres:
+          - pop
       - title: La mia ragazza
         url: "https://it.wikipedia.org/wiki/La_mia_ragazza_(Francesca_Michielin)"
         subtitles:
