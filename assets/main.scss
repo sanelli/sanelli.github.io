@@ -1902,7 +1902,7 @@ table.media-table .media-card a {
 
 .media-card-body {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 1em;
   padding: 0.95em 1.1em;
 }
@@ -1911,6 +1911,7 @@ table.media-table .media-card a {
   flex: 0 0 5rem;
   width: 5rem;
   height: 5rem;
+  margin-top: 0.2em;
   border-radius: 10px;
   background: var(--bg-elevated);
   overflow: hidden;
