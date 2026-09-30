@@ -203,9 +203,9 @@
       mobileQuery.addListener(onViewportChange);
     }
     var searchInput = document.querySelector(".media-search");
-    var ratingSelect = document.querySelector(".media-rating-filter");
+    var ratingFilter = document.querySelector("[data-media-rating-filter]");
     if (searchInput) searchInput.addEventListener("input", sync);
-    if (ratingSelect) ratingSelect.addEventListener("change", sync);
+    if (ratingFilter) ratingFilter.addEventListener("change", sync);
     document.addEventListener("media-visibility-change", sync);
 
     onViewportChange();

@@ -2165,6 +2165,7 @@ table.media-table .media-card a {
 
 .media-toolbar-field {
   display: inline-block;
+  vertical-align: top;
   margin: 0 1em 0.6em 0;
 }
 
@@ -2173,16 +2174,90 @@ table.media-table .media-card a {
   font-size: 0.75em;
   color: var(--text-muted);
   margin-bottom: 0.25em;
+  line-height: 1.2;
 }
 
 .media-search,
-.media-rating-filter {
+.media-rating-combo-toggle {
+  box-sizing: border-box;
+  height: 2.15em;
   background: var(--bg);
   color: var(--text);
   border: 1px solid var(--border-meta);
   border-radius: 4px;
   padding: 0.35em 0.55em;
   min-width: 12em;
+  font: inherit;
+  line-height: 1.2;
+}
+
+.media-rating-combo {
+  position: relative;
+  display: block;
+}
+
+.media-rating-combo-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.55em;
+  max-width: min(22em, 70vw);
+  cursor: pointer;
+  text-align: left;
+}
+
+.media-rating-combo-toggle::after {
+  content: "";
+  width: 0.45em;
+  height: 0.45em;
+  border-right: 1.5px solid currentColor;
+  border-bottom: 1.5px solid currentColor;
+  transform: rotate(45deg) translateY(-0.1em);
+  opacity: 0.7;
+  flex: 0 0 auto;
+}
+
+.media-rating-combo.is-open .media-rating-combo-toggle::after {
+  transform: rotate(-135deg) translateY(-0.05em);
+}
+
+.media-rating-combo-summary {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.media-rating-combo-menu {
+  position: absolute;
+  z-index: 20;
+  top: calc(100% + 0.25em);
+  left: 0;
+  min-width: 100%;
+  margin: 0;
+  padding: 0.35em;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
+}
+
+.media-rating-combo-option {
+  display: flex;
+  align-items: center;
+  gap: 0.45em;
+  margin: 0;
+  padding: 0.35em 0.45em;
+  border-radius: 6px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.media-rating-combo-option:hover {
+  background: var(--bg-chip);
+}
+
+.media-rating-combo-option input {
+  margin: 0;
 }
 
 .media-toolbar-hint,

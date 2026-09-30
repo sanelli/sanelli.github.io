@@ -176,10 +176,18 @@
 
   function applyTravelsMapFilter() {
     var searchInput = document.querySelector(".media-search");
-    var ratingSelect = document.querySelector(".media-rating-filter");
     var query = searchInput ? searchInput.value.trim().toLowerCase() : "";
-    var minRating = ratingSelect && ratingSelect.value ? parseInt(ratingSelect.value, 10) : 0;
-    var filtered = Boolean(query || minRating);
+    var ratings =
+      typeof window.getMediaRatingFilter === "function"
+        ? window.getMediaRatingFilter()
+        : Array.prototype.map
+            .call(document.querySelectorAll("[data-media-rating-filter] input[type='checkbox']:checked"), function (input) {
+              return parseInt(input.value, 10);
+            })
+            .filter(function (value) {
+              return !isNaN(value);
+            });
+    var filtered = Boolean(query || ratings.length);
     var visiblePlaces = Object.create(null);
 
     if (filtered) {

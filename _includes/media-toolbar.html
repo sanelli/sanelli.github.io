@@ -3,16 +3,42 @@
     <span class="media-toolbar-label">Search</span>
     <input type="search" class="media-search" placeholder="Title, people, genre…" autocomplete="off">
   </label>
-  <label class="media-toolbar-field">
-    <span class="media-toolbar-label">Rating</span>
-    <select class="media-rating-filter">
-      <option value="">All</option>
-      <option value="5">⭐️⭐️⭐️⭐️⭐️</option>
-      <option value="4">⭐️⭐️⭐️⭐️ and up</option>
-      <option value="3">⭐️⭐️⭐️ and up</option>
-      <option value="2">⭐️⭐️ and up</option>
-    </select>
-  </label>
+  <div class="media-toolbar-field">
+    <span class="media-toolbar-label" id="media-rating-label">Rating</span>
+    <div class="media-rating-combo" data-media-rating-filter>
+      <button
+        type="button"
+        class="media-rating-combo-toggle"
+        aria-haspopup="listbox"
+        aria-expanded="false"
+        aria-labelledby="media-rating-label"
+      >
+        <span class="media-rating-combo-summary">All</span>
+      </button>
+      <div class="media-rating-combo-menu" hidden role="listbox" aria-multiselectable="true" aria-labelledby="media-rating-label">
+        <label class="media-rating-combo-option" role="option">
+          <input type="checkbox" value="5" aria-label="5 stars">
+          <span>⭐️⭐️⭐️⭐️⭐️</span>
+        </label>
+        <label class="media-rating-combo-option" role="option">
+          <input type="checkbox" value="4" aria-label="4 stars">
+          <span>⭐️⭐️⭐️⭐️</span>
+        </label>
+        <label class="media-rating-combo-option" role="option">
+          <input type="checkbox" value="3" aria-label="3 stars">
+          <span>⭐️⭐️⭐️</span>
+        </label>
+        <label class="media-rating-combo-option" role="option">
+          <input type="checkbox" value="2" aria-label="2 stars">
+          <span>⭐️⭐️</span>
+        </label>
+        <label class="media-rating-combo-option" role="option">
+          <input type="checkbox" value="1" aria-label="1 star">
+          <span>⭐️</span>
+        </label>
+      </div>
+    </div>
+  </div>
   {%- if include.kind == "music" -%}
   <p class="media-toolbar-hint">Showing the latest two months. Search or rating shows matches across every year.</p>
   {%- else -%}

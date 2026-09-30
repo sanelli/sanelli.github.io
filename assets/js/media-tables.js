@@ -121,13 +121,87 @@
     }
   }
 
+  function selectedRatings() {
+    var root = document.querySelector("[data-media-rating-filter]");
+    if (!root) return [];
+    return Array.prototype.map
+      .call(root.querySelectorAll('input[type="checkbox"]:checked'), function (input) {
+        return parseInt(input.value, 10);
+      })
+      .filter(function (value) {
+        return !isNaN(value);
+      });
+  }
+
+  function starsLabel(count) {
+    var out = "";
+    for (var i = 0; i < count; i++) out += "⭐️";
+    return out;
+  }
+
+  function updateRatingSummary() {
+    var root = document.querySelector("[data-media-rating-filter]");
+    if (!root) return;
+    var summary = root.querySelector(".media-rating-combo-summary");
+    if (!summary) return;
+    var selected = selectedRatings().slice().sort(function (a, b) {
+      return b - a;
+    });
+    if (!selected.length) {
+      summary.textContent = "All";
+      return;
+    }
+    summary.textContent = selected.map(starsLabel).join(", ");
+  }
+
+  function setRatingMenuOpen(open) {
+    var root = document.querySelector("[data-media-rating-filter]");
+    if (!root) return;
+    var toggle = root.querySelector(".media-rating-combo-toggle");
+    var menu = root.querySelector(".media-rating-combo-menu");
+    if (!toggle || !menu) return;
+    root.classList.toggle("is-open", open);
+    toggle.setAttribute("aria-expanded", open ? "true" : "false");
+    menu.hidden = !open;
+  }
+
+  function initRatingCombo() {
+    var root = document.querySelector("[data-media-rating-filter]");
+    if (!root) return;
+
+    var toggle = root.querySelector(".media-rating-combo-toggle");
+    if (toggle) {
+      toggle.addEventListener("click", function (event) {
+        event.preventDefault();
+        setRatingMenuOpen(!root.classList.contains("is-open"));
+      });
+    }
+
+    root.addEventListener("change", function (event) {
+      if (!event.target || event.target.type !== "checkbox") return;
+      updateRatingSummary();
+      applyFilters();
+    });
+
+    document.addEventListener("click", function (event) {
+      if (!root.classList.contains("is-open")) return;
+      if (root.contains(event.target)) return;
+      setRatingMenuOpen(false);
+    });
+
+    document.addEventListener("keydown", function (event) {
+      if (event.key === "Escape") setRatingMenuOpen(false);
+    });
+
+    updateRatingSummary();
+  }
+
   function applyFilters() {
     var searchInput = document.querySelector(".media-search");
-    var ratingSelect = document.querySelector(".media-rating-filter");
     var status = document.querySelector(".media-filter-status");
     var query = searchInput ? searchInput.value.trim().toLowerCase() : "";
-    var minRating = ratingSelect && ratingSelect.value ? parseInt(ratingSelect.value, 10) : 0;
-    var filtering = Boolean(query || minRating);
+    var ratings = selectedRatings();
+    var filtering = Boolean(query || ratings.length);
     var visible = 0;
     var total = 0;
     var allowedMonths = null;
@@ -145,7 +219,7 @@
         var rating = parseInt(row.getAttribute("data-rating") || "", 10);
         var month = row.getAttribute("data-month") || "";
         var matchesQuery = !query || haystack.indexOf(query) !== -1;
-        var matchesRating = !minRating || (!isNaN(rating) && rating >= minRating);
+        var matchesRating = !ratings.length || (!isNaN(rating) && ratings.indexOf(rating) !== -1);
         var matchesMonth = !allowedMonths || (month && allowedMonths.indexOf(month) !== -1);
         var show = matchesQuery && matchesRating && matchesMonth;
         row.hidden = !show;
@@ -170,6 +244,8 @@
     }
   }
 
+  window.getMediaRatingFilter = selectedRatings;
+
   document.addEventListener("DOMContentLoaded", function () {
     var layout = document.querySelector(".section-rail-layout[data-month-page-size]");
     if (layout) {
@@ -178,9 +254,8 @@
     }
 
     var searchInput = document.querySelector(".media-search");
-    var ratingSelect = document.querySelector(".media-rating-filter");
     if (searchInput) searchInput.addEventListener("input", applyFilters);
-    if (ratingSelect) ratingSelect.addEventListener("change", applyFilters);
+    initRatingCombo();
     observeCovers();
 
     if (monthPageSize > 0) applyFilters();
