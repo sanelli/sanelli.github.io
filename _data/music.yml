@@ -1,6 +1,17 @@
 years:
   - label: 2026
     entries:
+      - title: Resta in ascolto
+        url: "https://en.wikipedia.org/wiki/Resta_in_ascolto"
+        date: 2026-10-01
+        rating: 3
+        artists:
+          - name: Laura Pausini
+            url: "https://en.wikipedia.org/wiki/Laura_Pausini"
+        year: 2004
+        genres:
+          - pop rock
+          - latin pop
       - title: Marco Masini
         url: "https://it.wikipedia.org/wiki/Marco_Masini_(album)"
         date: 2026-10-01
