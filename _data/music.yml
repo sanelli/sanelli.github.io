@@ -1,6 +1,16 @@
 years:
   - label: 2026
     entries:
+      - title: Marco Masini
+        url: "https://it.wikipedia.org/wiki/Marco_Masini_(album)"
+        date: 2026-10-01
+        rating: 4
+        artists:
+          - name: Marco Masini
+            url: "https://en.wikipedia.org/wiki/Marco_Masini"
+        year: 1990
+        genres:
+          - pop
       - title: "T'innamorerai"
         url: "https://it.wikipedia.org/wiki/T'innamorerai"
         cover: /assets/images/covers/t-innamorerai.jpeg
