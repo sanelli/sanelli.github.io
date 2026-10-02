@@ -1,6 +1,18 @@
 years:
   - label: 2026
     entries:
+      - title: Dua Lipa
+        url: "https://en.wikipedia.org/wiki/Dua_Lipa_(album)"
+        date: 2026-10-02
+        rating: 3
+        artists:
+          - name: Dua Lipa
+            url: "https://en.wikipedia.org/wiki/Dua_Lipa"
+        year: 2017
+        genres:
+          - dance-pop
+          - electropop
+          - "R&B"
       - title: Resta in ascolto
         url: "https://en.wikipedia.org/wiki/Resta_in_ascolto"
         date: 2026-10-01
