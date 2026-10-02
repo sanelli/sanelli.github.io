@@ -837,6 +837,20 @@ backlog:
     genres:
       - action role-playing
       - soulslike
+  - title: "The Legend of Zelda: Ocarina of Time (remake)"
+    url: "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time_(2026_video_game)"
+    developers:
+      - name: Nintendo
+        url: "https://en.wikipedia.org/wiki/Nintendo"
+    publishers:
+      - name: Nintendo
+        url: "https://en.wikipedia.org/wiki/Nintendo"
+    console:
+      name: Nintendo Switch 2
+      url: "https://en.wikipedia.org/wiki/Nintendo_Switch_2"
+    year: 2026
+    genres:
+      - action-adventure
   - title: "The Legend of Zelda: Skyward Sword"
     url: "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Skyward_Sword"
     developers:
