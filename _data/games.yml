@@ -791,6 +791,23 @@ backlog:
     genres:
       - action-adventure
       - metroidvania
+  - title: Metroid Ravenous
+    url: "https://en.wikipedia.org/wiki/Metroid_Ravenous"
+    developers:
+      - name: MercurySteam
+        url: "https://en.wikipedia.org/wiki/MercurySteam"
+      - name: Nintendo EPD
+        url: "https://en.wikipedia.org/wiki/Nintendo_Entertainment_Planning_%26_Development"
+    publishers:
+      - name: Nintendo
+        url: "https://en.wikipedia.org/wiki/Nintendo"
+    console:
+      name: Nintendo Switch 2
+      url: "https://en.wikipedia.org/wiki/Nintendo_Switch_2"
+    year: 2027
+    genres:
+      - action-adventure
+      - metroidvania
   - title: Cyberpunk 2077
     url: "https://en.wikipedia.org/wiki/Cyberpunk_2077"
     developers:
