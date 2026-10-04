@@ -1155,3 +1155,15 @@ backlog:
     genres:
       - action role-playing
       - soulslike
+  - title: Well Dweller
+    url: "https://en.wikipedia.org/wiki/Well_Dweller"
+    developers:
+      - name: Kyle Thompson
+    publishers:
+      - name: Top Hat Studios
+    console:
+      name: Nintendo Switch 2
+      url: "https://en.wikipedia.org/wiki/Nintendo_Switch_2"
+    year: 2026
+    genres:
+      - metroidvania
