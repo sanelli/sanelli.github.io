@@ -1,6 +1,16 @@
 years:
   - label: 2026
     entries:
+      - title: "C'hanno preso tutto"
+        url: "https://it.wikipedia.org/wiki/C'hanno_preso_tutto"
+        date: 2026-10-05
+        rating: 4
+        artists:
+          - name: Samuele Bersani
+            url: "https://en.wikipedia.org/wiki/Samuele_Bersani"
+        year: 1992
+        genres:
+          - pop
       - title: Dua Lipa
         url: "https://en.wikipedia.org/wiki/Dua_Lipa_(album)"
         date: 2026-10-02
