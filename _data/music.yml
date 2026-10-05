@@ -1,6 +1,16 @@
 years:
   - label: 2026
     entries:
+      - title: In vacanza da una vita
+        url: "https://it.wikipedia.org/wiki/In_vacanza_da_una_vita"
+        date: 2026-10-05
+        rating: 4
+        artists:
+          - name: Irene Grandi
+            url: "https://en.wikipedia.org/wiki/Irene_Grandi"
+        year: 1995
+        genres:
+          - pop
       - title: "C'hanno preso tutto"
         url: "https://it.wikipedia.org/wiki/C'hanno_preso_tutto"
         date: 2026-10-05
