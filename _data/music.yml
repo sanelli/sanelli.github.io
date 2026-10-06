@@ -1,6 +1,18 @@
 years:
   - label: 2026
     entries:
+      - title: Unstoppable
+        url: "https://en.wikipedia.org/wiki/Unstoppable_(Sia_song)"
+        subtitles:
+          - Single
+        date: 2026-10-06
+        rating: 4
+        artists:
+          - name: Sia
+            url: "https://en.wikipedia.org/wiki/Sia_(musician)"
+        year: 2016
+        genres:
+          - electropop
       - title: Cheap Thrills
         url: "https://en.wikipedia.org/wiki/Cheap_Thrills_(song)"
         subtitles:
