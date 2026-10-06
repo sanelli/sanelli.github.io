@@ -1,6 +1,19 @@
 years:
   - label: 2026
     entries:
+      - title: Cheap Thrills
+        url: "https://en.wikipedia.org/wiki/Cheap_Thrills_(song)"
+        subtitles:
+          - Single
+        date: 2026-10-06
+        rating: 5
+        artists:
+          - name: Sia
+            url: "https://en.wikipedia.org/wiki/Sia_(musician)"
+        year: 2015
+        genres:
+          - dancehall
+          - pop
       - title: In vacanza da una vita
         url: "https://it.wikipedia.org/wiki/In_vacanza_da_una_vita"
         date: 2026-10-05
