@@ -1,6 +1,16 @@
 years:
   - label: 2026
     entries:
+      - title: Tra te e il mare
+        url: "https://en.wikipedia.org/wiki/Tra_te_e_il_mare"
+        date: 2026-10-07
+        rating: 4
+        artists:
+          - name: Laura Pausini
+            url: "https://en.wikipedia.org/wiki/Laura_Pausini"
+        year: 2000
+        genres:
+          - latin pop
       - title: Unstoppable
         url: "https://en.wikipedia.org/wiki/Unstoppable_(Sia_song)"
         subtitles:
