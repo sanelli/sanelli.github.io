@@ -1,6 +1,30 @@
 years:
   - label: 2026
     entries:
+      - title: Ma non tutta la vita
+        url: "https://it.wikipedia.org/wiki/Ma_non_tutta_la_vita"
+        subtitles:
+          - Single
+        date: 2026-10-08
+        rating: 5
+        artists:
+          - name: Ricchi e Poveri
+            url: "https://en.wikipedia.org/wiki/Ricchi_e_Poveri"
+        year: 2024
+        genres:
+          - dance-pop
+          - latin pop
+      - title: Pazza
+        url: "https://it.wikipedia.org/wiki/Pazza_(singolo)"
+        date: 2026-10-08
+        rating: 5
+        artists:
+          - name: Loredana Bertè
+            url: "https://en.wikipedia.org/wiki/Loredana_Bert%C3%A8"
+        year: 2024
+        genres:
+          - alternative rock
+          - pop rock
       - title: Fly Me to the Moon
         url: "https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon"
         date: 2026-10-08
