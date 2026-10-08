@@ -1,6 +1,16 @@
 years:
   - label: 2026
     entries:
+      - title: Fly Me to the Moon
+        url: "https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon"
+        date: 2026-10-08
+        rating: 3
+        artists:
+          - name: Frank Sinatra
+            url: "https://en.wikipedia.org/wiki/Frank_Sinatra"
+        year: 1964
+        genres:
+          - jazz
       - title: Tra te e il mare
         url: "https://en.wikipedia.org/wiki/Tra_te_e_il_mare"
         date: 2026-10-07
