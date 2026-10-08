@@ -16,6 +16,8 @@ years:
           - latin pop
       - title: Pazza
         url: "https://it.wikipedia.org/wiki/Pazza_(singolo)"
+        subtitles:
+          - Single
         date: 2026-10-08
         rating: 5
         artists:
