@@ -1,6 +1,16 @@
 years:
   - label: 2026
     entries:
+      - title: 9 to 5 and Odd Jobs
+        url: "https://en.wikipedia.org/wiki/9_to_5_and_Odd_Jobs"
+        date: 2026-10-09
+        rating: 5
+        artists:
+          - name: Dolly Parton
+            url: "https://en.wikipedia.org/wiki/Dolly_Parton"
+        year: 1980
+        genres:
+          - country
       - title: Ma non tutta la vita
         url: "https://it.wikipedia.org/wiki/Ma_non_tutta_la_vita"
         subtitles:
