@@ -30,6 +30,21 @@ years:
       - title: Pretty Guardian Sailor Moon
         url: "https://en.wikipedia.org/wiki/Sailor_Moon"
         subtitles:
+          - Volume 12 (Act 55 - Act 60)
+          - 美少女戦士セーラームーン
+        date: 2026-10-07
+        rating: 4
+        authors:
+          - name: Naoko Takeuchi
+            url: "https://en.wikipedia.org/wiki/Naoko_Takeuchi"
+        language: Italian
+        year: 1997
+        genres:
+          - magical girl
+          - manga
+      - title: Pretty Guardian Sailor Moon
+        url: "https://en.wikipedia.org/wiki/Sailor_Moon"
+        subtitles:
           - Volume 11 (Act 50 - Act 54)
           - 美少女戦士セーラームーン
         date: 2026-10-02
