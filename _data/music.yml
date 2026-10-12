@@ -1,6 +1,19 @@
 years:
   - label: 2026
     entries:
+      - title: Carelessly Yours
+        url: "https://en.wikipedia.org/wiki/Carelessly_Yours"
+        date: 2026-10-12
+        rating: 5
+        artists:
+          - name: Ola
+            url: "https://en.wikipedia.org/wiki/Ola_(singer)"
+        year: 2014
+        genres:
+          - pop
+          - dance-pop
+          - europop
+          - house
       - title: Jolene
         url: "https://en.wikipedia.org/wiki/Jolene_(album)"
         date: 2026-10-09
