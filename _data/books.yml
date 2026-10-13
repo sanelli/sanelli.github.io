@@ -1,16 +1,15 @@
 current:
-  - title: I lupi del Calla
-    url: "https://en.wikipedia.org/wiki/The_Dark_Tower_V:_Wolves_of_the_Calla"
-    subtitles:
-      - "The Dark Tower V: Wolves of the Calla"
+  - title: Game Changer
+    cover: /assets/images/covers/game-changer.jpg
     authors:
-      - name: Stephen King
-        url: "https://en.wikipedia.org/wiki/Stephen_King"
-    language: Italian
-    year: 2003
+      - name: Rachel Reid
+        url: "https://en.wikipedia.org/wiki/Rachel_Reid_(author)"
+    language: English
+    year: 2018
     genres:
-      - dark fantasy
-      - science fiction
+      - gay
+      - romance
+      - sport
   - title: Hands-On Large Language Models
     cover: /assets/images/covers/hands-on-large-language-models.png
     url: "https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/"
@@ -27,6 +26,20 @@ current:
 years:
   - label: 2026
     entries:
+      - title: I lupi del Calla
+        url: "https://en.wikipedia.org/wiki/The_Dark_Tower_V:_Wolves_of_the_Calla"
+        subtitles:
+          - "The Dark Tower V: Wolves of the Calla"
+        date: 2026-10-13
+        rating: 5
+        authors:
+          - name: Stephen King
+            url: "https://en.wikipedia.org/wiki/Stephen_King"
+        language: Italian
+        year: 2003
+        genres:
+          - dark fantasy
+          - science fiction
       - title: Pretty Guardian Sailor Moon
         url: "https://en.wikipedia.org/wiki/Sailor_Moon"
         subtitles:
