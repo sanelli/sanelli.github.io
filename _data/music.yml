@@ -1,6 +1,16 @@
 years:
   - label: 2026
     entries:
+      - title: My Happy Place
+        url: "https://en.wikipedia.org/wiki/My_Happy_Place"
+        date: 2026-10-13
+        rating: 4
+        artists:
+          - name: Emma Bunton
+            url: "https://en.wikipedia.org/wiki/Emma_Bunton"
+        year: 2019
+        genres:
+          - pop
       - title: Carelessly Yours
         url: "https://en.wikipedia.org/wiki/Carelessly_Yours"
         date: 2026-10-12
