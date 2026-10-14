@@ -1,6 +1,18 @@
 years:
   - label: 2026
     entries:
+      - title: Ricky Martin
+        url: "https://en.wikipedia.org/wiki/Ricky_Martin_(1999_album)"
+        date: 2026-10-14
+        rating: 4
+        artists:
+          - name: Ricky Martin
+            url: "https://en.wikipedia.org/wiki/Ricky_Martin"
+        year: 1999
+        genres:
+          - dance-pop
+          - pop
+          - rock
       - title: My Happy Place
         url: "https://en.wikipedia.org/wiki/My_Happy_Place"
         date: 2026-10-13
