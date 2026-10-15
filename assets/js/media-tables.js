@@ -72,6 +72,46 @@
     return years + (hasBacklogPage ? 1 : 0);
   }
 
+  function clampPageIndex() {
+    var total = pageCount();
+    if (total <= 0) {
+      pageIndex = 0;
+      return;
+    }
+    if (pageIndex < 0) pageIndex = 0;
+    if (pageIndex >= total) pageIndex = total - 1;
+  }
+
+  function readPageIndexFromUrl() {
+    try {
+      var raw = new URLSearchParams(window.location.search).get("page");
+      if (!raw) return 0;
+      var num = parseInt(raw, 10);
+      if (isNaN(num) || num < 1) return 0;
+      return num - 1;
+    } catch (err) {
+      return 0;
+    }
+  }
+
+  function syncPageToUrl(filtering) {
+    if (!pageSize && !hasBacklogPage) return;
+    try {
+      var url = new URL(window.location.href);
+      var total = pageCount();
+      if (filtering || pageIndex <= 0 || total <= 1) {
+        url.searchParams.delete("page");
+      } else {
+        url.searchParams.set("page", String(pageIndex + 1));
+      }
+      var next = url.pathname + url.search + url.hash;
+      var current = window.location.pathname + window.location.search + window.location.hash;
+      if (next !== current) history.replaceState(null, "", next);
+    } catch (err) {
+      /* ignore */
+    }
+  }
+
   function isBacklogPage() {
     return hasBacklogPage && pageIndex === pageCount() - 1;
   }
@@ -326,6 +366,7 @@
     }
 
     updatePagePagination(filtering);
+    syncPageToUrl(filtering);
     refreshMonthBreaks();
     notifyVisibilityChange();
     if (typeof window.applyTravelsMapFilter === "function") {
@@ -347,6 +388,10 @@
     }
     hasBacklogPage = Boolean(document.getElementById("section-backlog"));
     if (pageSize > 0) collectPageUnits();
+    if (pageSize > 0 || hasBacklogPage) {
+      pageIndex = readPageIndexFromUrl();
+      clampPageIndex();
+    }
 
     var searchInput = document.querySelector(".media-search");
     if (searchInput) searchInput.addEventListener("input", applyFilters);
