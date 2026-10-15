@@ -26,24 +26,6 @@
     document.dispatchEvent(new Event("media-visibility-change"));
   }
 
-  function formatMonthLabel(ym) {
-    var parts = ym.split("-");
-    if (parts.length < 2) return ym;
-    var date = new Date(parseInt(parts[0], 10), parseInt(parts[1], 10) - 1, 1);
-    if (isNaN(date.getTime())) return ym;
-    return date.toLocaleString("en-US", { month: "long", year: "numeric" });
-  }
-
-  function formatUnitLabel(unit) {
-    if (pageMode === "year") {
-      var section = document.getElementById("year-" + unit);
-      var heading = section && section.querySelector("h2");
-      if (heading) return heading.textContent.trim();
-      return unit;
-    }
-    return formatMonthLabel(unit);
-  }
-
   function rowUnit(row) {
     var month = row.getAttribute("data-month") || "";
     if (!month) return "";
@@ -120,15 +102,9 @@
     nav.setAttribute("aria-label", pageMode === "year" ? "Years" : "Months");
     nav.hidden = true;
     nav.innerHTML =
-      '<span class="pagination-nav-group">' +
-      '<button type="button" class="pagination-link" data-page-dir="first">First</button>' +
       '<button type="button" class="pagination-link" data-page-dir="newer">Newer</button>' +
-      "</span>" +
-      '<span class="pagination-pages"><span class="pagination-status" data-page-status></span></span>' +
-      '<span class="pagination-nav-group">' +
-      '<button type="button" class="pagination-link" data-page-dir="older">Older</button>' +
-      '<button type="button" class="pagination-link" data-page-dir="last">Last</button>' +
-      "</span>";
+      '<span class="pagination-pages" data-page-nums></span>' +
+      '<button type="button" class="pagination-link" data-page-dir="older">Older</button>';
 
     var main = layout.querySelector(".section-rail-main");
     if (main) {
@@ -138,20 +114,55 @@
     }
 
     nav.addEventListener("click", function (event) {
-      var button = event.target.closest("[data-page-dir]");
+      var button = event.target.closest("button");
       if (!button || button.disabled || button.classList.contains("pagination-link--disabled")) return;
-      var dir = button.getAttribute("data-page-dir");
+
       var total = pageCount();
-      if (dir === "first") pageIndex = 0;
-      else if (dir === "last") pageIndex = Math.max(0, total - 1);
-      else if (dir === "older" && pageIndex < total - 1) pageIndex += 1;
-      else if (dir === "newer" && pageIndex > 0) pageIndex -= 1;
-      else return;
+      var nextIndex = pageIndex;
+      var dir = button.getAttribute("data-page-dir");
+      if (dir === "older" && pageIndex < total - 1) {
+        nextIndex = pageIndex + 1;
+      } else if (dir === "newer" && pageIndex > 0) {
+        nextIndex = pageIndex - 1;
+      } else if (button.hasAttribute("data-page-index")) {
+        nextIndex = parseInt(button.getAttribute("data-page-index"), 10);
+        if (isNaN(nextIndex) || nextIndex < 0 || nextIndex >= total || nextIndex === pageIndex) return;
+      } else {
+        return;
+      }
+
+      pageIndex = nextIndex;
       applyFilters();
       window.scrollTo({ top: 0, behavior: "smooth" });
     });
 
     pagePagination = nav;
+  }
+
+  function renderPageNumbers(total) {
+    var host = pagePagination.querySelector("[data-page-nums]");
+    if (!host) return;
+
+    var current = pageIndex + 1;
+    var html = "";
+    for (var num = 1; num <= total; num++) {
+      if (num === current) {
+        html +=
+          '<span class="pagination-num pagination-num--current" aria-current="page">' +
+          num +
+          "</span>";
+      } else {
+        html +=
+          '<button type="button" class="pagination-num" data-page-index="' +
+          (num - 1) +
+          '" aria-label="Page ' +
+          num +
+          '">' +
+          num +
+          "</button>";
+      }
+    }
+    host.innerHTML = html;
   }
 
   function updatePagePagination(filtering) {
@@ -163,30 +174,13 @@
     pagePagination.hidden = !show;
     if (!show) return;
 
-    var status = pagePagination.querySelector("[data-page-status]");
-    if (status) {
-      if (isBacklogPage()) {
-        status.textContent = "Backlog";
-      } else {
-        var currentUnits = unitsForPage();
-        if (currentUnits.length === 0) {
-          status.textContent = "";
-        } else if (currentUnits.length === 1) {
-          status.textContent = formatUnitLabel(currentUnits[0]);
-        } else {
-          status.textContent =
-            formatUnitLabel(currentUnits[0]) + " – " + formatUnitLabel(currentUnits[currentUnits.length - 1]);
-        }
-      }
-    }
+    renderPageNumbers(total);
 
     var atFirst = pageIndex <= 0;
     var atLast = pageIndex >= total - 1;
     [
-      ['[data-page-dir="first"]', atFirst],
       ['[data-page-dir="newer"]', atFirst],
-      ['[data-page-dir="older"]', atLast],
-      ['[data-page-dir="last"]', atLast]
+      ['[data-page-dir="older"]', atLast]
     ].forEach(function (entry) {
       var button = pagePagination.querySelector(entry[0]);
       if (!button) return;
