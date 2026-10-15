@@ -1,6 +1,32 @@
 years:
   - label: 2026
     entries:
+      - title: Queen of Kings
+        url: "https://en.wikipedia.org/wiki/Queen_of_Kings_(song)"
+        subtitles:
+          - Single
+        date: 2026-10-15
+        rating: 5
+        artists:
+          - name: Alessandra
+            url: "https://en.wikipedia.org/wiki/Alessandra_(singer)"
+        year: 2023
+        genres:
+          - eurodance
+      - title: Only Teardrops
+        url: "https://en.wikipedia.org/wiki/Only_Teardrops"
+        subtitles:
+          - Single
+        date: 2026-10-15
+        rating: 5
+        artists:
+          - name: Emmelie de Forest
+            url: "https://en.wikipedia.org/wiki/Emmelie_de_Forest"
+        year: 2013
+        genres:
+          - pop
+          - folk
+          - ethnopop
       - title: Shum
         url: "https://en.wikipedia.org/wiki/Shum_(song)"
         subtitles:
