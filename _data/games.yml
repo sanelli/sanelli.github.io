@@ -13,6 +13,21 @@ current:
     year: 2026
     genres:
       - action-adventure
+  - title: "Castlevania: Belmont's Curse"
+    url: "https://en.wikipedia.org/wiki/Castlevania:_Belmont%27s_Curse"
+    developers:
+      - name: Evil Empire
+        url: "https://en.wikipedia.org/wiki/Evil_Empire_(company)"
+    publishers:
+      - name: Konami
+        url: "https://en.wikipedia.org/wiki/Konami"
+    console:
+      name: Nintendo Switch
+      url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+    year: 2026
+    genres:
+      - action-adventure
+      - metroidvania
 
 years:
   - label: 2026
@@ -776,21 +791,6 @@ backlog:
     genres:
       - metroidvania
       - platformer
-  - title: "Castlevania: Belmont's Curse"
-    url: "https://en.wikipedia.org/wiki/Castlevania:_Belmont%27s_Curse"
-    developers:
-      - name: Evil Empire
-        url: "https://en.wikipedia.org/wiki/Evil_Empire_(company)"
-    publishers:
-      - name: Konami
-        url: "https://en.wikipedia.org/wiki/Konami"
-    console:
-      name: Nintendo Switch
-      url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
-    year: 2026
-    genres:
-      - action-adventure
-      - metroidvania
   - title: Metroid Ravenous
     url: "https://en.wikipedia.org/wiki/Metroid_Ravenous"
     developers:
@@ -810,6 +810,7 @@ backlog:
       - metroidvania
   - title: Cyberpunk 2077
     url: "https://en.wikipedia.org/wiki/Cyberpunk_2077"
+    cover: "https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg"
     developers:
       - name: CD Projekt Red
         url: "https://en.wikipedia.org/wiki/CD_Projekt_Red"
@@ -837,7 +838,7 @@ backlog:
     genres:
       - action role-playing
       - soulslike
-  - title: "The Legend of Zelda: Ocarina of Time (remake)"
+  - title: "The Legend of Zelda: Ocarina of Time (2026)"
     url: "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time_(2026_video_game)"
     developers:
       - name: Nintendo
