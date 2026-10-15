@@ -147,6 +147,7 @@ years:
           - superhero
       - title: Il Vizietto
         url: "https://en.wikipedia.org/wiki/La_Cage_aux_Folles_(film)"
+        cover: "https://upload.wikimedia.org/wikipedia/en/e/ea/Cage-aux-folles-la-french-movie-poster-md.jpg"
         subtitles:
           - La Cage aux Folles
         date: 2026-02-17
@@ -742,7 +743,7 @@ years:
         genres:
           - anime
       - title: The Favourite
-        url: "https://en.wikipedia.org/wiki/The_Favourite"
+        url: "https://en.wikipedia.org/wiki/The_Favourite_(2018_film)"
         date: 2024-08-21
         rating: 2
         creators:
