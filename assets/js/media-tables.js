@@ -4,6 +4,7 @@
   var pageSize = 0;
   var pageMode = ""; // "month" | "year"
   var pagePagination = null;
+  var hasPastPage = false;
   var hasBacklogPage = false;
 
   function refreshMonthBreaks() {
@@ -66,10 +67,15 @@
     return Math.ceil(pageUnits.length / pageSize);
   }
 
+  function extraPageCount() {
+    return (hasPastPage ? 1 : 0) + (hasBacklogPage ? 1 : 0);
+  }
+
   function pageCount() {
     var years = yearPageCount();
-    if (!years && !hasBacklogPage) return 0;
-    return years + (hasBacklogPage ? 1 : 0);
+    var extra = extraPageCount();
+    if (!years && !extra) return 0;
+    return years + extra;
   }
 
   function clampPageIndex() {
@@ -160,12 +166,20 @@
     }
   }
 
+  function isPastPage() {
+    return hasPastPage && pageIndex === yearPageCount();
+  }
+
   function isBacklogPage() {
     return hasBacklogPage && pageIndex === pageCount() - 1;
   }
 
+  function hasPagedSections() {
+    return pageSize > 0 || hasPastPage || hasBacklogPage;
+  }
+
   function unitsForPage() {
-    if (!pageSize || isBacklogPage()) return [];
+    if (!pageSize || isPastPage() || isBacklogPage()) return [];
     var start = pageIndex * pageSize;
     return pageUnits.slice(start, start + pageSize);
   }
@@ -181,7 +195,7 @@
   }
 
   function ensurePagePagination() {
-    if ((!pageSize && !hasBacklogPage) || pagePagination) return;
+    if (!hasPagedSections() || pagePagination) return;
     var layout = paginationLayout();
     if (!layout) return;
 
@@ -258,7 +272,7 @@
     if (!pagePagination) return;
 
     var total = pageCount();
-    var show = (pageSize > 0 || hasBacklogPage) && !filtering && total > 1;
+    var show = hasPagedSections() && !filtering && total > 1;
     pagePagination.hidden = !show;
     if (!show) return;
 
@@ -364,9 +378,11 @@
 
     if (filtering) pageIndex = 0;
 
-    if ((pageSize > 0 || hasBacklogPage) && !filtering) {
+    if (hasPagedSections() && !filtering) {
       if (isBacklogPage()) {
         pageView = { type: "backlog" };
+      } else if (isPastPage()) {
+        pageView = { type: "past" };
       } else if (pageSize > 0) {
         pageView = { type: "years", units: unitsForPage() };
       }
@@ -375,6 +391,7 @@
     Array.prototype.forEach.call(document.querySelectorAll(".media-section"), function (section) {
       var anyVisible = false;
       var isCurrentSection = section.classList.contains("media-section--current");
+      var isPastSection = section.id === "section-past";
       var isBacklogSection = section.id === "section-backlog";
       Array.prototype.forEach.call(section.querySelectorAll("tr.media-row"), function (row) {
         total += 1;
@@ -387,7 +404,9 @@
         if (pageView) {
           if (pageView.type === "backlog") {
             matchesPage = isBacklogSection;
-          } else if (isBacklogSection) {
+          } else if (pageView.type === "past") {
+            matchesPage = isPastSection;
+          } else if (isBacklogSection || isPastSection) {
             matchesPage = false;
           } else if (isCurrentSection) {
             matchesPage = pageIndex === 0;
@@ -434,11 +453,12 @@
       pageMode = "year";
       pageSize = parseInt(yearLayout.getAttribute("data-year-page-size") || "", 10) || 0;
     }
+    hasPastPage = Boolean(document.getElementById("section-past"));
     hasBacklogPage = Boolean(document.getElementById("section-backlog"));
     if (pageSize > 0) collectPageUnits();
 
     restoreFiltersFromUrl();
-    if (pageSize > 0 || hasBacklogPage) {
+    if (hasPagedSections()) {
       pageIndex = readPageIndexFromUrl();
       clampPageIndex();
     }
@@ -448,7 +468,7 @@
     initRatingCombo();
     observeCovers();
 
-    if (pageSize > 0 || hasBacklogPage || searchInput || document.querySelector("[data-media-rating-filter]")) {
+    if (hasPagedSections() || searchInput || document.querySelector("[data-media-rating-filter]")) {
       applyFilters();
     }
   });

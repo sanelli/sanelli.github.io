@@ -883,3 +883,654 @@ years:
         year: 1898
         genres:
           - novel
+past:
+  - title: "1Q84"
+    url: "https://it.wikipedia.org/wiki/1Q84"
+    subtitles:
+      - Volume 1
+    rating: 3
+    authors:
+      - name: Haruki Murakami
+        url: "https://en.wikipedia.org/wiki/Haruki_Murakami"
+    language: Italian
+    year: 2009
+    genres:
+      - novel
+      - magical realism
+  - title: "1Q84"
+    url: "https://it.wikipedia.org/wiki/1Q84"
+    subtitles:
+      - Volume 2
+    rating: 3
+    authors:
+      - name: Haruki Murakami
+        url: "https://en.wikipedia.org/wiki/Haruki_Murakami"
+    language: Italian
+    year: 2009
+    genres:
+      - novel
+      - magical realism
+  - title: "1Q84"
+    url: "https://it.wikipedia.org/wiki/1Q84"
+    subtitles:
+      - Volume 3
+    rating: 3
+    authors:
+      - name: Haruki Murakami
+        url: "https://en.wikipedia.org/wiki/Haruki_Murakami"
+    language: Italian
+    year: 2010
+    genres:
+      - novel
+      - magical realism
+
+  - title: Agostino
+    url: "https://it.wikipedia.org/wiki/Agostino_(romanzo)"
+    rating: 3
+    authors:
+      - name: Alberto Moravia
+        url: "https://en.wikipedia.org/wiki/Alberto_Moravia"
+    language: Italian
+    year: 1944
+    genres:
+      - novel
+  - title: Anna Karenina
+    url: "https://it.wikipedia.org/wiki/Anna_Karenina"
+    rating: 5
+    authors:
+      - name: Leo Tolstoy
+        url: "https://en.wikipedia.org/wiki/Leo_Tolstoy"
+    language: Italian
+    year: 1878
+    genres:
+      - novel
+  - title: Cujo
+    url: "https://it.wikipedia.org/wiki/Cujo"
+    rating: 5
+    authors:
+      - name: Stephen King
+        url: "https://en.wikipedia.org/wiki/Stephen_King"
+    language: Italian
+    year: 1981
+    genres:
+      - horror
+  - title: Doctor Sleep
+    url: "https://it.wikipedia.org/wiki/Doctor_Sleep"
+    rating: 5
+    authors:
+      - name: Stephen King
+        url: "https://en.wikipedia.org/wiki/Stephen_King"
+    language: Italian
+    year: 2013
+    genres:
+      - horror
+  - title: El especialista de Barcelona
+    url: "https://it.wikipedia.org/wiki/El_especialista_de_Barcelona"
+    rating: 5
+    authors:
+      - name: Aldo Busi
+        url: "https://en.wikipedia.org/wiki/Aldo_Busi"
+    language: Italian
+    year: 2012
+    genres:
+      - novel
+  - title: I promessi sposi
+    url: "https://it.wikipedia.org/wiki/I_promessi_sposi"
+    rating: 4
+    authors:
+      - name: Alessandro Manzoni
+        url: "https://en.wikipedia.org/wiki/Alessandro_Manzoni"
+    language: Italian
+    year: 1827
+    genres:
+      - historical
+      - novel
+  - title: Il gioco di Gerald
+    url: "https://it.wikipedia.org/wiki/Il_gioco_di_Gerald"
+    subtitles:
+      - Gerald's Game
+    rating: 5
+    authors:
+      - name: Stephen King
+        url: "https://en.wikipedia.org/wiki/Stephen_King"
+    language: Italian
+    year: 1992
+    genres:
+      - horror
+      - thriller
+  - title: Il giorno della civetta
+    url: "https://it.wikipedia.org/wiki/Il_giorno_della_civetta"
+    rating: 5
+    authors:
+      - name: Leonardo Sciascia
+        url: "https://en.wikipedia.org/wiki/Leonardo_Sciascia"
+    language: Italian
+    year: 1961
+    genres:
+      - crime
+      - novel
+  - title: Il grande Gatsby
+    url: "https://it.wikipedia.org/wiki/Il_grande_Gatsby"
+    subtitles:
+      - The Great Gatsby
+    rating: 3
+    authors:
+      - name: F. Scott Fitzgerald
+        url: "https://en.wikipedia.org/wiki/F._Scott_Fitzgerald"
+    language: Italian
+    year: 1925
+    genres:
+      - novel
+  - title: Il guardiano dei sogni
+    rating: 2
+    authors:
+      - name: Paolo Maurensig
+        url: "https://en.wikipedia.org/wiki/Paolo_Maurensig"
+    language: Italian
+    year: 2003
+    genres:
+      - novel
+  - title: Il migliore dei mali
+    subtitles:
+      - Volume 1
+      - L'uomo di latta
+    rating: 4
+    authors:
+      - name: Violetta Rovetto
+      - name: Marco Tarquini
+    language: Italian
+    year: 2019
+    genres:
+      - graphic novel
+  - title: Il migliore dei mali
+    subtitles:
+      - Volume 2
+      - L'uomo di latta
+    rating: 4
+    authors:
+      - name: Violetta Rovetto
+      - name: Marco Tarquini
+    language: Italian
+    year: 2020
+    genres:
+      - graphic novel
+  - title: Il mio lungo viaggio
+    rating: 3
+    authors:
+      - name: Piero Angela
+        url: "https://en.wikipedia.org/wiki/Piero_Angela"
+    language: Italian
+    year: 2017
+    genres:
+      - autobiography
+      - memoir
+  - title: Kobane Calling
+    url: "https://en.wikipedia.org/wiki/Kobane_Calling"
+    rating: 3
+    authors:
+      - name: Zerocalcare
+        url: "https://en.wikipedia.org/wiki/Zerocalcare"
+    language: Italian
+    year: 2016
+    genres:
+      - graphic novel
+  - title: La ciociara
+    url: "https://it.wikipedia.org/wiki/La_ciociara_(romanzo)"
+    rating: 5
+    authors:
+      - name: Alberto Moravia
+        url: "https://en.wikipedia.org/wiki/Alberto_Moravia"
+    language: Italian
+    year: 1957
+    genres:
+      - novel
+      - war
+  - title: La coscienza di Zeno
+    url: "https://it.wikipedia.org/wiki/La_coscienza_di_Zeno"
+    rating: 4
+    authors:
+      - name: Italo Svevo
+        url: "https://it.wikipedia.org/wiki/Italo_Svevo"
+    language: Italian
+    year: 1923
+    genres:
+      - novel
+  - title: La profezia dell'armadillo
+    url: "https://it.wikipedia.org/wiki/La_profezia_dell%27armadillo"
+    rating: 4
+    authors:
+      - name: Zerocalcare
+        url: "https://en.wikipedia.org/wiki/Zerocalcare"
+    language: Italian
+    year: 2011
+    genres:
+      - graphic novel
+  - title: Le notti di Salem
+    url: "https://it.wikipedia.org/wiki/Le_notti_di_Salem"
+    subtitles:
+      - "'Salem's Lot"
+    rating: 5
+    authors:
+      - name: Stephen King
+        url: "https://en.wikipedia.org/wiki/Stephen_King"
+    language: Italian
+    year: 1975
+    genres:
+      - horror
+  - title: Lolita
+    url: "https://en.wikipedia.org/wiki/Lolita"
+    rating: 5
+    authors:
+      - name: Vladimir Nabokov
+        url: "https://en.wikipedia.org/wiki/Vladimir_Nabokov"
+    language: Italian
+    year: 1955
+    genres:
+      - novel
+  - title: Misery
+    url: "https://it.wikipedia.org/wiki/Misery"
+    rating: 5
+    authors:
+      - name: Stephen King
+        url: "https://en.wikipedia.org/wiki/Stephen_King"
+    language: Italian
+    year: 1987
+    genres:
+      - horror
+      - thriller
+  - title: Seminario sulla gioventù
+    url: "https://it.wikipedia.org/wiki/Seminario_sulla_gioventù"
+    rating: 3
+    authors:
+      - name: Aldo Busi
+        url: "https://en.wikipedia.org/wiki/Aldo_Busi"
+    language: Italian
+    year: 1984
+    genres:
+      - novel
+  - title: Shining
+    url: "https://it.wikipedia.org/wiki/Shining"
+    subtitles:
+      - The Shining
+    rating: 5
+    authors:
+      - name: Stephen King
+        url: "https://en.wikipedia.org/wiki/Stephen_King"
+    language: Italian
+    year: 1977
+    genres:
+      - horror
+  - title: Via col vento
+    url: "https://it.wikipedia.org/wiki/Via_col_vento"
+    subtitles:
+      - Gone with the Wind
+    rating: 5
+    authors:
+      - name: Margaret Mitchell
+        url: "https://en.wikipedia.org/wiki/Margaret_Mitchell"
+    language: Italian
+    year: 1936
+    genres:
+      - historical
+      - novel
+backlog:
+  - title: American Psycho
+    url: "https://en.wikipedia.org/wiki/American_Psycho"
+    authors:
+      - name: Bret Easton Ellis
+        url: "https://en.wikipedia.org/wiki/Bret_Easton_Ellis"
+    language: English
+    year: 1991
+    genres:
+      - novel
+      - satire
+  - title: Bisogna avere i coglioni per prenderlo nel culo
+    authors:
+      - name: Aldo Busi
+        url: "https://en.wikipedia.org/wiki/Aldo_Busi"
+    language: Italian
+    year: 2006
+    genres:
+      - autobiography
+      - travel
+  - title: Boy Erased
+    url: "https://en.wikipedia.org/wiki/Boy_Erased"
+    authors:
+      - name: Garrard Conley
+        url: "https://en.wikipedia.org/wiki/Garrard_Conley"
+    language: English
+    year: 2016
+    genres:
+      - memoir
+  - title: Brokeback Mountain and Other Stories
+    url: "https://en.wikipedia.org/wiki/Close_Range:_Wyoming_Stories"
+    authors:
+      - name: Annie Proulx
+        url: "https://en.wikipedia.org/wiki/Annie_Proulx"
+    language: English
+    year: 1999
+    genres:
+      - short stories
+  - title: Candido
+    url: "https://en.wikipedia.org/wiki/Candide"
+    subtitles:
+      - Candide
+    authors:
+      - name: Voltaire
+        url: "https://en.wikipedia.org/wiki/Voltaire"
+    language: Italian
+    year: 1759
+    genres:
+      - satire
+      - novel
+  - title: Cent'anni di solitudine
+    url: "https://it.wikipedia.org/wiki/Cent%27anni_di_solitudine"
+    subtitles:
+      - One Hundred Years of Solitude
+    authors:
+      - name: Gabriel García Márquez
+        url: "https://en.wikipedia.org/wiki/Gabriel_García_Márquez"
+    language: Italian
+    year: 1967
+    genres:
+      - magical realism
+      - novel
+  - title: Cime tempestose
+    url: "https://it.wikipedia.org/wiki/Cime_tempestose"
+    subtitles:
+      - Wuthering Heights
+    authors:
+      - name: Emily Brontë
+        url: "https://en.wikipedia.org/wiki/Emily_Brontë"
+    language: Italian
+    year: 1847
+    genres:
+      - gothic
+      - novel
+  - title: Dancer from the Dance
+    url: "https://en.wikipedia.org/wiki/Dancer_from_the_Dance"
+    authors:
+      - name: Andrew Holleran
+        url: "https://en.wikipedia.org/wiki/Andrew_Holleran"
+    language: English
+    year: 1978
+    genres:
+      - gay
+      - novel
+  - title: Dubliners
+    url: "https://en.wikipedia.org/wiki/Dubliners"
+    authors:
+      - name: James Joyce
+        url: "https://en.wikipedia.org/wiki/James_Joyce"
+    language: English
+    year: 1914
+    genres:
+      - short stories
+  - title: Fahrenheit 451
+    url: "https://en.wikipedia.org/wiki/Fahrenheit_451"
+    authors:
+      - name: Ray Bradbury
+        url: "https://en.wikipedia.org/wiki/Ray_Bradbury"
+    language: English
+    year: 1953
+    genres:
+      - dystopian
+      - science fiction
+  - title: Gli occhi del drago
+    url: "https://en.wikipedia.org/wiki/The_Eyes_of_the_Dragon"
+    subtitles:
+      - The Eyes of the Dragon
+    authors:
+      - name: Stephen King
+        url: "https://en.wikipedia.org/wiki/Stephen_King"
+    language: Italian
+    year: 1987
+    genres:
+      - fantasy
+  - title: Guerra e pace
+    url: "https://it.wikipedia.org/wiki/Guerra_e_pace"
+    subtitles:
+      - War and Peace
+    authors:
+      - name: Leo Tolstoy
+        url: "https://en.wikipedia.org/wiki/Leo_Tolstoy"
+    language: Italian
+    year: 1869
+    genres:
+      - historical
+      - novel
+  - title: Holly
+    url: "https://en.wikipedia.org/wiki/Holly_(novel)"
+    authors:
+      - name: Stephen King
+        url: "https://en.wikipedia.org/wiki/Stephen_King"
+    language: English
+    year: 2023
+    genres:
+      - crime
+      - horror
+  - title: How to Survive a Horror Movie
+    authors:
+      - name: Seth Grahame-Smith
+        url: "https://en.wikipedia.org/wiki/Seth_Grahame-Smith"
+    language: English
+    year: 2007
+    genres:
+      - humour
+      - non-fiction
+  - title: I Malavoglia
+    url: "https://it.wikipedia.org/wiki/I_Malavoglia"
+    authors:
+      - name: Giovanni Verga
+        url: "https://en.wikipedia.org/wiki/Giovanni_Verga"
+    language: Italian
+    year: 1881
+    genres:
+      - novel
+  - title: Il giardino segreto
+    url: "https://it.wikipedia.org/wiki/Il_giardino_segreto_(Burnett)"
+    subtitles:
+      - The Secret Garden
+    authors:
+      - name: Frances Hodgson Burnett
+        url: "https://en.wikipedia.org/wiki/Frances_Hodgson_Burnett"
+    language: Italian
+    year: 1911
+    genres:
+      - "children's"
+      - novel
+  - title: Il richiamo della foresta
+    url: "https://it.wikipedia.org/wiki/Il_richiamo_della_foresta"
+    subtitles:
+      - The Call of the Wild
+    authors:
+      - name: Jack London
+        url: "https://en.wikipedia.org/wiki/Jack_London"
+    language: Italian
+    year: 1903
+    genres:
+      - adventure
+      - novel
+  - title: Intermezzo
+    url: "https://en.wikipedia.org/wiki/Intermezzo_(novel)"
+    authors:
+      - name: Sally Rooney
+        url: "https://en.wikipedia.org/wiki/Sally_Rooney"
+    language: English
+    year: 2024
+    genres:
+      - novel
+  - title: "L'uomo in fuga"
+    url: "https://it.wikipedia.org/wiki/L%27uomo_in_fuga"
+    subtitles:
+      - The Running Man
+    authors:
+      - name: Stephen King
+        url: "https://en.wikipedia.org/wiki/Stephen_King"
+      - name: Richard Bachman
+        url: "https://en.wikipedia.org/wiki/Richard_Bachman"
+    language: Italian
+    year: 1982
+    genres:
+      - dystopian
+      - science fiction
+      - thriller
+  - title: La canzone di Susannah
+    url: "https://en.wikipedia.org/wiki/The_Dark_Tower_VI:_Song_of_Susannah"
+    subtitles:
+      - "The Dark Tower VI: Song of Susannah"
+    authors:
+      - name: Stephen King
+        url: "https://en.wikipedia.org/wiki/Stephen_King"
+    language: Italian
+    year: 2004
+    genres:
+      - dark fantasy
+      - science fiction
+  - title: La freccia nera
+    url: "https://en.wikipedia.org/wiki/The_Black_Arrow:_A_Tale_of_the_Two_Roses"
+    subtitles:
+      - The Black Arrow
+    authors:
+      - name: Robert Louis Stevenson
+        url: "https://en.wikipedia.org/wiki/Robert_Louis_Stevenson"
+    language: Italian
+    year: 1888
+    genres:
+      - adventure
+      - historical
+  - title: La leggenda del vento
+    url: "https://en.wikipedia.org/wiki/The_Wind_Through_the_Keyhole"
+    subtitles:
+      - "The Dark Tower: The Wind Through the Keyhole"
+    authors:
+      - name: Stephen King
+        url: "https://en.wikipedia.org/wiki/Stephen_King"
+    language: Italian
+    year: 2012
+    genres:
+      - dark fantasy
+      - science fiction
+  - title: La metamorfosi
+    url: "https://it.wikipedia.org/wiki/La_metamorfosi"
+    subtitles:
+      - The Metamorphosis
+    authors:
+      - name: Franz Kafka
+        url: "https://en.wikipedia.org/wiki/Franz_Kafka"
+    language: Italian
+    year: 1915
+    genres:
+      - novella
+  - title: La Storia
+    url: "https://it.wikipedia.org/wiki/La_Storia_(romanzo)"
+    authors:
+      - name: Elsa Morante
+        url: "https://en.wikipedia.org/wiki/Elsa_Morante"
+    language: Italian
+    year: 1974
+    genres:
+      - historical
+      - novel
+  - title: La Torre Nera
+    url: "https://en.wikipedia.org/wiki/The_Dark_Tower_(novel)"
+    subtitles:
+      - "The Dark Tower VII: The Dark Tower"
+    authors:
+      - name: Stephen King
+        url: "https://en.wikipedia.org/wiki/Stephen_King"
+    language: Italian
+    year: 2004
+    genres:
+      - dark fantasy
+      - science fiction
+  - title: Mrs Dalloway
+    url: "https://en.wikipedia.org/wiki/Mrs_Dalloway"
+    authors:
+      - name: Virginia Woolf
+        url: "https://en.wikipedia.org/wiki/Virginia_Woolf"
+    language: English
+    year: 1925
+    genres:
+      - novel
+  - title: On Palestine
+    authors:
+      - name: Noam Chomsky
+        url: "https://en.wikipedia.org/wiki/Noam_Chomsky"
+      - name: Ilan Pappé
+        url: "https://en.wikipedia.org/wiki/Ilan_Pappé"
+    language: English
+    year: 2015
+    genres:
+      - non-fiction
+      - politics
+  - title: On the Road
+    url: "https://en.wikipedia.org/wiki/On_the_Road"
+    authors:
+      - name: Jack Kerouac
+        url: "https://en.wikipedia.org/wiki/Jack_Kerouac"
+    language: English
+    year: 1957
+    genres:
+      - novel
+  - title: "Papà Gambalunga"
+    url: "https://it.wikipedia.org/wiki/Papà_Gambalunga"
+    subtitles:
+      - Daddy-Long-Legs
+    authors:
+      - name: Jean Webster
+        url: "https://en.wikipedia.org/wiki/Jean_Webster"
+    language: Italian
+    year: 1912
+    genres:
+      - novel
+      - romance
+  - title: Persepolis
+    url: "https://en.wikipedia.org/wiki/Persepolis_(comics)"
+    authors:
+      - name: Marjane Satrapi
+        url: "https://en.wikipedia.org/wiki/Marjane_Satrapi"
+    language: English
+    year: 2000
+    genres:
+      - autobiography
+      - graphic novel
+  - title: Piccole donne
+    url: "https://it.wikipedia.org/wiki/Piccole_donne"
+    subtitles:
+      - Little Women
+    authors:
+      - name: Louisa May Alcott
+        url: "https://en.wikipedia.org/wiki/Louisa_May_Alcott"
+    language: Italian
+    year: 1868
+    genres:
+      - novel
+  - title: Shuggie Bain
+    url: "https://en.wikipedia.org/wiki/Shuggie_Bain"
+    authors:
+      - name: Douglas Stuart
+        url: "https://en.wikipedia.org/wiki/Douglas_Stuart_(writer)"
+    language: English
+    year: 2020
+    genres:
+      - novel
+  - title: Vita standard di un venditore provvisorio di collant
+    url: "https://it.wikipedia.org/wiki/Vita_standard_di_un_venditore_provvisorio_di_collant"
+    authors:
+      - name: Aldo Busi
+        url: "https://en.wikipedia.org/wiki/Aldo_Busi"
+    language: Italian
+    year: 1985
+    genres:
+      - novel
+  - title: You Like It Darker
+    url: "https://en.wikipedia.org/wiki/You_Like_It_Darker"
+    authors:
+      - name: Stephen King
+        url: "https://en.wikipedia.org/wiki/Stephen_King"
+    language: English
+    year: 2024
+    genres:
+      - horror
+      - short stories

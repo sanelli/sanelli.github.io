@@ -20,6 +20,9 @@
   {%- assign year_id = group.label | append: "" | slugify | prepend: "year-" -%}
   {% include section-rail-link.html id=year_id label=group.label %}
   {%- endfor -%}
+  {%- if data.past and data.past.size > 0 -%}
+  {% include section-rail-link.html id="section-past" label="Past" %}
+  {%- endif -%}
   {%- if data.backlog and data.backlog.size > 0 -%}
   {% include section-rail-link.html id="section-backlog" label="Backlog" %}
   {%- endif -%}
@@ -41,6 +44,13 @@
   {% include_cached media-table.html kind=kind entries=group.entries mode="logged" %}
 </div>
 {%- endfor -%}
+
+{%- if data.past and data.past.size > 0 -%}
+<div class="media-section" id="section-past">
+  <h2>Past</h2>
+  {% include_cached media-table.html kind=kind entries=data.past mode="plain" %}
+</div>
+{%- endif -%}
 
 {%- if data.backlog and data.backlog.size > 0 -%}
 <div class="media-section" id="section-backlog">
