@@ -884,6 +884,17 @@ years:
         genres:
           - novel
 past:
+  - title: "1984"
+    url: "https://it.wikipedia.org/wiki/1984"
+    rating: 3
+    authors:
+      - name: George Orwell
+        url: "https://en.wikipedia.org/wiki/George_Orwell"
+    language: Italian
+    year: 1949
+    genres:
+      - dystopian
+      - novel
   - title: "1Q84"
     url: "https://it.wikipedia.org/wiki/1Q84"
     subtitles:
@@ -1030,6 +1041,17 @@ past:
     year: 2003
     genres:
       - novel
+  - title: Il ladro di anime
+    subtitles:
+      - Der Seelenbrecher
+    rating: 2
+    authors:
+      - name: Sebastian Fitzek
+        url: "https://en.wikipedia.org/wiki/Sebastian_Fitzek"
+    language: Italian
+    year: 2008
+    genres:
+      - thriller
   - title: Il migliore dei mali
     subtitles:
       - Volume 1
@@ -1064,6 +1086,19 @@ past:
     genres:
       - autobiography
       - memoir
+  - title: Il miracolo di padre Malachia
+    url: "https://it.wikipedia.org/wiki/Il_miracolo_di_padre_Malachia"
+    subtitles:
+      - Father Malachy's Miracle
+    rating: 1
+    authors:
+      - name: Bruce Marshall
+        url: "https://en.wikipedia.org/wiki/Bruce_Marshall_(writer)"
+    language: Italian
+    year: 1931
+    genres:
+      - novel
+      - satire
   - title: Kobane Calling
     url: "https://en.wikipedia.org/wiki/Kobane_Calling"
     rating: 3
@@ -1095,6 +1130,30 @@ past:
     year: 1923
     genres:
       - novel
+  - title: La fattoria degli animali
+    url: "https://it.wikipedia.org/wiki/La_fattoria_degli_animali"
+    subtitles:
+      - Animal Farm
+    rating: 2
+    authors:
+      - name: George Orwell
+        url: "https://en.wikipedia.org/wiki/George_Orwell"
+    language: Italian
+    year: 1945
+    genres:
+      - allegory
+      - satire
+  - title: La Jolanda furiosa
+    url: "https://it.wikipedia.org/wiki/La_Jolanda_furiosa"
+    rating: 2
+    authors:
+      - name: Luciana Littizzetto
+        url: "https://en.wikipedia.org/wiki/Luciana_Littizzetto"
+    language: Italian
+    year: 2008
+    genres:
+      - comedy
+      - humour
   - title: La profezia dell'armadillo
     url: "https://it.wikipedia.org/wiki/La_profezia_dell%27armadillo"
     rating: 4
@@ -1105,6 +1164,18 @@ past:
     year: 2011
     genres:
       - graphic novel
+  - title: Le cronache di Narnia
+    url: "https://it.wikipedia.org/wiki/Le_cronache_di_Narnia"
+    subtitles:
+      - The Chronicles of Narnia
+    rating: 1
+    authors:
+      - name: C. S. Lewis
+        url: "https://en.wikipedia.org/wiki/C._S._Lewis"
+    language: Italian
+    year: 1950
+    genres:
+      - fantasy
   - title: Le notti di Salem
     url: "https://it.wikipedia.org/wiki/Le_notti_di_Salem"
     subtitles:
@@ -1138,6 +1209,16 @@ past:
     genres:
       - horror
       - thriller
+  - title: Se questo è un uomo
+    url: "https://it.wikipedia.org/wiki/Se_questo_%C3%A8_un_uomo"
+    rating: 5
+    authors:
+      - name: Primo Levi
+        url: "https://en.wikipedia.org/wiki/Primo_Levi"
+    language: Italian
+    year: 1947
+    genres:
+      - memoir
   - title: Seminario sulla gioventù
     url: "https://it.wikipedia.org/wiki/Seminario_sulla_gioventù"
     rating: 3
@@ -1160,6 +1241,17 @@ past:
     year: 1977
     genres:
       - horror
+  - title: Trent'anni e una chiacchierata con papà
+    url: "https://it.wikipedia.org/wiki/Trent%27anni_e_una_chiacchierata_con_pap%C3%A0"
+    rating: 3
+    authors:
+      - name: Tiziano Ferro
+        url: "https://en.wikipedia.org/wiki/Tiziano_Ferro"
+    language: Italian
+    year: 2010
+    genres:
+      - autobiography
+      - memoir
   - title: Via col vento
     url: "https://it.wikipedia.org/wiki/Via_col_vento"
     subtitles:
