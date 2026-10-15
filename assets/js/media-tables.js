@@ -82,28 +82,76 @@
     if (pageIndex >= total) pageIndex = total - 1;
   }
 
-  function readPageIndexFromUrl() {
+  function urlSearchParams() {
     try {
-      var raw = new URLSearchParams(window.location.search).get("page");
-      if (!raw) return 0;
-      var num = parseInt(raw, 10);
-      if (isNaN(num) || num < 1) return 0;
-      return num - 1;
+      return new URLSearchParams(window.location.search);
     } catch (err) {
-      return 0;
+      return new URLSearchParams();
     }
   }
 
-  function syncPageToUrl(filtering) {
-    if (!pageSize && !hasBacklogPage) return;
+  function readPageIndexFromUrl() {
+    var raw = urlSearchParams().get("page");
+    if (!raw) return 0;
+    var num = parseInt(raw, 10);
+    if (isNaN(num) || num < 1) return 0;
+    return num - 1;
+  }
+
+  function readRatingsFromUrl() {
+    var raw = urlSearchParams().get("rating");
+    if (!raw) return [];
+    return raw
+      .split(",")
+      .map(function (part) {
+        return parseInt(part, 10);
+      })
+      .filter(function (value) {
+        return value >= 1 && value <= 5;
+      });
+  }
+
+  function restoreFiltersFromUrl() {
+    var params = urlSearchParams();
+    var searchInput = document.querySelector(".media-search");
+    if (searchInput && params.has("q")) {
+      searchInput.value = params.get("q") || "";
+    }
+
+    var ratings = readRatingsFromUrl();
+    var root = document.querySelector("[data-media-rating-filter]");
+    if (root && ratings.length) {
+      Array.prototype.forEach.call(root.querySelectorAll('input[type="checkbox"]'), function (input) {
+        var value = parseInt(input.value, 10);
+        input.checked = ratings.indexOf(value) !== -1;
+      });
+    }
+  }
+
+  function syncFiltersToUrl(filtering) {
     try {
       var url = new URL(window.location.href);
+      var searchInput = document.querySelector(".media-search");
+      var query = searchInput ? searchInput.value.trim() : "";
+      var ratings = selectedRatings()
+        .slice()
+        .sort(function (a, b) {
+          return b - a;
+        });
+
+      if (query) url.searchParams.set("q", query);
+      else url.searchParams.delete("q");
+
+      if (ratings.length) url.searchParams.set("rating", ratings.join(","));
+      else url.searchParams.delete("rating");
+
       var total = pageCount();
       if (filtering || pageIndex <= 0 || total <= 1) {
         url.searchParams.delete("page");
       } else {
         url.searchParams.set("page", String(pageIndex + 1));
       }
+
       var next = url.pathname + url.search + url.hash;
       var current = window.location.pathname + window.location.search + window.location.hash;
       if (next !== current) history.replaceState(null, "", next);
@@ -366,7 +414,7 @@
     }
 
     updatePagePagination(filtering);
-    syncPageToUrl(filtering);
+    syncFiltersToUrl(filtering);
     refreshMonthBreaks();
     notifyVisibilityChange();
     if (typeof window.applyTravelsMapFilter === "function") {
@@ -388,6 +436,8 @@
     }
     hasBacklogPage = Boolean(document.getElementById("section-backlog"));
     if (pageSize > 0) collectPageUnits();
+
+    restoreFiltersFromUrl();
     if (pageSize > 0 || hasBacklogPage) {
       pageIndex = readPageIndexFromUrl();
       clampPageIndex();
@@ -398,7 +448,9 @@
     initRatingCombo();
     observeCovers();
 
-    if (pageSize > 0 || hasBacklogPage) applyFilters();
+    if (pageSize > 0 || hasBacklogPage || searchInput || document.querySelector("[data-media-rating-filter]")) {
+      applyFilters();
+    }
   });
 
   function wikiImageEndpoint(pageUrl) {
