@@ -1,6 +1,31 @@
 years:
   - label: 2026
     entries:
+      - title: Shum
+        url: "https://en.wikipedia.org/wiki/Shum_(song)"
+        subtitles:
+          - Single
+        date: 2026-10-15
+        rating: 5
+        artists:
+          - name: Go_A
+            url: "https://en.wikipedia.org/wiki/Go_A"
+        year: 2021
+        genres:
+          - techno
+          - folk
+      - title: Bara Bada Bastu
+        url: "https://en.wikipedia.org/wiki/Bara_bada_bastu"
+        subtitles:
+          - Single
+        date: 2026-10-15
+        rating: 5
+        artists:
+          - name: KAJ
+            url: "https://en.wikipedia.org/wiki/KAJ_(group)"
+        year: 2025
+        genres:
+          - bastupop
       - title: The Spirit Room
         url: "https://en.wikipedia.org/wiki/The_Spirit_Room"
         date: 2026-10-15
