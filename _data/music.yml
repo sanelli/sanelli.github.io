@@ -1,6 +1,17 @@
 years:
   - label: 2026
     entries:
+      - title: The Best Damn Thing
+        url: "https://en.wikipedia.org/wiki/The_Best_Damn_Thing"
+        date: 2026-10-15
+        rating: 3
+        artists:
+          - name: Avril Lavigne
+            url: "https://en.wikipedia.org/wiki/Avril_Lavigne"
+        year: 2007
+        genres:
+          - pop-punk
+          - pop rock
       - title: Ricky Martin
         url: "https://en.wikipedia.org/wiki/Ricky_Martin_(1999_album)"
         date: 2026-10-14
