@@ -1,6 +1,17 @@
 years:
   - label: 2026
     entries:
+      - title: The Spirit Room
+        url: "https://en.wikipedia.org/wiki/The_Spirit_Room"
+        date: 2026-10-15
+        rating: 2
+        artists:
+          - name: Michelle Branch
+            url: "https://en.wikipedia.org/wiki/Michelle_Branch"
+        year: 2001
+        genres:
+          - alternative rock
+          - pop rock
       - title: The Best Damn Thing
         url: "https://en.wikipedia.org/wiki/The_Best_Damn_Thing"
         date: 2026-10-15
