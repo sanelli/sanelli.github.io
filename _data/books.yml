@@ -885,6 +885,7 @@ years:
           - novel
 past:
   - title: "1984"
+    cover: "https://upload.wikimedia.org/wikipedia/commons/5/51/1984_first_edition_cover.jpg"
     url: "https://it.wikipedia.org/wiki/1984"
     rating: 3
     authors:
@@ -896,6 +897,7 @@ past:
       - dystopian
       - novel
   - title: "1Q84"
+    cover: "https://upload.wikimedia.org/wikipedia/en/8/8e/1Q84bookcover.png"
     url: "https://it.wikipedia.org/wiki/1Q84"
     subtitles:
       - Volume 1
@@ -909,6 +911,7 @@ past:
       - novel
       - magical realism
   - title: "1Q84"
+    cover: "https://upload.wikimedia.org/wikipedia/en/8/8e/1Q84bookcover.png"
     url: "https://it.wikipedia.org/wiki/1Q84"
     subtitles:
       - Volume 2
@@ -922,6 +925,7 @@ past:
       - novel
       - magical realism
   - title: "1Q84"
+    cover: "https://upload.wikimedia.org/wikipedia/en/8/8e/1Q84bookcover.png"
     url: "https://it.wikipedia.org/wiki/1Q84"
     subtitles:
       - Volume 3
@@ -956,8 +960,9 @@ past:
     genres:
       - novel
   - title: Cujo
+    cover: "https://upload.wikimedia.org/wikipedia/commons/7/75/Cujo_%281981%29_front_cover%2C_first_edition.jpg"
     url: "https://it.wikipedia.org/wiki/Cujo"
-    rating: 5
+    rating: 3
     authors:
       - name: Stephen King
         url: "https://en.wikipedia.org/wiki/Stephen_King"
@@ -966,8 +971,9 @@ past:
     genres:
       - horror
   - title: Doctor Sleep
+    cover: "https://upload.wikimedia.org/wikipedia/en/e/e9/Doctor_Sleep.jpg"
     url: "https://it.wikipedia.org/wiki/Doctor_Sleep"
-    rating: 5
+    rating: 4
     authors:
       - name: Stephen King
         url: "https://en.wikipedia.org/wiki/Stephen_King"
@@ -976,6 +982,7 @@ past:
     genres:
       - horror
   - title: El especialista de Barcelona
+    cover: /assets/images/covers/el-especialista-de-barcelona.jpg
     url: "https://it.wikipedia.org/wiki/El_especialista_de_Barcelona"
     rating: 5
     authors:
@@ -997,10 +1004,11 @@ past:
       - historical
       - novel
   - title: Il gioco di Gerald
+    cover: "https://upload.wikimedia.org/wikipedia/en/b/b4/GeraldsGame.jpg"
     url: "https://it.wikipedia.org/wiki/Il_gioco_di_Gerald"
     subtitles:
       - Gerald's Game
-    rating: 5
+    rating: 4
     authors:
       - name: Stephen King
         url: "https://en.wikipedia.org/wiki/Stephen_King"
@@ -1033,6 +1041,7 @@ past:
     genres:
       - novel
   - title: Il guardiano dei sogni
+    cover: /assets/images/covers/il-guardiano-dei-sogni.jpg
     rating: 2
     authors:
       - name: Paolo Maurensig
@@ -1042,6 +1051,8 @@ past:
     genres:
       - novel
   - title: Il ladro di anime
+    cover: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Seelenbrecher_Foto_Promo.jpg"
+    url: "https://de.wikipedia.org/wiki/Der_Seelenbrecher"
     subtitles:
       - Der Seelenbrecher
     rating: 2
@@ -1053,6 +1064,7 @@ past:
     genres:
       - thriller
   - title: Il migliore dei mali
+    cover: /assets/images/covers/il-migliore-dei-mali-vol-1.jpg
     subtitles:
       - Volume 1
       - L'uomo di latta
@@ -1065,6 +1077,7 @@ past:
     genres:
       - graphic novel
   - title: Il migliore dei mali
+    cover: /assets/images/covers/il-migliore-dei-mali-vol-2.jpg
     subtitles:
       - Volume 2
       - L'uomo di latta
@@ -1077,6 +1090,7 @@ past:
     genres:
       - graphic novel
   - title: Il mio lungo viaggio
+    cover: /assets/images/covers/il-mio-lungo-viaggio.jpg
     rating: 3
     authors:
       - name: Piero Angela
@@ -1087,6 +1101,7 @@ past:
       - autobiography
       - memoir
   - title: Il miracolo di padre Malachia
+    cover: "https://upload.wikimedia.org/wikipedia/en/8/89/Father_malachy.jpg"
     url: "https://it.wikipedia.org/wiki/Il_miracolo_di_padre_Malachia"
     subtitles:
       - Father Malachy's Miracle
@@ -1100,6 +1115,7 @@ past:
       - novel
       - satire
   - title: Kobane Calling
+    cover: "https://upload.wikimedia.org/wikipedia/it/a/a7/Kobane_Calling.jpg"
     url: "https://en.wikipedia.org/wiki/Kobane_Calling"
     rating: 3
     authors:
@@ -1110,6 +1126,7 @@ past:
     genres:
       - graphic novel
   - title: La ciociara
+    cover: "https://upload.wikimedia.org/wikipedia/en/b/b5/LaCiociara.jpg"
     url: "https://it.wikipedia.org/wiki/La_ciociara_(romanzo)"
     rating: 5
     authors:
@@ -1144,6 +1161,7 @@ past:
       - allegory
       - satire
   - title: La Jolanda furiosa
+    cover: /assets/images/covers/la-jolanda-furiosa.jpg
     url: "https://it.wikipedia.org/wiki/La_Jolanda_furiosa"
     rating: 2
     authors:
@@ -1199,6 +1217,7 @@ past:
     genres:
       - novel
   - title: Misery
+    cover: "https://upload.wikimedia.org/wikipedia/commons/1/14/Misery_%281987%29_front_cover%2C_first_edition.jpg"
     url: "https://it.wikipedia.org/wiki/Misery"
     rating: 5
     authors:
@@ -1220,6 +1239,7 @@ past:
     genres:
       - memoir
   - title: Seminario sulla gioventù
+    cover: /assets/images/covers/seminario-sulla-gioventu.jpg
     url: "https://it.wikipedia.org/wiki/Seminario_sulla_gioventù"
     rating: 3
     authors:
@@ -1230,6 +1250,7 @@ past:
     genres:
       - novel
   - title: Shining
+    cover: "https://upload.wikimedia.org/wikipedia/commons/0/09/The_Shining_%281977%29_front_cover%2C_first_edition.jpg"
     url: "https://it.wikipedia.org/wiki/Shining"
     subtitles:
       - The Shining
@@ -1242,6 +1263,7 @@ past:
     genres:
       - horror
   - title: Trent'anni e una chiacchierata con papà
+    cover: /assets/images/covers/trent-anni-e-una-chiacchierata-con-papa.jpg
     url: "https://it.wikipedia.org/wiki/Trent%27anni_e_una_chiacchierata_con_pap%C3%A0"
     rating: 3
     authors:
