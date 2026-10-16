@@ -1,6 +1,18 @@
 years:
   - label: 2026
     entries:
+      - title: 200 km/h in the Wrong Lane
+        url: "https://en.wikipedia.org/wiki/200_km/h_in_the_Wrong_Lane"
+        date: 2026-10-16
+        rating: 4
+        artists:
+          - name: t.A.T.u.
+            url: "https://en.wikipedia.org/wiki/t.A.T.u."
+        year: 2002
+        genres:
+          - pop rock
+          - electronic
+          - europop
       - title: Queen of Kings
         url: "https://en.wikipedia.org/wiki/Queen_of_Kings_(song)"
         subtitles:
