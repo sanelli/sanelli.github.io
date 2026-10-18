@@ -132,6 +132,11 @@ blockquote {
   border-left-color: var(--border-subtle);
 }
 
+blockquote.verse p {
+  margin: 0;
+  line-height: 1.55;
+}
+
 .svg-icon {
   fill: var(--text-muted);
 }
