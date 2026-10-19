@@ -1,6 +1,16 @@
 years:
   - label: 2026
     entries:
+      - title: Masini +1 30th Anniversary
+        url: "https://it.wikipedia.org/wiki/Masini_+1_30th_Anniversary"
+        date: 2026-10-19
+        rating: 4
+        artists:
+          - name: Marco Masini
+            url: "https://en.wikipedia.org/wiki/Marco_Masini"
+        year: 2020
+        genres:
+          - pop
       - title: 200 km/h in the Wrong Lane
         url: "https://en.wikipedia.org/wiki/200_km/h_in_the_Wrong_Lane"
         date: 2026-10-16
