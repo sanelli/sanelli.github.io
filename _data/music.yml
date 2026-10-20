@@ -1,6 +1,18 @@
 years:
   - label: 2026
     entries:
+      - title: Moon Safari
+        url: "https://en.wikipedia.org/wiki/Moon_Safari"
+        date: 2026-10-20
+        rating: 2
+        artists:
+          - name: Air
+            url: "https://en.wikipedia.org/wiki/Air_(French_band)"
+        year: 1998
+        genres:
+          - downtempo
+          - electronica
+          - lounge
       - title: Masini +1 30th Anniversary
         url: "https://it.wikipedia.org/wiki/Masini_+1_30th_Anniversary"
         date: 2026-10-19
