@@ -1,6 +1,19 @@
 years:
   - label: 2026
     entries:
+      - title: Gran Turismo
+        url: "https://en.wikipedia.org/wiki/Gran_Turismo_(album)"
+        date: 2026-10-22
+        rating: 4
+        artists:
+          - name: The Cardigans
+            url: "https://en.wikipedia.org/wiki/The_Cardigans"
+        year: 1998
+        genres:
+          - trip hop
+          - pop rock
+          - electronic rock
+          - electronica
       - title: Moon Safari
         url: "https://en.wikipedia.org/wiki/Moon_Safari"
         date: 2026-10-20
