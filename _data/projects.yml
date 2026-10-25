@@ -10,16 +10,16 @@
     work happens at compile time. Attributes configure the mapper without changing
     source or target types; missing nested maps are generated for you. Methods can
     live on any partial class, including static types and extension methods.
-    Companion packages cover Google.Protobuf well-known types and MongoDB BSON.
-    Recent releases add `IQueryable` projection, polymorphic mapping, reference
-    and cycle handling, and dependency-injection registration.
+    Opt-in generator well-known strategies cover Google.Protobuf, MongoDB BSON,
+    and OneOf. Recent releases add C# interceptor inline mapping, `IQueryable`
+    projection, reference and cycle handling, and dependency-injection registration.
   links:
     - text: GitHub
       url: https://github.com/sanelli/Mappa
     - text: NuGet
       url: https://www.nuget.org/packages/Mappa
-    - text: Release 10.2.0
-      url: https://github.com/sanelli/Mappa/releases/tag/v10.2.0
+    - text: Release 10.3.0
+      url: https://github.com/sanelli/Mappa/releases/tag/v10.3.0
   tags: [C#, source-generator, csharp, dotnet]
 
 - slug: todo-analyzer

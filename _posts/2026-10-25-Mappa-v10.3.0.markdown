@@ -1,0 +1,85 @@
+---
+layout: post
+title:  "Mappa v10.3.0"
+date:   2026-10-25 18:00:00 +0100
+categories: projects csharp nuget source-generator mappa
+tags: [project]
+---
+
+A new version of [Mappa](https://github.com/sanelli/Mappa) (v10.3.0) has been released.
+
+Mappa **10.3.0** expands mapping control with **C# interceptor inline mapping**, field mapping, constructor selection, null substitution, value transformers, preferred-interface resolution, and empty-to-empty mapping. It also moves Bson/Protobuf (and OneOf) support into **generator well-known strategies**, and removes the standalone Dependency packages.
+**Full changelog:** [v10.2.0...v10.3.0](https://github.com/sanelli/Mappa/compare/v10.2.0...v10.3.0)
+
+## Breaking changes
+When upgrading from 10.2.0, see the [upgrade guide](https://github.com/sanelli/Mappa/blob/main/Documentation/upgrade.md).
+
+### `Mappa.Dependency.Bson` / `Mappa.Dependency.Protobuf` packages removed
+- **Dependency packages are no longer published** ([#359](https://github.com/sanelli/Mappa/issues/359), [#364](https://github.com/sanelli/Mappa/pull/364))
+  - Remove NuGet references to `Mappa.Dependency.Bson`, `Mappa.Dependency.Protobuf`, and their `.DependencyInjection` companions.
+  - Reference [MongoDB.Bson](https://www.nuget.org/packages/MongoDB.Bson/) and/or [Google.Protobuf](https://www.nuget.org/packages/Google.Protobuf/) directly.
+  - Enable well-known mappings with `BsonWellKnownTypes` / `ProtobufWellKnownTypes` on `[MappaSettings]` (or `.editorconfig`). These are **opt-in** (default off).
+  - Remove `[MappaDependency]` fields that pointed at `MappaBsonMapper` / `MappaProtobufMapper`, and stop calling `RegisterMappaBson` / `RegisterMappaProtobuf`.
+
+### Deterministic preferred collection/dictionary interface selection
+- **First-match `AllInterfaces` walk replaced by deterministic rules** ([#129](https://github.com/sanelli/Mappa/issues/129), [#348](https://github.com/sanelli/Mappa/pull/348))
+  - When a type implements multiple closed versions of the same open interface family, selection order is: preference attribute → unique usable implicit implementation → unique usable explicit implementation → fall-through.
+  - Mappings that previously depended on incidental first-match order may change. Use `[MappaSourcePreferredInterfaceImplementation]` / `[MappaTargetPreferredInterfaceImplementation]` when you need a specific closed interface (diagnostics **MP00079–MP00085**).
+
+## What's new
+
+### Highlight: interceptor inline mapping
+- **`[MappaInterceptor]` + C# interceptors** ([#334](https://github.com/sanelli/Mappa/issues/334), [#372](https://github.com/sanelli/Mappa/pull/372)) — Tag a `partial` class to emit interceptable `MappaMap` (or renamed) instance stubs and per–call-site interceptor methods for inline mapping.
+  - Configure call sites with `With(...)` (`new` arguments only).
+  - Requires `MappaInterceptorsNamespaces` (and related interceptor namespace MSBuild/editorconfig settings).
+  - May coexist with `[Mappa]` on the same class (separate generator entry points; shared strategy chain where possible).
+  - `[MappaInterceptorMethodDependency]` marks methods usable as dependencies on the interceptor path only.
+  - Not supported for `IQueryable` / `[MappaProjection]` paths. Diagnostics **MP00119–MP00127**.
+
+### New features
+- **Map instance fields** ([#73](https://github.com/sanelli/Mappa/issues/73), [#368](https://github.com/sanelli/Mappa/pull/368)) — Opt in with `MapSourceFields` / `MapTargetFields` so instance fields participate alongside properties (property preferred when both match).
+- **`[MappaUseConstructor]`** ([#155](https://github.com/sanelli/Mappa/issues/155), [#352](https://github.com/sanelli/Mappa/pull/352)) — Force which constructor the generator uses for a mapping.
+- **Explicit interface properties** ([#157](https://github.com/sanelli/Mappa/issues/157), [#349](https://github.com/sanelli/Mappa/pull/349)) — Map to/from properties declared via explicit interface implementation.
+- **Empty-to-empty mapping** ([#175](https://github.com/sanelli/Mappa/issues/175), [#369](https://github.com/sanelli/Mappa/pull/369)) — Map empty source types to empty targets via an empty constructor path.
+- **Null substitution** ([#357](https://github.com/sanelli/Mappa/issues/357), [#367](https://github.com/sanelli/Mappa/pull/367)) — Substitute values for null members during mapping.
+- **Value transformers** ([#358](https://github.com/sanelli/Mappa/issues/358), [#366](https://github.com/sanelli/Mappa/pull/366)) — Apply transformers at global, map, or member scope (`[MappaTransformer]` / `[MappaApplyTransformer]`).
+
+### Polymorphism and projections
+- **Protobuf `oneof` polymorphism** ([#89](https://github.com/sanelli/Mappa/issues/89), [#365](https://github.com/sanelli/Mappa/pull/365)) — Polymorphic mapping via protobuf `oneof` for both source and target.
+- **`IQueryable` projection follow-ups** ([#283](https://github.com/sanelli/Mappa/issues/283), [#350](https://github.com/sanelli/Mappa/pull/350)) — Nested collections, Guid/tuple handling, and `[MappaProjection]` polish after the 10.2.0 projection work.
+
+### Well-known types and ecosystem
+- **Generator well-known Bson and Protobuf strategies** ([#359](https://github.com/sanelli/Mappa/issues/359), [#364](https://github.com/sanelli/Mappa/pull/364)) — Replace Dependency packages with opt-in generator strategies (see [Breaking changes](#breaking-changes)).
+- **BSON `Decimal128` ↔ `decimal`** ([#354](https://github.com/sanelli/Mappa/issues/354)) — Well-known Decimal128 scalar mapping (ships with the Bson well-known work).
+- **OneOf discriminated unions** ([#353](https://github.com/sanelli/Mappa/issues/353), [#370](https://github.com/sanelli/Mappa/pull/370)) — Generator well-known support for OneOf types.
+
+### Release and CI
+- **`.slnx` migration and enforceable status checks** ([#342](https://github.com/sanelli/Mappa/issues/342), [#343](https://github.com/sanelli/Mappa/issues/343), [#344](https://github.com/sanelli/Mappa/pull/344)) — Solution format and CI check-name fixes for branch protection.
+- **Dependency refresh** ([#345](https://github.com/sanelli/Mappa/issues/345), [#373](https://github.com/sanelli/Mappa/pull/373)) — Outdated NuGet packages updated (including Roslyn 5.9, xunit 4, SonarAnalyzer); `coverlet.MTP` 10.1.0 with product-assembly include filters; method coverage restored to 100%.
+
+## What's next
+This is a tentative and non-exhaustive roadmap for the **11.x** line. Milestone details live on GitHub; summaries below group the planned work by release.
+
+### 11.0.0 — .NET 11 platform upgrade
+- [#360](https://github.com/sanelli/Mappa/issues/360) — Migrate the full solution (packages, tests, samples, AOT, CI) to .NET 11 and the matching SDK/language surface, with no feature work beyond what the TFM upgrade requires.
+
+### 11.1.0 — C# / .NET union types
+- [#83](https://github.com/sanelli/Mappa/issues/83), [#92](https://github.com/sanelli/Mappa/issues/92) — Discriminated union / type-union support in mapping and polymorphism.
+
+### 11.2.0 — Performance, debugging, and maintainability
+- [#141](https://github.com/sanelli/Mappa/issues/141) — Improved debug feature
+- [#314](https://github.com/sanelli/Mappa/issues/314) — Investigate Mapperly/Mapster benchmark wins and `FastCollections` behaviour
+- [#324](https://github.com/sanelli/Mappa/issues/324) — Reduce `Collect()` fan-out and document incremental host behavior
+- [#326](https://github.com/sanelli/Mappa/issues/326) — Optimize hot paths (`TypeSymbolExtensions`, constructor detection, attribute helpers)
+- [#351](https://github.com/sanelli/Mappa/issues/351) — Reduce generator CRAP/CC and close major coverage gaps
+- [#371](https://github.com/sanelli/Mappa/issues/371) — Add Facet as another mapper for benchmark comparisons
+
+### 11.3.0 — Advanced mapping semantics and ecosystem
+- [#246](https://github.com/sanelli/Mappa/issues/246) — Reverse / bidirectional mapping
+- [#247](https://github.com/sanelli/Mappa/issues/247) — Map into existing target / merge semantics
+- [#248](https://github.com/sanelli/Mappa/issues/248) — Generic mapping methods
+- [#251](https://github.com/sanelli/Mappa/issues/251) — Conditional mapping / preconditions for members
+- [#256](https://github.com/sanelli/Mappa/issues/256) — Collection merge semantics and map into existing collections
+- [#346](https://github.com/sanelli/Mappa/issues/346), [#347](https://github.com/sanelli/Mappa/issues/347) — Apache Avro and Thrift support at Protobuf parity
+- [#355](https://github.com/sanelli/Mappa/issues/355), [#356](https://github.com/sanelli/Mappa/issues/356) — Well-known NodaTime and LanguageExt Option/Maybe
+- [#43](https://github.com/sanelli/Mappa/issues/43) — Extract test abstractions from `Mappa.Generator.Tests`
