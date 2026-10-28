@@ -1,6 +1,16 @@
 years:
   - label: 2026
     entries:
+      - title: Something Special
+        url: "https://en.wikipedia.org/wiki/Something_Special_(Dolly_Parton_album)"
+        date: 2026-10-28
+        rating: 4
+        artists:
+          - name: Dolly Parton
+            url: "https://en.wikipedia.org/wiki/Dolly_Parton"
+        year: 1995
+        genres:
+          - country
       - title: Gran Turismo
         url: "https://en.wikipedia.org/wiki/Gran_Turismo_(album)"
         date: 2026-10-22
