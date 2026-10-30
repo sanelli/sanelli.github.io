@@ -1,6 +1,18 @@
 years:
   - label: 2026
     entries:
+      - title: Magia Bianca, Magia Nera
+        url: "https://it.wikipedia.org/wiki/Magia_bianca_(album)"
+        cover: /assets/images/covers/magia-bianca.jpg
+        date: 2026-10-30
+        rating: 5
+        artists:
+          - name: Francesca Michielin
+            url: "https://it.wikipedia.org/wiki/Francesca_Michielin"
+        year: 2026
+        genres:
+          - dungeon synth
+          - electropop
       - title: Cani sciolti
         url: "https://it.wikipedia.org/wiki/Cani_sciolti_(album)"
         date: 2026-10-30
@@ -50,6 +62,7 @@ years:
           - lounge
       - title: Masini +1 30th Anniversary
         url: "https://it.wikipedia.org/wiki/Masini_+1_30th_Anniversary"
+        cover: /assets/images/covers/masini-plus-1-30th-anniversary.jpg
         date: 2026-10-19
         rating: 4
         artists:
@@ -1415,6 +1428,7 @@ years:
           - "R&B"
       - title: Magia Bianca
         url: "https://it.wikipedia.org/wiki/Magia_bianca_(album)"
+        cover: /assets/images/covers/magia-bianca.jpg
         date: 2026-07-03
         rating: 5
         artists:
