@@ -1,6 +1,18 @@
 years:
   - label: 2026
     entries:
+      - title: Cani sciolti
+        url: "https://it.wikipedia.org/wiki/Cani_sciolti_(album)"
+        date: 2026-10-30
+        rating: 4
+        artists:
+          - name: Francesca Michielin
+            url: "https://en.wikipedia.org/wiki/Francesca_Michielin"
+        year: 2023
+        genres:
+          - electropop
+          - pop rap
+          - pop rock
       - title: Something Special
         url: "https://en.wikipedia.org/wiki/Something_Special_(Dolly_Parton_album)"
         date: 2026-10-28
