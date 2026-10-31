@@ -9,7 +9,7 @@ tags: [project, blog]
 
 <div class="with-post-photo" markdown="1">
 <figure class="post-photo">
-  <img src="{{ '/assets/images/me-elevator.jpg' | relative_url }}" alt="Stefano Anelli in a lift, taking a mirror photo" width="1995" height="4323">
+  <img src="{{ '/assets/images/posts/moving-to-stefano-ie/me-elevator.jpg' | relative_url }}" alt="Stefano Anelli in a lift, taking a mirror photo" width="1995" height="4323">
 </figure>
 
 I had been circling this decision for years, in that slow, slightly embarrassing way you circle something that would be nice to have and never quite feels urgent enough to sit down and do. This week I finally registered a domain, my first, and I was lucky enough to get the one I actually wanted: my first name, on Ireland's country-code TLD. This site now lives at [stefano.ie](https://stefano.ie).

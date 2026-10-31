@@ -11,7 +11,7 @@ After a few weeks of little to no rain, the kind that left [Uisce Éireann talki
 
 <div class="with-post-photo" markdown="1">
 <figure class="post-photo">
-  <img src="{{ '/assets/images/smithfield-lake.jpeg' | relative_url }}" alt="The flooded Hammond Lane site in Smithfield, with the Four Courts dome reflected in standing water" width="2689" height="4014">
+  <img src="{{ '/assets/images/posts/the-smithfield-lake-is-back/smithfield-lake.jpeg' | relative_url }}" alt="The flooded Hammond Lane site in Smithfield, with the Four Courts dome reflected in standing water" width="2689" height="4014">
   <figcaption>The Smithfield Lake on 28 August 2026.</figcaption>
 </figure>
 

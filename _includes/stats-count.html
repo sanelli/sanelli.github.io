@@ -12,6 +12,15 @@
             {%- assign skip = true -%}
           {%- endif -%}
         {%- endif -%}
+        {%- comment -%}
+          Manga/comics: count the series once, only when the final volume is logged
+          (`series_final: true`). In-progress series (e.g. Rayearth, YuYu) stay at 0.
+        {%- endcomment -%}
+        {%- if entry.genres contains "manga" or entry.genres contains "comics" -%}
+          {%- unless entry.series_final -%}
+            {%- assign skip = true -%}
+          {%- endunless -%}
+        {%- endif -%}
         {%- unless skip -%}
           {%- if include.unique_key == "title" -%}
             {%- assign marker = entry.title -%}

@@ -284,6 +284,7 @@ years:
           - dancehall
           - pop
       - title: In vacanza da una vita
+        cover: /assets/images/covers/in-vacanza-da-una-vita.jpg
         url: "https://it.wikipedia.org/wiki/In_vacanza_da_una_vita"
         date: 2026-10-05
         rating: 4
@@ -294,6 +295,7 @@ years:
         genres:
           - pop
       - title: "C'hanno preso tutto"
+        cover: /assets/images/covers/channo-preso-tutto.jpg
         url: "https://it.wikipedia.org/wiki/C'hanno_preso_tutto"
         date: 2026-10-05
         rating: 4
@@ -493,6 +495,7 @@ years:
           - synth-pop
           - post-disco
       - title: Tongue Tied
+        cover: /assets/images/covers/tongue-tied.jpg
         date: 2026-09-15
         rating: 4
         artists:
@@ -597,6 +600,7 @@ years:
           - soul
           - "R&B"
       - title: Stardust
+        cover: /assets/images/covers/stardust-mika.jpg
         url: "https://en.wikipedia.org/wiki/Stardust_(Mika_song)"
         subtitles:
           - Single
@@ -836,6 +840,7 @@ years:
           - disco
           - glam rock
       - title: Fragile - Nesliving Vol. 2
+        cover: /assets/images/covers/fragile-nesliving-vol-2.jpg
         url: "https://it.wikipedia.org/wiki/Fragile_-_Nesliving_Vol._2"
         date: 2026-08-28
         rating: 3
@@ -860,6 +865,7 @@ years:
           - house
           - nu-disco
       - title: "."
+        cover: /assets/images/covers/punto-myss-keta.jpg
         url: "https://it.wikipedia.org/wiki/Punto_(album)"
         date: 2026-08-27
         rating: 3
@@ -871,6 +877,7 @@ years:
           - hip house
           - pop rap
       - title: Una vita in Capslock
+        cover: /assets/images/covers/una-vita-in-capslock.jpg
         url: "https://it.wikipedia.org/wiki/Una_vita_in_Capslock"
         date: 2026-08-27
         rating: 3
@@ -883,6 +890,7 @@ years:
           - experimental
           - fidget house
       - title: Furèsta
+        cover: /assets/images/covers/furesta.jpg
         url: "https://it.wikipedia.org/wiki/Fur%C3%A8sta"
         date: 2026-08-27
         rating: 5
@@ -948,6 +956,7 @@ years:
           - funk rock
           - pop rock
       - title: Odiare
+        cover: /assets/images/covers/odiare.jpg
         subtitles:
           - Single
         date: 2026-08-24
@@ -1008,6 +1017,7 @@ years:
           - alternative rock
           - latin rock
       - title: Mi Vida Es Cantar
+        cover: /assets/images/covers/mi-vida-es-cantar.jpg
         date: 2026-08-21
         rating: 3
         artists:
@@ -1040,6 +1050,7 @@ years:
           - rock
           - jazz
       - title: Irek
+        cover: /assets/images/covers/irek.jpg
         url: "https://it.wikipedia.org/wiki/Irek"
         date: 2026-08-19
         rating: 4
@@ -1174,6 +1185,7 @@ years:
           - pop
           - "R&B"
       - title: Hush Hush; Hush Hush
+        cover: /assets/images/covers/hush-hush-hush-hush.jpg
         url: "https://en.wikipedia.org/wiki/Hush_Hush_(the_Pussycat_Dolls_song)#Remix"
         subtitles:
           - Single
@@ -1187,6 +1199,7 @@ years:
           - disco
           - house
       - title: "Don't Cha"
+        cover: /assets/images/covers/dont-cha.jpg
         url: "https://en.wikipedia.org/wiki/Don%27t_Cha"
         subtitles:
           - Single
@@ -1231,6 +1244,7 @@ years:
         genres:
           - pop rock
       - title: Platinum
+        cover: /assets/images/covers/platinum.jpg
         date: 2026-08-04
         rating: 4
         artists:
@@ -1451,6 +1465,7 @@ years:
           - blues
           - pop
       - title: La canzone del sole / Anche per te
+        cover: /assets/images/covers/la-canzone-del-sole-anche-per-te.jpg
         url: "https://it.wikipedia.org/wiki/La_canzone_del_sole/Anche_per_te"
         date: 2026-06-20
         rating: 5
@@ -1528,6 +1543,7 @@ years:
           - electro house
           - progressive house
       - title: La forma delle nuvole
+        cover: /assets/images/covers/la-forma-delle-nuvole.jpg
         url: "https://it.wikipedia.org/wiki/La_forma_delle_nuvole"
         date: 2026-06-15
         rating: 2
@@ -1558,6 +1574,7 @@ years:
         genres:
           - pop
       - title: "Come una goccia d'acqua"
+        cover: /assets/images/covers/come-una-goccia-dacqua.jpg
         url: "https://it.wikipedia.org/wiki/Come_una_goccia_d'acqua"
         date: 2026-06-10
         rating: 3
@@ -1568,6 +1585,7 @@ years:
         genres:
           - pop
       - title: "L'Angelo"
+        cover: /assets/images/covers/langelo.jpg
         url: "https://it.wikipedia.org/wiki/L'angelo_(album_Syria)"
         date: 2026-06-08
         rating: 4
@@ -1661,6 +1679,7 @@ years:
           - ballad
           - pop
       - title: This Is How It Feels
+        cover: /assets/images/covers/this-is-how-it-feels.jpg
         date: 2026-05-30
         rating: 4
         artists:
@@ -1812,6 +1831,7 @@ years:
           - film score
           - pop
       - title: 40 - Il sogno continua
+        cover: /assets/images/covers/40-il-sogno-continua.jpg
         url: "https://it.wikipedia.org/wiki/40_-_Il_sogno_continua"
         date: 2026-05-10
         rating: 5
@@ -1944,6 +1964,7 @@ years:
           - electropop
           - synth-pop
       - title: Uno in più
+        cover: /assets/images/covers/uno-in-piu.jpg
         url: "https://it.wikipedia.org/wiki/Uno_in_più"
         date: 2026-04-30
         rating: 3
@@ -1954,6 +1975,7 @@ years:
         genres:
           - pop
       - title: Grazie mille
+        cover: /assets/images/covers/grazie-mille.jpg
         url: "https://it.wikipedia.org/wiki/Grazie_mille"
         date: 2026-04-29
         rating: 3
@@ -2003,6 +2025,7 @@ years:
           - pop
           - pop rock
       - title: Fuego
+        cover: /assets/images/covers/fuego.jpg
         url: "https://it.wikipedia.org/wiki/Fuego_(Gemelli_DiVersi)"
         date: 2026-04-18
         rating: 3
@@ -2013,6 +2036,7 @@ years:
         genres:
           - pop rap
       - title: Laura Bono
+        cover: /assets/images/covers/laura-bono.jpg
         url: "https://it.wikipedia.org/wiki/Laura_Bono_(album)"
         date: 2026-04-17
         rating: 3
@@ -2080,6 +2104,7 @@ years:
           - indie folk
           - indie rock
       - title: Duets Forever - Tutti cantano Cristina
+        cover: /assets/images/covers/duets-forever-cristina.jpg
         url: "https://it.wikipedia.org/wiki/Duets_Forever_-_Tutti_cantano_Cristina"
         date: 2026-04-06
         rating: 5
@@ -2091,6 +2116,7 @@ years:
           - anime theme
           - pop
       - title: Duets - Tutti cantano Cristina
+        cover: /assets/images/covers/duets-cristina.jpg
         url: "https://it.wikipedia.org/wiki/Duets_-_Tutti_cantano_Cristina"
         date: 2026-04-05
         rating: 5
@@ -2257,6 +2283,7 @@ years:
           - power pop
           - rock
       - title: La teoria dei colori
+        cover: /assets/images/covers/la-teoria-dei-colori.jpg
         url: "https://it.wikipedia.org/wiki/La_teoria_dei_colori_(album)"
         date: 2026-02-17
         rating: 3
@@ -2289,6 +2316,7 @@ years:
         genres:
           - pop
       - title: Io canto 2
+        cover: /assets/images/covers/io-canto-2.jpg
         url: "https://it.wikipedia.org/wiki/Io_canto_2"
         date: 2026-02-06
         rating: 3
@@ -2321,6 +2349,7 @@ years:
           - EDM
           - pop
       - title: "La dura legge del gol!"
+        cover: /assets/images/covers/la-dura-legge-del-gol.jpg
         url: "https://it.wikipedia.org/wiki/La_dura_legge_del_gol!"
         date: 2026-01-29
         rating: 5
@@ -2332,6 +2361,7 @@ years:
           - pop
           - pop rock
       - title: It.Pop
+        cover: /assets/images/covers/itpop.jpg
         url: "https://it.wikipedia.org/wiki/It.Pop"
         date: 2026-01-28
         rating: 4
@@ -2353,6 +2383,7 @@ years:
           - EDM
           - synth-pop
       - title: "La donna il sogno & il grande incubo"
+        cover: /assets/images/covers/la-donna-il-sogno-e-il-grande-incubo.jpg
         url: "https://it.wikipedia.org/wiki/La_donna_il_sogno_%26_il_grande_incubo"
         date: 2026-01-17
         rating: 5
@@ -2363,6 +2394,7 @@ years:
         genres:
           - pop
       - title: "...Squérez?"
+        cover: /assets/images/covers/squerez.jpg
         url: "https://it.wikipedia.org/wiki/...Squérez%3F"
         date: 2026-01-17
         rating: 3
@@ -2472,6 +2504,7 @@ years:
   - label: 2025
     entries:
       - title: The Shape of a Broken Heart
+        cover: /assets/images/covers/the-shape-of-a-broken-heart.jpg
         date: 2025-12-31
         rating: 4
         artists:
@@ -2520,6 +2553,7 @@ years:
           - pop
           - pop rock
       - title: Gli anni
+        cover: /assets/images/covers/gli-anni.jpg
         url: "https://it.wikipedia.org/wiki/Gli_anni_(album)"
         date: 2025-12-23
         rating: 4
@@ -2576,6 +2610,7 @@ years:
         genres:
           - theatrical pop
       - title: Nord sud ovest est
+        cover: /assets/images/covers/nord-sud-ovest-est.jpg
         url: "https://it.wikipedia.org/wiki/Nord_sud_ovest_est"
         date: 2025-12-06
         rating: 4
@@ -2588,6 +2623,7 @@ years:
           - pop rap
           - pop rock
       - title: "Hanno ucciso l'Uomo Ragno"
+        cover: /assets/images/covers/hanno-ucciso-luomo-ragno.jpg
         url: "https://it.wikipedia.org/wiki/Hanno_ucciso_l%27Uomo_Ragno_(album)"
         date: 2025-12-06
         rating: 5
@@ -2600,6 +2636,7 @@ years:
           - pop rap
           - pop rock
       - title: Per Sempre
+        cover: /assets/images/covers/per-sempre-paola-chiara.jpg
         url: "https://it.wikipedia.org/wiki/Per_sempre_(Paola_%26_Chiara)"
         date: 2025-12-05
         rating: 3

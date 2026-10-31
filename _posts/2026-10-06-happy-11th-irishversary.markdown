@@ -9,7 +9,7 @@ tags: [blog, dublin]
 
 <div class="with-post-photo" markdown="1">
 <figure class="post-photo">
-  <img src="{{ '/assets/images/me-priscilla.jpg' | relative_url }}" alt="Stefano Anelli with friends after seeing Priscilla, Queen of the Desert at Teatro Manzoni in Milan, 2015" width="660" height="1362">
+  <img src="{{ '/assets/images/posts/happy-11th-irishversary/me-priscilla.jpg' | relative_url }}" alt="Stefano Anelli with friends after seeing Priscilla, Queen of the Desert at Teatro Manzoni in Milan, 2015" width="660" height="1362">
   <figcaption>One of the last pictures I took in Italy in 2015, at Teatro Manzoni in Milan, after seeing <em>Priscilla, Queen of the Desert</em> with my friends.</figcaption>
 </figure>
 

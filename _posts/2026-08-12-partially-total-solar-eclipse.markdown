@@ -11,7 +11,7 @@ No, it was not a [total eclipse of the heart](https://music.youtube.com/search?q
 
 <div class="with-post-photo" markdown="1">
 <figure class="post-photo">
-  <img src="{{ '/assets/images/solar-eclipse.jpeg' | relative_url }}" alt="A thin golden crescent of the Sun during the partial solar eclipse of 12 August 2026, photographed from Dublin" width="1834" height="3192">
+  <img src="{{ '/assets/images/posts/partially-total-solar-eclipse/solar-eclipse.jpeg' | relative_url }}" alt="A thin golden crescent of the Sun during the partial solar eclipse of 12 August 2026, photographed from Dublin" width="1834" height="3192">
   <figcaption>Eclipse captured on 12 August 2026.</figcaption>
 </figure>
 

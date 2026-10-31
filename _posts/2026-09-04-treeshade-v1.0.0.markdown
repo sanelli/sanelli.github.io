@@ -12,7 +12,7 @@ The Italian saying *Chi fa da sé fa per tre* — literally “who does it himse
 
 <div class="with-post-photo" markdown="1">
 <figure class="post-photo">
-  <img src="{{ '/assets/images/posts/treeshade-icon.png' | relative_url }}" alt="Tree Shade icon: an oak tree with the letters R and D enjoying the shade" width="640" height="640">
+  <img src="{{ '/assets/images/posts/treeshade-v1.0.0/treeshade-icon.png' | relative_url }}" alt="Tree Shade icon: an oak tree with the letters R and D enjoying the shade" width="640" height="640">
   <figcaption>The Tree Shade icon: Rider’s tree view, with a bit of shade for the clutter.</figcaption>
 </figure>
 
@@ -44,20 +44,20 @@ Click a shot to open a larger view.
 
 <div class="screenshot-gallery">
   <figure>
-    <a href="{{ '/assets/images/posts/treeshade-v1.0.0-screenshots/file-system-before.png' | relative_url }}" data-lightbox>
-      <img src="{{ '/assets/images/posts/treeshade-v1.0.0-screenshots/file-system-before.png' | relative_url }}" alt="Rider File System view before Tree Shade, with .idea and .vscode still visible" width="640" height="900">
+    <a href="{{ '/assets/images/posts/treeshade-v1.0.0/screenshots/file-system-before.png' | relative_url }}" data-lightbox>
+      <img src="{{ '/assets/images/posts/treeshade-v1.0.0/screenshots/file-system-before.png' | relative_url }}" alt="Rider File System view before Tree Shade, with .idea and .vscode still visible" width="640" height="900">
     </a>
     <figcaption>File System before: clutter such as <code>.idea</code> and <code>.vscode</code> still in the tree.</figcaption>
   </figure>
   <figure>
-    <a href="{{ '/assets/images/posts/treeshade-v1.0.0-screenshots/settings.png' | relative_url }}" data-lightbox>
-      <img src="{{ '/assets/images/posts/treeshade-v1.0.0-screenshots/settings.png' | relative_url }}" alt="Tree Shade settings under Settings → Tools → Tree Shade" width="900" height="640">
+    <a href="{{ '/assets/images/posts/treeshade-v1.0.0/screenshots/settings.png' | relative_url }}" data-lightbox>
+      <img src="{{ '/assets/images/posts/treeshade-v1.0.0/screenshots/settings.png' | relative_url }}" alt="Tree Shade settings under Settings → Tools → Tree Shade" width="900" height="640">
     </a>
     <figcaption>Settings → Tools → Tree Shade: one name per line for folders and files.</figcaption>
   </figure>
   <figure>
-    <a href="{{ '/assets/images/posts/treeshade-v1.0.0-screenshots/file-system-after.png' | relative_url }}" data-lightbox>
-      <img src="{{ '/assets/images/posts/treeshade-v1.0.0-screenshots/file-system-after.png' | relative_url }}" alt="Rider File System view after Tree Shade hides selected folders" width="640" height="900">
+    <a href="{{ '/assets/images/posts/treeshade-v1.0.0/screenshots/file-system-after.png' | relative_url }}" data-lightbox>
+      <img src="{{ '/assets/images/posts/treeshade-v1.0.0/screenshots/file-system-after.png' | relative_url }}" alt="Rider File System view after Tree Shade hides selected folders" width="640" height="900">
     </a>
     <figcaption>File System after: the same project, with the noisy folders shaded out of view.</figcaption>
   </figure>

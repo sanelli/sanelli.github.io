@@ -13,7 +13,24 @@ Edit `_data/books.yml`, `music.yml`, `movies.yml`, or `games.yml`. Put the entry
 
 Shared fields: `title`, Wikipedia `url` when it exists, `date` (YYYY-MM-DD, the day Stefano finished/listened/watched/played), `rating` (1–5), `year` (work year), `genres` (lowercase; quote keys like `"R&B"`). Genre chips link via `_data/genre_urls.yml` (exact key → Wikipedia article); unlisted genres fall back to a Wikipedia search. Optional `cover:` when Wikipedia has no usable page image: a file under `assets/images/covers/` (e.g. `/assets/images/covers/isola-di-arturo.jpg`) or a full `https://` URL. Do not invent covers.
 
-- Books: `authors: [{name, url}]`, `language`. Manga (and other multi-volume series): same `title` for every volume, volume label in `subtitles` (e.g. Sailor Moon, Magic Knight Rayearth). Same title counts as one book in yearly stats.
+### Covers when Wikipedia has no usable image
+
+If the Wikipedia page has no pageimage, or the image is wrong (artist photo, wrong edition, compilation collage, different album), **do not leave the entry without a cover**. Look it up and download a correct cover to `assets/images/covers/`, then set `cover:`.
+
+- Prefer local files named from the title/slug (e.g. `/assets/images/covers/grazie-mille.jpg`).
+- Good sources, in order: Apple Music / iTunes Search API artwork, MusicBrainz Cover Art Archive, Spotify oEmbed thumbnail (use the larger `ab67616d0000b273…` variant), Open Library covers (books), publisher/store pages when needed.
+- Match artist + title carefully. Reject near-misses (wrong album, remix EP, “greatest hits”, artist promo still).
+- Verify the downloaded image before wiring it (read/inspect the file). Unset proxy env vars if fetches hang on `127.0.0.1`.
+
+### Manga / comics / anime volumes — volume-specific covers
+
+For multi-volume manga, comics, or anime-related book entries, **always** set an explicit `cover:` for **that** volume/book. Do not omit `cover:` and let the Wikipedia series pageimage fill in — that usually shows volume 1 or generic series art for every volume.
+
+- Match the edition Stefano owns when possible (language + publisher), e.g. Italian Star Comics *Pretty Guardian Sailor Moon* New Edition, English Kodansha *Magic Knight Rayearth* `PART ONE` / `PART TWO` paperbacks.
+- Prefer a local file under `assets/images/covers/` named with series + volume (e.g. `/assets/images/covers/pretty-guardian-sailor-moon-vol-07.jpg`, `/assets/images/covers/magic-knight-rayearth-part2-book1.jpg`).
+- Verify the image shows the correct volume number / part label before wiring it in.
+
+- Books: `authors: [{name, url}]`, `language`. Manga/comics (multi-volume): same `title` for every volume, volume label in `subtitles` (e.g. Sailor Moon, Magic Knight Rayearth). Yearly “books read” stats **include** manga/comics, but **only the final volume** counts (+1 that year): set `series_final: true` on the last volume/chapter when the series is finished. In-progress series (e.g. Magic Knight Rayearth, YuYu Hakusho) must not set `series_final`, so they add 0 until done. Single-volume manga/comics that are complete also get `series_final: true`.
 - Music: `artists: [{name, url}]`. Mark singles with `subtitles: [Single]` (shown on the list, skipped in yearly stats).
 - Movies: `creators: [{name, url}]` (director), `language`
 - Games: `developers`, `publishers`, `console: {name, url}`. Same title with ending names in `subtitles` counts as one game in stats. Give DLC its own title (or `subtitles: [DLC]`) so it counts as a different game.
@@ -42,7 +59,9 @@ tags: [blog]        # one or more of: blog, dublin, software, music, project, ga
 
 ### Album / listen post (see Magia Bianca)
 
-Order: personal opener → cover (`assets/images/posts/`, `.album-cover`) → Stefano's favorites → `<aside class="album-facts">` with label `Album information` (facts only, smaller muted text) → `.listen-links` (Spotify, YouTube Music, Apple Music) → made-with.
+Post images live under `assets/images/posts/{slug}/` (slug = post filename without date, e.g. `treeshade-v1.0.0`, `magia-bianca`). Media-list covers stay in `assets/images/covers/`.
+
+Order: personal opener → cover (`assets/images/posts/{slug}/`, `.album-cover`) → Stefano's favorites → `<aside class="album-facts">` with label `Album information` (facts only, smaller muted text) → `.listen-links` (Spotify, YouTube Music, Apple Music) → made-with.
 
 Date = the `date` already in `music.yml` for that album. Quote published lyrics only. Verify streaming URLs; do not invent YouTube Music album IDs.
 

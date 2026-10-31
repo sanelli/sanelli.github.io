@@ -26,6 +26,23 @@ current:
 years:
   - label: 2026
     entries:
+      - title: Magic Knight Rayearth
+        cover: /assets/images/covers/magic-knight-rayearth-part2-book1.jpg
+        url: "https://en.wikipedia.org/wiki/Magic_Knight_Rayearth"
+        subtitles:
+          - "PART TWO: BOOK ONE"
+        date: 2026-10-31
+        rating: 5
+        authors:
+          - name: CLAMP
+            url: "https://en.wikipedia.org/wiki/Clamp_(manga_artists)"
+        language: English
+        year: 1995
+        genres:
+          - isekai
+          - manga
+          - mecha
+          - sword and sorcery
       - title: I lupi del Calla
         url: "https://en.wikipedia.org/wiki/The_Dark_Tower_V:_Wolves_of_the_Calla"
         subtitles:
@@ -41,12 +58,14 @@ years:
           - dark fantasy
           - science fiction
       - title: Pretty Guardian Sailor Moon
+        cover: /assets/images/covers/pretty-guardian-sailor-moon-vol-12.jpg
         url: "https://en.wikipedia.org/wiki/Sailor_Moon"
         subtitles:
           - Volume 12 (Act 55 - Act 60)
           - 美少女戦士セーラームーン
         date: 2026-10-07
         rating: 4
+        series_final: true
         authors:
           - name: Naoko Takeuchi
             url: "https://en.wikipedia.org/wiki/Naoko_Takeuchi"
@@ -56,6 +75,7 @@ years:
           - magical girl
           - manga
       - title: Pretty Guardian Sailor Moon
+        cover: /assets/images/covers/pretty-guardian-sailor-moon-vol-11.jpg
         url: "https://en.wikipedia.org/wiki/Sailor_Moon"
         subtitles:
           - Volume 11 (Act 50 - Act 54)
@@ -71,6 +91,7 @@ years:
           - magical girl
           - manga
       - title: Pretty Guardian Sailor Moon
+        cover: /assets/images/covers/pretty-guardian-sailor-moon-vol-10.jpg
         url: "https://en.wikipedia.org/wiki/Sailor_Moon"
         subtitles:
           - Volume 10 (Act 45 - Act 49)
@@ -86,6 +107,7 @@ years:
           - magical girl
           - manga
       - title: YuYu Hakusho
+        cover: /assets/images/covers/yuyu-hakusho-vol-01.jpg
         url: "https://en.wikipedia.org/wiki/YuYu_Hakusho"
         subtitles:
           - Volume 1 (chapters 1 - 8)
@@ -126,6 +148,7 @@ years:
           - autobiography
           - travel
       - title: Pretty Guardian Sailor Moon
+        cover: /assets/images/covers/pretty-guardian-sailor-moon-vol-09.jpg
         url: "https://en.wikipedia.org/wiki/Sailor_Moon"
         subtitles:
           - Volume 9 (Act 40 - Act 44)
@@ -167,6 +190,7 @@ years:
           - dark fantasy
           - science fiction
       - title: Pretty Guardian Sailor Moon
+        cover: /assets/images/covers/pretty-guardian-sailor-moon-vol-08.jpg
         url: "https://en.wikipedia.org/wiki/Sailor_Moon"
         subtitles:
           - Volume 8 (Act 36 - Act 39)
@@ -182,6 +206,7 @@ years:
           - magical girl
           - manga
       - title: Heated Rivalry
+        cover: /assets/images/covers/heated-rivalry.jpg
         url: "https://en.wikipedia.org/wiki/Heated_Rivalry_(novel)"
         date: 2026-07-07
         rating: 3
@@ -222,6 +247,7 @@ years:
         genres:
           - short story collection
       - title: Pretty Guardian Sailor Moon
+        cover: /assets/images/covers/pretty-guardian-sailor-moon-vol-07.jpg
         url: "https://en.wikipedia.org/wiki/Sailor_Moon"
         subtitles:
           - Volume 7 (Act 31 - Act 35)
@@ -251,6 +277,7 @@ years:
           - dark fantasy
           - science fiction
       - title: Pretty Guardian Sailor Moon
+        cover: /assets/images/covers/pretty-guardian-sailor-moon-vol-06.jpg
         url: "https://en.wikipedia.org/wiki/Sailor_Moon"
         subtitles:
           - Volume 6 (Act 27 - Act 30)
@@ -319,6 +346,7 @@ years:
           - romance
           - young adult
       - title: Pretty Guardian Sailor Moon
+        cover: /assets/images/covers/pretty-guardian-sailor-moon-vol-05.jpg
         url: "https://en.wikipedia.org/wiki/Sailor_Moon"
         subtitles:
           - Volume 5 (Act 22 - Act 26)
@@ -356,6 +384,7 @@ years:
         genres:
           - episodic novella
       - title: Pretty Guardian Sailor Moon
+        cover: /assets/images/covers/pretty-guardian-sailor-moon-vol-04.jpg
         url: "https://en.wikipedia.org/wiki/Sailor_Moon"
         subtitles:
           - Volume 4 (Act 17 - Act 21)
@@ -383,6 +412,7 @@ years:
           - bildungsroman
           - novel
       - title: Pretty Guardian Sailor Moon
+        cover: /assets/images/covers/pretty-guardian-sailor-moon-vol-03.jpg
         url: "https://en.wikipedia.org/wiki/Sailor_Moon"
         subtitles:
           - Volume 3 (Act 12 - Act 16)
@@ -426,6 +456,7 @@ years:
           - metafiction
           - romance
       - title: Pretty Guardian Sailor Moon
+        cover: /assets/images/covers/pretty-guardian-sailor-moon-vol-02.jpg
         url: "https://en.wikipedia.org/wiki/Sailor_Moon"
         subtitles:
           - Volume 2 (Act 7 - Act 11)
@@ -455,6 +486,7 @@ years:
           - dark fantasy
           - post-apocalyptic
       - title: Pretty Guardian Sailor Moon
+        cover: /assets/images/covers/pretty-guardian-sailor-moon-vol-01.jpg
         url: "https://en.wikipedia.org/wiki/Sailor_Moon"
         subtitles:
           - Volume 1 (Act 1 - Act 6)
@@ -483,6 +515,7 @@ years:
         genres:
           - tech
       - title: Magic Knight Rayearth
+        cover: /assets/images/covers/magic-knight-rayearth-part1-book3.jpg
         url: "https://en.wikipedia.org/wiki/Magic_Knight_Rayearth"
         subtitles:
           - "PART ONE: BOOK THREE"
@@ -499,6 +532,7 @@ years:
           - mecha
           - sword and sorcery
       - title: Magic Knight Rayearth
+        cover: /assets/images/covers/magic-knight-rayearth-part1-book2.jpg
         url: "https://en.wikipedia.org/wiki/Magic_Knight_Rayearth"
         subtitles:
           - "PART ONE: BOOK TWO"
@@ -515,6 +549,7 @@ years:
           - mecha
           - sword and sorcery
       - title: Magic Knight Rayearth
+        cover: /assets/images/covers/magic-knight-rayearth-part1-book1.jpg
         url: "https://en.wikipedia.org/wiki/Magic_Knight_Rayearth"
         subtitles:
           - "PART ONE: BOOK ONE"
@@ -1299,6 +1334,7 @@ backlog:
       - novel
       - satire
   - title: Bisogna avere i coglioni per prenderlo nel culo
+    cover: /assets/images/covers/bisogna-avere-i-coglioni.jpg
     authors:
       - name: Aldo Busi
         url: "https://en.wikipedia.org/wiki/Aldo_Busi"
@@ -1424,6 +1460,7 @@ backlog:
       - crime
       - horror
   - title: How to Survive a Horror Movie
+    cover: /assets/images/covers/how-to-survive-a-horror-movie.jpg
     authors:
       - name: Seth Grahame-Smith
         url: "https://en.wikipedia.org/wiki/Seth_Grahame-Smith"
@@ -1475,6 +1512,7 @@ backlog:
     genres:
       - novel
   - title: "L'uomo in fuga"
+    cover: /assets/images/covers/luomo-in-fuga.jpg
     url: "https://it.wikipedia.org/wiki/L%27uomo_in_fuga"
     subtitles:
       - The Running Man
@@ -1537,6 +1575,7 @@ backlog:
     genres:
       - novella
   - title: La Storia
+    cover: /assets/images/covers/la-storia-morante.jpg
     url: "https://it.wikipedia.org/wiki/La_Storia_(romanzo)"
     authors:
       - name: Elsa Morante
@@ -1547,6 +1586,7 @@ backlog:
       - historical
       - novel
   - title: La Torre Nera
+    cover: /assets/images/covers/la-torre-nera.jpg
     url: "https://en.wikipedia.org/wiki/The_Dark_Tower_(novel)"
     subtitles:
       - "The Dark Tower VII: The Dark Tower"
@@ -1568,6 +1608,7 @@ backlog:
     genres:
       - novel
   - title: On Palestine
+    cover: /assets/images/covers/on-palestine.jpg
     authors:
       - name: Noam Chomsky
         url: "https://en.wikipedia.org/wiki/Noam_Chomsky"
@@ -1609,6 +1650,17 @@ backlog:
     genres:
       - autobiography
       - graphic novel
+  - title: Perfection
+    url: "https://en.wikipedia.org/wiki/Perfection_(novel)"
+    subtitles:
+      - Le perfezioni
+    authors:
+      - name: Vincenzo Latronico
+        url: "https://en.wikipedia.org/wiki/Vincenzo_Latronico"
+    language: English
+    year: 2022
+    genres:
+      - novel
   - title: Piccole donne
     url: "https://it.wikipedia.org/wiki/Piccole_donne"
     subtitles:
@@ -1630,6 +1682,7 @@ backlog:
     genres:
       - novel
   - title: Vita standard di un venditore provvisorio di collant
+    cover: /assets/images/covers/vita-standard.jpg
     url: "https://it.wikipedia.org/wiki/Vita_standard_di_un_venditore_provvisorio_di_collant"
     authors:
       - name: Aldo Busi

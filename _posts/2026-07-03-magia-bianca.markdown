@@ -10,7 +10,7 @@ tags: [music, blog]
 I was not expecting to like [this album](https://it.wikipedia.org/wiki/Magia_bianca_(album)) so much. Finally a record that is not only about love love love. I am a guy, so I cannot really totally understand how it feels to be a woman, but I think *Magia Bianca* gave me a glimpse. I will probably listen to this over and over and over.
 
 <figure class="album-cover">
-  <img src="{{ '/assets/images/posts/magia-bianca.jpg' | relative_url }}" alt="Cover of Magia Bianca by Francesca Michielin" width="640" height="640">
+  <img src="{{ '/assets/images/posts/magia-bianca/magia-bianca.jpg' | relative_url }}" alt="Cover of Magia Bianca by Francesca Michielin" width="640" height="640">
   <figcaption>Cover painted by Danilo Bubani: a woman holding a scale with a dove and a raven.</figcaption>
 </figure>
 
