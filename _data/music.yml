@@ -15,6 +15,7 @@ years:
           - electropop
       - title: Cani sciolti
         url: "https://it.wikipedia.org/wiki/Cani_sciolti_(album)"
+        cover: /assets/images/covers/cani-sciolti.jpg
         date: 2026-10-30
         rating: 4
         artists:
