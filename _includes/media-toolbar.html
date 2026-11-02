@@ -49,6 +49,8 @@
   <p class="media-toolbar-hint">Showing currently playing plus the latest four years. Backlog is on its own last page. Search or rating shows matches across every year.</p>
   {%- elsif include.kind == "movies" -%}
   <p class="media-toolbar-hint">Showing the latest two years. Search or rating shows matches across every year.</p>
+  {%- elsif include.kind == "theater" -%}
+  <p class="media-toolbar-hint">Search and rating apply across every year.</p>
   {%- else -%}
   <p class="media-toolbar-hint">Search and rating apply across every year.</p>
   {%- endif -%}

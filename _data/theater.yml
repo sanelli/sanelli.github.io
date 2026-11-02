@@ -1,0 +1,98 @@
+years:
+  - label: 2026
+    entries:
+      - title: Melanie C
+        url: "https://en.wikipedia.org/wiki/Melanie_C"
+        date: 2026-10-18
+        time: "7:00 PM"
+        rating: 0
+        venue: 3Olympia Theatre, Dublin
+        presenter: Live Nation / Ticketmaster
+      - title: Various Voices Brussels 2026
+        date: 2026-06-27
+        time: "9:00 PM"
+        rating: 0
+        venue: ING Arena, Brussels
+      - title: Disney's The Lion King
+        url: "https://en.wikipedia.org/wiki/The_Lion_King_(musical)"
+        date: 2026-02-01
+        time: "2:30 PM"
+        rating: 0
+        venue: Lyceum Theatre, London
+        presenter: Disney Theatrical Productions / ATG Tickets
+      - title: Spring Awakening
+        url: "https://en.wikipedia.org/wiki/Spring_Awakening_(musical)"
+        date: 2026-01-23
+        time: "7:30 PM"
+        rating: 0
+        venue: O'Reilly Theatre, Dublin
+        presenter: Trinity Musical Theatre Society / DGMC
+  - label: 2018
+    entries:
+      - title: Carmen Consoli Concert
+        url: "https://en.wikipedia.org/wiki/Carmen_Consoli"
+        date: 2018-02-05
+        time: "7:00 PM"
+        rating: 0
+        venue: The Academy, Dublin
+  - label: 2017
+    entries:
+      - title: Evita
+        url: "https://en.wikipedia.org/wiki/Evita_(musical)"
+        date: 2017-06-14
+        time: "7:30 PM"
+        rating: 0
+        venue: Bord Gáis Energy Theatre, Dublin
+        presenter: Bill Kenwright Ltd / Ticketmaster
+      - title: High Heels in Low Places (Panti Bliss)
+        url: "https://en.wikipedia.org/wiki/Panti_Bliss"
+        date: 2017-04-30
+        time: "8:00 PM"
+        rating: 0
+        venue: Abbey Theatre (Abbey Stage), Dublin
+        presenter: Thisispopbaby
+      - title: Dirty Dancing
+        url: "https://en.wikipedia.org/wiki/Dirty_Dancing_(musical)"
+        date: 2017-02-08
+        time: "7:30 PM"
+        rating: 0
+        venue: Bord Gáis Energy Theatre, Dublin
+        presenter: Ticketmaster
+      - title: Anna Karenina
+        url: "https://en.wikipedia.org/wiki/Anna_Karenina"
+        date: 2017-01-23
+        time: "7:00 PM"
+        rating: 0
+        venue: Abbey Theatre, Dublin
+  - label: 2016
+    entries:
+      - title: Sister Act
+        url: "https://en.wikipedia.org/wiki/Sister_Act_(musical)"
+        date: 2016-11-14
+        time: "7:30 PM"
+        rating: 0
+        venue: Bord Gáis Energy Theatre, Dublin
+        presenter: Stage Entertainment / Ticketmaster
+      - title: Pentatonix Concert
+        url: "https://en.wikipedia.org/wiki/Pentatonix"
+        date: 2016-05-23
+        time: "8:00 PM"
+        rating: 0
+        venue: The Olympia Theatre, Dublin
+  - label: 2015
+    entries:
+      - title: The Importance of Being Earnest
+        url: "https://en.wikipedia.org/wiki/The_Importance_of_Being_Earnest"
+        date: 2015-11-30
+        time: "7:30 PM"
+        rating: 0
+        venue: Gate Theatre, Dublin
+  - label: 2012
+    entries:
+      - title: Sister Act
+        url: "https://en.wikipedia.org/wiki/Sister_Act_(musical)"
+        date: 2012-03-01
+        time: "8:30 PM"
+        rating: 0
+        venue: Teatro Nazionale, Milan
+        presenter: Stage Entertainment / TicketOne

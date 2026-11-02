@@ -88,6 +88,7 @@ header_pages:
   - music.md
   - movies.markdown
   - games.markdown
+  - theater.markdown
   - travels.markdown
 
 # Exclude from processing.
