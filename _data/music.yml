@@ -3,6 +3,7 @@ years:
     entries:
       - title: Masini
         url: "https://it.wikipedia.org/wiki/Masini_(album)"
+        cover: /assets/images/covers/masini.jpg
         date: 2026-11-02
         rating: 4
         artists:
