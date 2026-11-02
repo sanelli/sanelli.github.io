@@ -8,6 +8,11 @@ years:
         rating: 0
         venue: 3Olympia Theatre, Dublin
         presenter: Live Nation / Ticketmaster
+      - title: Diva Voces 20th Anniversary Concert
+        date: 2026-10-17
+        time: "8:00 PM"
+        rating: 0
+        venue: Christ Church Cathedral, Dublin
       - title: Various Voices Brussels 2026
         date: 2026-06-27
         time: "9:00 PM"
@@ -27,8 +32,23 @@ years:
         rating: 0
         venue: O'Reilly Theatre, Dublin
         presenter: Trinity Musical Theatre Society / DGMC
+  - label: 2019
+    entries:
+      - title: The Rocky Horror Show
+        url: "https://en.wikipedia.org/wiki/The_Rocky_Horror_Show"
+        date: 2019-07-03
+        time: "7:30 PM"
+        rating: 0
+        venue: Bord Gáis Energy Theatre, Dublin
+        presenter: Ticketmaster
   - label: 2018
     entries:
+      - title: "Britney Spears: Piece of Me"
+        url: "https://en.wikipedia.org/wiki/Britney:_Piece_of_Me_Tour"
+        date: 2018-08-20
+        time: "6:29 PM"
+        rating: 0
+        venue: 3Arena, Dublin
       - title: Carmen Consoli Concert
         url: "https://en.wikipedia.org/wiki/Carmen_Consoli"
         date: 2018-02-05
@@ -51,6 +71,11 @@ years:
         rating: 0
         venue: Abbey Theatre (Abbey Stage), Dublin
         presenter: Thisispopbaby
+      - title: Elisa Concert
+        url: "https://en.wikipedia.org/wiki/Elisa_(Italian_singer)"
+        date: 2017-02-21
+        rating: 0
+        venue: The Academy, Dublin
       - title: Dirty Dancing
         url: "https://en.wikipedia.org/wiki/Dirty_Dancing_(musical)"
         date: 2017-02-08
@@ -73,6 +98,13 @@ years:
         rating: 0
         venue: Bord Gáis Energy Theatre, Dublin
         presenter: Stage Entertainment / Ticketmaster
+      - title: The Rocky Horror Show
+        url: "https://en.wikipedia.org/wiki/The_Rocky_Horror_Show"
+        date: 2016-10-03
+        time: "7:30 PM"
+        rating: 0
+        venue: Bord Gáis Energy Theatre, Dublin
+        presenter: Ticketmaster
       - title: Pentatonix Concert
         url: "https://en.wikipedia.org/wiki/Pentatonix"
         date: 2016-05-23
