@@ -44,7 +44,7 @@
     {%- endif -%}
     <tr class="media-row{% if month_break %} media-row--month-break{% endif %}{% if month_first %} media-row--month-first{% endif %}"{% if item_month != "" %} data-month="{{ item_month }}"{% endif %} data-search="{{ media_search | downcase | strip | xml_escape }}"{% if item.rating != nil %} data-rating="{{ item.rating }}"{% else %} data-rating=""{% endif %}{% if row_places != "" %} data-places="{{ row_places | strip | xml_escape }}"{% endif %}>
       {%- if rated -%}
-      <td data-label="Date" data-sort="{{ item.date }}">{%- if item.date -%}<span class="media-date" data-sort="{{ item.date }}"><nobr>{{ item.date }}</nobr>{%- if kind == "theater" and item.time -%}<br><span class="media-time">{{ item.time | escape }}</span>{%- endif -%}</span>{%- endif -%}</td>
+      <td data-label="Date" data-sort="{{ item.date }}">{%- if item.date -%}<span class="media-date" data-sort="{{ item.date }}"><nobr>{{ item.date }}</nobr></span>{%- endif -%}</td>
       <td data-label="Rating" data-sort="{{ item.rating }}">{%- if item.rating != nil and item.rating > 0 -%}<span class="media-rating" data-sort="{{ item.rating }}">{%- for i in (1..item.rating) -%}⭐️{%- endfor -%}</span>{%- endif -%}</td>
       {%- endif -%}
       <td data-label="{{ title_label }}">{%- include_cached media-title.html item=item -%}</td>
@@ -178,7 +178,7 @@
             {%- if show_year or show_logged -%}
             <p class="media-card-meta">
               {%- if show_year -%}<span class="media-card-meta-item">{%- include icon.html name="calendar" -%}From {{ item.year }}</span>{%- endif -%}
-              {%- if show_logged -%}<span class="media-card-meta-item">{%- include icon.html name=activity_icon -%}{{ logged_verb }} {% if kind == "travels" %}{% include media-travel-dates.html date=item.date date_end=item.date_end %}{% else %}{% include media-logged-date.html date=item.date %}{% if kind == "theater" and item.time %} at {{ item.time | escape }}{% endif %}{% endif %}</span>{%- endif -%}
+              {%- if show_logged -%}<span class="media-card-meta-item">{%- include icon.html name=activity_icon -%}{{ logged_verb }} {% if kind == "travels" %}{% include media-travel-dates.html date=item.date date_end=item.date_end %}{% else %}{% include media-logged-date.html date=item.date %}{% endif %}</span>{%- endif -%}
             </p>
             {%- endif -%}
             {%- unless kind == "travels" or kind == "theater" -%}

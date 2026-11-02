@@ -187,7 +187,8 @@ blockquote.verse p {
 .icon.icon-brainfuck { color: #e879f9; }
 .icon.icon-eml { color: #34d399; }
 .icon.icon-treeshade { color: #4ade80; }
-.icon.icon-travels { color: #38bdf8; }
+.post-title .icon.icon-travels,
+.post-link .icon.icon-travels { color: #38bdf8; }
 .icon.icon-website { color: #f43f5e; }
 .post-title .icon.icon-website,
 .post-link .icon.icon-website { color: #f43f5e; }
@@ -798,7 +799,7 @@ table {
     max-width: calc(890px - 30px * 2 + 9.5rem + 1.15rem);
   }
 
-  // Music/travels/books/games/movies have no year rail; keep the card column width.
+  // Music/travels/books/games/movies/theater have no year rail; keep the card column width.
   body:has(.section-rail-layout[data-month-page-size]) .page-content .wrapper,
   body:has(.section-rail-layout[data-year-page-size]) .page-content .wrapper {
     max-width: calc(890px - 30px * 2 - 2rem);

@@ -4,117 +4,216 @@ years:
       - title: Melanie C
         url: "https://en.wikipedia.org/wiki/Melanie_C"
         date: 2026-10-18
-        time: "7:00 PM"
-        rating: 0
+        rating: 3
         venue: 3Olympia Theatre, Dublin
       - title: Diva Voces 20th Anniversary Concert
         date: 2026-10-17
-        time: "8:00 PM"
-        rating: 0
+        rating: 3
         venue: Christ Church Cathedral, Dublin
+      - title: Dawson Choir Concert
+        date: 2026-07-26
+        rating: 4
+        venue: IMMA, Dublin
       - title: Various Voices Brussels 2026
         date: 2026-06-27
-        time: "9:00 PM"
-        rating: 0
+        rating: 2
         venue: ING Arena, Brussels
       - title: Disney's The Lion King
         url: "https://en.wikipedia.org/wiki/The_Lion_King_(musical)"
         date: 2026-02-01
-        time: "2:30 PM"
-        rating: 0
+        rating: 5
         venue: Lyceum Theatre, London
       - title: Spring Awakening
         url: "https://en.wikipedia.org/wiki/Spring_Awakening_(musical)"
         date: 2026-01-23
-        time: "7:30 PM"
-        rating: 0
+        rating: 5
         venue: O'Reilly Theatre, Dublin
+  - label: 2025
+    entries:
+      - title: SIX
+        url: "https://en.wikipedia.org/wiki/Six_(musical)"
+        date: 2025-06-23
+        rating: 4
+        venue: Bord Gáis Energy Theatre, Dublin
+      - title: The Book of Mormon
+        url: "https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)"
+        date: 2025-04-08
+        rating: 5
+        venue: Bord Gáis Energy Theatre, Dublin
+      - title: "NOW That's What I Call A Musical"
+        date: 2025-01-01
+        rating: 3
+        venue: Bord Gáis Energy Theatre, Dublin
+  - label: 2024
+    entries:
+      - title: Chicago
+        url: "https://en.wikipedia.org/wiki/Chicago_(musical)"
+        date: 2024-08-01
+        rating: 2
+        venue: Bord Gáis Energy Theatre, Dublin
+  - label: 2022
+    entries:
+      - title: Eurovision Song Contest 2022
+        url: "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2022"
+        date: 2022-05-13
+        rating: 4
+        venue: PalaOlimpico, Turin
   - label: 2019
     entries:
       - title: The Rocky Horror Show
         url: "https://en.wikipedia.org/wiki/The_Rocky_Horror_Show"
         date: 2019-07-03
-        time: "7:30 PM"
-        rating: 0
+        rating: 5
         venue: Bord Gáis Energy Theatre, Dublin
+      - title: Spice Girls
+        url: "https://en.wikipedia.org/wiki/Spice_World_%E2%80%93_2019_Tour"
+        date: 2019-05-24
+        rating: 4
+        venue: Croke Park, Dublin
   - label: 2018
     entries:
       - title: "Britney Spears: Piece of Me"
         url: "https://en.wikipedia.org/wiki/Britney:_Piece_of_Me_Tour"
         date: 2018-08-20
-        time: "6:29 PM"
-        rating: 0
+        rating: 4
         venue: 3Arena, Dublin
       - title: Carmen Consoli Concert
         url: "https://en.wikipedia.org/wiki/Carmen_Consoli"
         date: 2018-02-05
-        time: "7:00 PM"
-        rating: 0
+        rating: 5
         venue: The Academy, Dublin
   - label: 2017
     entries:
       - title: Evita
         url: "https://en.wikipedia.org/wiki/Evita_(musical)"
         date: 2017-06-14
-        time: "7:30 PM"
-        rating: 0
+        rating: 3
         venue: Bord Gáis Energy Theatre, Dublin
       - title: High Heels in Low Places (Panti Bliss)
         url: "https://en.wikipedia.org/wiki/Panti_Bliss"
         date: 2017-04-30
-        time: "8:00 PM"
-        rating: 0
+        rating: 4
         venue: Abbey Theatre (Abbey Stage), Dublin
       - title: Elisa Concert
         url: "https://en.wikipedia.org/wiki/Elisa_(Italian_singer)"
         date: 2017-02-21
-        rating: 0
+        rating: 4
         venue: The Academy, Dublin
       - title: Dirty Dancing
         url: "https://en.wikipedia.org/wiki/Dirty_Dancing_(musical)"
         date: 2017-02-08
-        time: "7:30 PM"
-        rating: 0
+        rating: 3
         venue: Bord Gáis Energy Theatre, Dublin
       - title: Anna Karenina
         url: "https://en.wikipedia.org/wiki/Anna_Karenina"
         date: 2017-01-23
-        time: "7:00 PM"
-        rating: 0
+        rating: 3
         venue: Abbey Theatre, Dublin
   - label: 2016
     entries:
       - title: Sister Act
         url: "https://en.wikipedia.org/wiki/Sister_Act_(musical)"
         date: 2016-11-14
-        time: "7:30 PM"
-        rating: 0
+        rating: 3
         venue: Bord Gáis Energy Theatre, Dublin
+      - title: After Dark
+        date: 2016-10-31
+        rating: 3
+        venue: St Patrick's Cathedral, Dublin
       - title: The Rocky Horror Show
         url: "https://en.wikipedia.org/wiki/The_Rocky_Horror_Show"
         date: 2016-10-03
-        time: "7:30 PM"
-        rating: 0
+        rating: 5
         venue: Bord Gáis Energy Theatre, Dublin
       - title: Pentatonix Concert
         url: "https://en.wikipedia.org/wiki/Pentatonix"
         date: 2016-05-23
-        time: "8:00 PM"
-        rating: 0
+        rating: 3
         venue: The Olympia Theatre, Dublin
   - label: 2015
     entries:
       - title: The Importance of Being Earnest
         url: "https://en.wikipedia.org/wiki/The_Importance_of_Being_Earnest"
         date: 2015-11-30
-        time: "7:30 PM"
-        rating: 0
+        rating: 3
         venue: Gate Theatre, Dublin
+      - title: "Priscilla, Queen of the Desert"
+        url: "https://en.wikipedia.org/wiki/Priscilla,_Queen_of_the_Desert_(musical)"
+        date: 2015-06-13
+        rating: 5
+        venue: Teatro Manzoni, Milan
+      - title: David Garrett with Filarmonica della Scala
+        url: "https://en.wikipedia.org/wiki/David_Garrett_(musician)"
+        date: 2015-05-30
+        rating: 3
+        venue: Piazza Duomo, Milan
+      - title: Radio Italia Live
+        date: 2015-05-28
+        rating: 3
+        venue: Piazza Duomo, Milan
+      - title: The Rocky Horror Show
+        url: "https://en.wikipedia.org/wiki/The_Rocky_Horror_Show"
+        date: 2015-05-13
+        rating: 4
+        venue: Teatro della Luna, Assago
+      - title: Marco Mengoni Concert
+        url: "https://en.wikipedia.org/wiki/Marco_Mengoni"
+        date: 2015-05-07
+        rating: 3
+        venue: Mediolanum Forum, Assago
+      - title: Chiara Galiazzo Concert
+        url: "https://en.wikipedia.org/wiki/Chiara_Galiazzo"
+        date: 2015-04-22
+        rating: 3
+        venue: Oratorio Castelleone
+      - title: Pentatonix Concert
+        url: "https://en.wikipedia.org/wiki/Pentatonix"
+        date: 2015-04-14
+        rating: 3
+        venue: Fabrique, Milan
+  - label: 2014
+    entries:
+      - title: "Britney Spears: Piece of Me"
+        url: "https://en.wikipedia.org/wiki/Britney:_Piece_of_Me_Tour"
+        date: 2014-12-28
+        rating: 4
+        venue: The AXIS at Planet Hollywood, Las Vegas
+      - title: La Famiglia Addams
+        url: "https://en.wikipedia.org/wiki/The_Addams_Family_(musical)"
+        date: 2014-11-02
+        rating: 3
+        venue: Teatro della Luna, Assago
+      - title: Cristina D'Avena Concert
+        url: "https://en.wikipedia.org/wiki/Cristina_D%27Avena"
+        date: 2014-06-08
+        rating: 4
+        venue: Borgo
+  - label: 2013
+    entries:
+      - title: Max Pezzali Concert
+        url: "https://en.wikipedia.org/wiki/Max_Pezzali"
+        date: 2013-11-09
+        rating: 4
+        venue: PalaBam, Mantua
+      - title: Cristina D'Avena & Gem Boy
+        url: "https://en.wikipedia.org/wiki/Cristina_D%27Avena"
+        date: 2013-08-02
+        rating: 4
+        venue: Trecasali
+      - title: Cristina D'Avena Concert
+        url: "https://en.wikipedia.org/wiki/Cristina_D%27Avena"
+        date: 2013-07-06
+        rating: 3
+        venue: Chikos
   - label: 2012
     entries:
+      - title: Tiziano Ferro Concert
+        url: "https://en.wikipedia.org/wiki/Tiziano_Ferro"
+        date: 2012-05-04
+        rating: 3
+        venue: Mediolanum Forum, Assago
       - title: Sister Act
         url: "https://en.wikipedia.org/wiki/Sister_Act_(musical)"
         date: 2012-03-01
-        time: "8:30 PM"
-        rating: 0
+        rating: 3
         venue: Teatro Nazionale, Milan
