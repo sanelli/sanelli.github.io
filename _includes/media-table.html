@@ -64,7 +64,6 @@
       <td data-label="{{ people_label }}">{%- include_cached media-places.html places=item.places join=", " -%}</td>
       {%- elsif kind == "theater" -%}
       <td data-label="{{ people_label }}">{{ item.venue | escape }}</td>
-      <td data-label="Presenter">{% if item.presenter %}{{ item.presenter | escape }}{% endif %}</td>
       {%- endif -%}
       {%- unless kind == "travels" or kind == "theater" -%}
       <td data-label="{{ year_label }}">{{ item.year }}</td>
@@ -170,9 +169,6 @@
             {%- endif -%}
             {%- if show_byline -%}
             <p class="media-card-byline"><span class="media-card-byline-lead">{%- include icon.html name=byline_icon -%}{{ byline_verb }}</span><span class="media-card-byline-places"><span class="media-inline-sep"> </span>{%- if kind == "travels" -%}{%- include media-places.html places=byline_people join=", " names_only=true -%}{%- elsif kind == "theater" -%}{{ item.venue | escape }}{%- else -%}{%- include media-people.html people=byline_people join=", " -%}{%- endif -%}</span></p>
-            {%- endif -%}
-            {%- if kind == "theater" and item.presenter -%}
-            <p class="media-card-byline media-card-byline--presenter"><span class="media-card-byline-lead">{%- include icon.html name="person" -%}Presented by</span><span class="media-card-byline-places"><span class="media-inline-sep"> </span>{{ item.presenter | escape }}</span></p>
             {%- endif -%}
             {%- if item.rating != nil and item.rating > 0 -%}<div class="media-card-rating">{%- include media-stars.html rating=item.rating -%}</div>{%- endif -%}
             {%- assign show_year = false -%}

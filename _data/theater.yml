@@ -7,7 +7,6 @@ years:
         time: "7:00 PM"
         rating: 0
         venue: 3Olympia Theatre, Dublin
-        presenter: Live Nation / Ticketmaster
       - title: Diva Voces 20th Anniversary Concert
         date: 2026-10-17
         time: "8:00 PM"
@@ -24,14 +23,12 @@ years:
         time: "2:30 PM"
         rating: 0
         venue: Lyceum Theatre, London
-        presenter: Disney Theatrical Productions / ATG Tickets
       - title: Spring Awakening
         url: "https://en.wikipedia.org/wiki/Spring_Awakening_(musical)"
         date: 2026-01-23
         time: "7:30 PM"
         rating: 0
         venue: O'Reilly Theatre, Dublin
-        presenter: Trinity Musical Theatre Society / DGMC
   - label: 2019
     entries:
       - title: The Rocky Horror Show
@@ -40,7 +37,6 @@ years:
         time: "7:30 PM"
         rating: 0
         venue: Bord Gáis Energy Theatre, Dublin
-        presenter: Ticketmaster
   - label: 2018
     entries:
       - title: "Britney Spears: Piece of Me"
@@ -63,14 +59,12 @@ years:
         time: "7:30 PM"
         rating: 0
         venue: Bord Gáis Energy Theatre, Dublin
-        presenter: Bill Kenwright Ltd / Ticketmaster
       - title: High Heels in Low Places (Panti Bliss)
         url: "https://en.wikipedia.org/wiki/Panti_Bliss"
         date: 2017-04-30
         time: "8:00 PM"
         rating: 0
         venue: Abbey Theatre (Abbey Stage), Dublin
-        presenter: Thisispopbaby
       - title: Elisa Concert
         url: "https://en.wikipedia.org/wiki/Elisa_(Italian_singer)"
         date: 2017-02-21
@@ -82,7 +76,6 @@ years:
         time: "7:30 PM"
         rating: 0
         venue: Bord Gáis Energy Theatre, Dublin
-        presenter: Ticketmaster
       - title: Anna Karenina
         url: "https://en.wikipedia.org/wiki/Anna_Karenina"
         date: 2017-01-23
@@ -97,14 +90,12 @@ years:
         time: "7:30 PM"
         rating: 0
         venue: Bord Gáis Energy Theatre, Dublin
-        presenter: Stage Entertainment / Ticketmaster
       - title: The Rocky Horror Show
         url: "https://en.wikipedia.org/wiki/The_Rocky_Horror_Show"
         date: 2016-10-03
         time: "7:30 PM"
         rating: 0
         venue: Bord Gáis Energy Theatre, Dublin
-        presenter: Ticketmaster
       - title: Pentatonix Concert
         url: "https://en.wikipedia.org/wiki/Pentatonix"
         date: 2016-05-23
@@ -127,4 +118,3 @@ years:
         time: "8:30 PM"
         rating: 0
         venue: Teatro Nazionale, Milan
-        presenter: Stage Entertainment / TicketOne
