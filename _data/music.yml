@@ -1,6 +1,16 @@
 years:
   - label: 2026
     entries:
+      - title: Masini
+        url: "https://it.wikipedia.org/wiki/Masini_(album)"
+        date: 2026-11-02
+        rating: 4
+        artists:
+          - name: Marco Masini
+            url: "https://en.wikipedia.org/wiki/Marco_Masini"
+        year: 2004
+        genres:
+          - pop
       - title: Magia Bianca, Magia Nera
         url: "https://it.wikipedia.org/wiki/Magia_bianca_(album)"
         cover: /assets/images/covers/magia-bianca-magia-nera.jpg
