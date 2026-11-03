@@ -1,6 +1,18 @@
 years:
   - label: 2026
     entries:
+      - title: All Saints
+        url: "https://en.wikipedia.org/wiki/All_Saints_(All_Saints_album)"
+        date: 2026-11-03
+        rating: 4
+        artists:
+          - name: All Saints
+            url: "https://en.wikipedia.org/wiki/All_Saints_(group)"
+        year: 1997
+        genres:
+          - pop
+          - dance-pop
+          - "R&B"
       - title: Masini
         url: "https://it.wikipedia.org/wiki/Masini_(album)"
         cover: /assets/images/covers/masini.jpg
