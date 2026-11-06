@@ -13,25 +13,63 @@ current:
     year: 2026
     genres:
       - action-adventure
-  - title: "Castlevania: Belmont's Curse"
-    url: "https://en.wikipedia.org/wiki/Castlevania:_Belmont%27s_Curse"
+  - title: "The Legend of Zelda: Ocarina of Time (2026)"
+    url: "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time_(2026_video_game)"
     developers:
-      - name: Evil Empire
-        url: "https://en.wikipedia.org/wiki/Evil_Empire_(company)"
+      - name: Nintendo
+        url: "https://en.wikipedia.org/wiki/Nintendo"
     publishers:
-      - name: Konami
-        url: "https://en.wikipedia.org/wiki/Konami"
+      - name: Nintendo
+        url: "https://en.wikipedia.org/wiki/Nintendo"
     console:
-      name: Nintendo Switch
-      url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+      name: Nintendo Switch 2
+      url: "https://en.wikipedia.org/wiki/Nintendo_Switch_2"
     year: 2026
     genres:
       - action-adventure
-      - metroidvania
 
 years:
   - label: 2026
     entries:
+      - title: "Castlevania: Belmont's Curse"
+        url: "https://en.wikipedia.org/wiki/Castlevania:_Belmont%27s_Curse"
+        subtitles:
+          - Normal Ending
+          - True Ending
+        date: 2026-11-06
+        rating: 5
+        developers:
+          - name: Evil Empire
+            url: "https://en.wikipedia.org/wiki/Evil_Empire_(company)"
+        publishers:
+          - name: Konami
+            url: "https://en.wikipedia.org/wiki/Konami"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2026
+        genres:
+          - action-adventure
+          - metroidvania
+      - title: "Castlevania: Belmont's Curse"
+        url: "https://en.wikipedia.org/wiki/Castlevania:_Belmont%27s_Curse"
+        subtitles:
+          - Bad Ending
+        date: 2026-10-23
+        rating: 5
+        developers:
+          - name: Evil Empire
+            url: "https://en.wikipedia.org/wiki/Evil_Empire_(company)"
+        publishers:
+          - name: Konami
+            url: "https://en.wikipedia.org/wiki/Konami"
+        console:
+          name: Nintendo Switch
+          url: "https://en.wikipedia.org/wiki/Nintendo_Switch"
+        year: 2026
+        genres:
+          - action-adventure
+          - metroidvania
       - title: Donkey Kong Bananza
         url: "https://en.wikipedia.org/wiki/Donkey_Kong_Bananza"
         date: 2026-05-09
@@ -1100,20 +1138,6 @@ backlog:
     genres:
       - action-adventure
       - platformer
-  - title: "The Legend of Zelda: Ocarina of Time (2026)"
-    url: "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time_(2026_video_game)"
-    developers:
-      - name: Nintendo
-        url: "https://en.wikipedia.org/wiki/Nintendo"
-    publishers:
-      - name: Nintendo
-        url: "https://en.wikipedia.org/wiki/Nintendo"
-    console:
-      name: Nintendo Switch 2
-      url: "https://en.wikipedia.org/wiki/Nintendo_Switch_2"
-    year: 2026
-    genres:
-      - action-adventure
   - title: "The Legend of Zelda: Skyward Sword"
     url: "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Skyward_Sword"
     developers:
