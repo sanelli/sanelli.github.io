@@ -121,7 +121,23 @@ a:hover {
 
 .site-nav .page-link {
   color: var(--text);
+  text-decoration: none;
+  box-shadow: inset 0 -2px 0 transparent;
 }
+
+.site-nav .page-link.is-current {
+  color: var(--text-strong);
+}
+
+.site-nav .page-link--work.is-current { box-shadow: inset 0 -2px 0 #818cf8; }
+.site-nav .page-link--portfolio.is-current { box-shadow: inset 0 -2px 0 #22c55e; }
+.site-nav .page-link--posts.is-current { box-shadow: inset 0 -2px 0 #fb923c; }
+.site-nav .page-link--books.is-current { box-shadow: inset 0 -2px 0 #14b8a6; }
+.site-nav .page-link--music.is-current { box-shadow: inset 0 -2px 0 #f472b6; }
+.site-nav .page-link--movies.is-current { box-shadow: inset 0 -2px 0 #c084fc; }
+.site-nav .page-link--games.is-current { box-shadow: inset 0 -2px 0 #ef4444; }
+.site-nav .page-link--theater.is-current { box-shadow: inset 0 -2px 0 #fbbf24; }
+.site-nav .page-link--travels.is-current { box-shadow: inset 0 -2px 0 #38bdf8; }
 
 .site-footer {
   color: var(--text-muted);

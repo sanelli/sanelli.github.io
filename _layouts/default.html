@@ -6,7 +6,7 @@
   <body class="layout-{{ page.layout }}{% if page.body_class %} {{ page.body_class }}{% endif %}">
     {%- include_cached icons.svg -%}
 
-    {%- include_cached header.html -%}
+    {%- include_cached header.html current_url=page.url -%}
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">

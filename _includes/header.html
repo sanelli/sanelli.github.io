@@ -28,7 +28,10 @@
             {%- endunless -%}
           {%- endunless -%}
           {%- if my_page.title -%}
-          <a class="page-link" href="{{ my_page.url | replace: 'index.html', '' | relative_url }}">{%- include_cached icon.html name=my_page.icon -%}{{ my_page.title | escape }}</a>
+          {%- assign link_url = my_page.url | replace: 'index.html', '' -%}
+          {%- assign raw_current = include.current_url | default: page.url -%}
+          {%- assign current_url = raw_current | replace: 'index.html', '' -%}
+          <a class="page-link page-link--{{ my_page.icon }}{% if link_url == current_url %} is-current{% endif %}"{% if link_url == current_url %} aria-current="page"{% endif %} href="{{ link_url | relative_url }}">{%- include_cached icon.html name=my_page.icon -%}{{ my_page.title | escape }}</a>
           {%- endif -%}
         {%- endfor -%}
       </div>
