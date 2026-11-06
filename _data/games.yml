@@ -1154,6 +1154,7 @@ backlog:
       - action-adventure
   - title: Well Dweller
     url: "https://en.wikipedia.org/wiki/Well_Dweller"
+    cover: /assets/images/covers/well-dweller.jpg
     developers:
       - name: Kyle Thompson
     publishers:
