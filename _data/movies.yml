@@ -1,6 +1,19 @@
 years:
   - label: 2026
     entries:
+      - title: La bola negra
+        url: "https://en.wikipedia.org/wiki/La_bola_negra"
+        date: 2026-11-06
+        rating: 5
+        creators:
+          - name: Javier Calvo
+            url: "https://en.wikipedia.org/wiki/Javier_Calvo_(actor)"
+          - name: Javier Ambrossi
+            url: "https://en.wikipedia.org/wiki/Javier_Ambrossi"
+        language: Spanish
+        year: 2026
+        genres:
+          - drama
       - title: "Spider-Man: Brand New Day"
         url: "https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day"
         date: 2026-08-06
