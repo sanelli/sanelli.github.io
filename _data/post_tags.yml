@@ -4,6 +4,8 @@ dublin:
   label: Dublin
 games:
   label: Games
+movies:
+  label: Movies
 music:
   label: Music
 project:

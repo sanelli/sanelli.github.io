@@ -309,4 +309,8 @@
     <path d="M30,0 v30 M0,15 h60" stroke="#fff" stroke-width="10"/>
     <path d="M30,0 v30 M0,15 h60" stroke="#c8102e" stroke-width="6"/>
   </symbol>
+  <symbol id="flag-es" viewBox="0 0 3 2">
+    <rect width="3" height="2" fill="#c60b1e"/>
+    <rect y="0.5" width="3" height="1" fill="#ffc400"/>
+  </symbol>
 </svg>

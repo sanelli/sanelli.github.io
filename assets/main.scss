@@ -148,9 +148,24 @@ blockquote {
   border-left-color: var(--border-subtle);
 }
 
+blockquote.verse {
+  margin: 1.4em 0 0.5em;
+}
+
 blockquote.verse p {
   margin: 0;
   line-height: 1.55;
+  white-space: pre-line;
+}
+
+blockquote.verse p + p {
+  margin-top: 0.85em;
+}
+
+.verse-credit {
+  margin: 0.25em 0 1.5em;
+  font-size: 0.85em;
+  color: var(--text-muted);
 }
 
 .svg-icon {
@@ -216,6 +231,8 @@ blockquote.verse p {
 .post-link .icon.icon-pencil { color: #e07a5f; }
 .layout-post .post-title .icon.icon-games,
 .post-link .icon.icon-games { color: #ef4444; }
+.layout-post .post-title .icon.icon-movies,
+.post-link .icon.icon-movies { color: #c084fc; }
 .icon.icon-spotify { color: #1ed760; }
 .icon.icon-youtube-music { color: #ff0033; }
 .icon.icon-apple-music { color: #fc3c44; }
@@ -454,6 +471,10 @@ blockquote.verse p {
 
   p {
     margin: 0;
+  }
+
+  p + p {
+    margin-top: 0.65em;
   }
 }
 

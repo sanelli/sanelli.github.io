@@ -31,7 +31,16 @@
           {%- assign link_url = my_page.url | replace: 'index.html', '' -%}
           {%- assign raw_current = include.current_url | default: page.url -%}
           {%- assign current_url = raw_current | replace: 'index.html', '' -%}
-          <a class="page-link page-link--{{ my_page.icon }}{% if link_url == current_url %} is-current{% endif %}"{% if link_url == current_url %} aria-current="page"{% endif %} href="{{ link_url | relative_url }}">{%- include_cached icon.html name=my_page.icon -%}{{ my_page.title | escape }}</a>
+          {%- assign is_current = false -%}
+          {%- if link_url == current_url -%}
+            {%- assign is_current = true -%}
+          {%- elsif my_page.icon == "posts" -%}
+            {%- assign current_prefix = current_url | slice: 0, link_url.size -%}
+            {%- if current_prefix == link_url -%}
+              {%- assign is_current = true -%}
+            {%- endif -%}
+          {%- endif -%}
+          <a class="page-link page-link--{{ my_page.icon }}{% if is_current %} is-current{% endif %}"{% if is_current %} aria-current="page"{% endif %} href="{{ link_url | relative_url }}">{%- include_cached icon.html name=my_page.icon -%}{{ my_page.title | escape }}</a>
           {%- endif -%}
         {%- endfor -%}
       </div>
