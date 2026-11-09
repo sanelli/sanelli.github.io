@@ -1,6 +1,18 @@
 years:
   - label: 2026
     entries:
+      - title: American Life
+        url: "https://en.wikipedia.org/wiki/American_Life"
+        date: 2026-11-09
+        rating: 3
+        artists:
+          - name: Madonna
+            url: "https://en.wikipedia.org/wiki/Madonna"
+        year: 2003
+        genres:
+          - folktronica
+          - eurodance
+          - electroclash
       - title: All Saints
         url: "https://en.wikipedia.org/wiki/All_Saints_(All_Saints_album)"
         date: 2026-11-03
