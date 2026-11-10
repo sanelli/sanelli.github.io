@@ -1,6 +1,18 @@
 years:
   - label: 2026
     entries:
+      - title: In the Zone
+        url: "https://en.wikipedia.org/wiki/In_the_Zone"
+        date: 2026-11-10
+        rating: 4
+        artists:
+          - name: Britney Spears
+            url: "https://en.wikipedia.org/wiki/Britney_Spears"
+        year: 2003
+        genres:
+          - pop
+          - dance
+          - hip-hop
       - title: In the Lonely Hour
         url: "https://en.wikipedia.org/wiki/In_the_Lonely_Hour"
         date: 2026-11-10
