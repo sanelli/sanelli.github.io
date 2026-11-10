@@ -1,6 +1,18 @@
 years:
   - label: 2026
     entries:
+      - title: In the Lonely Hour
+        url: "https://en.wikipedia.org/wiki/In_the_Lonely_Hour"
+        date: 2026-11-10
+        rating: 2
+        artists:
+          - name: Sam Smith
+            url: "https://en.wikipedia.org/wiki/Sam_Smith"
+        year: 2014
+        genres:
+          - pop
+          - soul
+          - contemporary r&b
       - title: American Life
         url: "https://en.wikipedia.org/wiki/American_Life"
         date: 2026-11-09
