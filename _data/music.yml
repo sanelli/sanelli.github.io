@@ -1,6 +1,17 @@
 years:
   - label: 2026
     entries:
+      - title: When the Sun Goes Down
+        url: "https://en.wikipedia.org/wiki/When_the_Sun_Goes_Down_(Selena_Gomez_%26_the_Scene_album)"
+        date: 2026-11-11
+        rating: 3
+        artists:
+          - name: Selena Gomez & The Scene
+            url: "https://en.wikipedia.org/wiki/Selena_Gomez_%26_the_Scene"
+        year: 2011
+        genres:
+          - dance-pop
+          - electropop
       - title: In the Zone
         url: "https://en.wikipedia.org/wiki/In_the_Zone"
         date: 2026-11-10
