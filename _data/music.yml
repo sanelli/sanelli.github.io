@@ -1,6 +1,20 @@
 years:
   - label: 2026
     entries:
+      - title: Señorita
+        url: "https://en.wikipedia.org/wiki/Se%C3%B1orita_(Shawn_Mendes_and_Camila_Cabello_song)"
+        subtitles:
+          - Single
+        date: 2026-11-12
+        rating: 4
+        artists:
+          - name: Shawn Mendes
+            url: "https://en.wikipedia.org/wiki/Shawn_Mendes"
+          - name: Camila Cabello
+            url: "https://en.wikipedia.org/wiki/Camila_Cabello"
+        year: 2019
+        genres:
+          - latin pop
       - title: Love Sensation
         url: "https://en.wikipedia.org/wiki/Love_Sensation_(Madonna_song)"
         subtitles:
