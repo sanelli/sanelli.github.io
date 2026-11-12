@@ -1,6 +1,21 @@
 years:
   - label: 2026
     entries:
+      - title: Love Sensation
+        url: "https://en.wikipedia.org/wiki/Love_Sensation_(Madonna_song)"
+        subtitles:
+          - Single
+        date: 2026-11-12
+        rating: 3
+        artists:
+          - name: Madonna
+            url: "https://en.wikipedia.org/wiki/Madonna"
+          - name: Kylie Minogue
+            url: "https://en.wikipedia.org/wiki/Kylie_Minogue"
+        year: 2026
+        genres:
+          - house
+          - disco
       - title: When the Sun Goes Down
         url: "https://en.wikipedia.org/wiki/When_the_Sun_Goes_Down_(Selena_Gomez_%26_the_Scene_album)"
         date: 2026-11-11
