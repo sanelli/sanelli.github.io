@@ -1,6 +1,18 @@
 years:
   - label: 2026
     entries:
+      - title: The Fifth Element
+        url: "https://en.wikipedia.org/wiki/The_Fifth_Element"
+        date: 2026-11-14
+        rating: 5
+        creators:
+          - name: Luc Besson
+            url: "https://en.wikipedia.org/wiki/Luc_Besson"
+        language: English
+        year: 1997
+        genres:
+          - science fiction
+          - action
       - title: La bola negra
         url: "https://en.wikipedia.org/wiki/La_bola_negra"
         date: 2026-11-06
