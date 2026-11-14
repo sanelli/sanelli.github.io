@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "Mappa v11.0.1"
+date:   2026-11-14 18:00:00 +0000
+categories: projects csharp nuget source-generator mappa
+tags: [project]
+---
+
+A new version of [Mappa](https://github.com/sanelli/Mappa) (v11.0.1) has been released.
+
+Mappa **11.0.1** is a platform release. It moves the solution, samples, AOT, benchmarks, and CI to **.NET 11**, and ships a follow-up so BenchmarkDotNet recognizes `net11.0` on `main`. There is no feature work beyond what the TFM upgrade requires. The first published package on the 11.x line is **11.0.1** (the .NET 11 migration landed as 11.0.0 internally, then the benchmark fix bumped the version before NuGet).
+**Full changelog:** [v10.3.0...v11.0.1](https://github.com/sanelli/Mappa/compare/v10.3.0...v11.0.1)
+
+## Breaking changes
+When upgrading from 10.3.0, see the [upgrade guide](https://github.com/sanelli/Mappa/blob/main/Documentation/upgrade.md).
+
+### Repository and samples require .NET 11
+- **Host projects retarget to `net11.0`** ([#360](https://github.com/sanelli/Mappa/issues/360), [#361](https://github.com/sanelli/Mappa/issues/361), [#375](https://github.com/sanelli/Mappa/pull/375))
+  - Building, testing, AOT publish, benchmarks, and CI for this repository require the **.NET 11 SDK**.
+  - Published `Mappa` and `Mappa.Generator` NuGet packages remain **`netstandard2.0`** and continue to work in consumer projects that already reference them; the package major version moves to the **11.x** line to align with the .NET 11 release.
+
+## What's new
+
+### Platform
+- **Migrate to .NET 11** ([#360](https://github.com/sanelli/Mappa/issues/360), [#361](https://github.com/sanelli/Mappa/issues/361), [#375](https://github.com/sanelli/Mappa/pull/375)) — Host/test/sample/benchmark/AOT projects on `net11.0`, SDK and CI pinned to .NET 11, outdated NuGet packages bumped, upgrade guide and README updated.
+
+### Release and CI
+- **BenchmarkDotNet on .NET 11** ([#376](https://github.com/sanelli/Mappa/issues/376), [#377](https://github.com/sanelli/Mappa/pull/377)) — Bump BenchmarkDotNet to `0.16.0-preview.2` so `net11.0` is a recognized runtime (fixes `GetRuntimeVersion not implemented for NotRecognized` on the `main` benchmark step), and switch the benchmark entry point to `RunAsync`.
+
+## What's next
+This is a tentative and non-exhaustive roadmap for the rest of the **11.x** line. Milestone details live on GitHub; summaries below group the planned work by release.
+
+### 11.1.0 — C# / .NET union types
+- [#83](https://github.com/sanelli/Mappa/issues/83), [#92](https://github.com/sanelli/Mappa/issues/92) — Discriminated union / type-union support in mapping and polymorphism.
+
+### 11.2.0 — Performance, debugging, and maintainability
+- [#141](https://github.com/sanelli/Mappa/issues/141) — Improved debug feature
+- [#314](https://github.com/sanelli/Mappa/issues/314) — Investigate Mapperly/Mapster benchmark wins and `FastCollections` behaviour
+- [#324](https://github.com/sanelli/Mappa/issues/324) — Reduce `Collect()` fan-out and document incremental host behavior
+- [#326](https://github.com/sanelli/Mappa/issues/326) — Optimize hot paths (`TypeSymbolExtensions`, constructor detection, attribute helpers)
+- [#351](https://github.com/sanelli/Mappa/issues/351) — Reduce generator CRAP/CC and close major coverage gaps
+- [#371](https://github.com/sanelli/Mappa/issues/371) — Add Facet as another mapper for benchmark comparisons
+
+### 11.3.0 — Advanced mapping semantics and ecosystem
+- [#246](https://github.com/sanelli/Mappa/issues/246) — Reverse / bidirectional mapping
+- [#247](https://github.com/sanelli/Mappa/issues/247) — Map into existing target / merge semantics
+- [#248](https://github.com/sanelli/Mappa/issues/248) — Generic mapping methods
+- [#251](https://github.com/sanelli/Mappa/issues/251) — Conditional mapping / preconditions for members
+- [#256](https://github.com/sanelli/Mappa/issues/256) — Collection merge semantics and map into existing collections
+- [#346](https://github.com/sanelli/Mappa/issues/346), [#347](https://github.com/sanelli/Mappa/issues/347) — Apache Avro and Thrift support at Protobuf parity
+- [#355](https://github.com/sanelli/Mappa/issues/355), [#356](https://github.com/sanelli/Mappa/issues/356) — Well-known NodaTime and LanguageExt Option/Maybe
+- [#43](https://github.com/sanelli/Mappa/issues/43) — Extract test abstractions from `Mappa.Generator.Tests`
