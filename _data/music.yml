@@ -1,6 +1,16 @@
 years:
   - label: 2026
     entries:
+      - title: Handwritten
+        url: "https://en.wikipedia.org/wiki/Handwritten_(Shawn_Mendes_album)"
+        date: 2026-11-18
+        rating: 3
+        artists:
+          - name: Shawn Mendes
+            url: "https://en.wikipedia.org/wiki/Shawn_Mendes"
+        year: 2015
+        genres:
+          - pop rock
       - title: Señorita
         url: "https://en.wikipedia.org/wiki/Se%C3%B1orita_(Shawn_Mendes_and_Camila_Cabello_song)"
         subtitles:
