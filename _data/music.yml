@@ -1,6 +1,16 @@
 years:
   - label: 2026
     entries:
+      - title: Slicker Than Your Average
+        url: "https://en.wikipedia.org/wiki/Slicker_Than_Your_Average"
+        date: 2026-11-20
+        rating: 4
+        artists:
+          - name: Craig David
+            url: "https://en.wikipedia.org/wiki/Craig_David"
+        year: 2002
+        genres:
+          - "R&B"
       - title: Handwritten
         url: "https://en.wikipedia.org/wiki/Handwritten_(Shawn_Mendes_album)"
         date: 2026-11-18
