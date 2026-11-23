@@ -1,6 +1,16 @@
 years:
   - label: 2026
     entries:
+      - title: Shawn Mendes
+        url: "https://en.wikipedia.org/wiki/Shawn_Mendes_(album)"
+        date: 2026-11-23
+        rating: 3
+        artists:
+          - name: Shawn Mendes
+            url: "https://en.wikipedia.org/wiki/Shawn_Mendes"
+        year: 2018
+        genres:
+          - pop
       - title: All Rise
         url: "https://en.wikipedia.org/wiki/All_Rise_(Blue_album)"
         date: 2026-11-23
