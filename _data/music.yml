@@ -1,6 +1,17 @@
 years:
   - label: 2026
     entries:
+      - title: All Rise
+        url: "https://en.wikipedia.org/wiki/All_Rise_(Blue_album)"
+        date: 2026-11-23
+        rating: 2
+        artists:
+          - name: Blue
+            url: "https://en.wikipedia.org/wiki/Blue_(English_band)"
+        year: 2001
+        genres:
+          - pop
+          - "R&B"
       - title: Born to Do It
         url: "https://en.wikipedia.org/wiki/Born_to_Do_It"
         date: 2026-11-23
