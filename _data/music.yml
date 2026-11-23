@@ -1,6 +1,17 @@
 years:
   - label: 2026
     entries:
+      - title: Born to Do It
+        url: "https://en.wikipedia.org/wiki/Born_to_Do_It"
+        date: 2026-11-23
+        rating: 4
+        artists:
+          - name: Craig David
+            url: "https://en.wikipedia.org/wiki/Craig_David"
+        year: 2000
+        genres:
+          - 2-step garage
+          - "R&B"
       - title: Slicker Than Your Average
         url: "https://en.wikipedia.org/wiki/Slicker_Than_Your_Average"
         date: 2026-11-20
