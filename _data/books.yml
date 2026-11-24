@@ -27,6 +27,23 @@ current:
 years:
   - label: 2026
     entries:
+      - title: Magic Knight Rayearth
+        cover: /assets/images/covers/magic-knight-rayearth-part2-book2.jpg
+        url: "https://en.wikipedia.org/wiki/Magic_Knight_Rayearth"
+        subtitles:
+          - "PART TWO: BOOK TWO"
+        date: 2026-11-24
+        rating: 4
+        authors:
+          - name: CLAMP
+            url: "https://en.wikipedia.org/wiki/Clamp_(manga_artists)"
+        language: English
+        year: 1995
+        genres:
+          - isekai
+          - manga
+          - mecha
+          - sword and sorcery
       - title: Game Changer
         cover: /assets/images/covers/game-changer.jpg
         date: 2026-11-23
