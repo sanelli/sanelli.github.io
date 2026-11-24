@@ -1,15 +1,16 @@
 current:
-  - title: Game Changer
-    cover: /assets/images/covers/game-changer.jpg
+  - title: La canzone di Susannah
+    url: "https://en.wikipedia.org/wiki/The_Dark_Tower_VI:_Song_of_Susannah"
+    subtitles:
+      - "The Dark Tower VI: Song of Susannah"
     authors:
-      - name: Rachel Reid
-        url: "https://en.wikipedia.org/wiki/Rachel_Reid_(author)"
-    language: English
-    year: 2018
+      - name: Stephen King
+        url: "https://en.wikipedia.org/wiki/Stephen_King"
+    language: Italian
+    year: 2004
     genres:
-      - gay
-      - romance
-      - sport
+      - dark fantasy
+      - science fiction
   - title: Hands-On Large Language Models
     cover: /assets/images/covers/hands-on-large-language-models.png
     url: "https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/"
@@ -26,6 +27,19 @@ current:
 years:
   - label: 2026
     entries:
+      - title: Game Changer
+        cover: /assets/images/covers/game-changer.jpg
+        date: 2026-11-23
+        rating: 5
+        authors:
+          - name: Rachel Reid
+            url: "https://en.wikipedia.org/wiki/Rachel_Reid_(author)"
+        language: English
+        year: 2018
+        genres:
+          - gay
+          - romance
+          - sport
       - title: Magic Knight Rayearth
         cover: /assets/images/covers/magic-knight-rayearth-part2-book1.jpg
         url: "https://en.wikipedia.org/wiki/Magic_Knight_Rayearth"
@@ -1527,18 +1541,6 @@ backlog:
       - dystopian
       - science fiction
       - thriller
-  - title: La canzone di Susannah
-    url: "https://en.wikipedia.org/wiki/The_Dark_Tower_VI:_Song_of_Susannah"
-    subtitles:
-      - "The Dark Tower VI: Song of Susannah"
-    authors:
-      - name: Stephen King
-        url: "https://en.wikipedia.org/wiki/Stephen_King"
-    language: Italian
-    year: 2004
-    genres:
-      - dark fantasy
-      - science fiction
   - title: La freccia nera
     url: "https://en.wikipedia.org/wiki/The_Black_Arrow:_A_Tale_of_the_Two_Roses"
     subtitles:
