@@ -3,16 +3,23 @@
 {%- for group in site.data.books.years -%}
   {%- for entry in group.entries -%}
     {%- unless entry.year -%}{%- continue -%}{%- endunless -%}
+    {%- assign release_kind = "Books" -%}
+    {%- if entry.genres contains "manga" or entry.genres contains "comics" -%}
+      {%- assign release_kind = "Manga" -%}
+    {%- endif -%}
     {%- unless first_entry -%},{%- endunless -%}{%- assign first_entry = false -%}
-    {"kind":"Books","year":{{ entry.year }},"title":{{ entry.title | jsonify }}{%- if entry.subtitles -%},"subtitles":{{ entry.subtitles | jsonify }}{%- endif -%},"unique":"title"}
+    {"kind":{{ release_kind | jsonify }},"year":{{ entry.year }},"title":{{ entry.title | jsonify }}{%- if entry.subtitles -%},"subtitles":{{ entry.subtitles | jsonify }}{%- endif -%}{%- unless release_kind == "Manga" -%},"unique":"title"{%- endunless -%}}
   {%- endfor -%}
 {%- endfor -%}
 {%- for group in site.data.music.years -%}
   {%- for entry in group.entries -%}
     {%- unless entry.year -%}{%- continue -%}{%- endunless -%}
-    {%- if entry.subtitles and entry.subtitles contains "Single" -%}{%- continue -%}{%- endif -%}
+    {%- assign music_kind = "Music" -%}
+    {%- if entry.subtitles and entry.subtitles contains "Single" -%}
+      {%- assign music_kind = "Singles" -%}
+    {%- endif -%}
     {%- unless first_entry -%},{%- endunless -%}{%- assign first_entry = false -%}
-    {"kind":"Music","year":{{ entry.year }},"title":{{ entry.title | jsonify }}{%- if entry.subtitles -%},"subtitles":{{ entry.subtitles | jsonify }}{%- endif -%}}
+    {"kind":{{ music_kind | jsonify }},"year":{{ entry.year }},"title":{{ entry.title | jsonify }}{%- if entry.subtitles -%},"subtitles":{{ entry.subtitles | jsonify }}{%- endif -%}}
   {%- endfor -%}
 {%- endfor -%}
 {%- for group in site.data.games.years -%}
@@ -48,7 +55,7 @@
       </label>
     </div>
     <div class="stats-chart-scroll">
-      <div class="stats-chart-canvas stats-chart-canvas--bars" role="img" aria-label="Stacked bar chart of books, music, games, and movies by release year"></div>
+      <div class="stats-chart-canvas stats-chart-canvas--bars" role="img" aria-label="Stacked bar chart of books, manga, music, singles, games, and movies by release year"></div>
     </div>
     <ul class="stats-chart-legend" aria-label="Toggle categories"></ul>
   </figure>

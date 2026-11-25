@@ -9,10 +9,13 @@
 
   var SERIES_COLORS = {
     Books: "#f4b942",
+    Manga: "#fbbf24",
     Music: "#f472b6",
+    Singles: "#ec4899",
     Games: "#fb923c",
     Movies: "#a78bfa",
-    Trips: "#38bdf8",
+    Shows: "#10b981",
+    Trips: "#a16207",
     Posts: "#e07a5f"
   };
 
@@ -25,9 +28,12 @@
     var text = (header || "").trim();
     var map = {
       "Books read": "Books",
+      "Manga read": "Manga",
       "Music listened": "Music",
+      "Singles listened": "Singles",
       "Games played": "Games",
       "Movies watched": "Movies",
+      "Shows seen": "Shows",
       "Trips taken": "Trips",
       Posts: "Posts"
     };

@@ -40,7 +40,7 @@
               {%- assign is_current = true -%}
             {%- endif -%}
           {%- endif -%}
-          <a class="page-link page-link--{{ my_page.icon }}{% if is_current %} is-current{% endif %}"{% if is_current %} aria-current="page"{% endif %} href="{{ link_url | relative_url }}">{%- include_cached icon.html name=my_page.icon -%}{{ my_page.title | escape }}</a>
+          <a class="page-link page-link--{{ my_page.icon }}{% if is_current %} is-current{% endif %}"{% if is_current %} aria-current="page"{% endif %} href="{{ link_url | relative_url }}">{%- include_cached icon.html name=my_page.icon -%}<span class="page-link-label">{{ my_page.title | escape }}</span></a>
           {%- endif -%}
         {%- endfor -%}
       </div>

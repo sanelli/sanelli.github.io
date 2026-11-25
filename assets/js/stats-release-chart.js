@@ -8,17 +8,19 @@
   var groupSelect = root.querySelector("[data-stats-release-group]");
   if (!canvas || !legend || !groupSelect) return;
 
-  var SERIES = ["Books", "Music", "Games", "Movies"];
+  var SERIES = ["Books", "Manga", "Music", "Singles", "Games", "Movies"];
   var SERIES_COLORS = {
     Books: "#f4b942",
+    Manga: "#fbbf24",
     Music: "#f472b6",
+    Singles: "#ec4899",
     Games: "#fb923c",
     Movies: "#a78bfa"
   };
   var GROUP_STORAGE_KEY = "stats-release-group";
   var SERIES_STORAGE_KEY = "stats-release-series";
   var ALLOWED_GROUPS = { 1: true, 5: true, 10: true, 25: true, 50: true };
-  var visible = { Books: true, Music: true, Games: true, Movies: true };
+  var visible = { Books: true, Manga: true, Music: true, Singles: true, Games: true, Movies: true };
 
   function readCss(name, fallback) {
     var value = getComputedStyle(document.documentElement).getPropertyValue(name).trim();

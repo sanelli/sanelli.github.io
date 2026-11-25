@@ -7,9 +7,12 @@
 {%- assign rows = year_blob | split: " " | compact -%}
 
 {%- assign books_total = 0 -%}
+{%- assign manga_total = 0 -%}
 {%- assign music_total = 0 -%}
+{%- assign singles_total = 0 -%}
 {%- assign games_total = 0 -%}
 {%- assign movies_total = 0 -%}
+{%- assign shows_total = 0 -%}
 {%- assign travels_total = 0 -%}
 {%- assign posts_total = 0 -%}
 
@@ -27,9 +30,12 @@
     <tr>
       <th>Year</th>
       <th>Books read</th>
+      <th>Manga read</th>
       <th>Music listened</th>
+      <th>Singles listened</th>
       <th>Games played</th>
       <th>Movies watched</th>
+      <th>Shows seen</th>
       <th>Trips taken</th>
       <th>Posts</th>
     </tr>
@@ -37,10 +43,13 @@
   <tbody>
     {%- for year in rows -%}
       {%- if year == "" -%}{%- continue -%}{%- endif -%}
-      {%- include stats-count.html data=site.data.books year=year unique_key="title" -%}{%- assign books_n = stats_count -%}
+      {%- include stats-count.html data=site.data.books year=year unique_key="title" exclude_manga=true -%}{%- assign books_n = stats_count -%}
+      {%- include stats-count.html data=site.data.books year=year only_manga=true -%}{%- assign manga_n = stats_count -%}
       {%- include stats-count.html data=site.data.music year=year skip_subtitle="Single" -%}{%- assign music_n = stats_count -%}
+      {%- include stats-count.html data=site.data.music year=year only_subtitle="Single" -%}{%- assign singles_n = stats_count -%}
       {%- include stats-count.html data=site.data.games year=year unique_key="title" -%}{%- assign games_n = stats_count -%}
       {%- include stats-count.html data=site.data.movies year=year -%}{%- assign movies_n = stats_count -%}
+      {%- include stats-count.html data=site.data.theater year=year -%}{%- assign shows_n = stats_count -%}
       {%- include stats-count.html data=site.data.travels year=year -%}{%- assign travels_n = stats_count -%}
       {%- assign posts_n = 0 -%}
       {%- for post in site.posts -%}
@@ -50,17 +59,23 @@
         {%- endif -%}
       {%- endfor -%}
       {%- assign books_total = books_total | plus: books_n -%}
+      {%- assign manga_total = manga_total | plus: manga_n -%}
       {%- assign music_total = music_total | plus: music_n -%}
+      {%- assign singles_total = singles_total | plus: singles_n -%}
       {%- assign games_total = games_total | plus: games_n -%}
       {%- assign movies_total = movies_total | plus: movies_n -%}
+      {%- assign shows_total = shows_total | plus: shows_n -%}
       {%- assign travels_total = travels_total | plus: travels_n -%}
       {%- assign posts_total = posts_total | plus: posts_n -%}
     <tr>
       <td>{{ year }}</td>
       <td>{%- if books_n > 0 -%}{{ books_n }}{%- endif -%}</td>
+      <td>{%- if manga_n > 0 -%}{{ manga_n }}{%- endif -%}</td>
       <td>{%- if music_n > 0 -%}{{ music_n }}{%- endif -%}</td>
+      <td>{%- if singles_n > 0 -%}{{ singles_n }}{%- endif -%}</td>
       <td>{%- if games_n > 0 -%}{{ games_n }}{%- endif -%}</td>
       <td>{%- if movies_n > 0 -%}{{ movies_n }}{%- endif -%}</td>
+      <td>{%- if shows_n > 0 -%}{{ shows_n }}{%- endif -%}</td>
       <td>{%- if travels_n > 0 -%}{{ travels_n }}{%- endif -%}</td>
       <td>{%- if posts_n > 0 -%}{{ posts_n }}{%- endif -%}</td>
     </tr>
@@ -70,9 +85,12 @@
     <tr>
       <th>Total</th>
       <th>{{ books_total }}</th>
+      <th>{{ manga_total }}</th>
       <th>{{ music_total }}</th>
+      <th>{{ singles_total }}</th>
       <th>{{ games_total }}</th>
       <th>{{ movies_total }}</th>
+      <th>{{ shows_total }}</th>
       <th>{{ travels_total }}</th>
       <th>{{ posts_total }}</th>
     </tr>

@@ -1,9 +1,13 @@
 {%- assign stats_count = 0 -%}
 {%- assign want = include.year | append: "" -%}
+{%- assign filter_entries = false -%}
+{%- if include.skip_subtitle or include.only_subtitle or include.unique_key or include.only_manga or include.exclude_manga -%}
+  {%- assign filter_entries = true -%}
+{%- endif -%}
 {%- for group in include.data.years -%}
   {%- assign have = group.label | append: "" -%}
   {%- if have == want -%}
-    {%- if include.skip_subtitle or include.unique_key -%}
+    {%- if filter_entries -%}
       {%- assign seen = "||" -%}
       {%- for entry in group.entries -%}
         {%- assign skip = false -%}
@@ -12,11 +16,28 @@
             {%- assign skip = true -%}
           {%- endif -%}
         {%- endif -%}
-        {%- comment -%}
-          Manga/comics: count the series once, only when the final volume is logged
-          (`series_final: true`). In-progress series (e.g. Rayearth, YuYu) stay at 0.
-        {%- endcomment -%}
+        {%- if include.only_subtitle -%}
+          {%- unless entry.subtitles and entry.subtitles contains include.only_subtitle -%}
+            {%- assign skip = true -%}
+          {%- endunless -%}
+        {%- endif -%}
+        {%- assign is_manga = false -%}
         {%- if entry.genres contains "manga" or entry.genres contains "comics" -%}
+          {%- assign is_manga = true -%}
+        {%- endif -%}
+        {%- if include.only_manga -%}
+          {%- unless is_manga -%}
+            {%- assign skip = true -%}
+          {%- endunless -%}
+        {%- elsif include.exclude_manga -%}
+          {%- if is_manga -%}
+            {%- assign skip = true -%}
+          {%- endif -%}
+        {%- elsif is_manga -%}
+          {%- comment -%}
+            Default books bucket (legacy): count a manga/comics series once, only when
+            the final volume is logged (`series_final: true`).
+          {%- endcomment -%}
           {%- unless entry.series_final -%}
             {%- assign skip = true -%}
           {%- endunless -%}

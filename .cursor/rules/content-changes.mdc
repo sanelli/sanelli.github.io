@@ -30,7 +30,7 @@ For multi-volume manga, comics, or anime-related book entries, **always** set an
 - Prefer a local file under `assets/images/covers/` named with series + volume (e.g. `/assets/images/covers/pretty-guardian-sailor-moon-vol-07.jpg`, `/assets/images/covers/magic-knight-rayearth-part2-book1.jpg`).
 - Verify the image shows the correct volume number / part label before wiring it in.
 
-- Books: `authors: [{name, url}]`, `language`. Manga/comics (multi-volume): same `title` for every volume, volume label in `subtitles` (e.g. Sailor Moon, Magic Knight Rayearth). Yearly “books read” stats **include** manga/comics, but **only the final volume** counts (+1 that year): set `series_final: true` on the last volume/chapter when the series is finished. In-progress series (e.g. Magic Knight Rayearth, YuYu Hakusho) must not set `series_final`, so they add 0 until done. Single-volume manga/comics that are complete also get `series_final: true`.
+- Books: `authors: [{name, url}]`, `language`. Manga/comics (multi-volume): same `title` for every volume, volume label in `subtitles` (e.g. Sailor Moon, Magic Knight Rayearth). On `/stats/`, prose books and manga/comics are separate columns: **Books read** excludes manga/comics; **Manga read** counts every manga/comics volume logged that year (in-progress series included). Still set `series_final: true` on the last volume/chapter when a series is finished (and on complete single-volume manga/comics) so finished series stay marked in the data.
 - Music: `artists: [{name, url}]`. Mark singles with `subtitles: [Single]` (shown on the list, skipped in yearly stats).
 - Movies: `creators: [{name, url}]` (director), `language`
 - Games: `developers`, `publishers`, `console: {name, url}`. Same title with ending names in `subtitles` counts as one game in stats. Give DLC its own title (or `subtitles: [DLC]`) so it counts as a different game.
@@ -79,7 +79,7 @@ New mark: `<symbol id="icon-NAME" viewBox="0 0 24 24">` in `_includes/icons.svg`
 
 Give it an unused color in `assets/main.scss` next to the other `.icon.icon-*` rules.
 
-Taken: mappa `#2dd4bf`, todo `#f4b942`, prettycode `#a78bfa`, blocchi `#60a5fa`, fifteen `#fb923c`, tictactoe `#fb7185`, connectfour `#facc15`, turing `#ef4444`, brainfuck `#e879f9`, eml `#34d399`, treeshade `#4ade80`, website `#f43f5e`, portfolio-in-posts `#22c55e`, music-in-posts `#f472b6`, pencil-in-posts `#e07a5f`, games-in-posts `#ef4444`, travels-in-posts `#38bdf8`, spotify `#1ed760`, youtube-music `#ff0033`, apple-music `#fc3c44`.
+Taken: mappa `#2dd4bf`, todo `#f4b942`, prettycode `#a78bfa`, blocchi `#60a5fa`, fifteen `#fb923c`, tictactoe `#fb7185`, connectfour `#facc15`, turing `#ef4444`, brainfuck `#e879f9`, eml `#34d399`, treeshade `#4ade80`, website `#f43f5e`, portfolio-in-posts `#22c55e`, music-in-posts `#f472b6`, pencil-in-posts `#e07a5f`, games-in-posts `#ef4444`, travels-in-posts `#a16207`, spotify `#1ed760`, youtube-music `#ff0033`, apple-music `#fc3c44`.
 
 - Project / global: `.icon.icon-NAME { color: #...; }`
 - Post-only (keep nav / section heading brand): `.layout-post .post-title .icon.icon-NAME, .post-link .icon.icon-NAME` (or `.post-title` / `.post-link` when that icon is never used as a section heading). Games is post-only red; the Games page heading and nav Games icon stay brand blue.
@@ -89,4 +89,4 @@ Taken: mappa `#2dd4bf`, todo `#f4b942`, prettycode `#a78bfa`, blocchi `#60a5fa`,
 
 The header marks the active section with `page-link--{icon} is-current` and a 2px inset underline in that section’s accent. Wire via `_includes/header.html` + `include_cached header.html current_url=page.url` in `_layouts/default.html` (the `current_url` param is required so the cached header differs per page).
 
-Underline accents (do not reuse casually): Career/work `#818cf8`, Portfolio `#22c55e`, Posts `#fb923c`, Books `#14b8a6`, Music `#f472b6`, Movies `#c084fc`, Games `#ef4444`, Theater `#fbbf24`, Travels `#38bdf8`.
+Underline accents (do not reuse casually): Career/work `#818cf8`, Portfolio `#22c55e`, Posts `#fb923c`, Books `#fbbf24`, Music `#f472b6`, Movies `#c084fc`, Games `#ef4444`, Theater `#10b981`, Travels `#a16207`.

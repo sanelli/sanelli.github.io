@@ -2,7 +2,7 @@
 layout: page
 title: Stats
 icon: stats
-description: Yearly counts of books, music, games, movies, and travels.
+description: Yearly counts of books, manga, music, singles, games, movies, shows, and travels.
 permalink: /stats/
 sitemap: false
 countries_map: true
