@@ -79,7 +79,7 @@ New mark: `<symbol id="icon-NAME" viewBox="0 0 24 24">` in `_includes/icons.svg`
 
 Give it an unused color in `assets/main.scss` next to the other `.icon.icon-*` rules.
 
-Taken: mappa `#2dd4bf`, todo `#f4b942`, prettycode `#a78bfa`, blocchi `#60a5fa`, fifteen `#fb923c`, tictactoe `#fb7185`, connectfour `#facc15`, turing `#ef4444`, brainfuck `#e879f9`, eml `#34d399`, treeshade `#4ade80`, website `#f43f5e`, portfolio-in-posts `#22c55e`, music-in-posts `#f472b6`, pencil-in-posts `#e07a5f`, games-in-posts `#ef4444`, travels-in-posts `#a16207`, spotify `#1ed760`, youtube-music `#ff0033`, apple-music `#fc3c44`.
+Taken: mappa `#2dd4bf`, todo `#f4b942`, prettycode `#a78bfa`, blocchi `#60a5fa`, fifteen `#fb923c`, tictactoe `#fb7185`, connectfour `#facc15`, turing `#ef4444`, brainfuck `#e879f9`, eml `#34d399`, lovelace `#38bdf8`, libadalang-tools `#fbbf24`, treeshade `#4ade80`, website `#f43f5e`, portfolio-in-posts `#22c55e`, music-in-posts `#f472b6`, pencil-in-posts `#e07a5f`, games-in-posts `#ef4444`, travels-in-posts `#a16207`, spotify `#1ed760`, youtube-music `#ff0033`, apple-music `#fc3c44`.
 
 - Project / global: `.icon.icon-NAME { color: #...; }`
 - Post-only (keep nav / section heading brand): `.layout-post .post-title .icon.icon-NAME, .post-link .icon.icon-NAME` (or `.post-title` / `.post-link` when that icon is never used as a section heading). Games is post-only red; the Games page heading and nav Games icon stay brand blue.

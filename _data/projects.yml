@@ -22,6 +22,26 @@
       url: https://github.com/sanelli/Mappa/releases/tag/v11.0.1
   tags: [C#, source-generator, csharp, dotnet]
 
+- slug: lovelace
+  section: flagship
+  category: lovelace
+  icon: lovelace
+  name: Lovelace
+  why: A Pascal / Ada–family language that compiles to WebAssembly — very much a work in progress.
+  description: >
+    Early days. A new programming language in the Pascal / Ada / Delphi family,
+    with a compiler and toolchain written in [Ada](https://ada-lang.io) and built
+    with [Alire](https://alire.ada.dev). Lovelace source becomes WebAssembly
+    components (`.wasm`), optional WAT, and companion WIT files; a CLI drives
+    build and run, with a planned JIT over Wasmtime. The standard library is
+    Augusta, packages are Hypatia, documentation is Alexandria. Usable today for
+    a minimal empty-body path to a Wasm component — everything else is still
+    taking shape.
+  links:
+    - text: GitHub
+      url: https://github.com/sanelli/lovelace
+  tags: [ada, Alire, compiler, wasm, language]
+
 - slug: todo-analyzer
   section: libraries
   category: todo
@@ -62,6 +82,28 @@
     - text: Release 1.0.0
       url: https://github.com/sanelli/PrettyCode.StringBuilder/releases/tag/v1.0.0
   tags: [C#, csharp, dotnet]
+
+- slug: libadalang-tools-dist
+  section: libraries
+  category: libadalang-tools-dist
+  icon: libadalang-tools
+  name: libadalang_tools-dist
+  why: Prebuilt gnatmetric (and friends) for CI, so you do not rebuild Libadalang on every workflow.
+  description: >
+    Binary distributions of
+    [libadalang_tools](https://alire.ada.dev/crates/libadalang_tools) for GitHub
+    Actions. A build matrix (Alire × libadalang_tools × GNAT native × runner ×
+    arch) publishes zip releases; a composite action downloads the matching
+    asset so consumers can run `gnatmetric` without compiling Libadalang from
+    scratch. Currently ships
+    `libadalang_tools` 26.0.0 on `ubuntu-26.04` / `x86_64` (GNAT 15.2.1, Alire
+    2.1.0); more combinations can be added to the matrix when needed.
+  links:
+    - text: GitHub
+      url: https://github.com/sanelli/libadalang_tools-dist
+    - text: Release v1.0
+      url: https://github.com/sanelli/libadalang_tools-dist/releases/tag/v1.0
+  tags: [ada, Alire, github-actions, gnatmetric, ci]
 
 - slug: treeshade
   section: plugin
